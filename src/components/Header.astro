@@ -1,0 +1,260 @@
+---
+const navLinks = [
+  { label: 'Home', href: '/' },
+  { label: 'Services', href: '/services' },
+  { label: 'Markets', href: '/markets' },
+  { label: 'About', href: '/about' },
+  { label: 'Blog', href: '/blog' },
+  { label: 'Contact', href: '/contact' },
+];
+
+const alloyFamilies = [
+  { name: 'Titanium', href: '/alloys/titanium', desc: 'Grades 1–38, Ti-6Al-4V, ELI grades', icon: '⬡' },
+  { name: 'Nickel Alloys', href: '/alloys/nickel', desc: 'Inconel, Hastelloy, Waspaloy', icon: '◈' },
+  { name: 'Stainless Steel', href: '/alloys/stainless-steel', desc: '300/400 series, duplex, precipitation hardening', icon: '◇' },
+  { name: 'Aluminum', href: '/alloys/aluminum', desc: '2000, 6000, 7000 series', icon: '△' },
+  { name: 'Carbon Steel', href: '/alloys/carbon-steel', desc: 'Tool steel, alloy steel, structural', icon: '□' },
+  { name: 'Cobalt Chrome', href: '/alloys/cobalt-chrome', desc: 'L-605, MP35N, Stellite grades', icon: '◎' },
+];
+---
+
+<header id="site-header" style="position: fixed; top: 0; left: 0; right: 0; z-index: 50; background-color: #1b2060; border-bottom: 1px solid rgba(255,255,255,0.1); transition: all 0.3s ease;">
+  <div style="max-width: 1280px; margin: 0 auto; padding: 0 1.5rem;">
+    <div style="display: flex; align-items: center; justify-content: space-between; height: 72px;">
+
+      <!-- Logo -->
+      <a href="/" style="text-decoration: none; flex-shrink: 0;">
+        <div style="display: flex; align-items: center; gap: 12px;">
+          <!-- Logo mark: silver/white Ti on navy -->
+          <div style="width: 40px; height: 40px; background: #ffffff; border-radius: 6px; display: flex; align-items: center; justify-content: center; font-weight: 900; font-size: 1.1rem; color: #1b2060; flex-shrink: 0;">
+            Ti
+          </div>
+          <div style="line-height: 1.1;">
+            <div style="font-size: 1.1rem; font-weight: 800; letter-spacing: 0.08em; color: #ffffff; font-family: 'Inter', sans-serif;">TITANIUM</div>
+            <div style="font-size: 0.6rem; font-weight: 500; letter-spacing: 0.15em; color: #94a3b8; text-transform: uppercase;">INDUSTRIES, INC.</div>
+          </div>
+        </div>
+      </a>
+
+      <!-- Desktop Nav -->
+      <nav id="desktop-nav" style="display: flex; align-items: center; gap: 0.25rem;">
+
+        <!-- Alloys mega-menu trigger -->
+        <div class="mega-menu-wrapper" style="position: relative;">
+          <button
+            id="alloys-trigger"
+            aria-expanded="false"
+            aria-haspopup="true"
+            style="display: flex; align-items: center; gap: 0.375rem; padding: 0.5rem 0.875rem; font-size: 0.875rem; font-weight: 500; color: #cbd5e1; background: none; border: none; cursor: pointer; border-radius: 6px; transition: color 0.2s, background 0.2s; white-space: nowrap;"
+            onmouseenter="this.style.color='#ffffff'; this.style.background='rgba(255,255,255,0.08)'"
+            onmouseleave="this.style.color='#cbd5e1'; this.style.background='transparent'"
+          >
+            Alloys
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" id="alloys-chevron" style="transition: transform 0.2s;">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </button>
+
+          <!-- Mega dropdown -->
+          <div
+            id="alloys-dropdown"
+            style="display: none; position: absolute; top: calc(100% + 12px); left: 50%; transform: translateX(-50%); width: 580px; background: #1b2060; border: 1px solid rgba(255,255,255,0.15); border-radius: 12px; box-shadow: 0 24px 64px rgba(0,0,0,0.4); padding: 1.5rem; z-index: 100;"
+          >
+            <div style="font-size: 0.7rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: #94a3b8; margin-bottom: 1rem; padding-bottom: 0.75rem; border-bottom: 1px solid rgba(255,255,255,0.1);">
+              Alloy Families
+            </div>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem;">
+              {alloyFamilies.map(alloy => (
+                <a
+                  href={alloy.href}
+                  style="display: flex; align-items: flex-start; gap: 0.875rem; padding: 0.875rem; border-radius: 8px; border: 1px solid transparent; text-decoration: none; transition: all 0.2s;"
+                  onmouseenter="this.style.background='rgba(255,255,255,0.08)'; this.style.borderColor='rgba(255,255,255,0.2)'"
+                  onmouseleave="this.style.background='transparent'; this.style.borderColor='transparent'"
+                >
+                  <div style="font-size: 1.25rem; flex-shrink: 0; width: 28px; text-align: center; color: #93c5fd; margin-top: 1px;">{alloy.icon}</div>
+                  <div>
+                    <div style="font-size: 0.875rem; font-weight: 600; color: #ffffff; margin-bottom: 0.2rem;">{alloy.name}</div>
+                    <div style="font-size: 0.75rem; color: #94a3b8; line-height: 1.4;">{alloy.desc}</div>
+                  </div>
+                </a>
+              ))}
+            </div>
+            <div style="margin-top: 1rem; padding-top: 1rem; border-top: 1px solid rgba(255,255,255,0.08); text-align: center;">
+              <a href="/alloys" style="font-size: 0.8rem; color: #93c5fd; text-decoration: none; font-weight: 500;"
+                onmouseenter="this.style.textDecoration='underline'"
+                onmouseleave="this.style.textDecoration='none'"
+              >
+                View all alloys & grades →
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Regular nav links -->
+        {navLinks.map(link => (
+          <a
+            href={link.href}
+            style="padding: 0.5rem 0.875rem; font-size: 0.875rem; font-weight: 500; color: #cbd5e1; text-decoration: none; border-radius: 6px; transition: color 0.2s, background 0.2s; white-space: nowrap;"
+            onmouseenter="this.style.color='#ffffff'; this.style.background='rgba(255,255,255,0.08)'"
+            onmouseleave="this.style.color='#cbd5e1'; this.style.background='transparent'"
+          >
+            {link.label}
+          </a>
+        ))}
+      </nav>
+
+      <!-- Right side: CTA + Mobile button -->
+      <div style="display: flex; align-items: center; gap: 0.75rem;">
+        <a
+          href="/contact"
+          id="header-cta"
+          style="padding: 0.5rem 1.25rem; background: #ffffff; color: #1b2060; font-size: 0.875rem; font-weight: 700; border-radius: 6px; text-decoration: none; transition: all 0.2s; white-space: nowrap;"
+          onmouseenter="this.style.background='#e0e7ff'; this.style.transform='translateY(-1px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.2)'"
+          onmouseleave="this.style.background='#ffffff'; this.style.transform='translateY(0)'; this.style.boxShadow='none'"
+        >
+          Request Quote
+        </a>
+
+        <!-- Mobile hamburger -->
+        <button
+          id="mobile-menu-btn"
+          aria-label="Toggle mobile menu"
+          style="display: none; flex-direction: column; gap: 5px; padding: 8px; background: none; border: none; cursor: pointer;"
+        >
+          <span class="ham-line" style="display: block; width: 22px; height: 2px; background: #ffffff; border-radius: 2px; transition: all 0.3s;"></span>
+          <span class="ham-line" style="display: block; width: 22px; height: 2px; background: #ffffff; border-radius: 2px; transition: all 0.3s;"></span>
+          <span class="ham-line" style="display: block; width: 22px; height: 2px; background: #ffffff; border-radius: 2px; transition: all 0.3s;"></span>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Mobile Menu -->
+  <div
+    id="mobile-menu"
+    style="display: none; background: #142050; border-top: 1px solid rgba(255,255,255,0.1); padding: 1rem 1.5rem 1.5rem;"
+  >
+    <nav style="display: flex; flex-direction: column; gap: 0.25rem;">
+      <div style="padding: 0.75rem 0.5rem; font-size: 0.7rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: #64748b;">
+        Navigation
+      </div>
+      <a href="/" style="padding: 0.75rem 0.5rem; font-size: 0.95rem; color: #f0f4ff; text-decoration: none; border-radius: 6px;"
+        onmouseenter="this.style.background='rgba(255,255,255,0.08)'"
+        onmouseleave="this.style.background='transparent'"
+      >Home</a>
+      <div style="padding: 0.75rem 0.5rem; font-size: 0.7rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: #64748b; margin-top: 0.5rem;">
+        Alloys
+      </div>
+      {alloyFamilies.map(alloy => (
+        <a href={alloy.href} style="padding: 0.625rem 0.5rem 0.625rem 1.25rem; font-size: 0.9rem; color: #94a3b8; text-decoration: none; border-radius: 6px;"
+          onmouseenter="this.style.color='#ffffff'; this.style.background='rgba(255,255,255,0.08)'"
+          onmouseleave="this.style.color='#94a3b8'; this.style.background='transparent'"
+        >{alloy.name}</a>
+      ))}
+      {navLinks.map(link => (
+        <a href={link.href} style="padding: 0.75rem 0.5rem; font-size: 0.95rem; color: #f0f4ff; text-decoration: none; border-radius: 6px;"
+          onmouseenter="this.style.background='rgba(255,255,255,0.08)'"
+          onmouseleave="this.style.background='transparent'"
+        >{link.label}</a>
+      ))}
+      <a href="/contact" style="margin-top: 1rem; padding: 0.875rem; background: #ffffff; color: #1b2060; font-weight: 700; border-radius: 8px; text-decoration: none; text-align: center; font-size: 0.95rem;">
+        Request a Quote
+      </a>
+    </nav>
+  </div>
+</header>
+
+<!-- Spacer for fixed header -->
+<div style="height: 72px;"></div>
+
+<style>
+  @media (max-width: 900px) {
+    #desktop-nav { display: none !important; }
+    #header-cta { display: none !important; }
+    #mobile-menu-btn { display: flex !important; }
+  }
+</style>
+
+<script>
+  // Mega menu toggle
+  const trigger = document.getElementById('alloys-trigger');
+  const dropdown = document.getElementById('alloys-dropdown');
+  const chevron = document.getElementById('alloys-chevron');
+  const wrapper = trigger?.closest('.mega-menu-wrapper');
+
+  let menuOpen = false;
+
+  function openMenu() {
+    if (dropdown && chevron && trigger) {
+      dropdown.style.display = 'block';
+      chevron.style.transform = 'rotate(180deg)';
+      trigger.setAttribute('aria-expanded', 'true');
+      menuOpen = true;
+    }
+  }
+
+  function closeMenu() {
+    if (dropdown && chevron && trigger) {
+      dropdown.style.display = 'none';
+      chevron.style.transform = 'rotate(0deg)';
+      trigger.setAttribute('aria-expanded', 'false');
+      menuOpen = false;
+    }
+  }
+
+  trigger?.addEventListener('click', () => {
+    menuOpen ? closeMenu() : openMenu();
+  });
+
+  // Close on outside click
+  document.addEventListener('click', (e) => {
+    if (wrapper && !wrapper.contains(e.target as Node)) {
+      closeMenu();
+    }
+  });
+
+  // Close on Escape
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') closeMenu();
+  });
+
+  // Mobile menu
+  const mobileBtn = document.getElementById('mobile-menu-btn');
+  const mobileMenu = document.getElementById('mobile-menu');
+  const hamLines = document.querySelectorAll('.ham-line');
+  let mobileOpen = false;
+
+  mobileBtn?.addEventListener('click', () => {
+    mobileOpen = !mobileOpen;
+    if (mobileMenu) {
+      mobileMenu.style.display = mobileOpen ? 'block' : 'none';
+    }
+    // Animate hamburger to X
+    if (hamLines.length === 3) {
+      const lines = hamLines as NodeListOf<HTMLElement>;
+      if (mobileOpen) {
+        lines[0].style.transform = 'rotate(45deg) translate(5px, 5px)';
+        lines[1].style.opacity = '0';
+        lines[2].style.transform = 'rotate(-45deg) translate(5px, -5px)';
+      } else {
+        lines[0].style.transform = 'none';
+        lines[1].style.opacity = '1';
+        lines[2].style.transform = 'none';
+      }
+    }
+  });
+
+  // Scroll shadow effect
+  const header = document.getElementById('site-header');
+  window.addEventListener('scroll', () => {
+    if (header) {
+      if (window.scrollY > 20) {
+        header.style.boxShadow = '0 4px 24px rgba(0,0,0,0.3)';
+        header.style.borderBottomColor = 'rgba(255,255,255,0.08)';
+      } else {
+        header.style.boxShadow = 'none';
+        header.style.borderBottomColor = 'rgba(255,255,255,0.1)';
+      }
+    }
+  });
+</script>

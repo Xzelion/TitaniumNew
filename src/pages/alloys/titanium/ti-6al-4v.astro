@@ -1,0 +1,332 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+
+const mechanicalProps = [
+  { property: 'Ultimate Tensile Strength', value: '130 ksi min', metric: '896 MPa min', condition: 'Annealed' },
+  { property: 'Yield Strength (0.2% offset)', value: '120 ksi min', metric: '827 MPa min', condition: 'Annealed' },
+  { property: 'Elongation in 4D', value: '10% min', metric: '10% min', condition: 'Annealed' },
+  { property: 'Reduction in Area', value: '25% min', metric: '25% min', condition: 'Annealed' },
+  { property: 'Hardness', value: '36 HRC max', metric: '36 HRC max', condition: 'All conditions' },
+  { property: 'Density', value: '0.160 lb/in³', metric: '4.43 g/cm³', condition: '—' },
+  { property: 'Modulus of Elasticity', value: '16.5 × 10⁶ psi', metric: '114 GPa', condition: '—' },
+];
+
+const chemicalComp = [
+  { element: 'Aluminum (Al)', min: '5.50%', max: '6.75%', nominal: '6.00%' },
+  { element: 'Vanadium (V)', min: '3.50%', max: '4.50%', nominal: '4.00%' },
+  { element: 'Iron (Fe)', min: '—', max: '0.30%', nominal: '<0.30%' },
+  { element: 'Oxygen (O)', min: '—', max: '0.20%', nominal: '<0.20%' },
+  { element: 'Carbon (C)', min: '—', max: '0.08%', nominal: '<0.08%' },
+  { element: 'Nitrogen (N)', min: '—', max: '0.05%', nominal: '<0.05%' },
+  { element: 'Hydrogen (H)', min: '—', max: '0.015%', nominal: '<0.015%' },
+  { element: 'Other (each)', min: '—', max: '0.10%', nominal: '<0.10%' },
+  { element: 'Other (total)', min: '—', max: '0.40%', nominal: '<0.40%' },
+  { element: 'Titanium (Ti)', min: 'Balance', max: 'Balance', nominal: 'Balance' },
+];
+
+const availableForms = [
+  { form: 'Bar & Billet', sizes: '0.125" – 8.000" diameter', specs: 'AMS 4928, AMS 6931' },
+  { form: 'Plate', sizes: '0.250" – 4.000" thick', specs: 'AMS 4928, ASTM B265' },
+  { form: 'Sheet', sizes: '0.020" – 0.249" thick', specs: 'AMS 4928, ASTM B265' },
+  { form: 'Seamless Tube', sizes: '0.375" – 4.000" OD', specs: 'AMS 4943, ASTM B338' },
+  { form: 'Forgings', sizes: 'Custom configurations', specs: 'AMS 4928, AMS 4935' },
+  { form: 'Wire', sizes: '0.020" – 0.250" diameter', specs: 'AMS 4954' },
+];
+
+const relatedAlloys = [
+  { name: 'Ti-6Al-4V ELI (Grade 23)', href: '/alloys/titanium/grade-23', note: 'Medical/surgical applications' },
+  { name: 'Ti-3Al-2.5V (Grade 9)', href: '/alloys/titanium/grade-9', note: 'Hydraulic tubing applications' },
+  { name: 'CP Grade 4', href: '/alloys/titanium/grade-4', note: 'Maximum corrosion resistance' },
+  { name: 'Ti-6Al-2Sn-4Zr-2Mo', href: '/alloys/titanium/ti-6242', note: 'Elevated temperature service' },
+];
+---
+
+<Layout
+  title="Ti-6Al-4V Grade 5 (R56400) — AMS 4928 Titanium"
+  description="Ti-6Al-4V (Grade 5, UNS R56400) data sheet. AMS 4928 mechanical properties, chemical composition, available forms, and specifications for the most widely used titanium alloy."
+>
+
+  <!-- Hero -->
+  <section style="background: linear-gradient(135deg, #1b2060 0%, #142050 60%, #1b2060 100%); padding: 4rem 0 3rem; position: relative; overflow: hidden;">
+    <div style="position: absolute; inset: 0; pointer-events: none; background-image: linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px); background-size: 60px 60px;"></div>
+
+    <div style="max-width: 1280px; margin: 0 auto; padding: 0 1.5rem; position: relative;">
+      <!-- Breadcrumb -->
+      <nav style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 2rem; font-size: 0.8rem; flex-wrap: wrap;">
+        <a href="/" style="color: #64748b; text-decoration: none;"
+          onmouseenter="this.style.color='#94a3b8'"
+          onmouseleave="this.style.color='#64748b'"
+        >Home</a>
+        <span style="color: #64748b;">/</span>
+        <a href="/alloys" style="color: #64748b; text-decoration: none;"
+          onmouseenter="this.style.color='#94a3b8'"
+          onmouseleave="this.style.color='#64748b'"
+        >Alloys</a>
+        <span style="color: #64748b;">/</span>
+        <a href="/alloys/titanium" style="color: #64748b; text-decoration: none;"
+          onmouseenter="this.style.color='#94a3b8'"
+          onmouseleave="this.style.color='#64748b'"
+        >Titanium</a>
+        <span style="color: #64748b;">/</span>
+        <span style="color: #93c5fd;">Ti-6Al-4V</span>
+      </nav>
+
+      <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 1.5rem; margin-bottom: 0.75rem;">
+        <div>
+          <div style="display: flex; flex-wrap: wrap; gap: 0.625rem; margin-bottom: 1rem;">
+            <span style="padding: 0.3rem 0.875rem; background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.25); border-radius: 4px; font-size: 0.75rem; font-weight: 700; color: #e2e8f0; font-family: monospace;">UNS R56400</span>
+            <span style="padding: 0.3rem 0.875rem; background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.25); border-radius: 4px; font-size: 0.75rem; font-weight: 700; color: #e2e8f0; font-family: monospace;">AMS 4928</span>
+            <span style="padding: 0.3rem 0.875rem; background: rgba(16,185,129,0.12); border: 1px solid rgba(16,185,129,0.3); border-radius: 4px; font-size: 0.75rem; font-weight: 700; color: #10b981;">Alpha-Beta Alloy</span>
+            <span style="padding: 0.3rem 0.875rem; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.2); border-radius: 4px; font-size: 0.7rem; font-weight: 700; color: #e2e8f0; letter-spacing: 0.05em; text-transform: uppercase;">Most Popular</span>
+          </div>
+          <h1 style="font-size: clamp(1.75rem, 4vw, 3rem); font-weight: 900; color: #ffffff; line-height: 1.1; margin-bottom: 0.75rem;">
+            Ti-6Al-4V
+            <span style="font-size: 0.6em; font-weight: 500; color: #cbd5e1; display: block; margin-top: 0.25rem;">Grade 5 Titanium Alloy</span>
+          </h1>
+          <p style="font-size: 1rem; color: #cbd5e1; max-width: 680px; line-height: 1.7;">
+            The world's most widely used titanium alloy, accounting for over 50% of global titanium consumption. Exceptional strength-to-weight ratio, outstanding corrosion resistance, and good weldability make it the aerospace industry standard.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Divider -->
+  <div style="height: 1px; background: linear-gradient(90deg, transparent, #e2e8f0, transparent);"></div>
+
+  <!-- Main content + sidebar -->
+  <section style="background: #ffffff; padding: 4rem 0;">
+    <div style="max-width: 1280px; margin: 0 auto; padding: 0 1.5rem;">
+      <div style="display: grid; grid-template-columns: 1fr 320px; gap: 3rem; align-items: start;">
+
+        <!-- Main content -->
+        <div>
+
+          <!-- Description -->
+          <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 2rem; margin-bottom: 2rem; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
+            <h2 style="font-size: 1.25rem; font-weight: 800; color: #1f2937; margin-bottom: 1rem; display: flex; align-items: center; gap: 0.75rem;">
+              <span style="width: 3px; height: 1.25rem; background: #003366; display: inline-block; border-radius: 2px;"></span>
+              Description & Overview
+            </h2>
+            <div class="prose">
+              <p>Ti-6Al-4V is an alpha-beta titanium alloy with a composition of approximately 6% aluminum and 4% vanadium, with the remainder being titanium. The aluminum acts as an alpha stabilizer, while the vanadium acts as a beta stabilizer, resulting in a two-phase microstructure that can be heat treated to achieve a range of mechanical properties.</p>
+              <p>AMS 4928 is the primary aerospace specification covering bar, billet, and plate forms of Ti-6Al-4V. The alloy is used in the annealed condition for most aerospace applications, though it can be solution treated and aged to achieve higher strength levels.</p>
+              <p>The density of 4.43 g/cm³ is approximately 60% that of steel and 50% heavier than aluminum, yet it achieves strength levels comparable to many high-strength steels — making it the defining material for weight-critical structural applications.</p>
+            </div>
+          </div>
+
+          <!-- Mechanical Properties -->
+          <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 2rem; margin-bottom: 2rem; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
+            <h2 style="font-size: 1.25rem; font-weight: 800; color: #1f2937; margin-bottom: 1.5rem; display: flex; align-items: center; gap: 0.75rem;">
+              <span style="width: 3px; height: 1.25rem; background: #003366; display: inline-block; border-radius: 2px;"></span>
+              Mechanical Properties (AMS 4928 Minimums)
+            </h2>
+            <div style="overflow-x: auto;">
+              <table style="width: 100%; border-collapse: collapse; font-size: 0.875rem;">
+                <thead>
+                  <tr>
+                    <th style="background: #003366; color: #ffffff; font-weight: 700; padding: 0.75rem 1rem; text-align: left; border: 1px solid #e2e8f0; font-size: 0.75rem; letter-spacing: 0.04em;">Property</th>
+                    <th style="background: #003366; color: #ffffff; font-weight: 700; padding: 0.75rem 1rem; text-align: left; border: 1px solid #e2e8f0; font-size: 0.75rem; letter-spacing: 0.04em;">Imperial</th>
+                    <th style="background: #003366; color: #ffffff; font-weight: 700; padding: 0.75rem 1rem; text-align: left; border: 1px solid #e2e8f0; font-size: 0.75rem; letter-spacing: 0.04em;">Metric</th>
+                    <th style="background: #003366; color: #ffffff; font-weight: 700; padding: 0.75rem 1rem; text-align: left; border: 1px solid #e2e8f0; font-size: 0.75rem; letter-spacing: 0.04em;">Condition</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {mechanicalProps.map((row, i) => (
+                    <tr>
+                      <td style={`padding: 0.75rem 1rem; color: #1f2937; font-weight: 500; border: 1px solid #e2e8f0; ${i % 2 === 1 ? 'background: #f8f9fa;' : ''}`}>{row.property}</td>
+                      <td style={`padding: 0.75rem 1rem; color: #4b5563; font-family: monospace; border: 1px solid #e2e8f0; ${i % 2 === 1 ? 'background: #f8f9fa;' : ''}`}>{row.value}</td>
+                      <td style={`padding: 0.75rem 1rem; color: #4b5563; font-family: monospace; border: 1px solid #e2e8f0; ${i % 2 === 1 ? 'background: #f8f9fa;' : ''}`}>{row.metric}</td>
+                      <td style={`padding: 0.75rem 1rem; color: #64748b; font-size: 0.8rem; border: 1px solid #e2e8f0; ${i % 2 === 1 ? 'background: #f8f9fa;' : ''}`}>{row.condition}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+            <p style="font-size: 0.75rem; color: #64748b; margin-top: 0.75rem; font-style: italic;">
+              * Values represent minimum requirements per AMS 4928. Actual certified test results accompany each shipment.
+            </p>
+          </div>
+
+          <!-- Chemical Composition -->
+          <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 2rem; margin-bottom: 2rem; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
+            <h2 style="font-size: 1.25rem; font-weight: 800; color: #1f2937; margin-bottom: 1.5rem; display: flex; align-items: center; gap: 0.75rem;">
+              <span style="width: 3px; height: 1.25rem; background: #003366; display: inline-block; border-radius: 2px;"></span>
+              Chemical Composition (AMS 4928)
+            </h2>
+            <div style="overflow-x: auto;">
+              <table style="width: 100%; border-collapse: collapse; font-size: 0.875rem;">
+                <thead>
+                  <tr>
+                    <th style="background: #003366; color: #ffffff; font-weight: 700; padding: 0.75rem 1rem; text-align: left; border: 1px solid #e2e8f0; font-size: 0.75rem;">Element</th>
+                    <th style="background: #003366; color: #ffffff; font-weight: 700; padding: 0.75rem 1rem; text-align: center; border: 1px solid #e2e8f0; font-size: 0.75rem;">Min</th>
+                    <th style="background: #003366; color: #ffffff; font-weight: 700; padding: 0.75rem 1rem; text-align: center; border: 1px solid #e2e8f0; font-size: 0.75rem;">Max</th>
+                    <th style="background: #003366; color: #ffffff; font-weight: 700; padding: 0.75rem 1rem; text-align: center; border: 1px solid #e2e8f0; font-size: 0.75rem;">Nominal</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {chemicalComp.map((row, i) => (
+                    <tr>
+                      <td style={`padding: 0.75rem 1rem; color: #1f2937; font-weight: 500; border: 1px solid #e2e8f0; ${i % 2 === 1 ? 'background: #f8f9fa;' : ''}`}>{row.element}</td>
+                      <td style={`padding: 0.75rem 1rem; color: #4b5563; font-family: monospace; text-align: center; border: 1px solid #e2e8f0; ${i % 2 === 1 ? 'background: #f8f9fa;' : ''}`}>{row.min}</td>
+                      <td style={`padding: 0.75rem 1rem; color: #4b5563; font-family: monospace; text-align: center; border: 1px solid #e2e8f0; ${i % 2 === 1 ? 'background: #f8f9fa;' : ''}`}>{row.max}</td>
+                      <td style={`padding: 0.75rem 1rem; color: #003366; font-family: monospace; text-align: center; font-weight: 600; border: 1px solid #e2e8f0; ${i % 2 === 1 ? 'background: #f8f9fa;' : ''}`}>{row.nominal}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <!-- Available Forms -->
+          <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 2rem; margin-bottom: 2rem; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
+            <h2 style="font-size: 1.25rem; font-weight: 800; color: #1f2937; margin-bottom: 1.5rem; display: flex; align-items: center; gap: 0.75rem;">
+              <span style="width: 3px; height: 1.25rem; background: #003366; display: inline-block; border-radius: 2px;"></span>
+              Available Forms & Stock
+            </h2>
+            <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.875rem;">
+              {availableForms.map(item => (
+                <div style="background: #f8f9fa; border: 1px solid #e2e8f0; border-radius: 8px; padding: 1.125rem;">
+                  <div style="font-size: 0.9rem; font-weight: 700; color: #1f2937; margin-bottom: 0.35rem;">{item.form}</div>
+                  <div style="font-size: 0.8rem; color: #4b5563; margin-bottom: 0.35rem; font-family: monospace;">{item.sizes}</div>
+                  <div style="font-size: 0.725rem; color: #64748b;">{item.specs}</div>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          <!-- Applications -->
+          <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 2rem; margin-bottom: 2rem; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
+            <h2 style="font-size: 1.25rem; font-weight: 800; color: #1f2937; margin-bottom: 1.25rem; display: flex; align-items: center; gap: 0.75rem;">
+              <span style="width: 3px; height: 1.25rem; background: #003366; display: inline-block; border-radius: 2px;"></span>
+              Common Applications
+            </h2>
+            <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.625rem;">
+              {[
+                'Aerospace structural frames & bulkheads',
+                'Jet engine compressor blades & discs',
+                'Orthopedic implants & surgical instruments',
+                'Marine hardware & fasteners',
+                'High-performance sporting equipment',
+                'Automotive connecting rods & valves',
+                'Cryogenic pressure vessels',
+                'Chemical processing equipment',
+              ].map(app => (
+                <div style="display: flex; align-items: flex-start; gap: 0.5rem; padding: 0.625rem 0.875rem; background: #f8f9fa; border: 1px solid #e2e8f0; border-radius: 6px;">
+                  <span style="color: #003366; font-size: 0.7rem; margin-top: 3px; flex-shrink: 0;">▶</span>
+                  <span style="font-size: 0.85rem; color: #4b5563;">{app}</span>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          <!-- Specifications -->
+          <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 2rem; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
+            <h2 style="font-size: 1.25rem; font-weight: 800; color: #1f2937; margin-bottom: 1.25rem; display: flex; align-items: center; gap: 0.75rem;">
+              <span style="width: 3px; height: 1.25rem; background: #003366; display: inline-block; border-radius: 2px;"></span>
+              Related Specifications
+            </h2>
+            <div style="display: flex; flex-wrap: wrap; gap: 0.625rem;">
+              {['AMS 4928', 'AMS 4935', 'AMS 4967', 'AMS 6931', 'AMS 4943', 'AMS 4954', 'ASTM B265', 'ASTM B348', 'ASTM B338', 'MIL-T-9046', 'MIL-T-9047', 'DFARS 252.225-7014'].map(spec => (
+                <span style="padding: 0.375rem 0.875rem; background: rgba(0,51,102,0.05); border: 1px solid rgba(0,51,102,0.2); border-radius: 6px; font-size: 0.8rem; color: #003366; font-family: monospace; font-weight: 500; transition: all 0.2s; cursor: default;"
+                  onmouseenter="this.style.background='rgba(0,51,102,0.12)'; this.style.borderColor='rgba(0,51,102,0.4)'"
+                  onmouseleave="this.style.background='rgba(0,51,102,0.05)'; this.style.borderColor='rgba(0,51,102,0.2)'"
+                >
+                  {spec}
+                </span>
+              ))}
+            </div>
+          </div>
+
+        </div>
+
+        <!-- Sidebar -->
+        <div style="display: flex; flex-direction: column; gap: 1.25rem; position: sticky; top: 100px;">
+
+          <!-- RFQ Card -->
+          <div style="background: linear-gradient(135deg, #1b2060, #142050); border: 1px solid rgba(255,255,255,0.15); border-radius: 12px; padding: 1.75rem;">
+            <h3 style="font-size: 1rem; font-weight: 800; color: #ffffff; margin-bottom: 0.5rem;">Request a Quote</h3>
+            <p style="font-size: 0.8rem; color: #cbd5e1; margin-bottom: 1.25rem; line-height: 1.6;">
+              Get pricing on Ti-6Al-4V in any form, size, or quantity. Same-day quotes available.
+            </p>
+            <a href="/contact?alloy=Ti-6Al-4V" style="display: block; padding: 0.875rem; background: #ffffff; color: #1b2060; font-size: 0.9rem; font-weight: 800; border-radius: 8px; text-decoration: none; text-align: center; margin-bottom: 0.75rem; transition: all 0.2s;"
+              onmouseenter="this.style.background='#f0f4ff'"
+              onmouseleave="this.style.background='#ffffff'"
+            >
+              Request Quote
+            </a>
+            <a href="tel:+18005558482" style="display: block; padding: 0.75rem; background: transparent; color: #f0f4ff; font-size: 0.85rem; font-weight: 600; border-radius: 8px; text-decoration: none; text-align: center; border: 1.5px solid rgba(240,244,255,0.25); transition: all 0.2s;"
+              onmouseenter="this.style.borderColor='rgba(240,244,255,0.5)'"
+              onmouseleave="this.style.borderColor='rgba(240,244,255,0.25)'"
+            >
+              📞 Call Our Experts
+            </a>
+          </div>
+
+          <!-- Stock info -->
+          <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
+            <h3 style="font-size: 0.875rem; font-weight: 800; color: #1f2937; margin-bottom: 1rem; display: flex; align-items: center; gap: 0.5rem;">
+              <span style="width: 6px; height: 6px; background: #22c55e; border-radius: 50%; display: inline-block;"></span>
+              In Stock Now
+            </h3>
+            <div style="display: flex; flex-direction: column; gap: 0.5rem;">
+              {['Bar: 0.125"–8.000" dia', 'Plate: 0.250"–4.000"', 'Sheet: 0.020"–0.249"', 'Tube: 0.375"–4.000" OD'].map(item => (
+                <div style="display: flex; align-items: center; gap: 0.5rem; padding: 0.5rem 0.75rem; background: rgba(34,197,94,0.06); border-radius: 6px; border: 1px solid rgba(34,197,94,0.15);">
+                  <span style="color: #22c55e; font-size: 0.7rem;">✓</span>
+                  <span style="font-size: 0.8rem; color: #4b5563; font-family: monospace;">{item}</span>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          <!-- Certifications -->
+          <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
+            <h3 style="font-size: 0.875rem; font-weight: 800; color: #1f2937; margin-bottom: 1rem;">Certifications</h3>
+            <div style="display: flex; flex-direction: column; gap: 0.5rem;">
+              {['AS9100D Registered', 'ISO 9001:2015', 'DFARS Compliant', 'Full Mill Cert. on every order'].map(cert => (
+                <div style="display: flex; align-items: center; gap: 0.5rem;">
+                  <span style="color: #003366; font-size: 0.75rem; flex-shrink: 0;">◆</span>
+                  <span style="font-size: 0.8rem; color: #4b5563;">{cert}</span>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          <!-- Related alloys -->
+          <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
+            <h3 style="font-size: 0.875rem; font-weight: 800; color: #1f2937; margin-bottom: 1rem;">Related Alloys</h3>
+            <div style="display: flex; flex-direction: column; gap: 0.625rem;">
+              {relatedAlloys.map(alloy => (
+                <a href={alloy.href} style="display: block; padding: 0.75rem; background: #f8f9fa; border: 1px solid #e2e8f0; border-radius: 8px; text-decoration: none; transition: all 0.2s;"
+                  onmouseenter="this.style.borderColor='#003366'; this.style.background='rgba(0,51,102,0.04)'"
+                  onmouseleave="this.style.borderColor='#e2e8f0'; this.style.background='#f8f9fa'"
+                >
+                  <div style="font-size: 0.825rem; font-weight: 600; color: #1f2937; margin-bottom: 0.2rem;">{alloy.name}</div>
+                  <div style="font-size: 0.75rem; color: #64748b;">{alloy.note}</div>
+                </a>
+              ))}
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+</Layout>
+
+<style>
+  @media (max-width: 1024px) {
+    section > div > div[style*="grid-template-columns: 1fr 320px"] {
+      grid-template-columns: 1fr !important;
+    }
+    div[style*="position: sticky; top: 100px"] {
+      position: static !important;
+    }
+  }
+  @media (max-width: 640px) {
+    div[style*="grid-template-columns: repeat(2, 1fr)"] {
+      grid-template-columns: 1fr !important;
+    }
+  }
+</style>

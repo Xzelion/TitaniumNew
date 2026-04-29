@@ -1,0 +1,326 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const offices = [
+  { name: 'Rockaway, NJ — HQ', address: '18 Green Pond Road, Rockaway, NJ 07866', phone: '(973) 983-1185', email: 'info@titanium.com' },
+  { name: 'Jacksonville, FL', address: '5530 Florida Mining Blvd. South, Jacksonville, FL 32257', phone: '(904) 288-8300', email: 'jacksonville@titanium.com' },
+  { name: 'Garden Grove, CA', address: '7373 Hunt Avenue, Garden Grove, CA 92841', phone: '(714) 895-7756', email: 'gardgrove@titanium.com' },
+  { name: 'Plymouth, MI', address: '14555 Jib Street, Plymouth Township, MI 48170', phone: '(734) 335-2808', email: 'detroit@titanium.com' },
+  { name: 'Woodinville, WA', address: '16928 Woodinville-Redmond Rd NE, Suite B-201, Woodinville, WA 98072', phone: '(206) 271-6555', email: 'seattle@titanium.com' },
+  { name: 'Naperville, IL', address: '1250 E Diehl Road, Suite 301, Naperville, IL 60563', phone: '(630) 499-9140', email: 'naperville@titanium.com' },
+  { name: 'Tolland, CT', address: '362 Mile Hill Road, Tolland, CT 06084', phone: '(860) 870-3939', email: 'tolland@titanium.com' },
+  { name: 'Hillsboro, TX', address: '1450 North Waco Street, Hillsboro, TX 76645', phone: '(254) 580-2849', email: 'hillsboro@titanium.com' },
+  { name: 'St. Laurent, Canada', address: '127 Montee-de-Liesse, St. Laurent, QC H4T 1T9', phone: '(514) 334-6727', email: 'canada@titanium.com' },
+  { name: 'Birmingham, UK', address: 'Unit 38 Elmdon Trading Estate, Bickenhill Lane, Marston Green, Birmingham B37 7HE', phone: '+44 (0) 121 782 9708', email: 'uk@titanium.com' },
+  { name: 'Meerbusch, Germany', address: 'In der Loh 41, 40668 Meerbusch', phone: '+49 2132 5100 040', email: 'germany@titanium.com' },
+  { name: 'Shanghai, China', address: 'No. 120 Huasheng Road, Shanghai Waigaoqiao FTZ, Shanghai 200131', phone: '+86 21 5866-5266', email: 'china@titanium.com' },
+];
+
+const alloyOptions = [
+  'Titanium — Grade 1', 'Titanium — Grade 2', 'Titanium — Grade 4', 'Titanium — Ti-6Al-4V (Grade 5)',
+  'Titanium — Ti-6Al-4V ELI (Grade 23)', 'Titanium — Other Grade',
+  'Nickel — Inconel 625', 'Nickel — Inconel 718', 'Nickel — Hastelloy C-276', 'Nickel — Other',
+  'Stainless Steel — 304/304L', 'Stainless Steel — 316/316L', 'Stainless Steel — 17-4 PH', 'Stainless Steel — Other',
+  'Aluminum — 2024', 'Aluminum — 6061', 'Aluminum — 7075', 'Aluminum — Other',
+  'Carbon Steel — Other', 'Cobalt Chrome — L-605', 'Cobalt Chrome — MP35N', 'Other / Not Sure',
+];
+
+const formOptions = ['Round Bar', 'Flat Bar / Rectangular Bar', 'Plate', 'Sheet', 'Strip', 'Tube / Pipe', 'Wire', 'Forgings', 'Other'];
+---
+
+<Layout
+  title="Contact & Request a Quote"
+  description="Request a quote for specialty metals from Titanium Industries. 24-hour quote turnaround on titanium, nickel, stainless steel, aluminum, carbon steel, and cobalt chrome."
+>
+
+  <!-- Hero — dark navy -->
+  <section style="background: linear-gradient(135deg, #1b2060 0%, #142050 60%, #1b2060 100%); padding: 4rem 0 3rem; position: relative; overflow: hidden;">
+    <div style="position: absolute; inset: 0; pointer-events: none; background-image: linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px); background-size: 60px 60px;"></div>
+
+    <div style="max-width: 1280px; margin: 0 auto; padding: 0 1.5rem; position: relative;">
+      <nav style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 1.5rem; font-size: 0.8rem;">
+        <a href="/" style="color: #64748b; text-decoration: none;">Home</a>
+        <span style="color: #64748b;">/</span>
+        <span style="color: #93c5fd;">Contact & RFQ</span>
+      </nav>
+
+      <div style="display: grid; grid-template-columns: 1fr auto; align-items: start; gap: 2rem;">
+        <div>
+          <div style="display: inline-block; padding: 0.35rem 1rem; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.2); border-radius: 100px; font-size: 0.75rem; font-weight: 700; color: #e2e8f0; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 1.25rem;">
+            Get a Quote
+          </div>
+          <h1 style="font-size: clamp(2rem, 4vw, 3.25rem); font-weight: 900; color: #ffffff; margin-bottom: 1rem; line-height: 1.1;">
+            Request a Quote
+          </h1>
+          <p style="font-size: 1rem; color: #94a3b8; line-height: 1.7; max-width: 520px;">
+            Fill out the form below and a metals specialist will respond within 24 hours. For urgent requirements, call us directly at <a href="tel:+18884826486" style="color: #93c5fd; text-decoration: none; font-weight: 600;">1-888-482-6486</a>.
+          </p>
+        </div>
+        <!-- Response time badge -->
+        <div style="background: rgba(16,185,129,0.1); border: 1px solid rgba(16,185,129,0.3); border-radius: 12px; padding: 1.25rem 1.5rem; text-align: center; white-space: nowrap; flex-shrink: 0;">
+          <div style="font-size: 1.5rem; font-weight: 900; color: #10b981; line-height: 1; margin-bottom: 0.25rem;">&lt;24hr</div>
+          <div style="font-size: 0.75rem; color: #94a3b8; font-weight: 500;">Quote Turnaround</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Divider -->
+  <div style="height: 1px; background: linear-gradient(90deg, transparent, #e2e8f0, transparent);"></div>
+
+  <!-- Main content — white background -->
+  <section style="background: #ffffff; padding: 4rem 0;">
+    <div style="max-width: 1280px; margin: 0 auto; padding: 0 1.5rem;">
+      <div style="display: grid; grid-template-columns: 1fr 380px; gap: 3.5rem; align-items: start;">
+
+        <!-- RFQ Form -->
+        <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 2.5rem; box-shadow: 0 4px 24px rgba(0,0,0,0.04);">
+          <h2 style="font-size: 1.2rem; font-weight: 800; color: #1f2937; margin-bottom: 0.375rem;">Material Request Form</h2>
+          <p style="font-size: 0.85rem; color: #6b7280; margin-bottom: 2rem;">All fields marked * are required. We do not share your information with third parties.</p>
+
+          <form style="display: flex; flex-direction: column; gap: 1.5rem;" action="#" method="POST">
+
+            <!-- Contact info section -->
+            <div>
+              <div style="font-size: 0.7rem; font-weight: 800; letter-spacing: 0.1em; text-transform: uppercase; color: #003366; margin-bottom: 1rem; padding-bottom: 0.625rem; border-bottom: 1px solid #e2e8f0;">
+                Contact Information
+              </div>
+              <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
+                <div>
+                  <label style="display: block; font-size: 0.8rem; font-weight: 600; color: #4b5563; margin-bottom: 0.375rem;">Full Name *</label>
+                  <input type="text" name="name" required placeholder="John Smith"
+                    style="width: 100%; padding: 0.75rem 1rem; background: #ffffff; border: 1px solid #d1d5db; border-radius: 8px; color: #1f2937; font-size: 0.9rem; outline: none; transition: border-color 0.2s; font-family: 'Inter', sans-serif;"
+                    onfocus="this.style.borderColor='#003366'; this.style.boxShadow='0 0 0 3px rgba(0,51,102,0.08)'"
+                    onblur="this.style.borderColor='#d1d5db'; this.style.boxShadow='none'"
+                  />
+                </div>
+                <div>
+                  <label style="display: block; font-size: 0.8rem; font-weight: 600; color: #4b5563; margin-bottom: 0.375rem;">Company *</label>
+                  <input type="text" name="company" required placeholder="Acme Aerospace, Inc."
+                    style="width: 100%; padding: 0.75rem 1rem; background: #ffffff; border: 1px solid #d1d5db; border-radius: 8px; color: #1f2937; font-size: 0.9rem; outline: none; transition: border-color 0.2s; font-family: 'Inter', sans-serif;"
+                    onfocus="this.style.borderColor='#003366'; this.style.boxShadow='0 0 0 3px rgba(0,51,102,0.08)'"
+                    onblur="this.style.borderColor='#d1d5db'; this.style.boxShadow='none'"
+                  />
+                </div>
+                <div>
+                  <label style="display: block; font-size: 0.8rem; font-weight: 600; color: #4b5563; margin-bottom: 0.375rem;">Email Address *</label>
+                  <input type="email" name="email" required placeholder="john@example.com"
+                    style="width: 100%; padding: 0.75rem 1rem; background: #ffffff; border: 1px solid #d1d5db; border-radius: 8px; color: #1f2937; font-size: 0.9rem; outline: none; transition: border-color 0.2s; font-family: 'Inter', sans-serif;"
+                    onfocus="this.style.borderColor='#003366'; this.style.boxShadow='0 0 0 3px rgba(0,51,102,0.08)'"
+                    onblur="this.style.borderColor='#d1d5db'; this.style.boxShadow='none'"
+                  />
+                </div>
+                <div>
+                  <label style="display: block; font-size: 0.8rem; font-weight: 600; color: #4b5563; margin-bottom: 0.375rem;">Phone Number</label>
+                  <input type="tel" name="phone" placeholder="+1 (555) 000-0000"
+                    style="width: 100%; padding: 0.75rem 1rem; background: #ffffff; border: 1px solid #d1d5db; border-radius: 8px; color: #1f2937; font-size: 0.9rem; outline: none; transition: border-color 0.2s; font-family: 'Inter', sans-serif;"
+                    onfocus="this.style.borderColor='#003366'; this.style.boxShadow='0 0 0 3px rgba(0,51,102,0.08)'"
+                    onblur="this.style.borderColor='#d1d5db'; this.style.boxShadow='none'"
+                  />
+                </div>
+              </div>
+            </div>
+
+            <!-- Material requirements -->
+            <div>
+              <div style="font-size: 0.7rem; font-weight: 800; letter-spacing: 0.1em; text-transform: uppercase; color: #003366; margin-bottom: 1rem; padding-bottom: 0.625rem; border-bottom: 1px solid #e2e8f0;">
+                Material Requirements
+              </div>
+              <div style="display: flex; flex-direction: column; gap: 1rem;">
+                <div>
+                  <label style="display: block; font-size: 0.8rem; font-weight: 600; color: #4b5563; margin-bottom: 0.375rem;">Alloy / Material *</label>
+                  <select name="alloy" required
+                    style="width: 100%; padding: 0.75rem 1rem; background: #ffffff; border: 1px solid #d1d5db; border-radius: 8px; color: #1f2937; font-size: 0.9rem; outline: none; transition: border-color 0.2s; appearance: none; cursor: pointer; font-family: 'Inter', sans-serif;"
+                    onfocus="this.style.borderColor='#003366'; this.style.boxShadow='0 0 0 3px rgba(0,51,102,0.08)'"
+                    onblur="this.style.borderColor='#d1d5db'; this.style.boxShadow='none'"
+                  >
+                    <option value="" style="color: #6b7280;">Select an alloy...</option>
+                    {alloyOptions.map(opt => (
+                      <option value={opt}>{opt}</option>
+                    ))}
+                  </select>
+                </div>
+
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
+                  <div>
+                    <label style="display: block; font-size: 0.8rem; font-weight: 600; color: #4b5563; margin-bottom: 0.375rem;">Product Form *</label>
+                    <select name="form" required
+                      style="width: 100%; padding: 0.75rem 1rem; background: #ffffff; border: 1px solid #d1d5db; border-radius: 8px; color: #1f2937; font-size: 0.9rem; outline: none; transition: border-color 0.2s; appearance: none; cursor: pointer; font-family: 'Inter', sans-serif;"
+                      onfocus="this.style.borderColor='#003366'; this.style.boxShadow='0 0 0 3px rgba(0,51,102,0.08)'"
+                      onblur="this.style.borderColor='#d1d5db'; this.style.boxShadow='none'"
+                    >
+                      <option value="" style="color: #6b7280;">Select form...</option>
+                      {formOptions.map(opt => (
+                        <option value={opt}>{opt}</option>
+                      ))}
+                    </select>
+                  </div>
+                  <div>
+                    <label style="display: block; font-size: 0.8rem; font-weight: 600; color: #4b5563; margin-bottom: 0.375rem;">Quantity *</label>
+                    <input type="text" name="quantity" required placeholder='e.g., 500 lbs, 20 pieces'
+                      style="width: 100%; padding: 0.75rem 1rem; background: #ffffff; border: 1px solid #d1d5db; border-radius: 8px; color: #1f2937; font-size: 0.9rem; outline: none; transition: border-color 0.2s; font-family: 'Inter', sans-serif;"
+                      onfocus="this.style.borderColor='#003366'; this.style.boxShadow='0 0 0 3px rgba(0,51,102,0.08)'"
+                      onblur="this.style.borderColor='#d1d5db'; this.style.boxShadow='none'"
+                    />
+                  </div>
+                </div>
+
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
+                  <div>
+                    <label style="display: block; font-size: 0.8rem; font-weight: 600; color: #4b5563; margin-bottom: 0.375rem;">Size / Dimensions</label>
+                    <input type="text" name="dimensions" placeholder='e.g., 1.500" dia × 12" lg'
+                      style="width: 100%; padding: 0.75rem 1rem; background: #ffffff; border: 1px solid #d1d5db; border-radius: 8px; color: #1f2937; font-size: 0.9rem; outline: none; transition: border-color 0.2s; font-family: 'Inter', sans-serif;"
+                      onfocus="this.style.borderColor='#003366'; this.style.boxShadow='0 0 0 3px rgba(0,51,102,0.08)'"
+                      onblur="this.style.borderColor='#d1d5db'; this.style.boxShadow='none'"
+                    />
+                  </div>
+                  <div>
+                    <label style="display: block; font-size: 0.8rem; font-weight: 600; color: #4b5563; margin-bottom: 0.375rem;">Required Date</label>
+                    <input type="date" name="required_date"
+                      style="width: 100%; padding: 0.75rem 1rem; background: #ffffff; border: 1px solid #d1d5db; border-radius: 8px; color: #1f2937; font-size: 0.9rem; outline: none; transition: border-color 0.2s; font-family: 'Inter', sans-serif;"
+                      onfocus="this.style.borderColor='#003366'; this.style.boxShadow='0 0 0 3px rgba(0,51,102,0.08)'"
+                      onblur="this.style.borderColor='#d1d5db'; this.style.boxShadow='none'"
+                    />
+                  </div>
+                </div>
+
+                <div>
+                  <label style="display: block; font-size: 0.8rem; font-weight: 600; color: #4b5563; margin-bottom: 0.375rem;">Special Requirements / Notes</label>
+                  <textarea name="requirements" rows="4" placeholder="Specification requirements (AMS, ASTM, etc.), certifications needed, processing requirements, application details..."
+                    style="width: 100%; padding: 0.75rem 1rem; background: #ffffff; border: 1px solid #d1d5db; border-radius: 8px; color: #1f2937; font-size: 0.9rem; outline: none; transition: border-color 0.2s; resize: vertical; font-family: 'Inter', sans-serif; line-height: 1.5;"
+                    onfocus="this.style.borderColor='#003366'; this.style.boxShadow='0 0 0 3px rgba(0,51,102,0.08)'"
+                    onblur="this.style.borderColor='#d1d5db'; this.style.boxShadow='none'"
+                  ></textarea>
+                </div>
+
+                <!-- File upload placeholder -->
+                <div>
+                  <label style="display: block; font-size: 0.8rem; font-weight: 600; color: #4b5563; margin-bottom: 0.375rem;">Attach Drawing or Specification (optional)</label>
+                  <div style="padding: 1.5rem; background: #f8f9fa; border: 2px dashed #d1d5db; border-radius: 8px; text-align: center; cursor: pointer; transition: all 0.2s;"
+                    onmouseenter="this.style.borderColor='#003366'; this.style.background='rgba(0,51,102,0.02)'"
+                    onmouseleave="this.style.borderColor='#d1d5db'; this.style.background='#f8f9fa'"
+                  >
+                    <div style="font-size: 1.5rem; margin-bottom: 0.5rem; opacity: 0.4;">📎</div>
+                    <div style="font-size: 0.825rem; color: #6b7280;">Click to attach PDF, DWG, or STEP files</div>
+                    <div style="font-size: 0.725rem; color: #9ca3af; margin-top: 0.25rem;">Max 10MB per file</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Submit -->
+            <div>
+              <button type="submit"
+                style="width: 100%; padding: 1rem; background: #003366; color: #ffffff; font-size: 1rem; font-weight: 800; border-radius: 8px; border: none; cursor: pointer; transition: all 0.2s; font-family: 'Inter', sans-serif; display: flex; align-items: center; justify-content: center; gap: 0.625rem;"
+                onmouseenter="this.style.background='#1e4d8c'; this.style.transform='translateY(-1px)'; this.style.boxShadow='0 6px 20px rgba(0,51,102,0.25)'"
+                onmouseleave="this.style.background='#003366'; this.style.transform='translateY(0)'; this.style.boxShadow='none'"
+              >
+                Submit Request
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+              </button>
+              <p style="text-align: center; font-size: 0.75rem; color: #9ca3af; margin-top: 0.875rem;">
+                We respond to all quote requests within 24 business hours. For urgent needs, call +1 (800) 555-TITAN.
+              </p>
+            </div>
+
+          </form>
+        </div>
+
+        <!-- Sidebar: contact info + locations -->
+        <div style="display: flex; flex-direction: column; gap: 1.5rem; position: sticky; top: 100px;">
+
+          <!-- Direct contact -->
+          <div style="background: #1b2060; border: 1px solid rgba(255,255,255,0.1); border-radius: 12px; padding: 1.75rem;">
+            <h3 style="font-size: 0.875rem; font-weight: 800; color: #ffffff; margin-bottom: 1.25rem; display: flex; align-items: center; gap: 0.5rem;">
+              <span style="color: #93c5fd;">◆</span> Direct Contact
+            </h3>
+            <div style="display: flex; flex-direction: column; gap: 1rem;">
+              <a href="tel:+18005558482" style="display: flex; align-items: center; gap: 0.875rem; text-decoration: none; padding: 0.875rem; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; transition: all 0.2s;"
+                onmouseenter="this.style.borderColor='rgba(255,255,255,0.25)'; this.style.background='rgba(255,255,255,0.1)'"
+                onmouseleave="this.style.borderColor='rgba(255,255,255,0.1)'; this.style.background='rgba(255,255,255,0.06)'"
+              >
+                <span style="font-size: 1.25rem;">📞</span>
+                <div>
+                  <div style="font-size: 0.8rem; font-weight: 700; color: #ffffff;">+1 (800) 555-TITAN</div>
+                  <div style="font-size: 0.72rem; color: #64748b;">Mon–Fri 7am–6pm EST</div>
+                </div>
+              </a>
+              <a href="mailto:sales@titaniumind.com" style="display: flex; align-items: center; gap: 0.875rem; text-decoration: none; padding: 0.875rem; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.1); border-radius: 8px; transition: all 0.2s;"
+                onmouseenter="this.style.borderColor='rgba(255,255,255,0.25)'; this.style.background='rgba(255,255,255,0.1)'"
+                onmouseleave="this.style.borderColor='rgba(255,255,255,0.1)'; this.style.background='rgba(255,255,255,0.06)'"
+              >
+                <span style="font-size: 1.25rem;">✉️</span>
+                <div>
+                  <div style="font-size: 0.8rem; font-weight: 700; color: #ffffff;">sales@titaniumind.com</div>
+                  <div style="font-size: 0.72rem; color: #64748b;">General inquiries & RFQs</div>
+                </div>
+              </a>
+            </div>
+          </div>
+
+          <!-- Map placeholder -->
+          <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; overflow: hidden;">
+            <div style="height: 160px; background: linear-gradient(135deg, #1b2060, #1e3a5f); display: flex; align-items: center; justify-content: center; position: relative; overflow: hidden; border-bottom: 1px solid #e2e8f0;">
+              <div style="position: absolute; inset: 0; background-image: repeating-linear-gradient(0deg, transparent, transparent 19px, rgba(255,255,255,0.04) 20px), repeating-linear-gradient(90deg, transparent, transparent 19px, rgba(255,255,255,0.04) 20px);"></div>
+              <div style="text-align: center; position: relative; z-index: 1;">
+                <div style="font-size: 2rem; opacity: 0.25; margin-bottom: 0.5rem; color: #ffffff;">🗺</div>
+                <div style="font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.3);">20+ Global Locations</div>
+              </div>
+            </div>
+            <div style="padding: 1.25rem;">
+              <h3 style="font-size: 0.825rem; font-weight: 800; color: #1f2937; margin-bottom: 0.875rem;">North American Offices</h3>
+              <div style="display: flex; flex-direction: column; gap: 0.625rem; max-height: 320px; overflow-y: auto;">
+                {offices.map(office => (
+                  <div style="padding: 0.875rem; background: #f8f9fa; border: 1px solid #e2e8f0; border-radius: 8px;">
+                    <div style="font-size: 0.8rem; font-weight: 700; color: #1f2937; margin-bottom: 0.2rem;">{office.name}</div>
+                    <div style="font-size: 0.725rem; color: #6b7280; margin-bottom: 0.35rem; line-height: 1.4;">{office.address}</div>
+                    <a href={`tel:${office.phone.replace(/\D/g,'')}`} style="font-size: 0.725rem; color: #1e4d8c; text-decoration: none;">{office.phone}</a>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </div>
+
+          <!-- Certifications -->
+          <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.5rem;">
+            <h3 style="font-size: 0.875rem; font-weight: 800; color: #1f2937; margin-bottom: 1rem;">Quality Certifications</h3>
+            <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+              {['AS9100D', 'ISO 9001:2015', 'NADCAP', 'DFARS'].map(cert => (
+                <span style="padding: 0.35rem 0.75rem; background: rgba(0,51,102,0.06); border: 1px solid rgba(0,51,102,0.15); border-radius: 4px; font-size: 0.72rem; font-weight: 700; color: #003366; letter-spacing: 0.04em;">
+                  {cert}
+                </span>
+              ))}
+            </div>
+            <p style="font-size: 0.775rem; color: #6b7280; margin-top: 0.875rem; line-height: 1.5;">
+              Mill certifications included with every order. Full material traceability on all aerospace grades.
+            </p>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+</Layout>
+
+<style>
+  @media (max-width: 1024px) {
+    section > div > div[style*="grid-template-columns: 1fr 380px"] {
+      grid-template-columns: 1fr !important;
+    }
+    div[style*="position: sticky; top: 100px"] {
+      position: static !important;
+    }
+  }
+  @media (max-width: 640px) {
+    div[style*="grid-template-columns: 1fr 1fr"] {
+      grid-template-columns: 1fr !important;
+    }
+    div[style*="grid-template-columns: 1fr auto"] {
+      grid-template-columns: 1fr !important;
+    }
+  }
+  input::placeholder, textarea::placeholder {
+    color: #9ca3af;
+  }
+</style>

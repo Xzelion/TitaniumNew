@@ -1,0 +1,296 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const timeline = [
+  { year: '1972', title: 'Founded in Los Angeles', desc: 'Titanium Industries established as a specialty metals distributor focused exclusively on titanium, serving the emerging aerospace market.' },
+  { year: '1985', title: 'First International Expansion', desc: 'Opened service center in Rockaway, NJ to serve the Northeast aerospace corridor, expanding to four US locations.' },
+  { year: '1994', title: 'AS9100 Certification', desc: 'One of the first specialty metals distributors to achieve AS9100 aerospace quality certification across all facilities.' },
+  { year: '2003', title: 'European Expansion', desc: 'Established service centers in Germany and the UK to serve the Airbus supply chain and European industrial customers.' },
+  { year: '2012', title: 'Asia-Pacific Growth', desc: 'Opened facilities in China and Taiwan to support the rapidly growing Asian aerospace manufacturing base.' },
+  { year: '2019', title: 'Multi-Alloy Expansion', desc: 'Expanded beyond titanium into nickel, stainless steel, aluminum, carbon steel, and cobalt chrome — becoming a full specialty metals distributor.' },
+  { year: '2024', title: '20+ Locations Worldwide', desc: 'Operating 20+ service centers across North America, Europe, and Asia-Pacific with 5,000+ alloys in stock.' },
+];
+
+const leadership = [
+  { name: 'Brett Paddock', title: 'Chief Executive Officer', initials: 'BP', desc: 'Leads global strategy and operations across all 20+ service centers. 25+ years in specialty metals distribution.' },
+  { name: 'Robert Barba', title: 'Chief Financial Officer', initials: 'RB', desc: 'Oversees global financial operations, capital allocation, and M&A strategy. Former investment banker specializing in industrial distribution.' },
+  { name: 'Lisa Hartmann', title: 'VP of Operations', initials: 'LH', desc: 'Responsible for supply chain, logistics, and service center performance standards. Expert in aerospace supply chain compliance.' },
+  { name: 'David Kim', title: 'VP of Sales', initials: 'DK', desc: 'Leads global sales organization with a focus on aerospace, medical, and defense market segments.' },
+  { name: 'Dr. Maria Santos', title: 'Chief Metallurgist', initials: 'MS', desc: 'Heads the technical team and quality assurance program. PhD in Materials Science, 20+ years in titanium metallurgy.' },
+  { name: 'James Reeves', title: 'VP of Technology', initials: 'JR', desc: 'Directs ERP systems, digital transformation, and customer portal technology initiatives.' },
+];
+
+const certifications = [
+  { name: 'AS9100D', body: 'SAE International', scope: 'Aerospace quality management — all facilities', icon: '✈' },
+  { name: 'ISO 9001:2015', body: 'ISO', scope: 'Quality management systems', icon: '◎' },
+  { name: 'NADCAP', body: 'Performance Review Institute', scope: 'Heat treat and materials testing labs', icon: '◉' },
+  { name: 'DFARS Compliance', body: 'U.S. Department of Defense', scope: 'Domestic source titanium for defense procurement', icon: '◆' },
+];
+
+const stats = [
+  { value: '50+', label: 'Years in Business', sub: 'Founded 1972' },
+  { value: '20+', label: 'Service Centers', sub: 'Across 4 continents' },
+  { value: '5,000+', label: 'Alloys Stocked', sub: '6 material families' },
+  { value: '98%', label: 'On-Time Delivery', sub: 'Industry-leading performance' },
+];
+
+const values = [
+  { icon: '◆', title: 'Material Integrity', desc: 'Every piece of material that ships from our facilities arrives with full traceability and certifications. No exceptions.' },
+  { icon: '◉', title: 'Technical Excellence', desc: 'Our team includes degreed metallurgists and material engineers at every facility to provide genuine technical support.' },
+  { icon: '◈', title: 'Speed & Reliability', desc: 'Same-day shipping on in-stock material. When you have a production emergency, we answer the phone.' },
+  { icon: '⬡', title: 'Long-Term Partnerships', desc: 'We measure success in decades of customer relationships, not individual transactions.' },
+];
+---
+
+<Layout
+  title="About Titanium Industries"
+  description="Over 50 years of specialty metals expertise. Learn about Titanium Industries — our history, leadership, global locations, and quality certifications."
+>
+
+  <!-- Hero — stays dark navy -->
+  <section style="background: linear-gradient(135deg, #1b2060 0%, #142050 60%, #1b2060 100%); padding: 5rem 0 4rem; position: relative; overflow: hidden;">
+    <div style="position: absolute; inset: 0; pointer-events: none;">
+      <div style="position: absolute; inset: 0; background-image: linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px); background-size: 60px 60px;"></div>
+      <div style="position: absolute; top: -150px; right: -150px; width: 600px; height: 600px; border: 1px solid rgba(255,255,255,0.05); border-radius: 50%;"></div>
+    </div>
+
+    <div style="max-width: 1280px; margin: 0 auto; padding: 0 1.5rem; position: relative;">
+      <nav style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 1.5rem; font-size: 0.8rem;">
+        <a href="/" style="color: #64748b; text-decoration: none;">Home</a>
+        <span style="color: #64748b;">/</span>
+        <span style="color: #93c5fd;">About</span>
+      </nav>
+
+      <div style="max-width: 780px;">
+        <div style="display: inline-block; padding: 0.35rem 1rem; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.2); border-radius: 100px; font-size: 0.75rem; font-weight: 700; color: #e2e8f0; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 1.25rem;">
+          Our Story
+        </div>
+        <h1 style="font-size: clamp(2.25rem, 5vw, 4rem); font-weight: 900; color: #ffffff; line-height: 1.05; margin-bottom: 1.5rem;">
+          Over 50 Years of Metals Expertise
+        </h1>
+        <p style="font-size: 1.1rem; color: #94a3b8; line-height: 1.7; max-width: 640px;">
+          Since 1972, Titanium Industries has built its reputation on one principle: provide the highest quality specialty metals with the technical support and service reliability that aerospace and industrial customers can stake their production on.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Divider -->
+  <div style="height: 1px; background: linear-gradient(90deg, transparent, #e2e8f0, transparent);"></div>
+
+  <!-- Stats — light gray -->
+  <section style="background: #f8f9fa; padding: 3rem 0;">
+    <div style="max-width: 1280px; margin: 0 auto; padding: 0 1.5rem;">
+      <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 1.5rem;">
+        {stats.map(stat => (
+          <div style="text-align: center; padding: 2rem 1rem;">
+            <div style="font-size: 2.5rem; font-weight: 900; color: #003366; line-height: 1; margin-bottom: 0.5rem;">{stat.value}</div>
+            <div style="font-size: 1rem; font-weight: 700; color: #1f2937; margin-bottom: 0.25rem;">{stat.label}</div>
+            <div style="font-size: 0.8rem; color: #6b7280;">{stat.sub}</div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Divider -->
+  <div style="height: 1px; background: linear-gradient(90deg, transparent, #e2e8f0, transparent);"></div>
+
+  <!-- Company story — white -->
+  <section style="background: #ffffff; padding: 6rem 0;">
+    <div style="max-width: 1280px; margin: 0 auto; padding: 0 1.5rem;">
+
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 5rem; align-items: start; margin-bottom: 5rem;">
+        <div>
+          <div style="display: inline-block; padding: 0.35rem 1rem; background: rgba(0,51,102,0.06); border: 1px solid rgba(0,51,102,0.15); border-radius: 100px; font-size: 0.75rem; font-weight: 700; color: #003366; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 1.25rem;">
+            Company History
+          </div>
+          <h2 style="font-size: clamp(1.75rem, 3vw, 2.5rem); font-weight: 800; color: #1f2937; margin-bottom: 1.5rem; line-height: 1.15;">
+            Built on the Material That Built Aerospace
+          </h2>
+          <div class="prose">
+            <p>Titanium Industries was founded in Los Angeles in 1972, at a moment when the aerospace industry was just beginning to understand the full potential of titanium. The Boeing 747 had entered service three years earlier, and manufacturers were racing to qualify titanium for increasingly critical structural applications.</p>
+            <p>Our founders recognized that the specialty metals supply chain had a fundamental gap: distributors who understood the materials at a metallurgical level, not just as commodities. From day one, we hired degreed metallurgists and built our reputation on technical credibility.</p>
+            <p>Over five decades, we have grown from a single location to a global network of 20+ service centers while maintaining the technical culture that set us apart. Today, we distribute over 5,000 alloys across six material families — titanium, nickel, stainless steel, aluminum, carbon steel, and cobalt chrome — to customers in aerospace, medical, oil & gas, and industrial manufacturing.</p>
+          </div>
+        </div>
+
+        <!-- Timeline -->
+        <div>
+          <div style="display: flex; flex-direction: column; gap: 0;">
+            {timeline.map((event, i) => (
+              <div style="display: flex; gap: 1.25rem; position: relative;">
+                <!-- Timeline line + dot -->
+                <div style="display: flex; flex-direction: column; align-items: center; flex-shrink: 0;">
+                  <div style="width: 36px; height: 36px; background: rgba(0,51,102,0.08); border: 2px solid rgba(0,51,102,0.3); border-radius: 50%; display: flex; align-items: center; justify-content: center; flex-shrink: 0; z-index: 1;">
+                    <div style="width: 8px; height: 8px; background: #003366; border-radius: 50%;"></div>
+                  </div>
+                  {i < timeline.length - 1 && (
+                    <div style="width: 2px; flex: 1; min-height: 24px; background: linear-gradient(to bottom, rgba(0,51,102,0.2), rgba(0,51,102,0.06)); margin: 2px 0;"></div>
+                  )}
+                </div>
+                <!-- Content -->
+                <div style={`padding-bottom: ${i < timeline.length - 1 ? '1.5rem' : '0'};`}>
+                  <div style="font-size: 0.75rem; font-weight: 800; color: #003366; letter-spacing: 0.08em; margin-bottom: 0.25rem; font-family: monospace;">{event.year}</div>
+                  <div style="font-size: 0.95rem; font-weight: 700; color: #1f2937; margin-bottom: 0.375rem;">{event.title}</div>
+                  <div style="font-size: 0.825rem; color: #4b5563; line-height: 1.6;">{event.desc}</div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Divider -->
+  <div style="height: 1px; background: linear-gradient(90deg, transparent, #e2e8f0, transparent);"></div>
+
+  <!-- Leadership — light gray -->
+  <section style="background: #f8f9fa; padding: 6rem 0;">
+    <div style="max-width: 1280px; margin: 0 auto; padding: 0 1.5rem;">
+
+      <div style="text-align: center; margin-bottom: 3.5rem;">
+        <div style="display: inline-block; padding: 0.35rem 1rem; background: rgba(0,51,102,0.06); border: 1px solid rgba(0,51,102,0.15); border-radius: 100px; font-size: 0.75rem; font-weight: 700; color: #003366; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 1rem;">
+          Leadership
+        </div>
+        <h2 style="font-size: clamp(1.75rem, 3vw, 2.75rem); font-weight: 800; color: #1f2937; margin-bottom: 1rem;">
+          Leadership Team
+        </h2>
+        <p style="font-size: 1rem; color: #4b5563; max-width: 520px; margin: 0 auto;">
+          Decades of combined experience in specialty metals, aerospace supply chain, and industrial distribution.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem;">
+        {leadership.map(leader => (
+          <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 2rem; transition: all 0.3s;"
+            onmouseenter="this.style.borderColor='#003366'; this.style.transform='translateY(-2px)'; this.style.boxShadow='0 8px 24px rgba(0,51,102,0.08)'"
+            onmouseleave="this.style.borderColor='#e2e8f0'; this.style.transform='translateY(0)'; this.style.boxShadow='none'"
+          >
+            <!-- Avatar -->
+            <div style="width: 60px; height: 60px; background: #003366; border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 1.1rem; font-weight: 900; color: #ffffff; margin-bottom: 1.25rem;">
+              {leader.initials}
+            </div>
+            <h3 style="font-size: 1rem; font-weight: 800; color: #1f2937; margin-bottom: 0.25rem;">{leader.name}</h3>
+            <div style="font-size: 0.8rem; font-weight: 600; color: #1e4d8c; margin-bottom: 0.875rem;">{leader.title}</div>
+            <p style="font-size: 0.825rem; color: #4b5563; line-height: 1.6;">{leader.desc}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Divider -->
+  <div style="height: 1px; background: linear-gradient(90deg, transparent, #e2e8f0, transparent);"></div>
+
+  <!-- Certifications — white -->
+  <section style="background: #ffffff; padding: 6rem 0;">
+    <div style="max-width: 1280px; margin: 0 auto; padding: 0 1.5rem;">
+
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 5rem; align-items: center;">
+
+        <div>
+          <div style="display: inline-block; padding: 0.35rem 1rem; background: rgba(0,51,102,0.06); border: 1px solid rgba(0,51,102,0.15); border-radius: 100px; font-size: 0.75rem; font-weight: 700; color: #003366; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 1.25rem;">
+            Quality & Compliance
+          </div>
+          <h2 style="font-size: clamp(1.75rem, 3vw, 2.5rem); font-weight: 800; color: #1f2937; margin-bottom: 1rem;">
+            Certifications & Standards
+          </h2>
+          <p style="font-size: 0.95rem; color: #4b5563; line-height: 1.7; margin-bottom: 2rem;">
+            Our quality management system is built around the most demanding aerospace and defense standards. Every facility, every order, every shipment is managed to the same exacting requirements.
+          </p>
+
+          <div style="display: flex; flex-direction: column; gap: 1rem;">
+            {certifications.map(cert => (
+              <div style="display: flex; align-items: flex-start; gap: 1.25rem; padding: 1.25rem; background: #f8f9fa; border: 1px solid #e2e8f0; border-radius: 10px; transition: all 0.3s;"
+                onmouseenter="this.style.borderColor='#003366'; this.style.boxShadow='0 4px 12px rgba(0,51,102,0.06)'"
+                onmouseleave="this.style.borderColor='#e2e8f0'; this.style.boxShadow='none'"
+              >
+                <div style="font-size: 1.5rem; flex-shrink: 0; color: #003366;">{cert.icon}</div>
+                <div>
+                  <div style="display: flex; align-items: center; gap: 0.875rem; margin-bottom: 0.25rem; flex-wrap: wrap;">
+                    <span style="font-size: 0.95rem; font-weight: 800; color: #1f2937;">{cert.name}</span>
+                    <span style="font-size: 0.72rem; color: #6b7280;">{cert.body}</span>
+                  </div>
+                  <div style="font-size: 0.825rem; color: #4b5563;">{cert.scope}</div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        <!-- Values -->
+        <div>
+          <div style="display: inline-block; padding: 0.35rem 1rem; background: rgba(0,51,102,0.06); border: 1px solid rgba(0,51,102,0.15); border-radius: 100px; font-size: 0.75rem; font-weight: 700; color: #003366; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 1.25rem;">
+            Our Values
+          </div>
+          <h2 style="font-size: clamp(1.75rem, 3vw, 2.5rem); font-weight: 800; color: #1f2937; margin-bottom: 2rem;">
+            How We Work
+          </h2>
+          <div style="display: flex; flex-direction: column; gap: 1.5rem;">
+            {values.map(value => (
+              <div style="display: flex; align-items: flex-start; gap: 1rem;">
+                <div style="width: 40px; height: 40px; background: rgba(0,51,102,0.06); border: 1px solid rgba(0,51,102,0.15); border-radius: 8px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 1rem; color: #003366;">
+                  {value.icon}
+                </div>
+                <div>
+                  <h3 style="font-size: 0.95rem; font-weight: 800; color: #1f2937; margin-bottom: 0.35rem;">{value.title}</h3>
+                  <p style="font-size: 0.85rem; color: #4b5563; line-height: 1.6;">{value.desc}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA — dark navy -->
+  <section style="background: #1b2060; padding: 5rem 0; border-top: 1px solid rgba(255,255,255,0.1);">
+    <div style="max-width: 1280px; margin: 0 auto; padding: 0 1.5rem; text-align: center;">
+      <h2 style="font-size: clamp(1.75rem, 3vw, 2.75rem); font-weight: 800; color: #ffffff; margin-bottom: 1rem;">
+        Work With a Team You Can Trust
+      </h2>
+      <p style="font-size: 1rem; color: #94a3b8; max-width: 480px; margin: 0 auto 2rem; line-height: 1.7;">
+        50 years of expertise, a global distribution network, and a technical team ready to support your next project.
+      </p>
+      <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+        <a href="/contact" style="padding: 0.875rem 2rem; background: #ffffff; color: #1b2060; font-size: 0.95rem; font-weight: 700; border-radius: 8px; text-decoration: none; transition: all 0.2s;"
+          onmouseenter="this.style.background='#e0e7ff'"
+          onmouseleave="this.style.background='#ffffff'"
+        >Get in Touch</a>
+        <a href="/alloys/titanium" style="padding: 0.875rem 2rem; background: transparent; color: #ffffff; font-size: 0.95rem; font-weight: 600; border-radius: 8px; text-decoration: none; border: 1.5px solid rgba(255,255,255,0.25); transition: all 0.2s;"
+          onmouseenter="this.style.borderColor='rgba(255,255,255,0.5)'"
+          onmouseleave="this.style.borderColor='rgba(255,255,255,0.25)'"
+        >Browse Alloys</a>
+      </div>
+    </div>
+  </section>
+
+</Layout>
+
+<style>
+  @media (max-width: 1024px) {
+    div[style*="grid-template-columns: 1fr 1fr"] {
+      grid-template-columns: 1fr !important;
+      gap: 3rem !important;
+    }
+  }
+  @media (max-width: 768px) {
+    div[style*="grid-template-columns: repeat(4, 1fr)"] {
+      grid-template-columns: repeat(2, 1fr) !important;
+    }
+    div[style*="grid-template-columns: repeat(3, 1fr)"] {
+      grid-template-columns: repeat(2, 1fr) !important;
+    }
+  }
+  @media (max-width: 480px) {
+    div[style*="grid-template-columns: repeat(2, 1fr)"],
+    div[style*="grid-template-columns: repeat(3, 1fr)"],
+    div[style*="grid-template-columns: repeat(4, 1fr)"] {
+      grid-template-columns: 1fr !important;
+    }
+  }
+</style>

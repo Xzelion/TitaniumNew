@@ -1,0 +1,340 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+
+const grades = [
+  {
+    id: 'grade-1',
+    name: 'Grade 1',
+    uns: 'R50250',
+    ams: 'AMS 4941',
+    group: 'cp',
+    groupLabel: 'Commercially Pure',
+    headline: 'Most formable, highest corrosion resistance',
+    desc: 'The softest and most ductile of the commercially pure titanium grades. Excellent cold formability and weldability. Preferred for applications requiring maximum corrosion resistance and minimum strength.',
+    props: [
+      { label: 'Tensile Strength', value: '35 ksi min' },
+      { label: 'Yield Strength', value: '25 ksi min' },
+      { label: 'Elongation', value: '24% min' },
+      { label: 'Density', value: '0.163 lb/in³' },
+    ],
+    applications: ['Chemical processing', 'Desalination', 'Architectural panels', 'Platework'],
+    forms: ['Sheet', 'Plate', 'Strip', 'Bar', 'Wire'],
+    href: '/alloys/titanium/grade-1',
+  },
+  {
+    id: 'grade-2',
+    name: 'Grade 2',
+    uns: 'R50400',
+    ams: 'AMS 4942',
+    group: 'cp',
+    groupLabel: 'Commercially Pure',
+    headline: 'General purpose CP titanium, workhorse grade',
+    desc: 'The most widely used commercially pure titanium grade. Excellent balance of strength, ductility, and corrosion resistance. Default choice for chemical, marine, and biomedical applications requiring good formability.',
+    props: [
+      { label: 'Tensile Strength', value: '50 ksi min' },
+      { label: 'Yield Strength', value: '40 ksi min' },
+      { label: 'Elongation', value: '20% min' },
+      { label: 'Density', value: '0.163 lb/in³' },
+    ],
+    applications: ['Marine hardware', 'Chemical vessels', 'Medical devices', 'Fasteners'],
+    forms: ['Bar', 'Sheet', 'Plate', 'Tube', 'Wire', 'Strip'],
+    href: '/alloys/titanium/grade-2',
+  },
+  {
+    id: 'grade-4',
+    name: 'Grade 4',
+    uns: 'R50700',
+    ams: 'AMS 4901',
+    group: 'cp',
+    groupLabel: 'Commercially Pure',
+    headline: 'Highest strength of the CP grades',
+    desc: 'The strongest of the commercially pure titanium grades while maintaining good corrosion resistance. Used when higher strength is required than Grade 2 can provide without alloying elements.',
+    props: [
+      { label: 'Tensile Strength', value: '80 ksi min' },
+      { label: 'Yield Strength', value: '70 ksi min' },
+      { label: 'Elongation', value: '15% min' },
+      { label: 'Density', value: '0.163 lb/in³' },
+    ],
+    applications: ['Surgical implants', 'Dental roots', 'Airframe components', 'Chemical processing'],
+    forms: ['Bar', 'Sheet', 'Plate', 'Wire'],
+    href: '/alloys/titanium/grade-4',
+  },
+  {
+    id: 'grade-5',
+    name: 'Grade 5 / Ti-6Al-4V',
+    uns: 'R56400',
+    ams: 'AMS 4928',
+    group: 'alpha-beta',
+    groupLabel: 'Alpha-Beta Alloy',
+    headline: 'Aerospace industry standard — most widely used titanium alloy',
+    desc: 'Ti-6Al-4V accounts for more than 50% of all titanium usage worldwide. Outstanding strength-to-weight ratio, excellent corrosion resistance, and good weldability. The default choice for aerospace structural applications.',
+    props: [
+      { label: 'Tensile Strength', value: '130 ksi min' },
+      { label: 'Yield Strength', value: '120 ksi min' },
+      { label: 'Elongation', value: '10% min' },
+      { label: 'Density', value: '0.160 lb/in³' },
+    ],
+    applications: ['Airframe structures', 'Jet engine components', 'Medical implants', 'High-performance fasteners'],
+    forms: ['Bar', 'Billet', 'Plate', 'Sheet', 'Tube', 'Forgings', 'Wire'],
+    href: '/alloys/titanium/ti-6al-4v',
+    featured: true,
+  },
+  {
+    id: 'grade-9',
+    name: 'Grade 9 / Ti-3Al-2.5V',
+    uns: 'R56320',
+    ams: 'AMS 4943',
+    group: 'alpha-beta',
+    groupLabel: 'Alpha-Beta Alloy',
+    headline: 'Hydraulic tubing and bicycle frame alloy',
+    desc: 'Halfway between commercially pure titanium and Ti-6Al-4V in terms of strength. Excellent cold formability, making it the standard for tubing, hydraulic lines, and drawn shapes. Good weldability.',
+    props: [
+      { label: 'Tensile Strength', value: '90 ksi min' },
+      { label: 'Yield Strength', value: '70 ksi min' },
+      { label: 'Elongation', value: '15% min' },
+      { label: 'Density', value: '0.161 lb/in³' },
+    ],
+    applications: ['Hydraulic tubing', 'Aircraft fuel lines', 'Bicycle frames', 'Golf club shafts'],
+    forms: ['Tube', 'Sheet', 'Strip', 'Bar', 'Wire'],
+    href: '/alloys/titanium/grade-9',
+  },
+  {
+    id: 'grade-23',
+    name: 'Grade 23 / Ti-6Al-4V ELI',
+    uns: 'R56401',
+    ams: 'AMS 4930',
+    group: 'medical',
+    groupLabel: 'Medical Grade',
+    headline: 'Surgical implant and medical device standard',
+    desc: 'Extra Low Interstitial (ELI) version of Ti-6Al-4V. Reduced oxygen, nitrogen, carbon, and iron content significantly improves fracture toughness and fatigue resistance for implant applications.',
+    props: [
+      { label: 'Tensile Strength', value: '125 ksi min' },
+      { label: 'Yield Strength', value: '115 ksi min' },
+      { label: 'Elongation', value: '10% min' },
+      { label: 'Density', value: '0.160 lb/in³' },
+    ],
+    applications: ['Orthopedic implants', 'Surgical instruments', 'Cardiac devices', 'Dental implants'],
+    forms: ['Bar', 'Wire', 'Sheet', 'Plate', 'Tube', 'Forgings'],
+    href: '/alloys/titanium/grade-23',
+  },
+];
+
+const groupFilters = [
+  { id: 'all', label: 'All Grades' },
+  { id: 'cp', label: 'Commercially Pure' },
+  { id: 'alpha-beta', label: 'Alpha-Beta' },
+  { id: 'medical', label: 'Medical Grade' },
+];
+---
+
+<Layout
+  title="Titanium Alloys"
+  description="Full range of titanium alloys from Grades 1–4 commercially pure to Ti-6Al-4V, Grade 9, Grade 23 ELI, and specialty grades. Bar, plate, sheet, tube, and forgings in stock."
+>
+
+  <!-- Hero — dark navy -->
+  <section style="background: linear-gradient(135deg, #1b2060 0%, #142050 60%, #1b2060 100%); padding: 4rem 0 3rem; position: relative; overflow: hidden;">
+    <div style="position: absolute; inset: 0; pointer-events: none;">
+      <div style="position: absolute; top: -100px; right: -100px; width: 500px; height: 500px; border: 1px solid rgba(255,255,255,0.05); border-radius: 50%;"></div>
+      <div style="position: absolute; inset: 0; background-image: linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px); background-size: 60px 60px;"></div>
+    </div>
+
+    <div style="max-width: 1280px; margin: 0 auto; padding: 0 1.5rem; position: relative;">
+      <!-- Breadcrumb -->
+      <nav style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 1.5rem; font-size: 0.8rem;">
+        <a href="/" style="color: #64748b; text-decoration: none;">Home</a>
+        <span style="color: #64748b;">/</span>
+        <a href="/alloys" style="color: #64748b; text-decoration: none;">Alloys</a>
+        <span style="color: #64748b;">/</span>
+        <span style="color: #93c5fd;">Titanium</span>
+      </nav>
+
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; align-items: center;">
+        <div>
+          <div style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.35rem 1rem; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.2); border-radius: 100px; font-size: 0.75rem; font-weight: 700; color: #e2e8f0; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 1.25rem;">
+            ⬡ Titanium Alloys
+          </div>
+          <h1 style="font-size: clamp(2rem, 4vw, 3.25rem); font-weight: 900; color: #ffffff; margin-bottom: 1rem; line-height: 1.1;">
+            Titanium Alloys
+          </h1>
+          <p style="font-size: 1rem; color: #94a3b8; line-height: 1.7; max-width: 500px; margin-bottom: 2rem;">
+            From commercially pure Grade 1 to aerospace-critical Ti-6Al-4V. Full range of titanium alloys in bar, plate, sheet, tube, and forgings — all with full material traceability and certifications.
+          </p>
+          <div style="display: flex; gap: 0.875rem; flex-wrap: wrap;">
+            <a href="/contact" style="padding: 0.75rem 1.5rem; background: #ffffff; color: #1b2060; font-size: 0.875rem; font-weight: 700; border-radius: 8px; text-decoration: none; transition: all 0.2s;"
+              onmouseenter="this.style.background='#e0e7ff'"
+              onmouseleave="this.style.background='#ffffff'"
+            >Request Quote</a>
+            <a href="#grades" style="padding: 0.75rem 1.5rem; background: transparent; color: #ffffff; font-size: 0.875rem; font-weight: 600; border-radius: 8px; text-decoration: none; border: 1.5px solid rgba(255,255,255,0.3); transition: all 0.2s;"
+              onmouseenter="this.style.borderColor='rgba(255,255,255,0.6)'"
+              onmouseleave="this.style.borderColor='rgba(255,255,255,0.3)'"
+            >View All Grades</a>
+          </div>
+        </div>
+
+        <!-- Hero stats -->
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
+          {[
+            { value: '30+', label: 'Available Grades', sub: 'Grades 1-38 & specialty' },
+            { value: 'AS9100D', label: 'Certified', sub: 'Full traceability on all orders' },
+            { value: 'Same Day', label: 'Shipping', sub: 'On in-stock standard grades' },
+            { value: 'Mill Cert', label: 'Included', sub: 'On every order, every time' },
+          ].map(stat => (
+            <div style="background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.12); border-radius: 10px; padding: 1.25rem;">
+              <div style="font-size: 1.25rem; font-weight: 900; color: #ffffff; margin-bottom: 0.25rem;">{stat.value}</div>
+              <div style="font-size: 0.8rem; font-weight: 700; color: #e2e8f0; margin-bottom: 0.2rem;">{stat.label}</div>
+              <div style="font-size: 0.725rem; color: #64748b;">{stat.sub}</div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Divider -->
+  <div style="height: 1px; background: linear-gradient(90deg, transparent, #e2e8f0, transparent);"></div>
+
+  <!-- Filter + Grade List — white -->
+  <section id="grades" style="background: #ffffff; padding: 4rem 0;">
+    <div style="max-width: 1280px; margin: 0 auto; padding: 0 1.5rem;">
+
+      <!-- Filter bar -->
+      <div style="display: flex; align-items: center; gap: 0.625rem; margin-bottom: 2.5rem; flex-wrap: wrap;">
+        <span style="font-size: 0.8rem; font-weight: 600; color: #6b7280; margin-right: 0.25rem;">Filter:</span>
+        {groupFilters.map((filter, i) => (
+          <button
+            data-filter={filter.id}
+            class="filter-btn"
+            style={`padding: 0.4rem 1rem; border-radius: 100px; font-size: 0.8rem; font-weight: 600; border: 1px solid; cursor: pointer; transition: all 0.2s; ${i === 0 ? 'background: #003366; color: #ffffff; border-color: #003366;' : 'background: transparent; color: #4b5563; border-color: #d1d5db;'}`}
+          >
+            {filter.label}
+          </button>
+        ))}
+      </div>
+
+      <!-- Grade cards -->
+      <div id="grades-grid" style="display: grid; grid-template-columns: 1fr; gap: 1.25rem;">
+        {grades.map(grade => (
+          <div
+            class="grade-card"
+            data-group={grade.group}
+            style={`background: #ffffff; border: 1px solid ${grade.featured ? '#003366' : '#e2e8f0'}; border-radius: 12px; overflow: hidden; transition: all 0.3s; position: relative;`}
+            onmouseenter={`this.style.borderColor='#003366'; this.style.boxShadow='0 8px 32px rgba(0,51,102,0.1)'`}
+            onmouseleave={`this.style.borderColor='${grade.featured ? '#003366' : '#e2e8f0'}'; this.style.boxShadow='none'`}
+          >
+            {grade.featured && (
+              <div style="position: absolute; top: 0; right: 0; padding: 0.3rem 1rem; background: #003366; font-size: 0.65rem; font-weight: 800; color: #ffffff; letter-spacing: 0.08em; text-transform: uppercase; border-bottom-left-radius: 8px;">
+                Most Popular
+              </div>
+            )}
+
+            <div style="display: grid; grid-template-columns: 1fr auto; gap: 1.5rem; padding: 1.75rem;">
+              <!-- Main info -->
+              <div>
+                <div style="display: flex; align-items: center; gap: 0.875rem; margin-bottom: 0.875rem; flex-wrap: wrap;">
+                  <h3 style="font-size: 1.15rem; font-weight: 800; color: #1f2937;">{grade.name}</h3>
+                  <span style="padding: 0.2rem 0.625rem; background: rgba(0,51,102,0.06); border: 1px solid rgba(0,51,102,0.15); border-radius: 4px; font-size: 0.7rem; font-weight: 700; color: #003366; font-family: monospace;">
+                    {grade.uns}
+                  </span>
+                  <span style="padding: 0.2rem 0.625rem; background: #f8f9fa; border: 1px solid #e2e8f0; border-radius: 4px; font-size: 0.7rem; color: #4b5563; font-family: monospace;">
+                    {grade.ams}
+                  </span>
+                  <span style="padding: 0.2rem 0.625rem; background: rgba(16,185,129,0.08); border: 1px solid rgba(16,185,129,0.2); border-radius: 4px; font-size: 0.65rem; font-weight: 600; color: #10b981; letter-spacing: 0.04em;">
+                    {grade.groupLabel}
+                  </span>
+                </div>
+
+                <p style="font-size: 0.85rem; font-weight: 600; color: #003366; margin-bottom: 0.5rem;">{grade.headline}</p>
+                <p style="font-size: 0.875rem; color: #4b5563; line-height: 1.6; margin-bottom: 1.25rem; max-width: 680px;">{grade.desc}</p>
+
+                <!-- Props row -->
+                <div style="display: flex; gap: 1.5rem; flex-wrap: wrap; margin-bottom: 1rem;">
+                  {grade.props.map(prop => (
+                    <div>
+                      <div style="font-size: 0.7rem; font-weight: 600; color: #9ca3af; text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 0.15rem;">{prop.label}</div>
+                      <div style="font-size: 0.875rem; font-weight: 700; color: #1f2937; font-family: monospace;">{prop.value}</div>
+                    </div>
+                  ))}
+                </div>
+
+                <!-- Available forms -->
+                <div style="display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap;">
+                  <span style="font-size: 0.7rem; font-weight: 600; color: #9ca3af; text-transform: uppercase; letter-spacing: 0.06em;">Forms:</span>
+                  {grade.forms.map(form => (
+                    <span style="padding: 0.2rem 0.625rem; background: #f8f9fa; border: 1px solid #e2e8f0; border-radius: 4px; font-size: 0.73rem; color: #4b5563;">
+                      {form}
+                    </span>
+                  ))}
+                </div>
+              </div>
+
+              <!-- CTA column -->
+              <div style="display: flex; flex-direction: column; align-items: flex-end; justify-content: space-between; min-width: 140px;">
+                <div></div>
+                <div style="display: flex; flex-direction: column; gap: 0.625rem; align-items: stretch; width: 100%;">
+                  <a href={grade.href} style="padding: 0.625rem 1rem; background: transparent; color: #003366; font-size: 0.8rem; font-weight: 700; border-radius: 6px; text-decoration: none; border: 1.5px solid rgba(0,51,102,0.35); text-align: center; transition: all 0.2s; white-space: nowrap;"
+                    onmouseenter="this.style.background='rgba(0,51,102,0.06)'"
+                    onmouseleave="this.style.background='transparent'"
+                  >
+                    View Details
+                  </a>
+                  <a href="/contact" style="padding: 0.625rem 1rem; background: #003366; color: #ffffff; font-size: 0.8rem; font-weight: 700; border-radius: 6px; text-decoration: none; text-align: center; transition: all 0.2s; white-space: nowrap;"
+                    onmouseenter="this.style.background='#1e4d8c'"
+                    onmouseleave="this.style.background='#003366'"
+                  >
+                    Request Quote
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+</Layout>
+
+<script>
+  const filterBtns = document.querySelectorAll('.filter-btn') as NodeListOf<HTMLButtonElement>;
+  const gradeCards = document.querySelectorAll('.grade-card') as NodeListOf<HTMLElement>;
+
+  filterBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const filter = btn.dataset.filter;
+
+      // Update button styles
+      filterBtns.forEach(b => {
+        b.style.background = 'transparent';
+        b.style.color = '#4b5563';
+        b.style.borderColor = '#d1d5db';
+      });
+      btn.style.background = '#003366';
+      btn.style.color = '#ffffff';
+      btn.style.borderColor = '#003366';
+
+      // Filter cards
+      gradeCards.forEach(card => {
+        if (filter === 'all' || card.dataset.group === filter) {
+          card.style.display = 'block';
+        } else {
+          card.style.display = 'none';
+        }
+      });
+    });
+  });
+</script>
+
+<style>
+  @media (max-width: 768px) {
+    .grade-card > div {
+      grid-template-columns: 1fr !important;
+    }
+    .grade-card > div > div:last-child {
+      flex-direction: row !important;
+      align-items: center !important;
+      justify-content: flex-start !important;
+      gap: 0.75rem !important;
+    }
+  }
+</style>

@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+@import "tailwindcss";
+
+:root {
+  /* Dark surfaces — header, footer, hero */
+  --color-navy: #1b2060;
+  --color-navy-deep: #131845;
+
+  /* Content backgrounds */
+  --color-bg: #ffffff;
+  --color-bg-secondary: #f8f9fa;
+  --color-surface: #ffffff;
+
+  /* Brand accent */
+  --color-accent: #003366;
+  --color-accent-hover: #1e4d8c;
+  --color-accent-light: #2563eb;
+
+  /* Text on white */
+  --color-text-primary: #1f2937;
+  --color-text-muted: #4b5563;
+  --color-text-subtle: #6b7280;
+
+  /* Text on dark (hero/header/footer) */
+  --color-text-on-dark: #ffffff;
+  --color-text-on-dark-muted: #cbd5e1;
+  --color-text-on-dark-subtle: #94a3b8;
+
+  --color-success: #10b981;
+  --color-border: #e2e8f0;
+  --color-border-subtle: #f1f5f9;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background-color: var(--color-bg);
+  color: var(--color-text-primary);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-bg-secondary);
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-accent);
+}
+
+/* Focus styles */
+:focus-visible {
+  outline: 2px solid var(--color-accent-light);
+  outline-offset: 2px;
+}
+
+/* Selection */
+::selection {
+  background: rgba(0, 51, 102, 0.15);
+  color: var(--color-text-primary);
+}
+
+/* Prose/article styling — light background context */
+.prose h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--color-accent);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.prose h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--color-text-primary);
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.prose p {
+  color: var(--color-text-muted);
+  margin-bottom: 1rem;
+  line-height: 1.8;
+}
+
+.prose ul {
+  list-style: disc;
+  padding-left: 1.5rem;
+  color: var(--color-text-muted);
+  margin-bottom: 1rem;
+}
+
+.prose ul li {
+  margin-bottom: 0.5rem;
+  line-height: 1.7;
+}
+
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1.5rem;
+  font-size: 0.875rem;
+}
+
+.prose table th {
+  background: var(--color-accent);
+  color: #ffffff;
+  font-weight: 600;
+  padding: 0.75rem 1rem;
+  text-align: left;
+  border: 1px solid var(--color-border);
+}
+
+.prose table td {
+  padding: 0.75rem 1rem;
+  color: var(--color-text-muted);
+  border: 1px solid var(--color-border);
+}
+
+.prose table tr:nth-child(even) td {
+  background: var(--color-bg-secondary);
+}
+
+/* Callout box */
+.callout {
+  background: rgba(0, 51, 102, 0.04);
+  border-left: 3px solid var(--color-accent);
+  border-radius: 0 8px 8px 0;
+  padding: 1.25rem 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.callout-title {
+  color: var(--color-accent);
+  font-weight: 700;
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.5rem;
+}
+
+.callout p {
+  margin-bottom: 0;
+}
+
+/* Utility gradient text — navy version */
+.gradient-text {
+  background: linear-gradient(135deg, #003366, #1e4d8c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Section transitions */
+.section-divider {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--color-border), transparent);
+}

@@ -1,0 +1,88 @@
+---
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+  ogImage?: string;
+}
+
+const {
+  title,
+  description = 'Titanium Industries — The world\'s most trusted source for specialty metals. Distributor of titanium, nickel, stainless steel, aluminum, carbon steel, and cobalt chrome with 20+ global service centers.',
+  ogImage = '/og-default.jpg'
+} = Astro.props;
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site ?? 'https://titaniumind.com');
+
+const organizationSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Titanium Industries, Inc.",
+  "url": "https://titaniumind.com",
+  "logo": "https://titaniumind.com/logo.png",
+  "foundingDate": "1972",
+  "description": "Specialty metals distributor with 20+ global service centers. Titanium, nickel, stainless steel, aluminum, carbon steel, and cobalt chrome.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "18 Green Pond Road",
+    "addressLocality": "Rockaway",
+    "addressRegion": "NJ",
+    "postalCode": "07866",
+    "addressCountry": "US"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+1-888-482-6486",
+    "contactType": "customer service"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/company/titanium-industries",
+    "https://twitter.com/titaniumind"
+  ]
+};
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="generator" content={Astro.generator} />
+
+  <!-- Primary Meta -->
+  <title>{title} | Titanium Industries, Inc.</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonicalURL} />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content={canonicalURL} />
+  <meta property="og:title" content={`${title} | Titanium Industries, Inc.`} />
+  <meta property="og:description" content={description} />
+  <meta property="og:image" content={ogImage} />
+  <meta property="og:site_name" content="Titanium Industries, Inc." />
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={`${title} | Titanium Industries`} />
+  <meta name="twitter:description" content={description} />
+  <meta name="twitter:image" content={ogImage} />
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="icon" href="/favicon.ico" />
+
+  <!-- JSON-LD -->
+  <script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
+</head>
+<body>
+  <Header />
+  <main>
+    <slot />
+  </main>
+  <Footer />
+</body>
+</html>

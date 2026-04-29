@@ -1,0 +1,345 @@
+---
+import Layout from '../../layouts/Layout.astro';
+
+const toc = [
+  { id: 'overview', label: 'Overview & Background' },
+  { id: 'scope', label: 'Scope of AMS 4928' },
+  { id: 'mechanical', label: 'Mechanical Property Requirements' },
+  { id: 'chemical', label: 'Chemical Composition' },
+  { id: 'testing', label: 'Testing & Certification' },
+  { id: 'forms', label: 'Product Forms Covered' },
+  { id: 'comparison', label: 'AMS 4928 vs. Other Specs' },
+  { id: 'ordering', label: 'Ordering Guidance' },
+];
+
+const ams4928Requirements = [
+  { property: 'Tensile Strength', requirement: '130 ksi (896 MPa) min', notes: 'Transverse direction for plate ≥ 1"' },
+  { property: 'Yield Strength', requirement: '120 ksi (827 MPa) min', notes: '0.2% offset method' },
+  { property: 'Elongation in 4D', requirement: '10% min', notes: 'Transverse: 8% min for plate' },
+  { property: 'Reduction in Area', requirement: '25% min', notes: 'Longitudinal specimens only' },
+  { property: 'Brinell Hardness', requirement: '36 HRC max', notes: 'Supplementary requirement' },
+  { property: 'Macrostructure', requirement: 'Per AMS 2372', notes: 'No laps, cracks, or seams' },
+  { property: 'Microstructure', requirement: 'Predominantly equiaxed alpha', notes: 'For annealed condition' },
+];
+
+const relatedArticles = [
+  { title: 'How to Choose Between Ti-6Al-4V and Ti-6Al-4V ELI', href: '/blog/ti-6al-4v-vs-eli', date: 'Jan 10, 2026' },
+  { title: 'Guide to Nickel Alloys for High-Temperature Applications', href: '/blog/nickel-alloy-selection', date: 'Jan 22, 2026' },
+  { title: 'Cobalt Chrome Alloys in Medical Device Manufacturing', href: '/blog/cobalt-chrome-medical', date: 'Nov 18, 2025' },
+];
+---
+
+<Layout
+  title="Understanding AMS 4928 Grade 5 Titanium Specifications"
+  description="A comprehensive breakdown of AMS 4928 requirements for Ti-6Al-4V (Grade 5) titanium — mechanical properties, chemical composition, product forms, and ordering guidance."
+>
+
+  <!-- Hero -->
+  <section style="background: linear-gradient(135deg, #1b2060 0%, #142050 60%, #1b2060 100%); padding: 4rem 0 3rem; position: relative; overflow: hidden;">
+    <div style="position: absolute; inset: 0; pointer-events: none; background-image: linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px); background-size: 60px 60px;"></div>
+
+    <div style="max-width: 1280px; margin: 0 auto; padding: 0 1.5rem; position: relative;">
+      <!-- Breadcrumb -->
+      <nav style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 1.5rem; font-size: 0.8rem; flex-wrap: wrap;">
+        <a href="/" style="color: #64748b; text-decoration: none;">Home</a>
+        <span style="color: #64748b;">/</span>
+        <a href="/blog" style="color: #64748b; text-decoration: none;">Resources</a>
+        <span style="color: #64748b;">/</span>
+        <span style="color: #93c5fd;">AMS 4928 Guide</span>
+      </nav>
+
+      <!-- Category & meta -->
+      <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 0.875rem; margin-bottom: 1.5rem;">
+        <span style="padding: 0.3rem 0.875rem; background: rgba(34,197,94,0.12); border: 1px solid rgba(34,197,94,0.3); border-radius: 4px; font-size: 0.72rem; font-weight: 700; color: #22c55e; letter-spacing: 0.06em; text-transform: uppercase;">
+          Technical Guide
+        </span>
+        <span style="font-size: 0.85rem; color: #64748b;">March 15, 2026</span>
+        <span style="color: #64748b; font-size: 0.75rem;">·</span>
+        <span style="font-size: 0.85rem; color: #64748b;">8 min read</span>
+      </div>
+
+      <h1 style="font-size: clamp(1.75rem, 4vw, 3rem); font-weight: 900; color: #ffffff; line-height: 1.15; max-width: 800px; margin-bottom: 1.5rem;">
+        Understanding AMS 4928 Grade 5 Titanium Specifications
+      </h1>
+
+      <!-- Author -->
+      <div style="display: flex; align-items: center; gap: 0.875rem;">
+        <div style="width: 44px; height: 44px; background: #003366; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.85rem; font-weight: 800; color: #ffffff; flex-shrink: 0;">JH</div>
+        <div>
+          <div style="font-size: 0.9rem; font-weight: 700; color: #ffffff;">James Hartley</div>
+          <div style="font-size: 0.8rem; color: #64748b;">Materials Engineer · Titanium Industries, Inc.</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Divider -->
+  <div style="height: 1px; background: linear-gradient(90deg, transparent, #e2e8f0, transparent);"></div>
+
+  <!-- Content + sidebar -->
+  <section style="background: #ffffff; padding: 4rem 0;">
+    <div style="max-width: 1280px; margin: 0 auto; padding: 0 1.5rem;">
+      <div style="display: grid; grid-template-columns: 1fr 300px; gap: 3.5rem; align-items: start;">
+
+        <!-- Article body -->
+        <article>
+
+          <!-- Overview -->
+          <section id="overview" style="margin-bottom: 2.5rem;">
+            <div class="prose">
+              <h2>Overview & Background</h2>
+              <p>AMS 4928 is the Aerospace Material Specification published by SAE International that governs the procurement of Ti-6Al-4V (Grade 5, UNS R56400) in bar, billet, and plate form. First issued in 1948 and revised numerous times since, AMS 4928 is the single most referenced titanium specification in the aerospace supply chain.</p>
+              <p>Ti-6Al-4V is an alpha-beta titanium alloy containing nominally 6% aluminum and 4% vanadium. The alloy achieves a tensile strength-to-density ratio superior to most structural materials, making it the default material choice for weight-critical airframe structures, engine components, and medical implants.</p>
+              <p>Understanding AMS 4928 is essential for anyone engineering, procuring, or inspecting titanium components. This guide covers the specification's scope, property requirements, testing methodology, and practical ordering considerations.</p>
+            </div>
+          </section>
+
+          <!-- Expert tip callout -->
+          <div class="callout" style="margin-bottom: 2.5rem;">
+            <div class="callout-title">Expert Tip</div>
+            <p>Always specify the AMS 4928 revision letter on your purchase orders. The current revision (as of early 2026) includes tighter microstructure requirements versus older revisions. Mill certifications must reference the same revision as your order to be valid for most aerospace programs.</p>
+          </div>
+
+          <!-- Scope -->
+          <section id="scope" style="margin-bottom: 2.5rem;">
+            <div class="prose">
+              <h2>Scope of AMS 4928</h2>
+              <p>AMS 4928 covers titanium alloy bars, billets, and plates in the annealed condition. The specification explicitly covers material with the following product form limitations:</p>
+              <ul>
+                <li><strong style="color: #1f2937;">Bar:</strong> All diameters and cross-sections in the hot finished condition</li>
+                <li><strong style="color: #1f2937;">Billet:</strong> All cross-sections in the as-forged or hot finished condition</li>
+                <li><strong style="color: #1f2937;">Plate:</strong> Thickness 0.250 inch and greater</li>
+              </ul>
+              <p>For sheet (under 0.250"), see AMS 4928's companion specification AMS 4911. For tubing, see AMS 4943 (seamless) or AMS 4944 (welded). Forgings are covered by AMS 4935.</p>
+            </div>
+          </section>
+
+          <!-- Mechanical requirements table -->
+          <section id="mechanical" style="margin-bottom: 2.5rem;">
+            <div class="prose">
+              <h2>Mechanical Property Requirements</h2>
+              <p>AMS 4928 establishes minimum mechanical property requirements that must be verified by tension testing of specimens taken from the finished product. The following table summarizes the critical requirements:</p>
+            </div>
+
+            <div style="overflow-x: auto; margin: 1.5rem 0;">
+              <table style="width: 100%; border-collapse: collapse; font-size: 0.875rem;">
+                <thead>
+                  <tr>
+                    <th style="background: #003366; color: #ffffff; font-weight: 700; padding: 0.75rem 1rem; text-align: left; border: 1px solid #e2e8f0; font-size: 0.75rem;">Property</th>
+                    <th style="background: #003366; color: #ffffff; font-weight: 700; padding: 0.75rem 1rem; text-align: left; border: 1px solid #e2e8f0; font-size: 0.75rem;">AMS 4928 Requirement</th>
+                    <th style="background: #003366; color: #ffffff; font-weight: 700; padding: 0.75rem 1rem; text-align: left; border: 1px solid #e2e8f0; font-size: 0.75rem;">Notes</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {ams4928Requirements.map((row, i) => (
+                    <tr>
+                      <td style={`padding: 0.75rem 1rem; color: #1f2937; font-weight: 500; border: 1px solid #e2e8f0; ${i % 2 === 1 ? 'background: #f8f9fa;' : ''}`}>{row.property}</td>
+                      <td style={`padding: 0.75rem 1rem; color: #003366; font-family: monospace; font-weight: 600; border: 1px solid #e2e8f0; ${i % 2 === 1 ? 'background: #f8f9fa;' : ''}`}>{row.requirement}</td>
+                      <td style={`padding: 0.75rem 1rem; color: #4b5563; font-size: 0.8rem; border: 1px solid #e2e8f0; ${i % 2 === 1 ? 'background: #f8f9fa;' : ''}`}>{row.notes}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+
+            <div class="prose">
+              <p>All tensile tests must be performed on specimens machined from material that has been heat treated per the specification. The test specimens are machined in the longitudinal direction (parallel to the grain flow) for bar and billet. For plate over 1 inch thick, transverse testing is required as a supplemental requirement.</p>
+            </div>
+          </section>
+
+          <!-- Chemical composition -->
+          <section id="chemical" style="margin-bottom: 2.5rem;">
+            <div class="prose">
+              <h2>Chemical Composition</h2>
+              <p>The chemical composition limits of AMS 4928 are essentially identical to those of ASTM B265 Grade 5 and ASTM B348 Grade 5. The key elements and their limits are as follows:</p>
+              <ul>
+                <li><strong style="color: #1f2937;">Aluminum (Al):</strong> 5.50–6.75% — primary alpha stabilizer</li>
+                <li><strong style="color: #1f2937;">Vanadium (V):</strong> 3.50–4.50% — beta stabilizer</li>
+                <li><strong style="color: #1f2937;">Iron (Fe):</strong> 0.30% max — controlled for corrosion and toughness</li>
+                <li><strong style="color: #1f2937;">Oxygen (O):</strong> 0.20% max — critical interstitial element</li>
+                <li><strong style="color: #1f2937;">Carbon (C):</strong> 0.08% max</li>
+                <li><strong style="color: #1f2937;">Hydrogen (H):</strong> 0.015% max — controlled to prevent hydrogen embrittlement</li>
+              </ul>
+              <p>For the medical grade counterpart (Grade 23, AMS 4930), oxygen is limited to 0.13% max and iron to 0.25% max — these tighter interstitial limits give Grade 23/ELI its superior fracture toughness.</p>
+            </div>
+          </section>
+
+          <!-- Testing -->
+          <section id="testing" style="margin-bottom: 2.5rem;">
+            <div class="prose">
+              <h2>Testing & Certification</h2>
+              <p>AMS 4928 requires the following minimum testing for each heat and lot:</p>
+              <ul>
+                <li><strong style="color: #1f2937;">Chemical Analysis:</strong> One heat analysis per melt — spectrometric or wet chemical</li>
+                <li><strong style="color: #1f2937;">Tension Testing:</strong> One specimen per lot per size or one per 2,500 lb, whichever is less</li>
+                <li><strong style="color: #1f2937;">Hardness:</strong> Brinell or Rockwell on each piece if required by purchase order</li>
+                <li><strong style="color: #1f2937;">Macrostructure:</strong> Transverse cross-section inspection per AMS 2372</li>
+                <li><strong style="color: #1f2937;">Ultrasonic:</strong> Per AMS 2631 — required for most aerospace applications as a supplemental requirement</li>
+              </ul>
+              <p>Titanium Industries provides full mill test reports (MTRs) with each shipment, including the original mill chemistry and mechanical test data traceable to the original heat number.</p>
+            </div>
+          </section>
+
+          <!-- Expert tip 2 -->
+          <div class="callout" style="margin-bottom: 2.5rem;">
+            <div class="callout-title">Expert Tip</div>
+            <p>When ordering for critical aerospace applications, always request ultrasonic testing per AMS 2631 Class A or B as a supplemental requirement. While standard AMS 4928 does not mandate UT, most aerospace prime contracts require it. Specifying it at time of order ensures the mill performs UT before shipping — retroactive testing of finished bar is far more expensive.</p>
+          </div>
+
+          <!-- Forms covered -->
+          <section id="forms" style="margin-bottom: 2.5rem;">
+            <div class="prose">
+              <h2>Product Forms Covered</h2>
+              <p>AMS 4928 covers the following product forms and their size ranges:</p>
+              <ul>
+                <li><strong style="color: #1f2937;">Round Bar:</strong> All diameters. Common stock: 0.125" through 8.000" diameter</li>
+                <li><strong style="color: #1f2937;">Flat Bar / Rectangular Bar:</strong> All widths and thicknesses</li>
+                <li><strong style="color: #1f2937;">Billet:</strong> Large cross-sections for forging stock, typically 4.000"+ diameter</li>
+                <li><strong style="color: #1f2937;">Plate:</strong> 0.250" to 4.000" thick, widths up to 60"</li>
+              </ul>
+            </div>
+          </section>
+
+          <!-- Comparison -->
+          <section id="comparison" style="margin-bottom: 2.5rem;">
+            <div class="prose">
+              <h2>AMS 4928 vs. Other Specifications</h2>
+              <p>Ti-6Al-4V appears in many specifications. Understanding when to use AMS 4928 vs. alternatives:</p>
+              <ul>
+                <li><strong style="color: #1f2937;">AMS 4928 vs. ASTM B348:</strong> AMS 4928 has stricter microstructure and macrostructure requirements. Use AMS 4928 for aerospace; ASTM B348 is acceptable for non-critical industrial applications.</li>
+                <li><strong style="color: #1f2937;">AMS 4928 vs. AMS 4930:</strong> AMS 4930 is the ELI (Grade 23) specification with tighter interstitial limits. Required for medical implant applications.</li>
+                <li><strong style="color: #1f2937;">AMS 4928 vs. MIL-T-9047:</strong> MIL-T-9047 is the older military specification; it is gradually being superseded by AMS 4928 across defense programs.</li>
+              </ul>
+            </div>
+          </section>
+
+          <!-- Ordering -->
+          <section id="ordering" style="margin-bottom: 2.5rem;">
+            <div class="prose">
+              <h2>Ordering Guidance</h2>
+              <p>When placing a purchase order for AMS 4928 material, include the following information to ensure you receive correctly certified material:</p>
+              <ul>
+                <li>Specification number and revision letter (e.g., AMS 4928P)</li>
+                <li>Alloy designation (Ti-6Al-4V or Grade 5)</li>
+                <li>Product form (bar, billet, or plate)</li>
+                <li>Size and tolerances (diameter, thickness, width, length)</li>
+                <li>Condition (annealed is standard; stress-relieved or STA may be specified)</li>
+                <li>Any supplemental requirements (UT class, DFARS compliance, 100% inspection)</li>
+              </ul>
+              <p>Titanium Industries maintains AS9100D registration and can provide first-article inspection (FAI) support, split certifications for cut-to-length orders, and DFARS compliance documentation on all domestic origin titanium.</p>
+            </div>
+          </section>
+
+          <!-- Related alloy cards -->
+          <div style="padding: 1.75rem; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; margin-bottom: 2rem; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
+            <h3 style="font-size: 1rem; font-weight: 800; color: #1f2937; margin-bottom: 1rem;">Related Alloy Data Sheets</h3>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem;">
+              {[
+                { name: 'Ti-6Al-4V (Grade 5)', spec: 'AMS 4928', href: '/alloys/titanium/ti-6al-4v' },
+                { name: 'Ti-6Al-4V ELI (Grade 23)', spec: 'AMS 4930', href: '/alloys/titanium/grade-23' },
+                { name: 'CP Grade 2', spec: 'AMS 4942', href: '/alloys/titanium/grade-2' },
+                { name: 'Ti-3Al-2.5V (Grade 9)', spec: 'AMS 4943', href: '/alloys/titanium/grade-9' },
+              ].map(alloy => (
+                <a href={alloy.href} style="padding: 1rem; background: rgba(10,22,40,0.4); border: 1px solid rgba(255,255,255,0.07); border-radius: 8px; text-decoration: none; transition: all 0.2s;"
+                  onmouseenter="this.style.borderColor='rgba(232,192,74,0.3)'; this.style.background='rgba(232,192,74,0.05)'"
+                  onmouseleave="this.style.borderColor='rgba(255,255,255,0.07)'; this.style.background='rgba(10,22,40,0.4)'"
+                >
+                  <div style="font-size: 0.875rem; font-weight: 700; color: #1f2937; margin-bottom: 0.2rem;">{alloy.name}</div>
+                  <div style="font-size: 0.75rem; color: #64748b; font-family: monospace;">{alloy.spec}</div>
+                </a>
+              ))}
+            </div>
+          </div>
+
+        </article>
+
+        <!-- Sidebar -->
+        <aside style="position: sticky; top: 100px; display: flex; flex-direction: column; gap: 1.5rem;">
+
+          <!-- Table of Contents -->
+          <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
+            <h3 style="font-size: 0.875rem; font-weight: 800; color: #1f2937; margin-bottom: 1rem; letter-spacing: 0.04em; text-transform: uppercase; font-size: 0.75rem;">
+              In This Article
+            </h3>
+            <nav>
+              <ul style="list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 0.25rem;">
+                {toc.map((item, i) => (
+                  <li>
+                    <a href={`#${item.id}`} style="display: flex; align-items: flex-start; gap: 0.625rem; padding: 0.4rem 0.5rem; font-size: 0.825rem; color: #4b5563; text-decoration: none; border-radius: 4px; transition: all 0.2s; line-height: 1.4;"
+                      onmouseenter="this.style.color='#003366'; this.style.background='rgba(0,51,102,0.04)'"
+                      onmouseleave="this.style.color='#4b5563'; this.style.background='transparent'"
+                    >
+                      <span style="color: #64748b; font-size: 0.7rem; margin-top: 2px; flex-shrink: 0;">{String(i + 1).padStart(2, '0')}</span>
+                      {item.label}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </nav>
+          </div>
+
+          <!-- Related alloys sidebar card -->
+          <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
+            <h3 style="font-size: 0.875rem; font-weight: 800; color: #1f2937; margin-bottom: 1rem;">Key Alloy</h3>
+            <a href="/alloys/titanium/ti-6al-4v" style="display: block; padding: 1rem; background: rgba(10,22,40,0.5); border: 1px solid rgba(232,192,74,0.2); border-radius: 8px; text-decoration: none; transition: all 0.2s;"
+              onmouseenter="this.style.borderColor='rgba(232,192,74,0.4)'"
+              onmouseleave="this.style.borderColor='rgba(232,192,74,0.2)'"
+            >
+              <div style="font-size: 0.7rem; font-weight: 700; color: #003366; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 0.5rem;">Ti-6Al-4V</div>
+              <div style="font-size: 0.875rem; font-weight: 700; color: #1f2937; margin-bottom: 0.3rem;">Grade 5 Titanium</div>
+              <div style="font-size: 0.775rem; color: #6b7280; margin-bottom: 0.75rem;">UNS R56400 · AMS 4928</div>
+              <div style="font-size: 0.78rem; color: #1e4d8c; font-weight: 600; display: flex; align-items: center; gap: 0.375rem;">
+                Full Data Sheet
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+              </div>
+            </a>
+          </div>
+
+          <!-- RFQ CTA -->
+          <div style="background: #1b2060; border: 1px solid rgba(255,255,255,0.15); border-radius: 12px; padding: 1.5rem;">
+            <div style="font-size: 0.7rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: #93c5fd; margin-bottom: 0.625rem;">Get Pricing</div>
+            <h3 style="font-size: 0.95rem; font-weight: 800; color: #ffffff; margin-bottom: 0.5rem;">Request AMS 4928 Quote</h3>
+            <p style="font-size: 0.8rem; color: #94a3b8; margin-bottom: 1.25rem; line-height: 1.5;">
+              24-hour quote turnaround on Ti-6Al-4V bar, plate, and billet in any size.
+            </p>
+            <a href="/contact?spec=AMS4928" style="display: block; padding: 0.75rem; background: #ffffff; color: #1b2060; font-size: 0.875rem; font-weight: 800; border-radius: 8px; text-decoration: none; text-align: center; transition: all 0.2s;"
+              onmouseenter="this.style.background='#f0cd6a'"
+              onmouseleave="this.style.background='#ffffff'"
+            >
+              Request Quote
+            </a>
+          </div>
+
+          <!-- Related articles -->
+          <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.04);">
+            <h3 style="font-size: 0.875rem; font-weight: 800; color: #1f2937; margin-bottom: 1rem;">Related Articles</h3>
+            <div style="display: flex; flex-direction: column; gap: 0.875rem;">
+              {relatedArticles.map(article => (
+                <a href={article.href} style="display: block; text-decoration: none; padding-bottom: 0.875rem; border-bottom: 1px solid rgba(255,255,255,0.06);"
+                  onmouseenter="this.querySelector('div').style.color='#003366'"
+                  onmouseleave="this.querySelector('div').style.color='#1f2937'"
+                >
+                  <div style="font-size: 0.825rem; font-weight: 600; color: #1f2937; line-height: 1.4; margin-bottom: 0.25rem; transition: color 0.2s;">{article.title}</div>
+                  <div style="font-size: 0.75rem; color: #64748b;">{article.date}</div>
+                </a>
+              ))}
+            </div>
+          </div>
+
+        </aside>
+      </div>
+    </div>
+  </section>
+
+</Layout>
+
+<style>
+  @media (max-width: 1024px) {
+    section > div > div[style*="grid-template-columns: 1fr 300px"] {
+      grid-template-columns: 1fr !important;
+    }
+    aside[style*="position: sticky"] {
+      position: static !important;
+    }
+  }
+</style>

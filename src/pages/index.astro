@@ -1,0 +1,836 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const alloyFamilies = [
+  {
+    icon: '⬡',
+    name: 'Titanium',
+    desc: 'Exceptional strength-to-weight ratio for aerospace and medical applications. Grades 1–38, Ti-6Al-4V, ELI, and more.',
+    href: '/alloys/titanium',
+    highlight: 'Aerospace & Medical',
+  },
+  {
+    icon: '◈',
+    name: 'Nickel Alloys',
+    desc: 'Superior corrosion and oxidation resistance for extreme temperature environments. Inconel, Hastelloy, Waspaloy.',
+    href: '/alloys/nickel',
+    highlight: 'High Temperature',
+  },
+  {
+    icon: '◇',
+    name: 'Stainless Steel',
+    desc: 'Versatile alloys balancing corrosion resistance, formability, and strength for industrial and medical applications.',
+    href: '/alloys/stainless-steel',
+    highlight: 'Industrial & Medical',
+  },
+  {
+    icon: '△',
+    name: 'Aluminum',
+    desc: 'Lightweight, highly formable alloys for aerospace structures, tooling, and precision machined components.',
+    href: '/alloys/aluminum',
+    highlight: 'Aerospace Structures',
+  },
+  {
+    icon: '□',
+    name: 'Carbon Steel',
+    desc: 'High-strength structural and tool steel alloys for demanding industrial applications and tooling.',
+    href: '/alloys/carbon-steel',
+    highlight: 'Structural & Tooling',
+  },
+  {
+    icon: '◎',
+    name: 'Cobalt Chrome',
+    desc: 'Biocompatible, wear-resistant alloys for medical implants, aerospace turbine components, and dental applications.',
+    href: '/alloys/cobalt-chrome',
+    highlight: 'Medical Implants',
+  },
+];
+
+const services = [
+  { icon: '◈', title: 'Precision Sawing', desc: 'Tight-tolerance bar and plate cutting to ±0.010" standard. High-speed cold saws for all alloy families.' },
+  { icon: '≋', title: 'Waterjet Cutting', desc: 'Complex 2D profiles in any thickness with no heat-affected zone. Ideal for titanium and nickel alloys.' },
+  { icon: '◉', title: 'Heat Treating', desc: 'In-house annealing, stress relieving, and solution treating with certified furnaces and documentation.' },
+  { icon: '◐', title: 'Surface Finishing', desc: 'Precision grinding, lapping, polishing, and specialty surface preparation to meet exacting requirements.' },
+  { icon: '◑', title: 'Quality Testing', desc: 'In-house ultrasonic, hardness, and chemistry verification. Full DFARS compliance and material traceability.' },
+  { icon: '⊠', title: 'Custom Packaging', desc: 'Protect-in-place packaging for aerospace-grade material. VCI, foam, and custom crating available.' },
+];
+
+const markets = [
+  { icon: '✈', name: 'Aerospace & Defense', desc: 'Qualified source for AS9100D materials serving commercial and military airframe programs.' },
+  { icon: '⚕', name: 'Medical & Dental', desc: 'ISO 10993 compatible alloys for orthopedic implants, surgical instruments, and dental prosthetics.' },
+  { icon: '⛽', name: 'Oil & Gas', desc: 'Corrosion-resistant alloys for downhole tools, subsea equipment, and refinery applications.' },
+  { icon: '⚡', name: 'Power Generation', desc: 'High-temperature alloys for turbine components, heat exchangers, and pressure vessels.' },
+  { icon: '⚓', name: 'Marine', desc: 'Seawater-resistant titanium and nickel alloys for naval, offshore, and commercial marine structures.' },
+  { icon: '⚙', name: 'Industrial Mfg.', desc: 'Precision-cut stock for tooling, fixtures, pumps, valves, and precision machined components.' },
+];
+
+const locations = [
+  'Rockaway, NJ', 'Jacksonville, FL', 'Garden Grove, CA', 'Woodinville, WA',
+  'Naperville, IL', 'Plymouth, MI', 'Tolland, CT', 'St. Laurent, Canada',
+  'Birmingham, UK', 'Meerbusch, Germany', 'Flévy, France', 'Verona, Italy',
+  'Shanghai, China', 'Taipei, Taiwan', 'Penang, Malaysia', 'Bengaluru, India',
+  'León, Mexico', 'São Paulo, Brazil',
+];
+
+const newsArticles = [
+  {
+    category: 'Technical Guide',
+    categoryColor: '#10b981',
+    date: 'Mar 2026',
+    title: 'Understanding AMS 4928 Grade 5 Titanium Specifications',
+    excerpt: 'A deep dive into the mechanical and chemical requirements of AMS 4928 — the aerospace standard for Ti-6Al-4V bar, billet, and plate.',
+    href: '/blog/ams-4928-grade-5-titanium',
+    readTime: '8 min read',
+  },
+  {
+    category: 'Company News',
+    categoryColor: '#2563eb',
+    date: 'Feb 2026',
+    title: 'Titanium Industries Expands Montreal Service Center Capacity',
+    excerpt: 'A $4.2M investment in new precision sawing and waterjet equipment doubles throughput at our Montreal facility.',
+    href: '/blog/montreal-expansion',
+    readTime: '3 min read',
+  },
+  {
+    category: 'Technical Guide',
+    categoryColor: '#10b981',
+    date: 'Jan 2026',
+    title: 'Guide to Selecting Nickel Alloys for High-Temperature Applications',
+    excerpt: 'Inconel 625 vs. 718 vs. Hastelloy X — a practical framework for choosing the right nickel alloy above 800°F.',
+    href: '/blog/nickel-alloy-selection',
+    readTime: '10 min read',
+  },
+];
+
+const trustStats = [
+  { value: '53', label: 'Years Experience' },
+  { value: '20+', label: 'Global Locations' },
+  { value: '5,000+', label: 'Alloys Stocked' },
+  { value: '24hr', label: 'Quote Turnaround' },
+];
+---
+
+<Layout
+  title="Specialty Metals Distributor"
+  description="Titanium Industries — The world's most trusted source for specialty metals. Titanium, nickel, stainless steel, aluminum, carbon steel, and cobalt chrome with 20+ global service centers and same-day shipping."
+>
+
+  <!-- ===================== HERO SLIDER ===================== -->
+  <section id="hero-slider" style="position: relative; overflow: hidden; height: calc(100vh - 72px); min-height: 560px; max-height: 800px;">
+
+    <!-- SLIDES -->
+    <div id="slider-track" style="position: absolute; inset: 0;">
+
+      <!-- Slide 1: Specialty Metals Inventory -->
+      <div class="hero-slide" style="position: absolute; inset: 0; opacity: 1; transition: opacity 1s ease;">
+        <div class="slide-bg" style="position: absolute; inset: -5%; background: url('/images/slide-inventory.jpg') center/cover no-repeat; transform: scale(1); transition: transform 8s ease-out;"></div>
+        <div style="position: absolute; inset: 0; background: linear-gradient(135deg, rgba(13,20,60,0.82) 0%, rgba(20,30,80,0.65) 50%, rgba(10,15,40,0.4) 100%);"></div>
+        <div style="position: absolute; inset: 0; display: flex; align-items: center;">
+          <div style="max-width: 1280px; margin: 0 auto; padding: 0 3rem; width: 100%;">
+            <div class="slide-content" style="max-width: 720px; opacity: 0; transform: translateY(30px); transition: opacity 0.8s ease 0.3s, transform 0.8s ease 0.3s;">
+              <div style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.35rem 0.875rem; background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.25); border-radius: 100px; margin-bottom: 1.5rem;">
+                <span style="width: 5px; height: 5px; background: #93c5fd; border-radius: 50%; display: inline-block;"></span>
+                <span style="font-size: 0.75rem; font-weight: 600; color: #e2e8f0; letter-spacing: 0.06em; text-transform: uppercase;">Founded 1972 · AS9100D Certified</span>
+              </div>
+              <h1 style="font-size: clamp(2.25rem, 5vw, 4.5rem); font-weight: 900; line-height: 1.0; letter-spacing: -0.02em; color: #ffffff; margin-bottom: 1.25rem;">
+                The Global Leader in<br>
+                <span style="color: #93c5fd;">Specialty Metals</span>
+              </h1>
+              <p style="font-size: clamp(1rem, 2vw, 1.2rem); color: #cbd5e1; margin-bottom: 2.5rem; line-height: 1.7; max-width: 580px;">
+                Titanium · Nickel Alloys · Stainless Steel · Aluminum · Carbon Steel · Cobalt Chrome — 20+ global service centers, same-day shipping.
+              </p>
+              <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
+                <a href="/contact" style="padding: 0.875rem 2.25rem; background: #ffffff; color: #1b2060; font-size: 1rem; font-weight: 800; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 0.5rem; transition: all 0.2s;"
+                  onmouseenter="this.style.background='#e0e7ff'; this.style.transform='translateY(-2px)'"
+                  onmouseleave="this.style.background='#ffffff'; this.style.transform='translateY(0)'">
+                  Create Quote
+                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+                </a>
+                <a href="/alloys/titanium" style="padding: 0.875rem 2rem; background: transparent; color: #ffffff; font-size: 1rem; font-weight: 600; border-radius: 8px; text-decoration: none; border: 2px solid rgba(255,255,255,0.4); transition: all 0.2s;"
+                  onmouseenter="this.style.borderColor='rgba(255,255,255,0.8)'; this.style.background='rgba(255,255,255,0.1)'"
+                  onmouseleave="this.style.borderColor='rgba(255,255,255,0.4)'; this.style.background='transparent'">
+                  Browse Alloys
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Slide 2: World-Class Multi-Alloy Distributor -->
+      <div class="hero-slide" style="position: absolute; inset: 0; opacity: 0; transition: opacity 1s ease;">
+        <div class="slide-bg" style="position: absolute; inset: -5%; background: url('/images/slide-world-class.png') center/cover no-repeat; transform: scale(1.05); transition: transform 8s ease-out;"></div>
+        <div style="position: absolute; inset: 0; background: linear-gradient(135deg, rgba(10,15,50,0.75) 0%, rgba(20,30,80,0.5) 100%);"></div>
+        <div style="position: absolute; inset: 0; display: flex; align-items: center;">
+          <div style="max-width: 1280px; margin: 0 auto; padding: 0 3rem; width: 100%;">
+            <div class="slide-content" style="max-width: 680px; opacity: 0; transform: translateY(30px); transition: opacity 0.8s ease 0.3s, transform 0.8s ease 0.3s;">
+              <div style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.35rem 0.875rem; background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.25); border-radius: 100px; margin-bottom: 1.5rem;">
+                <span style="width: 5px; height: 5px; background: #93c5fd; border-radius: 50%; display: inline-block;"></span>
+                <span style="font-size: 0.75rem; font-weight: 600; color: #e2e8f0; letter-spacing: 0.06em; text-transform: uppercase;">World-Class Distributor</span>
+              </div>
+              <h2 style="font-size: clamp(2rem, 4.5vw, 4rem); font-weight: 900; line-height: 1.05; color: #ffffff; margin-bottom: 1.25rem;">
+                Multi-Alloy<br>
+                <span style="color: #93c5fd;">Distribution Excellence</span>
+              </h2>
+              <p style="font-size: clamp(1rem, 2vw, 1.15rem); color: #cbd5e1; margin-bottom: 2.5rem; line-height: 1.7; max-width: 560px;">
+                Complete inventory of titanium, nickel, stainless, aluminum, and cobalt chrome mill products. Quick Quote App available for instant pricing.
+              </p>
+              <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
+                <a href="/contact" style="padding: 0.875rem 2.25rem; background: #ffffff; color: #1b2060; font-size: 1rem; font-weight: 800; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 0.5rem; transition: all 0.2s;"
+                  onmouseenter="this.style.background='#e0e7ff'; this.style.transform='translateY(-2px)'"
+                  onmouseleave="this.style.background='#ffffff'; this.style.transform='translateY(0)'">
+                  Create Quote
+                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+                </a>
+                <a href="/contact#rfq" style="padding: 0.875rem 2rem; background: transparent; color: #ffffff; font-size: 1rem; font-weight: 600; border-radius: 8px; text-decoration: none; border: 2px solid rgba(255,255,255,0.4); transition: all 0.2s;"
+                  onmouseenter="this.style.borderColor='rgba(255,255,255,0.8)'; this.style.background='rgba(255,255,255,0.1)'"
+                  onmouseleave="this.style.borderColor='rgba(255,255,255,0.4)'; this.style.background='transparent'">
+                  Submit RFQ
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Slide 3: Markets / Industries -->
+      <div class="hero-slide" style="position: absolute; inset: 0; opacity: 0; transition: opacity 1s ease;">
+        <div class="slide-bg" style="position: absolute; inset: -5%; background: url('/images/slide-markets.jpg') center/cover no-repeat; transform: scale(1.05); transition: transform 8s ease-out;"></div>
+        <div style="position: absolute; inset: 0; background: linear-gradient(135deg, rgba(10,15,50,0.88) 0%, rgba(20,30,80,0.7) 60%, rgba(10,20,60,0.5) 100%);"></div>
+        <div style="position: absolute; inset: 0; display: flex; align-items: center;">
+          <div style="max-width: 1280px; margin: 0 auto; padding: 0 3rem; width: 100%;">
+            <div class="slide-content" style="max-width: 700px; opacity: 0; transform: translateY(30px); transition: opacity 0.8s ease 0.3s, transform 0.8s ease 0.3s;">
+              <div style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.35rem 0.875rem; background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.25); border-radius: 100px; margin-bottom: 1.5rem;">
+                <span style="width: 5px; height: 5px; background: #93c5fd; border-radius: 50%; display: inline-block;"></span>
+                <span style="font-size: 0.75rem; font-weight: 600; color: #e2e8f0; letter-spacing: 0.06em; text-transform: uppercase;">Global Markets</span>
+              </div>
+              <h2 style="font-size: clamp(2rem, 4.5vw, 4rem); font-weight: 900; line-height: 1.05; color: #ffffff; margin-bottom: 1.25rem;">
+                Serving the World's<br>
+                <span style="color: #93c5fd;">Most Demanding Industries</span>
+              </h2>
+              <p style="font-size: clamp(1rem, 2vw, 1.15rem); color: #cbd5e1; margin-bottom: 1.75rem; line-height: 1.7; max-width: 580px;">
+                Aerospace · Defense · Medical · Oil & Gas · Industrial · Marine — global leader since 1972 with AS9100D accreditation at every location.
+              </p>
+              <!-- Market tags -->
+              <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 2rem;">
+                {['Aerospace', 'Defense', 'Medical', 'Oil & Gas', 'Industrial', 'Marine'].map(m => (
+                  <span style="padding: 0.35rem 0.875rem; background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.2); border-radius: 100px; font-size: 0.8rem; font-weight: 600; color: #e2e8f0;">{m}</span>
+                ))}
+              </div>
+              <a href="/contact" style="padding: 0.875rem 2.25rem; background: #ffffff; color: #1b2060; font-size: 1rem; font-weight: 800; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 0.5rem; transition: all 0.2s;"
+                onmouseenter="this.style.background='#e0e7ff'; this.style.transform='translateY(-2px)'"
+                onmouseleave="this.style.background='#ffffff'; this.style.transform='translateY(0)'">
+                Learn More
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Navigation arrows -->
+    <button id="slider-prev" aria-label="Previous slide" style="position: absolute; left: 1.5rem; top: 50%; transform: translateY(-50%); z-index: 10; width: 48px; height: 48px; background: rgba(255,255,255,0.12); backdrop-filter: blur(8px); border: 1px solid rgba(255,255,255,0.25); border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; transition: all 0.2s;"
+      onmouseenter="this.style.background='rgba(255,255,255,0.25)'"
+      onmouseleave="this.style.background='rgba(255,255,255,0.12)'">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2.5"><path d="M15 18l-6-6 6-6"/></svg>
+    </button>
+    <button id="slider-next" aria-label="Next slide" style="position: absolute; right: 1.5rem; top: 50%; transform: translateY(-50%); z-index: 10; width: 48px; height: 48px; background: rgba(255,255,255,0.12); backdrop-filter: blur(8px); border: 1px solid rgba(255,255,255,0.25); border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; transition: all 0.2s;"
+      onmouseenter="this.style.background='rgba(255,255,255,0.25)'"
+      onmouseleave="this.style.background='rgba(255,255,255,0.12)'">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2.5"><path d="M9 18l6-6-6-6"/></svg>
+    </button>
+
+    <!-- Dot indicators -->
+    <div id="slider-dots" style="position: absolute; bottom: 2rem; left: 50%; transform: translateX(-50%); display: flex; gap: 0.625rem; z-index: 10;">
+      <button class="slider-dot active-dot" data-index="0" aria-label="Slide 1" style="width: 10px; height: 10px; border-radius: 50%; border: none; cursor: pointer; background: #ffffff; transition: all 0.3s;"></button>
+      <button class="slider-dot" data-index="1" aria-label="Slide 2" style="width: 10px; height: 10px; border-radius: 50%; border: none; cursor: pointer; background: rgba(255,255,255,0.4); transition: all 0.3s;"></button>
+      <button class="slider-dot" data-index="2" aria-label="Slide 3" style="width: 10px; height: 10px; border-radius: 50%; border: none; cursor: pointer; background: rgba(255,255,255,0.4); transition: all 0.3s;"></button>
+    </div>
+
+    <!-- Stats bar at bottom -->
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; z-index: 10; background: rgba(13,20,60,0.85); backdrop-filter: blur(12px); border-top: 1px solid rgba(255,255,255,0.1);">
+      <div style="max-width: 1280px; margin: 0 auto; display: grid; grid-template-columns: repeat(4, 1fr);">
+        {trustStats.map((stat, i) => (
+          <div style={`padding: 1rem; text-align: center; ${i < trustStats.length - 1 ? 'border-right: 1px solid rgba(255,255,255,0.1);' : ''}`}>
+            <div style="font-size: 1.5rem; font-weight: 900; color: #ffffff; line-height: 1; margin-bottom: 0.2rem;">{stat.value}</div>
+            <div style="font-size: 0.65rem; color: #94a3b8; font-weight: 500; letter-spacing: 0.05em; text-transform: uppercase;">{stat.label}</div>
+          </div>
+        ))}
+      </div>
+    </div>
+
+  </section>
+
+  <script is:inline>
+  (function() {
+    const SLIDES = document.querySelectorAll('.hero-slide');
+    const CONTENTS = document.querySelectorAll('.slide-content');
+    const DOTS = document.querySelectorAll('.slider-dot');
+    const TOTAL = SLIDES.length;
+    let cur = 0;
+    let t = null;
+
+    function show(n) {
+      n = (n + TOTAL) % TOTAL;
+      // Update slides
+      SLIDES.forEach(function(s, i) { s.style.opacity = i === n ? '1' : '0'; });
+      // Update content
+      CONTENTS.forEach(function(c, i) {
+        c.style.opacity = i === n ? '1' : '0';
+        c.style.transform = i === n ? 'translateY(0)' : 'translateY(20px)';
+      });
+      // Update dots
+      DOTS.forEach(function(d, i) {
+        d.style.background = i === n ? '#ffffff' : 'rgba(255,255,255,0.4)';
+        d.style.width = i === n ? '28px' : '10px';
+        d.style.borderRadius = i === n ? '5px' : '50%';
+      });
+      // Ken Burns on incoming slide
+      var bg = SLIDES[n].querySelector('.slide-bg');
+      if (bg) {
+        bg.style.transition = 'none';
+        bg.style.transform = 'scale(1.08)';
+        requestAnimationFrame(function() {
+          requestAnimationFrame(function() {
+            bg.style.transition = 'transform 8s ease-out';
+            bg.style.transform = 'scale(1)';
+          });
+        });
+      }
+      cur = n;
+    }
+
+    function startTimer() {
+      t = setInterval(function() { show(cur + 1); }, 7000);
+    }
+
+    function resetTimer() {
+      clearInterval(t);
+      startTimer();
+    }
+
+    // Init
+    show(0);
+    startTimer();
+
+    // Arrows
+    var prev = document.getElementById('slider-prev');
+    var next = document.getElementById('slider-next');
+    if (prev) prev.addEventListener('click', function() { show(cur - 1); resetTimer(); });
+    if (next) next.addEventListener('click', function() { show(cur + 1); resetTimer(); });
+
+    // Dots
+    DOTS.forEach(function(d, i) {
+      d.addEventListener('click', function() { show(i); resetTimer(); });
+    });
+
+    // Pause on hover
+    var hero = document.getElementById('hero-slider');
+    if (hero) {
+      hero.addEventListener('mouseenter', function() { clearInterval(t); });
+      hero.addEventListener('mouseleave', function() { startTimer(); });
+    }
+  })();
+  </script>
+
+  <!-- Section divider -->
+  <div style="height: 1px; background: linear-gradient(90deg, transparent, #e2e8f0, transparent);"></div>
+
+  <!-- ===================== ALLOY FAMILIES ===================== -->
+  <section style="background: #ffffff; padding: 6rem 0;">
+    <div style="max-width: 1280px; margin: 0 auto; padding: 0 1.5rem;">
+
+      <!-- Section header -->
+      <div style="text-align: center; margin-bottom: 3.5rem;">
+        <div style="display: inline-block; padding: 0.35rem 1rem; background: rgba(0,51,102,0.06); border: 1px solid rgba(0,51,102,0.15); border-radius: 100px; font-size: 0.75rem; font-weight: 700; color: #003366; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 1rem;">
+          Materials
+        </div>
+        <h2 style="font-size: clamp(1.75rem, 3vw, 2.75rem); font-weight: 800; color: #1f2937; margin-bottom: 1rem;">
+          Materials We Distribute
+        </h2>
+        <p style="font-size: 1rem; color: #4b5563; max-width: 520px; margin: 0 auto;">
+          Over 5,000 alloys in stock across six material families. Same-day shipping available on standard stock items.
+        </p>
+      </div>
+
+      <!-- Alloy grid -->
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.25rem;">
+        {alloyFamilies.map(alloy => (
+          <a
+            href={alloy.href}
+            style="display: block; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.75rem; text-decoration: none; transition: all 0.3s; position: relative; overflow: hidden;"
+            onmouseenter="this.style.borderColor='#003366'; this.style.transform='translateY(-3px)'; this.style.boxShadow='0 12px 32px rgba(0,51,102,0.1)'"
+            onmouseleave="this.style.borderColor='#e2e8f0'; this.style.transform='translateY(0)'; this.style.boxShadow='none'"
+          >
+            <!-- Icon -->
+            <div style="font-size: 1.75rem; color: #003366; margin-bottom: 1rem; opacity: 0.9;">{alloy.icon}</div>
+
+            <!-- Highlight badge -->
+            <div style="display: inline-block; padding: 0.2rem 0.625rem; background: rgba(0,51,102,0.06); border-radius: 4px; font-size: 0.65rem; font-weight: 700; color: #003366; letter-spacing: 0.06em; text-transform: uppercase; margin-bottom: 0.75rem;">
+              {alloy.highlight}
+            </div>
+
+            <h3 style="font-size: 1.1rem; font-weight: 700; color: #1f2937; margin-bottom: 0.625rem;">{alloy.name}</h3>
+            <p style="font-size: 0.875rem; color: #4b5563; line-height: 1.6; margin-bottom: 1.25rem;">{alloy.desc}</p>
+
+            <div style="display: flex; align-items: center; gap: 0.375rem; font-size: 0.8rem; font-weight: 600; color: #1e4d8c;">
+              View Alloys
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Section divider -->
+  <div style="height: 1px; background: linear-gradient(90deg, transparent, #e2e8f0, transparent);"></div>
+
+  <!-- ===================== PRODUCTS / FORMS ===================== -->
+  <section style="background: #f8f9fa; padding: 5rem 0;">
+    <div style="max-width: 1280px; margin: 0 auto; padding: 0 1.5rem;">
+
+      <div style="text-align: center; margin-bottom: 3rem;">
+        <div style="display: inline-block; padding: 0.35rem 1rem; background: rgba(0,51,102,0.06); border: 1px solid rgba(0,51,102,0.15); border-radius: 100px; font-size: 0.75rem; font-weight: 700; color: #003366; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 1rem;">
+          Products
+        </div>
+        <h2 style="font-size: clamp(1.75rem, 3vw, 2.75rem); font-weight: 800; color: #1f2937; margin-bottom: 0.75rem;">
+          Full Line of Multi-Metals
+        </h2>
+        <p style="font-size: 1rem; color: #4b5563; max-width: 580px; margin: 0 auto;">
+          Complete inventory of mill products across all forms — from round bar and plate to pipe, fittings, and precision cut stock.
+        </p>
+      </div>
+
+      <!-- Mill Products -->
+      <div style="margin-bottom: 2rem;">
+        <h3 style="font-size: 0.75rem; font-weight: 700; color: #003366; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid #e2e8f0;">Mill Products</h3>
+        <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 0.75rem;">
+          {['Round Bar', 'Rectangle Bar', 'Hollow Bar', 'Hex Bar', 'Plate', 'Sheet', 'Block', 'Billet', 'Wire / Coil', 'Expanded Metal'].map(form => (
+            <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 1rem 0.875rem; text-align: center; transition: all 0.2s;"
+              onmouseenter="this.style.borderColor='#003366'; this.style.boxShadow='0 4px 12px rgba(0,51,102,0.08)'"
+              onmouseleave="this.style.borderColor='#e2e8f0'; this.style.boxShadow='none'"
+            >
+              <div style="font-size: 0.875rem; font-weight: 600; color: #1f2937;">{form}</div>
+            </div>
+          ))}
+        </div>
+      </div>
+
+      <!-- Pipe & Fittings -->
+      <div style="margin-bottom: 2.5rem;">
+        <h3 style="font-size: 0.75rem; font-weight: 700; color: #003366; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid #e2e8f0;">Pipe & Fittings</h3>
+        <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 0.75rem;">
+          {['Seamless Pipe', 'Welded Pipe', 'Seamless Tube', 'Welded Tube', 'Flanges', 'Elbows 45° & 90°', 'Tees', 'Stub Ends', 'Concentric Reducers', 'Eccentric Reducers'].map(form => (
+            <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 1rem 0.875rem; text-align: center; transition: all 0.2s;"
+              onmouseenter="this.style.borderColor='#003366'; this.style.boxShadow='0 4px 12px rgba(0,51,102,0.08)'"
+              onmouseleave="this.style.borderColor='#e2e8f0'; this.style.boxShadow='none'"
+            >
+              <div style="font-size: 0.875rem; font-weight: 600; color: #1f2937;">{form}</div>
+            </div>
+          ))}
+        </div>
+      </div>
+
+      <!-- CTAs -->
+      <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+        <a href="/contact" style="padding: 0.75rem 2rem; background: #003366; color: #ffffff; font-size: 0.9rem; font-weight: 700; border-radius: 8px; text-decoration: none; transition: background 0.2s;"
+          onmouseenter="this.style.background='#1e4d8c'"
+          onmouseleave="this.style.background='#003366'"
+        >Create Quote</a>
+        <a href="/contact#rfq" style="padding: 0.75rem 2rem; background: #ffffff; color: #003366; font-size: 0.9rem; font-weight: 700; border-radius: 8px; text-decoration: none; border: 1.5px solid #003366; transition: all 0.2s;"
+          onmouseenter="this.style.background='rgba(0,51,102,0.05)'"
+          onmouseleave="this.style.background='#ffffff'"
+        >Submit RFQ</a>
+        <a href="/alloys/titanium" style="padding: 0.75rem 2rem; background: #ffffff; color: #003366; font-size: 0.9rem; font-weight: 700; border-radius: 8px; text-decoration: none; border: 1.5px solid #003366; transition: all 0.2s;"
+          onmouseenter="this.style.background='rgba(0,51,102,0.05)'"
+          onmouseleave="this.style.background='#ffffff'"
+        >Browse Alloys</a>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Section divider -->
+  <div style="height: 1px; background: linear-gradient(90deg, transparent, #e2e8f0, transparent);"></div>
+
+  <!-- ===================== SERVICES ===================== -->
+  <section style="background: #f8f9fa; padding: 6rem 0;">
+    <div style="max-width: 1280px; margin: 0 auto; padding: 0 1.5rem;">
+
+      <div style="display: grid; grid-template-columns: 1fr 2fr; gap: 4rem; align-items: start;">
+
+        <!-- Left: photo + header -->
+        <div style="position: sticky; top: 100px;">
+          <!-- Real waterjet photo -->
+          <div style="border-radius: 12px; overflow: hidden; margin-bottom: 1.75rem; box-shadow: 0 8px 32px rgba(0,0,0,0.12);">
+            <img
+              src="/images/waterjet.jpg"
+              alt="Waterjet cutting precision metals"
+              style="width: 100%; height: 220px; object-fit: cover; display: block;"
+              loading="lazy"
+            />
+          </div>
+
+          <div style="display: inline-block; padding: 0.35rem 1rem; background: rgba(0,51,102,0.06); border: 1px solid rgba(0,51,102,0.15); border-radius: 100px; font-size: 0.75rem; font-weight: 700; color: #003366; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 1rem;">
+            Services
+          </div>
+          <h2 style="font-size: clamp(1.75rem, 3vw, 2.5rem); font-weight: 800; color: #1f2937; margin-bottom: 1rem; line-height: 1.15;">
+            Value-Added Services
+          </h2>
+          <p style="font-size: 0.95rem; color: #4b5563; line-height: 1.7; margin-bottom: 2rem;">
+            Beyond distribution — full-service processing at every location. Receive material cut, treated, and tested to your exact specification.
+          </p>
+          <a href="/services" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #003366; color: #ffffff; font-size: 0.875rem; font-weight: 700; border-radius: 8px; text-decoration: none; transition: all 0.2s;"
+            onmouseenter="this.style.background='#1e4d8c'"
+            onmouseleave="this.style.background='#003366'"
+          >
+            All Services
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </a>
+        </div>
+
+        <!-- Right: service cards grid -->
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
+          {services.map(service => (
+            <div
+              style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 1.5rem; transition: all 0.3s;"
+              onmouseenter="this.style.borderColor='#003366'; this.style.boxShadow='0 4px 16px rgba(0,51,102,0.08)'"
+              onmouseleave="this.style.borderColor='#e2e8f0'; this.style.boxShadow='none'"
+            >
+              <div style="font-size: 1.25rem; color: #003366; margin-bottom: 0.875rem;">{service.icon}</div>
+              <h3 style="font-size: 0.95rem; font-weight: 700; color: #1f2937; margin-bottom: 0.5rem;">{service.title}</h3>
+              <p style="font-size: 0.825rem; color: #4b5563; line-height: 1.6;">{service.desc}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section divider -->
+  <div style="height: 1px; background: linear-gradient(90deg, transparent, #e2e8f0, transparent);"></div>
+
+  <!-- ===================== MARKETS ===================== -->
+  <section style="background: #ffffff; padding: 6rem 0;">
+    <div style="max-width: 1280px; margin: 0 auto; padding: 0 1.5rem;">
+
+      <div style="text-align: center; margin-bottom: 3.5rem;">
+        <div style="display: inline-block; padding: 0.35rem 1rem; background: rgba(0,51,102,0.06); border: 1px solid rgba(0,51,102,0.15); border-radius: 100px; font-size: 0.75rem; font-weight: 700; color: #003366; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 1rem;">
+          Markets
+        </div>
+        <h2 style="font-size: clamp(1.75rem, 3vw, 2.75rem); font-weight: 800; color: #1f2937; margin-bottom: 1rem;">
+          Industries We Serve
+        </h2>
+        <p style="font-size: 1rem; color: #4b5563; max-width: 520px; margin: 0 auto;">
+          Specialty metals expertise spanning the most demanding industries on the planet.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.25rem;">
+        {markets.map(market => (
+          <div
+            style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 2rem 1.75rem; transition: all 0.3s; cursor: default;"
+            onmouseenter="this.style.borderColor='#003366'; this.style.transform='translateY(-2px)'; this.style.boxShadow='0 8px 24px rgba(0,51,102,0.08)'"
+            onmouseleave="this.style.borderColor='#e2e8f0'; this.style.transform='translateY(0)'; this.style.boxShadow='none'"
+          >
+            <div style="font-size: 1.75rem; margin-bottom: 1rem;">{market.icon}</div>
+            <h3 style="font-size: 1rem; font-weight: 700; color: #1f2937; margin-bottom: 0.5rem;">{market.name}</h3>
+            <p style="font-size: 0.85rem; color: #4b5563; line-height: 1.6;">{market.desc}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Section divider -->
+  <div style="height: 1px; background: linear-gradient(90deg, transparent, #e2e8f0, transparent);"></div>
+
+  <!-- ===================== GLOBAL PRESENCE ===================== -->
+  <section style="background: #f8f9fa; padding: 6rem 0;">
+    <div style="max-width: 1280px; margin: 0 auto; padding: 0 1.5rem;">
+
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 4rem; align-items: center;">
+
+        <!-- Left: content -->
+        <div>
+          <div style="display: inline-block; padding: 0.35rem 1rem; background: rgba(0,51,102,0.06); border: 1px solid rgba(0,51,102,0.15); border-radius: 100px; font-size: 0.75rem; font-weight: 700; color: #003366; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 1rem;">
+            Global Presence
+          </div>
+          <h2 style="font-size: clamp(1.75rem, 3vw, 2.5rem); font-weight: 800; color: #1f2937; margin-bottom: 1rem;">
+            20+ Locations Worldwide
+          </h2>
+          <p style="font-size: 0.95rem; color: #4b5563; line-height: 1.7; margin-bottom: 2rem;">
+            With service centers across North America, Europe, and Asia-Pacific, we deliver the right material to your facility faster than any other specialty metals distributor.
+          </p>
+
+          <!-- Location pills -->
+          <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+            {locations.map(loc => (
+              <span style="padding: 0.375rem 0.875rem; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 100px; font-size: 0.78rem; color: #4b5563; font-weight: 500; transition: all 0.2s;"
+                onmouseenter="this.style.borderColor='#003366'; this.style.color='#003366'; this.style.background='rgba(0,51,102,0.04)'"
+                onmouseleave="this.style.borderColor='#e2e8f0'; this.style.color='#4b5563'; this.style.background='#ffffff'"
+              >
+                {loc}
+              </span>
+            ))}
+          </div>
+        </div>
+
+        <!-- Right: real global network image -->
+        <div style="position: relative;">
+          <div style="border-radius: 16px; overflow: hidden; box-shadow: 0 16px 48px rgba(0,0,0,0.15); border: 1px solid #e2e8f0;">
+            <img
+              src="/images/global-network.jpg"
+              alt="Titanium Industries global supply network"
+              style="width: 100%; height: 320px; object-fit: cover; display: block;"
+              loading="lazy"
+            />
+          </div>
+
+          <!-- Stat bar below image -->
+          <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 0; margin-top: 1rem; border: 1px solid #e2e8f0; border-radius: 12px; overflow: hidden; background: #ffffff; box-shadow: 0 2px 8px rgba(0,0,0,0.06);">
+            <div style="padding: 1.25rem 1rem; text-align: center; border-right: 1px solid #e2e8f0;">
+              <div style="font-size: 1.75rem; font-weight: 900; color: #003366; line-height: 1; margin-bottom: 0.25rem;">20+</div>
+              <div style="font-size: 0.7rem; color: #64748b; font-weight: 500; text-transform: uppercase; letter-spacing: 0.04em;">Locations</div>
+            </div>
+            <div style="padding: 1.25rem 1rem; text-align: center; border-right: 1px solid #e2e8f0;">
+              <div style="font-size: 1.75rem; font-weight: 900; color: #003366; line-height: 1; margin-bottom: 0.25rem;">24/7</div>
+              <div style="font-size: 0.7rem; color: #64748b; font-weight: 500; text-transform: uppercase; letter-spacing: 0.04em;">Operations</div>
+            </div>
+            <div style="padding: 1.25rem 1rem; text-align: center;">
+              <div style="font-size: 1.75rem; font-weight: 900; color: #003366; line-height: 1; margin-bottom: 0.25rem;">98%</div>
+              <div style="font-size: 0.7rem; color: #64748b; font-weight: 500; text-transform: uppercase; letter-spacing: 0.04em;">On-Time Delivery</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Section divider -->
+  <div style="height: 1px; background: linear-gradient(90deg, transparent, #e2e8f0, transparent);"></div>
+
+  <!-- ===================== BLOG / NEWS ===================== -->
+  <section style="background: #ffffff; padding: 6rem 0;">
+    <div style="max-width: 1280px; margin: 0 auto; padding: 0 1.5rem;">
+
+      <div style="display: flex; align-items: flex-end; justify-content: space-between; margin-bottom: 3rem; flex-wrap: wrap; gap: 1rem;">
+        <div>
+          <div style="display: inline-block; padding: 0.35rem 1rem; background: rgba(0,51,102,0.06); border: 1px solid rgba(0,51,102,0.15); border-radius: 100px; font-size: 0.75rem; font-weight: 700; color: #003366; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 1rem;">
+            Resources
+          </div>
+          <h2 style="font-size: clamp(1.75rem, 3vw, 2.75rem); font-weight: 800; color: #1f2937;">
+            Latest News & Resources
+          </h2>
+        </div>
+        <a href="/blog" style="display: inline-flex; align-items: center; gap: 0.5rem; font-size: 0.875rem; font-weight: 600; color: #1e4d8c; text-decoration: none; white-space: nowrap;"
+          onmouseenter="this.style.textDecoration='underline'"
+          onmouseleave="this.style.textDecoration='none'"
+        >
+          All Articles
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        </a>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem;">
+        {newsArticles.map(article => (
+          <a
+            href={article.href}
+            style="display: flex; flex-direction: column; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; overflow: hidden; text-decoration: none; transition: all 0.3s;"
+            onmouseenter="this.style.borderColor='#003366'; this.style.transform='translateY(-3px)'; this.style.boxShadow='0 12px 32px rgba(0,51,102,0.1)'"
+            onmouseleave="this.style.borderColor='#e2e8f0'; this.style.transform='translateY(0)'; this.style.boxShadow='none'"
+          >
+            <!-- Card visual header -->
+            <div style="height: 120px; background: linear-gradient(135deg, #1b2060, #1e3a5f); display: flex; align-items: center; justify-content: center; position: relative; overflow: hidden; border-bottom: 1px solid #e2e8f0;">
+              <div style="position: absolute; top: -30px; right: -30px; width: 120px; height: 120px; border: 1px solid rgba(255,255,255,0.08); border-radius: 50%;"></div>
+              <span style="font-size: 2.5rem; opacity: 0.3; color: #ffffff;">📄</span>
+            </div>
+
+            <div style="padding: 1.5rem; flex: 1; display: flex; flex-direction: column;">
+              <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.875rem;">
+                <span style={`padding: 0.2rem 0.625rem; background: ${article.categoryColor}18; border: 1px solid ${article.categoryColor}40; border-radius: 4px; font-size: 0.65rem; font-weight: 700; color: ${article.categoryColor}; letter-spacing: 0.05em; text-transform: uppercase;`}>
+                  {article.category}
+                </span>
+                <span style="font-size: 0.75rem; color: #6b7280;">{article.date}</span>
+                <span style="font-size: 0.75rem; color: #6b7280; margin-left: auto;">{article.readTime}</span>
+              </div>
+
+              <h3 style="font-size: 1rem; font-weight: 700; color: #1f2937; line-height: 1.4; margin-bottom: 0.75rem; flex: 1;">
+                {article.title}
+              </h3>
+
+              <p style="font-size: 0.825rem; color: #4b5563; line-height: 1.6; margin-bottom: 1.25rem;">
+                {article.excerpt}
+              </p>
+
+              <div style="display: flex; align-items: center; gap: 0.375rem; font-size: 0.8rem; font-weight: 600; color: #1e4d8c; margin-top: auto;">
+                Read Article
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Section divider -->
+  <div style="height: 1px; background: linear-gradient(90deg, transparent, #e2e8f0, transparent);"></div>
+
+  <!-- ===================== QUALITY / APPROVALS ===================== -->
+  <section style="background: #ffffff; padding: 5rem 0;">
+    <div style="max-width: 1280px; margin: 0 auto; padding: 0 1.5rem;">
+
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 4rem; align-items: center;">
+
+        <!-- Left: Quality copy -->
+        <div>
+          <div style="display: inline-block; padding: 0.35rem 1rem; background: rgba(0,51,102,0.06); border: 1px solid rgba(0,51,102,0.15); border-radius: 100px; font-size: 0.75rem; font-weight: 700; color: #003366; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 1rem;">
+            Quality
+          </div>
+          <h2 style="font-size: clamp(1.5rem, 2.5vw, 2.25rem); font-weight: 800; color: #1f2937; margin-bottom: 1rem; line-height: 1.2;">
+            Industry-Leading Quality System
+          </h2>
+          <p style="font-size: 0.95rem; color: #4b5563; line-height: 1.75; margin-bottom: 1.5rem;">
+            T.I.'s quality system delivers guaranteed reliability with a full range of internationally accredited regulatory, OEM, and subcontractor quality approvals. All service center locations are AS9100 &amp; ISO 9001 accredited.
+          </p>
+          <p style="font-size: 0.9rem; color: #4b5563; line-height: 1.7; margin-bottom: 2rem;">
+            Birmingham, UK and Meerbusch, Germany locations are additionally AS9120 accredited. Full mill certifications accompany every shipment.
+          </p>
+
+          <!-- Cert badges -->
+          <div style="display: flex; flex-wrap: wrap; gap: 0.625rem;">
+            {['AS9100D', 'AS9120', 'ISO 9001:2015', 'DFARS Compliant', 'NACE Certified', 'Pratt & Whitney LCS'].map(cert => (
+              <span style="padding: 0.4rem 0.875rem; background: rgba(0,51,102,0.05); border: 1px solid rgba(0,51,102,0.2); border-radius: 6px; font-size: 0.78rem; font-weight: 700; color: #003366;">
+                {cert}
+              </span>
+            ))}
+          </div>
+        </div>
+
+        <!-- Right: OEM approvals -->
+        <div>
+          <div style="background: #f8f9fa; border: 1px solid #e2e8f0; border-radius: 12px; padding: 2rem;">
+            <h3 style="font-size: 0.875rem; font-weight: 800; color: #1f2937; margin-bottom: 1.25rem; text-transform: uppercase; letter-spacing: 0.06em;">T.I. Approvals</h3>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.625rem; margin-bottom: 1.5rem;">
+              {[
+                'Pratt & Whitney LCS',
+                'GE Aviation',
+                'Rolls-Royce',
+                'Boeing',
+                'Airbus',
+                'Honeywell',
+                'Raytheon',
+                'Lockheed Martin',
+                'Safran',
+                'MTU Aero Engines',
+              ].map(oem => (
+                <div style="display: flex; align-items: center; gap: 0.5rem; padding: 0.5rem 0.75rem; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 6px;">
+                  <span style="width: 6px; height: 6px; background: #003366; border-radius: 50%; flex-shrink: 0; display: inline-block;"></span>
+                  <span style="font-size: 0.8rem; font-weight: 500; color: #1f2937;">{oem}</span>
+                </div>
+              ))}
+            </div>
+            <p style="font-size: 0.78rem; color: #6b7280; line-height: 1.6; font-style: italic;">
+              Plus a wide range of approvals from leading OEMs across Aerospace, Medical, Industrial, and Oil &amp; Gas markets.
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Section divider -->
+  <div style="height: 1px; background: linear-gradient(90deg, transparent, #e2e8f0, transparent);"></div>
+
+  <!-- ===================== RFQ CTA BANNER ===================== -->
+  <section style="padding: 6rem 0; position: relative; overflow: hidden;">
+    <!-- Background photo with dark navy overlay -->
+    <div style="position: absolute; inset: 0;">
+      <img src="/images/markets-bg.jpg" alt="" style="width: 100%; height: 100%; object-fit: cover; display: block;" aria-hidden="true" />
+      <div style="position: absolute; inset: 0; background: linear-gradient(135deg, rgba(27,32,96,0.88) 0%, rgba(20,32,80,0.82) 100%);"></div>
+    </div>
+
+    <div style="max-width: 1280px; margin: 0 auto; padding: 0 1.5rem; text-align: center; position: relative; z-index: 1;">
+      <div style="display: inline-block; padding: 0.35rem 1rem; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.2); border-radius: 100px; font-size: 0.75rem; font-weight: 700; color: #e2e8f0; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 1.5rem;">
+        Get Started
+      </div>
+      <h2 style="font-size: clamp(1.75rem, 4vw, 3.25rem); font-weight: 900; color: #ffffff; margin-bottom: 1rem; line-height: 1.1;">
+        Ready to Source Your Next Order?
+      </h2>
+      <p style="font-size: 1.1rem; color: #94a3b8; max-width: 520px; margin: 0 auto 2.5rem; line-height: 1.7;">
+        Get a competitive quote within 24 hours from our metals experts. No minimums on most grades, same-day shipping available.
+      </p>
+
+      <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center; align-items: center;">
+        <a href="/contact" style="padding: 1rem 2.5rem; background: #ffffff; color: #1b2060; font-size: 1.05rem; font-weight: 800; border-radius: 8px; text-decoration: none; transition: all 0.2s; display: inline-flex; align-items: center; gap: 0.625rem;"
+          onmouseenter="this.style.background='#e0e7ff'; this.style.transform='translateY(-2px)'; this.style.boxShadow='0 10px 30px rgba(0,0,0,0.2)'"
+          onmouseleave="this.style.background='#ffffff'; this.style.transform='translateY(0)'; this.style.boxShadow='none'"
+        >
+          Request a Quote
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        </a>
+        <a href="tel:+18884826486" style="padding: 1rem 2rem; background: transparent; color: #ffffff; font-size: 0.95rem; font-weight: 600; border-radius: 8px; text-decoration: none; border: 1.5px solid rgba(255,255,255,0.3); transition: all 0.2s; display: inline-flex; align-items: center; gap: 0.5rem;"
+          onmouseenter="this.style.borderColor='rgba(255,255,255,0.6)'; this.style.background='rgba(255,255,255,0.08)'"
+          onmouseleave="this.style.borderColor='rgba(255,255,255,0.3)'; this.style.background='transparent'"
+        >
+          📞 1-888-482-6486
+        </a>
+      </div>
+    </div>
+  </section>
+
+</Layout>
+
+<style>
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.5; }
+  }
+
+  /* Slider active dot pill */
+  .active-dot {
+    width: 28px !important;
+    border-radius: 5px !important;
+    background: #ffffff !important;
+  }
+
+  #hero-slider button {
+    font-family: inherit;
+  }
+
+  @media (max-width: 1024px) {
+    section > div > div[style*="grid-template-columns: 1fr 2fr"],
+    section > div > div[style*="grid-template-columns: 1fr 1fr"] {
+      grid-template-columns: 1fr !important;
+    }
+    section > div > div[style*="position: sticky"] {
+      position: static !important;
+    }
+    /* Hero split */
+    div[style*="grid-template-columns: 1fr 1fr"][style*="align-items: center"] {
+      grid-template-columns: 1fr !important;
+    }
+  }
+
+  @media (max-width: 768px) {
+    div[style*="repeat(4, 1fr)"] {
+      grid-template-columns: repeat(2, 1fr) !important;
+    }
+    div[style*="repeat(3, 1fr)"] {
+      grid-template-columns: repeat(2, 1fr) !important;
+    }
+  }
+
+  @media (max-width: 480px) {
+    div[style*="repeat(2, 1fr)"],
+    div[style*="repeat(3, 1fr)"],
+    div[style*="repeat(4, 1fr)"] {
+      grid-template-columns: 1fr !important;
+    }
+  }
+</style>

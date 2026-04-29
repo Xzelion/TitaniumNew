@@ -1,0 +1,193 @@
+---
+const quickLinks = [
+  { label: 'Home', href: '/' },
+  { label: 'About', href: '/about' },
+  { label: 'Alloys', href: '/alloys' },
+  { label: 'Services', href: '/services' },
+  { label: 'Markets', href: '/markets' },
+  { label: 'Blog', href: '/blog' },
+  { label: 'Careers', href: '/careers' },
+  { label: 'Contact', href: '/contact' },
+];
+
+const alloyLinks = [
+  { label: 'Titanium', href: '/alloys/titanium' },
+  { label: 'Nickel Alloys', href: '/alloys/nickel' },
+  { label: 'Stainless Steel', href: '/alloys/stainless-steel' },
+  { label: 'Aluminum', href: '/alloys/aluminum' },
+  { label: 'Carbon Steel', href: '/alloys/carbon-steel' },
+  { label: 'Cobalt Chrome', href: '/alloys/cobalt-chrome' },
+];
+---
+
+<footer style="background: #1b2060; border-top: 1px solid rgba(255,255,255,0.1); margin-top: 0;">
+
+  <!-- Main footer grid -->
+  <div style="max-width: 1280px; margin: 0 auto; padding: 4rem 1.5rem 3rem;">
+    <div style="display: grid; grid-template-columns: 2fr 1fr 1fr 1.5fr; gap: 3rem;">
+
+      <!-- Column 1: Brand -->
+      <div>
+        <!-- Logo -->
+        <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 1.25rem;">
+          <div style="width: 40px; height: 40px; background: #ffffff; border-radius: 6px; display: flex; align-items: center; justify-content: center; font-weight: 900; font-size: 1.1rem; color: #1b2060; flex-shrink: 0;">
+            Ti
+          </div>
+          <div style="line-height: 1.1;">
+            <div style="font-size: 1.05rem; font-weight: 800; letter-spacing: 0.08em; color: #ffffff;">TITANIUM</div>
+            <div style="font-size: 0.58rem; font-weight: 500; letter-spacing: 0.15em; color: #94a3b8; text-transform: uppercase;">INDUSTRIES, INC.</div>
+          </div>
+        </div>
+
+        <p style="font-size: 0.875rem; color: #94a3b8; line-height: 1.7; max-width: 280px; margin-bottom: 1.5rem;">
+          The world's most trusted source for specialty metals. Serving aerospace, medical, and industrial customers since 1972 with 20+ global service centers.
+        </p>
+
+        <!-- Certifications -->
+        <div style="margin-bottom: 1.5rem;">
+          <div style="font-size: 0.7rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: #64748b; margin-bottom: 0.75rem;">Certifications</div>
+          <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+            {['AS9100D', 'ISO 9001:2015', 'NADCAP'].map(cert => (
+              <span style="padding: 0.3rem 0.75rem; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.2); border-radius: 4px; font-size: 0.7rem; font-weight: 700; color: #e2e8f0; letter-spacing: 0.05em;">
+                {cert}
+              </span>
+            ))}
+          </div>
+        </div>
+      </div>
+
+      <!-- Column 2: Quick Links -->
+      <div>
+        <h3 style="font-size: 0.8rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: #ffffff; margin-bottom: 1.25rem;">
+          Quick Links
+        </h3>
+        <ul style="list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 0.625rem;">
+          {quickLinks.map(link => (
+            <li>
+              <a
+                href={link.href}
+                style="font-size: 0.875rem; color: #94a3b8; text-decoration: none; transition: color 0.2s; display: inline-flex; align-items: center; gap: 0.375rem;"
+                onmouseenter="this.style.color='#ffffff'"
+                onmouseleave="this.style.color='#94a3b8'"
+              >
+                {link.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <!-- Column 3: Alloy Families -->
+      <div>
+        <h3 style="font-size: 0.8rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: #ffffff; margin-bottom: 1.25rem;">
+          Alloy Families
+        </h3>
+        <ul style="list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 0.625rem;">
+          {alloyLinks.map(link => (
+            <li>
+              <a
+                href={link.href}
+                style="font-size: 0.875rem; color: #94a3b8; text-decoration: none; transition: color 0.2s;"
+                onmouseenter="this.style.color='#ffffff'"
+                onmouseleave="this.style.color='#94a3b8'"
+              >
+                {link.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <!-- Column 4: Contact -->
+      <div>
+        <h3 style="font-size: 0.8rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: #ffffff; margin-bottom: 1.25rem;">
+          Get In Touch
+        </h3>
+
+        <div style="display: flex; flex-direction: column; gap: 1rem; margin-bottom: 1.5rem;">
+          <div style="display: flex; align-items: flex-start; gap: 0.75rem;">
+            <span style="color: #93c5fd; flex-shrink: 0; margin-top: 2px; font-size: 0.9rem;">📍</span>
+            <div>
+              <div style="font-size: 0.875rem; color: #ffffff; font-weight: 500;">Headquarters</div>
+              <div style="font-size: 0.8rem; color: #94a3b8; line-height: 1.5;">18 Green Pond Road<br/>Rockaway, NJ 07866</div>
+            </div>
+          </div>
+
+          <div style="display: flex; align-items: center; gap: 0.75rem;">
+            <span style="color: #93c5fd; flex-shrink: 0; font-size: 0.9rem;">📞</span>
+            <a href="tel:+18884826486" style="font-size: 0.875rem; color: #94a3b8; text-decoration: none;"
+              onmouseenter="this.style.color='#ffffff'"
+              onmouseleave="this.style.color='#94a3b8'"
+            >1-888-482-6486</a>
+          </div>
+
+          <div style="display: flex; align-items: center; gap: 0.75rem;">
+            <span style="color: #93c5fd; flex-shrink: 0; font-size: 0.9rem;">✉️</span>
+            <a href="mailto:info@titanium.com" style="font-size: 0.875rem; color: #94a3b8; text-decoration: none;"
+              onmouseenter="this.style.color='#ffffff'"
+              onmouseleave="this.style.color='#94a3b8'"
+            >info@titanium.com</a>
+          </div>
+        </div>
+
+        <!-- Social -->
+        <div>
+          <div style="font-size: 0.7rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: #64748b; margin-bottom: 0.75rem;">Follow Us</div>
+          <div style="display: flex; gap: 0.625rem;">
+            <a href="https://linkedin.com/company/titanium-industries" target="_blank" rel="noopener noreferrer"
+              style="width: 36px; height: 36px; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.12); border-radius: 6px; display: flex; align-items: center; justify-content: center; text-decoration: none; font-size: 0.8rem; color: #94a3b8; transition: all 0.2s;"
+              onmouseenter="this.style.background='rgba(255,255,255,0.15)'; this.style.borderColor='rgba(255,255,255,0.3)'; this.style.color='#ffffff'"
+              onmouseleave="this.style.background='rgba(255,255,255,0.06)'; this.style.borderColor='rgba(255,255,255,0.12)'; this.style.color='#94a3b8'"
+            >in</a>
+            <a href="https://twitter.com/titaniumind" target="_blank" rel="noopener noreferrer"
+              style="width: 36px; height: 36px; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.12); border-radius: 6px; display: flex; align-items: center; justify-content: center; text-decoration: none; font-size: 0.8rem; color: #94a3b8; transition: all 0.2s;"
+              onmouseenter="this.style.background='rgba(255,255,255,0.15)'; this.style.borderColor='rgba(255,255,255,0.3)'; this.style.color='#ffffff'"
+              onmouseleave="this.style.background='rgba(255,255,255,0.06)'; this.style.borderColor='rgba(255,255,255,0.12)'; this.style.color='#94a3b8'"
+            >𝕏</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bottom bar -->
+  <div style="border-top: 1px solid rgba(255,255,255,0.08);">
+    <div style="max-width: 1280px; margin: 0 auto; padding: 1.25rem 1.5rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.75rem;">
+      <p style="font-size: 0.8rem; color: #64748b; margin: 0;">
+        © 2026 Titanium Industries, Inc. All rights reserved.
+      </p>
+      <div style="display: flex; align-items: center; gap: 1.5rem;">
+        <a href="/privacy" style="font-size: 0.8rem; color: #64748b; text-decoration: none;"
+          onmouseenter="this.style.color='#94a3b8'"
+          onmouseleave="this.style.color='#64748b'"
+        >Privacy Policy</a>
+        <a href="/terms" style="font-size: 0.8rem; color: #64748b; text-decoration: none;"
+          onmouseenter="this.style.color='#94a3b8'"
+          onmouseleave="this.style.color='#64748b'"
+        >Terms of Use</a>
+        <a href="/sitemap" style="font-size: 0.8rem; color: #64748b; text-decoration: none;"
+          onmouseenter="this.style.color='#94a3b8'"
+          onmouseleave="this.style.color='#64748b'"
+        >Sitemap</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<style>
+  @media (max-width: 1024px) {
+    footer > div:first-child > div > div {
+      grid-template-columns: 1fr 1fr !important;
+      gap: 2rem !important;
+    }
+  }
+  @media (max-width: 640px) {
+    footer > div:first-child > div > div {
+      grid-template-columns: 1fr !important;
+    }
+    footer .flex.items-center.justify-between {
+      flex-direction: column;
+      text-align: center;
+    }
+  }
+</style>
