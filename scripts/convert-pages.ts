@@ -3,6 +3,7 @@ import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { parityChecks } from '../shared/convert/parity'
 import { parseAviaHtml, toPageDocument } from '../shared/convert/parse-avia'
+import { formNoteFromModel, modelGravityFormExport, type KnownFormNote } from '../shared/forms/gravity-form'
 import { gateConversion } from '../shared/page-model/hash-gate'
 import { roundTripPageDocument } from '../shared/page-model/schema'
 import { renderWorkspace } from '../shared/editor/render-workspace'
@@ -37,10 +38,28 @@ const pages = [
   { file: 'markets.html', name: 'markets' },
   { file: 'services.html', name: 'services' },
   { file: 'markets--aerospace.html', name: 'aerospace' },
+  { file: 'markets--defense.html', name: 'defense' },
+  { file: 'markets--industrial.html', name: 'industrial' },
+  { file: 'markets--consumer-products.html', name: 'consumer-products' },
+  { file: 'giving-back.html', name: 'giving-back' },
+  { file: 'titanium-about-us.html', name: 'about' },
+  { file: 'frequently-asked-questions.html', name: 'faq' },
+  { file: 'privacy-policy.html', name: 'privacy' },
 ]
 
 mkdirSync(draftDir, { recursive: true })
 mkdirSync(reportDir, { recursive: true })
+const formDir = path.join(root, 'migration/forms')
+mkdirSync(formDir, { recursive: true })
+
+const knownForms: KnownFormNote[] = []
+const formExportPath = path.join(rawDir, 'gravity-form-20.json')
+if (existsSync(formExportPath)) {
+  const model = modelGravityFormExport(JSON.parse(readFileSync(formExportPath, 'utf8')), 20)
+  if (model.publicSubmit !== false) throw new Error('Form 20 public submit must stay off')
+  writeFileSync(path.join(formDir, 'gravity-form-20.model.json'), `${JSON.stringify(model, null, 2)}\n`)
+  knownForms.push(formNoteFromModel(model))
+}
 
 const now = new Date().toISOString()
 const conversions = []
@@ -54,7 +73,7 @@ for (const page of pages) {
   }
   const html = readFileSync(htmlPath, 'utf8')
   const ids = createIdFactory()
-  const parsed = parseAviaHtml(html, ids)
+  const parsed = parseAviaHtml(html, ids, knownForms)
   const incoming = roundTripPageDocument(toPageDocument(parsed, now))
   const draftPath = path.join(draftDir, `${incoming.id}.json`)
   const existing = existsSync(draftPath) ? JSON.parse(readFileSync(draftPath, 'utf8')) : null

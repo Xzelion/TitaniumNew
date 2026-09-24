@@ -17,6 +17,9 @@ export const ROW_PRESETS = [
   'lead-two-thirds',
   'lead-three-fifths',
   'lead-three-quarters',
+  'lead-four-fifths',
+  'wide-fifths',
+  'half-quarters',
 ] as const
 
 export type RowPreset = (typeof ROW_PRESETS)[number]

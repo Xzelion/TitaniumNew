@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T20:11:14.266Z",
+  "generatedAt": "2026-09-24T20:16:48.815Z",
   "pages": [
     {
       "path": "/quality-systems/",
@@ -356,7 +356,7 @@
         {
           "name": "Protected form locked",
           "pass": true,
-          "detail": "Form fields, notifications, and captcha live in WordPress. This draft does not submit the form."
+          "detail": "Form 20, Additive Build Plates RFQ, is modeled from the WordPress export (39 fields, 19 notifications, 1 confirmation). Public submit is off. hCaptcha and notification delivery need keys before anyone can send it. The file upload is not wired."
         }
       ]
     },
@@ -1063,6 +1063,365 @@
           "name": "Product grid locked",
           "pass": true,
           "detail": "This product grid is a WordPress query, not a fixed column layout."
+        }
+      ]
+    },
+    {
+      "path": "/markets/defense/",
+      "id": "markets--defense",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Defense Industry | Titanium Industries | Contact Us Today"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "At T.I., we provide high performance specialty metals for critical applications within the defense industry. Contact us today!"
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/markets/defense/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Defense Industry | Titanium Industries | Contact Us Today"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "At T.I., we provide high performance specialty metals for critical applications within the defense industry. Contact us today!"
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "7 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "13 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Defense"
+        },
+        {
+          "name": "Product grid locked",
+          "pass": true,
+          "detail": "This product grid is a WordPress query, not a fixed column layout."
+        }
+      ]
+    },
+    {
+      "path": "/markets/industrial/",
+      "id": "markets--industrial",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Discover Titanium Industries Specialty Metals for Industrial Market - Chemical Processing - Hydro-Metallurgical | Excellent Quality"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "T.I. Industrial focuses the resources and capabilities of Titanium Industries on the global industrial market. Provider of Commercially Pure"
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/markets/industrial/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Discover Titanium Industries Specialty Metals for Industrial Market - Chemical Processing - Hydro-Metallurgical | Excellent Quality"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "T.I. Industrial focuses the resources and capabilities of Titanium Industries on the global industrial market. Provider of Commercially Pure"
+        },
+        {
+          "name": "Medical float wrap",
+          "pass": true,
+          "detail": "8 pictures tuck beside the words."
+        },
+        {
+          "name": "Medical body is not equal columns",
+          "pass": true,
+          "detail": "Wrapped sections stay one column."
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "7 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "15 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Industrial"
+        }
+      ]
+    },
+    {
+      "path": "/markets/consumer-products/",
+      "id": "markets--consumer-products",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Metal Supplier for Consumer Products | Titanium Industries | Contact Us Today for excellent support"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "T.I. has been providing the world with best value specialty metals and titanium products since 1972. Contact us today! Learn more about how "
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/markets/consumer-products/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Metal Supplier for Consumer Products | Titanium Industries | Contact Us Today for excellent support"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "T.I. has been providing the world with best value specialty metals and titanium products since 1972. Contact us today! Learn more about how "
+        },
+        {
+          "name": "Medical float wrap",
+          "pass": true,
+          "detail": "3 pictures tuck beside the words."
+        },
+        {
+          "name": "Medical body is not equal columns",
+          "pass": true,
+          "detail": "Wrapped sections stay one column."
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "5 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "9 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Titanium Industries | Metal Supplier for Consumer Products"
+        },
+        {
+          "name": "Product grid locked",
+          "pass": true,
+          "detail": "This product grid is a WordPress query, not a fixed column layout."
+        }
+      ]
+    },
+    {
+      "path": "/giving-back/",
+      "id": "giving-back",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Titanium Industries | Giving Back TO OUR COMMUNITIES - Titanium Industries"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "TO OUR COMMUNITIES we will act as responsible and environmentally conscious corporate citizens and offer enthusiastic support and participat"
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/giving-back/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Titanium Industries | Giving Back TO OUR COMMUNITIES - Titanium Industries"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "TO OUR COMMUNITIES we will act as responsible and environmentally conscious corporate citizens and offer enthusiastic support and participat"
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "0 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "4 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Titanium Industries | Giving Back"
+        }
+      ]
+    },
+    {
+      "path": "/titanium-about-us/",
+      "id": "titanium-about-us",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Titanium Industries | About Us | Global Specialty Metal Distribution"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "About Titanium Industries, Inc. - Global Metal Suppliers| Holding the world's most complete inventory of specialty metals across a global se"
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/titanium-about-us/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Titanium Industries | About Us | Global Specialty Metal Distribution"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "About Titanium Industries, Inc. - Global Metal Suppliers| Holding the world's most complete inventory of specialty metals across a global se"
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "3 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "0 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: About Titanium Industries, Inc. – Global Metal Suppliers"
+        }
+      ]
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "id": "frequently-asked-questions",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Titanium Industries | Frequently Asked Questions | Quick Quote Application"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "Titanium Industries Quick Quote application is live! Create a quote today! This page is to answer FAQ's regarding our online experience."
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/frequently-asked-questions/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Titanium Industries | Frequently Asked Questions | Quick Quote Application"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "Titanium Industries Quick Quote application is live! Create a quote today! This page is to answer FAQ's regarding our online experience."
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "3 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "0 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Titanium Industries | Frequently Asked Questions"
+        }
+      ]
+    },
+    {
+      "path": "/privacy-policy/",
+      "id": "privacy-policy",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Titanium Industries' Privacy Policy"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "Please find Titanium Industries' privacy policy located here. Titanium Industries is dedicated to the protection of our users privacy."
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/privacy-policy/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Titanium Industries' Privacy Policy"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "Please find Titanium Industries' privacy policy located here. Titanium Industries is dedicated to the protection of our users privacy."
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "0 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "0 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Privacy Policy | Titanium Industries"
         }
       ]
     }

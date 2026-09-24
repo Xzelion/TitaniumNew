@@ -1,0 +1,521 @@
+{
+  "id": "markets--defense",
+  "path": "/markets/defense/",
+  "title": "Defense Industry | Titanium Industries | Contact Us Today",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Defense Industry | Titanium Industries | Contact Us Today",
+    "description": "At T.I., we provide high performance specialty metals for critical applications within the defense industry. Contact us today!",
+    "canonical": "https://titanium.com/markets/defense/",
+    "ogTitle": "Defense Industry | Titanium Industries | Contact Us Today",
+    "ogDescription": "At T.I., we provide high performance specialty metals for critical applications within the defense industry. Contact us today!",
+    "ogImage": "https://titanium.com/wp-content/uploads/2023/06/TI-Defense-2.jpg"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "T.I. Defense"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://qqa.titanium.com/product?type=mill-product",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "T.I. | Specialty Metals for the Defense Industry"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "T.I. | Defense"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Industries provides high performance specialty metals for critical applications in the defense market including airframes, engines, internal and external systems, rotary wings, land vehicles, and many other applications. T.I. holds a wide range of OEM and subcontractor approvals, supporting a strong portfolio of service provider LTA’s, and maintaining ISO 9001:2015, AS9100 Revision D and is DoD registered."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The evolution of the Titanium industry as we know it today was a function of military aircraft applications. The selection of Titanium in this application is based on Titanium’s strength-to-weight ratio, reliability in service, and high corrosion and creep resistances."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The US Department of Defense early on recognized Titanium as a material that would satisfy the requirements necessary for aircraft applications. Use of Titanium in military applications began in the 1950’s when Titanium was first designed into the Douglas X-3 Stiletto."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "In it’s infancy, Titanium accounted for approximately 9% of the weight of a military aircraft, the Phantom F-4 specifically. As the Titanium industry has evolved and the benefits of Titanium’s material characteristics were successfully tested over time, Titanium represented a higher percentage of the weight of a military aircraft. The F-22 aircraft was comprised of more than 39% Titanium. The aircraft program that utilized the highest percentage of Titanium, although no longer in production, was the SR-71 which was 90% Titanium."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Today, Titanium can be found in the production of land vehicles, missiles, helicopters and rotorcraft, aircraft, armor plating, vehicle weight reduction overhaul programs, and many other applications within the defense industry."
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Products used in this application include:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "[Aerospace Line Card | Download Now](https://titanium.com/wp-content/uploads/2022/02/Aerospace-Line-Card-Titanium-Industries.pdf)"
+                }
+              ]
+            },
+            {
+              "id": "picture-17",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/05/Ti-Aerospace_LineCard_85x11_NEW12-27-22-232x300.jpg",
+              "alt": "Titanium Industries Aerospace Line Card",
+              "href": "https://titanium.com/wp-content/uploads/2023/05/Ti-Aerospace_LineCard_85x11_NEW12-27-22-2.pdf",
+              "wrap": "none"
+            },
+            {
+              "id": "button-18",
+              "kind": "button",
+              "label": "Titanium Industries | Aerospace Line Card",
+              "href": "https://titanium.com/wp-content/uploads/2023/05/Ti-Aerospace_LineCard_85x11_NEW12-27-22-2.pdf",
+              "variant": "primary"
+            },
+            {
+              "id": "text-19",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "[Defense Line Card | Download Now](https://titanium.com/wp-content/uploads/2021/10/Defense-Line-Card-Titanium-Industries.pdf)"
+                }
+              ]
+            },
+            {
+              "id": "picture-20",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/05/Ti-Defense_LineCard_85x11_5.30.23-2-232x300.jpg",
+              "alt": "Specialty Metals for Defense",
+              "href": "https://titanium.com/wp-content/uploads/2023/05/Ti-Defense_LineCard_85x11_5.30.23.pdf",
+              "wrap": "none"
+            },
+            {
+              "id": "button-21",
+              "kind": "button",
+              "label": "Titanium Industries | Combat Vehicle Mfg’s Line Card",
+              "href": "https://titanium.com/wp-content/uploads/2023/05/Ti-Defense_LineCard_85x11_5.30.23.pdf",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-22",
+      "preset": "wide-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-23",
+          "items": [
+            {
+              "id": "text-25",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Military Airframes"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium’s desirable characteristics and excellent strength to weight ratio make it an ideal material for structural airframe applications that include wing structures, landing gear components, critical fasteners, springs, and hydraulic tubing. For the past 50 years, Titanium used in airframes has grown significantly from it’s beginning in military programs."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Structural components of these airframes include forged wing structures, landing gear parts and components, fasteners, springs, hydraulic tubing, and much more."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium used in these applications is due to these specific properties:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "high strength-to-weight ratio"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "high reliability"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "excellent corrosion resistance"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "desirable mechanical properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "protection against thermal expansion"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-24",
+          "items": [
+            {
+              "id": "picture-26",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/10/Airframe-1030x582.png",
+              "alt": "Airframe",
+              "href": "",
+              "wrap": "none"
+            },
+            {
+              "id": "picture-27",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2021/04/f-16-1816071_1280-e1541533886497.jpg",
+              "alt": "AEROSPACE FRAME",
+              "href": "",
+              "wrap": "none"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-28",
+      "preset": "quality-split",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-29",
+          "items": [
+            {
+              "id": "picture-31",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/aircraft.jpg",
+              "alt": "aircraft",
+              "href": "",
+              "wrap": "none"
+            }
+          ]
+        },
+        {
+          "id": "column-30",
+          "items": [
+            {
+              "id": "text-32",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Military Aircraft | Engines"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stringent requirements in military aircraft engines make Titanium an excellent material of choice. Due to Titanium’s high strength-to-weight ratio, ability to withstand high temperatures and corrosion resistances make this metal perfect for aircraft engine applications. Titanium is the most common material of choice for engine parts that operate at temperatures up to 1100 degrees F or 593 degrees C."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium components designed in an military aircraft engine include blades, disc, hubs, inlet guide vanes and cases."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-33",
+      "preset": "wide-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-34",
+          "items": [
+            {
+              "id": "text-36",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Military Rotorcraft"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium can be found in both military and commercial helicopters applications that include exhaust ducts, wind access panels, landing gear, brackets, rotors and blades, and many other areas."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The UH-60 Black Hawk helicopter, as an example, contains a four-bladed primary rotor and one four-bladed tail rotor that are built with Titanium cores. Because of this use, the rotors are mostly resistant against anti-aircraft artillery fire up to 23mm."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-35",
+          "items": [
+            {
+              "id": "picture-37",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/military-2.jpg",
+              "alt": "military-2",
+              "href": "",
+              "wrap": "none"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-38",
+      "preset": "quality-split",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-39",
+          "items": [
+            {
+              "id": "picture-41",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/military-1.jpg",
+              "alt": "Defense | Specialty Metals | Markets | Titanium Industries",
+              "href": "",
+              "wrap": "none"
+            }
+          ]
+        },
+        {
+          "id": "column-40",
+          "items": [
+            {
+              "id": "text-42",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Land & Combat Vehicles"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Military land and combat vehicles have also seen Titanium usage increase over the last 2 decades and is primarily used due to Titanium’s low weight-to-strength ratio, excellent mechanical and ballistic properties, and ease of fabrication. These applications generally focus around armor plating and non-structural components to reduce vehicle weight, better overall performance, and allow for other upgrades. The most common Titanium grades used are 6Al-4V Grade 5 and 6Al-4V ELI Grade 23 with 6Al-6v-2Sn primarily being used for ordinance components and frames."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-43",
+      "preset": "wide-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-44",
+          "items": [
+            {
+              "id": "text-46",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Naval & Marine"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium’s excellent corrosion resistance, high strength-to-weight ratio, fatigue resistance, and defense against pitting makes it a preferred material in naval applications. Applications like propeller shafts, underwater robotics, rigging equipment, ball valves, marine heat exchangers, piping, onboard cooling systems, fire system piping and pumps, exhaust stack liners, and many others have become ideal candidates for Titanium."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Prior to the use of Titanium, damage to these essential components and systems was frequent. Repair and replacements were so often that Titanium was introduced to significantly increase and improve material lifespan and reduce service costs."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "To gain further insights into Titanium Industries and the diverse markets we cater to with our specialty metals, we invite you to explore our range of other markets:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Aerospace](https://titanium.com/markets/aerospace/) [Industrial](https://titanium.com/markets/industrial/) [Medical](https://titanium.com/markets/medical/) [Defense](https://titanium.com/markets/defense/) [Engineered Fastener Alloys](https://titanium.com/markets/engineered-fasteners/) [Consumer Products](https://titanium.com/markets/consumer-products/) [Interconnect](https://titanium.com/interconnect-alloys/) [Additive Manufacturing](https://titanium.com/markets/additive_manufacturing/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Follow us on Social Media:"
+                }
+              ]
+            },
+            {
+              "id": "picture-47",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
+              "alt": "Titanium Industries | Instagram",
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-48",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
+              "alt": "Titanium Industries | LinkedIn",
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-49",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
+              "alt": "Titanium Industries | Twitter",
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-50",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
+              "alt": "Titanium Industries | Facebook",
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-51",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
+              "alt": "Titanium Industries | Youtube",
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
+            }
+          ]
+        },
+        {
+          "id": "column-45",
+          "items": [
+            {
+              "id": "picture-52",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/05/Untitled-design-2-300x300.jpg",
+              "alt": "Titanium Specialty metals for Navel",
+              "href": "",
+              "wrap": "none"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/markets/defense/",
+    "sourceHash": "10d61fabbbc156ff76aad5a10392c238d12bc8f44d69b78af48c1ea69076c179",
+    "converterVersion": "2",
+    "converterFamily": "quality-split",
+    "families": [
+      "equal-3-cta",
+      "intro-two-one-linecard",
+      "quality-split",
+      "portfolio-grid-blocked"
+    ],
+    "convertedAt": "2026-09-24T20:16:48.815Z",
+    "grid": "lead-three-fifths | thirds | two-one | wide-fifths | quality-split | wide-fifths | quality-split | wide-fifths",
+    "remainingSourceOnly": [
+      {
+        "id": "source-14",
+        "label": "Product grid",
+        "reason": "This product grid is a WordPress query, not a fixed column layout."
+      }
+    ],
+    "verify": "Open /preview/markets/defense/ (private, noindex) beside https://titanium.com/markets/defense/. Check the grid (lead-three-fifths, thirds, two-one, wide-fifths, quality-split, wide-fifths, quality-split, wide-fifths), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

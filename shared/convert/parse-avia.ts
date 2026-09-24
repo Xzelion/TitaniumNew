@@ -1,4 +1,5 @@
 import { parse, type HTMLElement, type Node } from 'node-html-parser'
+import type { KnownFormNote } from '../forms/gravity-form'
 import { hashSource } from '../page-model/hash-gate'
 import { PRESETS } from '../page-model/presets'
 import type { IdFactory } from '../page-model/workspace'
@@ -24,8 +25,10 @@ const FRACTION_CLASS: Record<string, { key: string }> = {
   av_two_third: { key: '2/3' },
   av_one_fourth: { key: '1/4' },
   av_three_fourth: { key: '3/4' },
+  av_one_fifth: { key: '1/5' },
   av_two_fifth: { key: '2/5' },
   av_three_fifth: { key: '3/5' },
+  av_four_fifth: { key: '4/5' },
 }
 
 export interface ParsedPage {
@@ -42,7 +45,7 @@ export interface ParsedPage {
   linkHrefs: string[]
 }
 
-export function parseAviaHtml(html: string, ids: IdFactory): ParsedPage {
+export function parseAviaHtml(html: string, ids: IdFactory, knownForms: KnownFormNote[] = []): ParsedPage {
   const root = parse(html)
   const seo = readSeo(root, html)
   const styleText = root.querySelectorAll('style').map((node) => node.text).join('\n')
@@ -72,8 +75,14 @@ export function parseAviaHtml(html: string, ids: IdFactory): ParsedPage {
   const contentForm = [...root.querySelectorAll('.gform_wrapper'), ...root.querySelectorAll('[id^="gform_wrapper"]')].find(
     (node) => !inChrome(node),
   )
+  const knownForm = contentForm ? knownForms.find((note) => note.formId === formIdFrom(contentForm)) : undefined
   if (contentForm) {
-    pushSource(sourceOnly, ids, 'Gravity Form', 'Form fields, notifications, and captcha live in WordPress. This draft does not submit the form.')
+    pushSource(
+      sourceOnly,
+      ids,
+      knownForm?.label ?? 'Gravity Form',
+      knownForm?.reason ?? 'Form fields, notifications, and captcha live in WordPress. This draft does not submit the form.',
+    )
   }
   const cardGrid = [...root.querySelectorAll('.home-markets'), ...root.querySelectorAll('.home-processing')].find(
     (node) => !inChrome(node),
@@ -90,7 +99,7 @@ export function parseAviaHtml(html: string, ids: IdFactory): ParsedPage {
   const entry = bundle.querySelector('.entry-content')
   if (!entry) throw new Error('No entry content on this page')
   const sourceHash = hashSource(
-    `${columns.map((column) => column.toString()).join('\n')}\n${waterjet ? 'waterjet-40-55-15-20' : ''}${cardGrid ? '\ncard-grid-24' : ''}\nconverter-${CONVERTER_VERSION}`,
+    `${columns.map((column) => column.toString()).join('\n')}\n${waterjet ? 'waterjet-40-55-15-20' : ''}${cardGrid ? '\ncard-grid-24' : ''}${knownForm ? `\n${knownForm.hashToken}` : ''}\nconverter-${CONVERTER_VERSION}`,
   )
   const families = familiesFor(rows, sourceOnly)
   const facts = collectFacts(entry)
@@ -183,6 +192,13 @@ function decode(value: string): string {
     .replace(/&gt;/g, '>')
     .replace(/\s+/g, ' ')
     .trim()
+}
+
+function formIdFrom(node: HTMLElement): number | null {
+  const id = node.getAttribute('id') ?? ''
+  const match = id.match(/gform_wrapper_(\d+)/)
+  if (!match) return null
+  return Number(match[1])
 }
 
 function inChrome(node: HTMLElement): boolean {
@@ -293,6 +309,9 @@ function presetForKeys(keys: string[]): RowPreset | null {
     '2/3': 'lead-two-thirds',
     '3/5': 'lead-three-fifths',
     '3/4': 'lead-three-quarters',
+    '4/5': 'lead-four-fifths',
+    '3/5+2/5': 'wide-fifths',
+    '1/2+1/4+1/4': 'half-quarters',
   }
   return map[joined] ?? null
 }
@@ -501,7 +520,7 @@ function familiesFor(rows: Row[], sourceOnly: SourceOnlyRegion[]): string[] {
   if (rows.some((row) => row.preset === 'quality-split')) families.add('quality-split')
   if (rows.some((row) => row.preset === 'waterjet-split')) families.add('waterjet-measured')
   if (rows.some((row) => row.preset === 'float-wrap')) families.add('medical-float')
-  if (sourceOnly.some((region) => region.label === 'Protected form' || region.label === 'Gravity Form')) {
+  if (sourceOnly.some((region) => region.label === 'Protected form' || region.label.startsWith('Gravity Form'))) {
     families.add('protected-form-blocked')
   }
   if (sourceOnly.some((region) => region.label === 'Product grid')) families.add('portfolio-grid-blocked')

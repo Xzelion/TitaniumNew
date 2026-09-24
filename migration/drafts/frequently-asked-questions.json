@@ -1,0 +1,214 @@
+{
+  "id": "frequently-asked-questions",
+  "path": "/frequently-asked-questions/",
+  "title": "Titanium Industries | Frequently Asked Questions | Quick Quote Application",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Titanium Industries | Frequently Asked Questions | Quick Quote Application",
+    "description": "Titanium Industries Quick Quote application is live! Create a quote today! This page is to answer FAQ's regarding our online experience.",
+    "canonical": "https://titanium.com/frequently-asked-questions/",
+    "ogTitle": "Titanium Industries | Frequently Asked Questions | Quick Quote Application",
+    "ogDescription": "Titanium Industries Quick Quote application is live! Create a quote today! This page is to answer FAQ's regarding our online experience.",
+    "ogImage": "https://titanium.com/wp-content/uploads/2023/07/Instagram.png"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Titanium Industries | Frequently Asked Questions"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "lead-two-thirds",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-13",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Frequently Asked Questions about Titanium Industries Global Metal Supplier"
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Specialty Metal Quick Quotes"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Q. Can I create a quote on titanium.com?"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A. Yes! Head over to [Titanium Industries new Quick Quote application](https://titanium.com/shop/quick-quote#) ."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Q. What happened to the product I added to my quote?"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A. Your selection will appear in the Quick Quote application and is also located in “Your Quote”, located in the upper right corner of your browser window."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Q. Can I continue to build my quote/order on the new Quick Quote application?"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A. Yes! Please select products from the drop downs and click “Add to Quote” and your selection will appear."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Q. Can I custom cut products?"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A. Most products offered at T.I. allow for custom cuts. Some products may not have this ability through our online store, but are available upon request."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Q. Are prices and availability subject to change?"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A. Prices listed on Titanium Industries website – titanium.com – (provided by way of a Quotation or a Price List) are subject to change upon order review by a Titanium Industries representative. Titanium Industries reserves the right to make any corrections to prices quoted due to clerical errors, errors of omission, or other similar errors. In the event of any specific requirements representing a price increase or decrease, Buyer will be notified and afforded an opportunity to confirm."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Q. What if a product I am looking for is not present in the Quick Quote drop downs?"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A. Some products offered at T.I. are not currently listed online, please reach out to us at [[email protected]](https://titanium.com/cdn-cgi/l/email-protection) , call us +1 888.482.6486, or complete our [RFQ Submittal form](https://titanium.com/rfq) ."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Q. How do I request certifications or other documents?"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A. Certifications and supporting documents are available upon request."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Q. How do I access previous orders I placed on the online store?"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A. Documents can be located in your account. Please click “My Account” located at the top right corner of your browser screen."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Q. Is the online shop connected to my current account I have with T.I.?"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A. Presently, purchases made offline and supporting documents are not available through T.I.’s online shop. All previous orders made through the online shop can be found in “My Account”, located above."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Q. When do I select shipping method inside the Quick Quote application?"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A. The following screen will provide shipping methods."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Q. When do I pay inside the Quick Quote application?"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A. Payment options are available on the final checkout screens. Credit Card and Pay by Invoice are currently options for payment."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/frequently-asked-questions/",
+    "sourceHash": "8b0b8902e6e47f52b065903af40f0b81c79ed3f4c46e10603a45f97279238aba",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:16:48.815Z",
+    "grid": "full | thirds | lead-two-thirds",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/frequently-asked-questions/ (private, noindex) beside https://titanium.com/frequently-asked-questions/. Check the grid (full, thirds, lead-two-thirds), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

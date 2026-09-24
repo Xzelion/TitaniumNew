@@ -22,7 +22,8 @@ cms/titanium.db-*
 cms/.next
 
 # live HTML captures include third-party scripts and are not committed
-migration/raw/
+migration/raw/*
+!migration/raw/gravity-form-20.json
 
 # macOS-specific files
 .DS_Store

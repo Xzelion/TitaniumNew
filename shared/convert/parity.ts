@@ -74,7 +74,7 @@ export function parityChecks(parsed: ParsedPage, page: PageDocument): ParityChec
   if (cardGrid) {
     checks.push({ name: 'Card grid locked', pass: true, detail: cardGrid.reason })
   }
-  const form = locked.find((region) => region.label === 'Protected form' || region.label === 'Gravity Form')
+  const form = locked.find((region) => region.label === 'Protected form' || region.label.startsWith('Gravity Form'))
   if (form) {
     checks.push({ name: 'Protected form locked', pass: true, detail: form.reason })
   }

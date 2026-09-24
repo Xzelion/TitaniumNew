@@ -258,7 +258,7 @@
   "publishedVersion": null,
   "provenance": {
     "sourceUrl": "https://titanium.com/markets/additive-manufacturing-build-plates/",
-    "sourceHash": "b2ac28c469f3e70898e0abdd4db0ca0acab86449382d204e2c41a33b7883285d",
+    "sourceHash": "83909c19c65921898f35041a9b2fd16e10e64f6574520cfb436905656b1b4598",
     "converterVersion": "2",
     "converterFamily": "intro-two-one-linecard",
     "families": [
@@ -266,13 +266,13 @@
       "intro-two-one-linecard",
       "protected-form-blocked"
     ],
-    "convertedAt": "2026-09-24T20:09:34.873Z",
+    "convertedAt": "2026-09-24T20:16:48.815Z",
     "grid": "lead-three-fifths | thirds | two-one",
     "remainingSourceOnly": [
       {
         "id": "source-25",
-        "label": "Gravity Form",
-        "reason": "Form fields, notifications, and captcha live in WordPress. This draft does not submit the form."
+        "label": "Gravity Form 20",
+        "reason": "Form 20, Additive Build Plates RFQ, is modeled from the WordPress export (39 fields, 19 notifications, 1 confirmation). Public submit is off. hCaptcha and notification delivery need keys before anyone can send it. The file upload is not wired."
       }
     ],
     "verify": "Open /preview/markets/additive-manufacturing-build-plates/ (private, noindex) beside https://titanium.com/markets/additive-manufacturing-build-plates/. Check the grid (lead-three-fifths, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."

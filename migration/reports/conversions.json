@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T20:11:14.266Z",
+  "generatedAt": "2026-09-24T20:16:48.815Z",
   "sitemap": {
     "capturedInRepoBeforeThisChange": 0,
     "publicSitemapUrls": 404
@@ -106,8 +106,8 @@
     {
       "path": "/markets/additive-manufacturing-build-plates/",
       "id": "markets--additive-manufacturing-build-plates",
-      "action": "skip",
-      "reason": "Source hash is unchanged.",
+      "action": "write",
+      "reason": "Source changed and nobody has edited the draft, so it was rebuilt.",
       "grid": "lead-three-fifths | thirds | two-one",
       "families": [
         "equal-3-cta",
@@ -118,12 +118,12 @@
       "remainingSourceOnly": [
         {
           "id": "source-25",
-          "label": "Gravity Form",
-          "reason": "Form fields, notifications, and captcha live in WordPress. This draft does not submit the form."
+          "label": "Gravity Form 20",
+          "reason": "Form 20, Additive Build Plates RFQ, is modeled from the WordPress export (39 fields, 19 notifications, 1 confirmation). Public submit is off. hCaptcha and notification delivery need keys before anyone can send it. The file upload is not wired."
         }
       ],
       "verify": "Open /preview/markets/additive-manufacturing-build-plates/ (private, noindex) beside https://titanium.com/markets/additive-manufacturing-build-plates/. Check the grid (lead-three-fifths, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
-      "sourceHash": "b2ac28c469f3e70898e0abdd4db0ca0acab86449382d204e2c41a33b7883285d"
+      "sourceHash": "83909c19c65921898f35041a9b2fd16e10e64f6574520cfb436905656b1b4598"
     },
     {
       "path": "/processing/chamfering/",
@@ -275,8 +275,8 @@
     {
       "path": "/processing/",
       "id": "processing",
-      "action": "write",
-      "reason": "Source changed and nobody has edited the draft, so it was rebuilt.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "lead-three-fifths | thirds | full",
       "families": [
         "equal-3-cta",
@@ -296,8 +296,8 @@
     {
       "path": "/markets/",
       "id": "markets",
-      "action": "write",
-      "reason": "Source changed and nobody has edited the draft, so it was rebuilt.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "lead-two-thirds | thirds | full",
       "families": [
         "equal-3-cta",
@@ -350,6 +350,123 @@
       ],
       "verify": "Open /preview/markets/aerospace/ (private, noindex) beside https://titanium.com/markets/aerospace/. Check the grid (lead-three-fifths, thirds, two-one, float-wrap, float-wrap, float-wrap, float-wrap, float-wrap, float-wrap), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
       "sourceHash": "0b91e8be5c1969e07a799bab0e6a202540969c391783b91122647a1276c70a96"
+    },
+    {
+      "path": "/markets/defense/",
+      "id": "markets--defense",
+      "action": "write",
+      "reason": "New private draft.",
+      "grid": "lead-three-fifths | thirds | two-one | wide-fifths | quality-split | wide-fifths | quality-split | wide-fifths",
+      "families": [
+        "equal-3-cta",
+        "intro-two-one-linecard",
+        "quality-split",
+        "portfolio-grid-blocked"
+      ],
+      "converterFamily": "quality-split",
+      "remainingSourceOnly": [
+        {
+          "id": "source-14",
+          "label": "Product grid",
+          "reason": "This product grid is a WordPress query, not a fixed column layout."
+        }
+      ],
+      "verify": "Open /preview/markets/defense/ (private, noindex) beside https://titanium.com/markets/defense/. Check the grid (lead-three-fifths, thirds, two-one, wide-fifths, quality-split, wide-fifths, quality-split, wide-fifths), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "10d61fabbbc156ff76aad5a10392c238d12bc8f44d69b78af48c1ea69076c179"
+    },
+    {
+      "path": "/markets/industrial/",
+      "id": "markets--industrial",
+      "action": "write",
+      "reason": "New private draft.",
+      "grid": "lead-two-thirds | thirds | half-quarters | float-wrap | float-wrap | float-wrap | float-wrap | float-wrap | float-wrap | float-wrap | float-wrap",
+      "families": [
+        "equal-3-cta",
+        "medical-float"
+      ],
+      "converterFamily": "medical-float",
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/markets/industrial/ (private, noindex) beside https://titanium.com/markets/industrial/. Check the grid (lead-two-thirds, thirds, half-quarters, float-wrap, float-wrap, float-wrap, float-wrap, float-wrap, float-wrap, float-wrap, float-wrap), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "27292401615bbf1dbf121cb4e901fb9332729d262cd8b810de41bdae0d58f9d5"
+    },
+    {
+      "path": "/markets/consumer-products/",
+      "id": "markets--consumer-products",
+      "action": "write",
+      "reason": "New private draft.",
+      "grid": "lead-four-fifths | thirds | three-one | float-wrap | float-wrap | float-wrap",
+      "families": [
+        "equal-3-cta",
+        "intro-three-one-linecard",
+        "medical-float",
+        "portfolio-grid-blocked"
+      ],
+      "converterFamily": "medical-float",
+      "remainingSourceOnly": [
+        {
+          "id": "source-20",
+          "label": "Product grid",
+          "reason": "This product grid is a WordPress query, not a fixed column layout."
+        }
+      ],
+      "verify": "Open /preview/markets/consumer-products/ (private, noindex) beside https://titanium.com/markets/consumer-products/. Check the grid (lead-four-fifths, thirds, three-one, float-wrap, float-wrap, float-wrap), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "36db0e84e56bd4a1f288188ead7c357e870b434a89f51c8fc7ad0b8e54d2e5e3"
+    },
+    {
+      "path": "/giving-back/",
+      "id": "giving-back",
+      "action": "write",
+      "reason": "New private draft.",
+      "grid": "full | wide-fifths | quality-split | wide-fifths | quality-split",
+      "families": [
+        "quality-split"
+      ],
+      "converterFamily": "quality-split",
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/giving-back/ (private, noindex) beside https://titanium.com/giving-back/. Check the grid (full, wide-fifths, quality-split, wide-fifths, quality-split), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "98a6b07bb87649e872a78c82454b1427e977e75b0eeab5bc34aa2c1f35c4d407"
+    },
+    {
+      "path": "/titanium-about-us/",
+      "id": "titanium-about-us",
+      "action": "write",
+      "reason": "New private draft.",
+      "grid": "lead-four-fifths | thirds | full",
+      "families": [
+        "equal-3-cta"
+      ],
+      "converterFamily": "equal-3-cta",
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/titanium-about-us/ (private, noindex) beside https://titanium.com/titanium-about-us/. Check the grid (lead-four-fifths, thirds, full), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "d19b94a453c734e62e2103e4f5f88d34d4a4669c4771eee188ee8ece742ad27d"
+    },
+    {
+      "path": "/frequently-asked-questions/",
+      "id": "frequently-asked-questions",
+      "action": "write",
+      "reason": "New private draft.",
+      "grid": "full | thirds | lead-two-thirds",
+      "families": [
+        "equal-3-cta"
+      ],
+      "converterFamily": "equal-3-cta",
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/frequently-asked-questions/ (private, noindex) beside https://titanium.com/frequently-asked-questions/. Check the grid (full, thirds, lead-two-thirds), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "8b0b8902e6e47f52b065903af40f0b81c79ed3f4c46e10603a45f97279238aba"
+    },
+    {
+      "path": "/privacy-policy/",
+      "id": "privacy-policy",
+      "action": "write",
+      "reason": "New private draft.",
+      "grid": "full | two-one",
+      "families": [
+        "unclassified"
+      ],
+      "converterFamily": "unclassified",
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/privacy-policy/ (private, noindex) beside https://titanium.com/privacy-policy/. Check the grid (full, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "7e1f214a2b9baee3d5681bf6be88521c37876b1598ac3ce1c7e2e46b48318935"
     }
   ]
 }

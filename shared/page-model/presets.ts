@@ -26,6 +26,7 @@ const third = 29.333333333333332
 const twoThird = 64.66666666666666
 const twoFifth = 36.4
 const threeFifth = 57.599999999999994
+const fourFifth = 78.8
 const quarter = 20.5
 const threeQuarter = 73.5
 const half = 47
@@ -139,6 +140,34 @@ export const PRESETS: Record<RowPreset, PresetDefinition> = {
     bars: [3],
     columns: [{ label: 'Heading column', widthPercent: threeQuarter, marginLeftPercent: 0 }],
   },
+  'lead-four-fifths': {
+    id: 'lead-four-fifths',
+    label: 'Heading, four fifths wide',
+    description: 'A single column at four fifths of the page (78.8%).',
+    bars: [4],
+    columns: [{ label: 'Heading column', widthPercent: fourFifth, marginLeftPercent: 0 }],
+  },
+  'wide-fifths': {
+    id: 'wide-fifths',
+    label: 'Wide left / slim right (fifths)',
+    description: 'Main story on the left (three fifths) and a slim column on the right (two fifths).',
+    bars: [3, 2],
+    columns: [
+      { label: 'Main column', widthPercent: threeFifth, marginLeftPercent: 0 },
+      { label: 'Side column', widthPercent: twoFifth, marginLeftPercent: 6 },
+    ],
+  },
+  'half-quarters': {
+    id: 'half-quarters',
+    label: 'Half plus two quarters',
+    description: 'A half-width column, then two quarter columns, with the live site gap.',
+    bars: [2, 1, 1],
+    columns: [
+      { label: 'Half column', widthPercent: half, marginLeftPercent: 0 },
+      { label: 'First quarter', widthPercent: quarter, marginLeftPercent: 6 },
+      { label: 'Second quarter', widthPercent: quarter, marginLeftPercent: 6 },
+    ],
+  },
 }
 
 export const PRESET_LIST: PresetDefinition[] = ROW_PRESET_ORDER()
@@ -160,6 +189,9 @@ function ROW_PRESET_ORDER(): PresetDefinition[] {
     PRESETS['lead-two-thirds'],
     PRESETS['lead-three-fifths'],
     PRESETS['lead-three-quarters'],
+    PRESETS['lead-four-fifths'],
+    PRESETS['wide-fifths'],
+    PRESETS['half-quarters'],
   ]
 }
 

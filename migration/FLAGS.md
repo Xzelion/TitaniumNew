@@ -2,7 +2,7 @@
 
 These items stopped because they need WordPress admin, a Cloudflare allow, or a decision only a person should make. Everything else in this branch continued.
 
-Hosted conversions of existing pages: **0**. The twenty drafts in this repository are candidate dry-runs. The readiness screen says **Planned / awaiting integration**, not Ready and not Partly converted on the hosted CMS.
+Hosted conversions of existing pages: **0**. The twenty-seven drafts in this repository are candidate dry-runs. The readiness screen says **Planned / awaiting integration**, not Ready and not Partly converted on the hosted CMS.
 
 ## Handoff notes that this repository cannot confirm
 
@@ -17,15 +17,12 @@ Hosted conversions of existing pages: **0**. The twenty drafts in this repositor
 ## Need from WordPress admin
 
 1. **Firearms layout** — `https://titanium.com/markets/firearms/` returns Cloudflare 403 from this environment (the block page names `wpewaf.com`). The public text is visible through a reader view, but the column classes are not. Do not guess the grid. Please export the page HTML from WordPress, or allow this host, and re-run `npm run convert` after placing the file at `migration/raw/firearms.html`.
-2. **Additive Manufacturing form** — Gravity Form **20** on `https://titanium.com/markets/additive-manufacturing-build-plates/` is on the public page and protected by hCaptcha. The draft keeps the surrounding columns and records the form as source-only. It does not submit the form. Please export Gravity Form 20 (fields, conditional logic, notifications, confirmations, file upload). Visible labels include metals, alloy/grade, product form, size, quantity, delivery date, contact fields, and attach file.
-3. **Product grids** — Oil & Gas and Aerospace render a WordPress portfolio/query grid. Those regions are marked source-only. An export of the portfolio query, or a decision to recreate the icons as normal picture cards, is still open. Defense has the same grid and was not drafted (see the column note below).
-4. **The other public URLs** — This repository did not contain the earlier capture of about 419 pages. Public sitemaps currently list **404** URLs (305 pages, 65 posts, 30 portfolio items, 3 categories, 1 local). Twenty layouts are converted below. Unpublished WordPress drafts, redirects, and menu-only links are not in that sitemap.
-5. **Defense column widths** — `https://titanium.com/markets/defense/` has a row of three-fifths + two-fifths. The quality preset is the other way around (two-fifths + three-fifths). That row was not forced into a full-width column, and the page was not drafted.
-6. **Industrial column widths** — `https://titanium.com/markets/industrial/` has a row of one-half + one-quarter + one-quarter, plus floated pictures. There is no named preset for that trio, so the page was not drafted.
-7. **Consumer products column widths** — `https://titanium.com/markets/consumer-products/` opens with a four-fifths column and also uses sixths. Those widths are not named presets, so the page was not drafted.
-8. **Card grids** — `/markets/` and `/processing/` include a custom card grid (theme CSS: each card `width: 24%`, four across, full width under 768px). The drafts keep the button row and the introduction, and lock the cards. They were not stacked into one column. A named preset, or a decision to recreate them as picture cards, is still open.
-9. **Inner 55% text width** — Heat treating and coil slitting include the same custom CSS as water jet (text block 55%, picture 40%, picture 20px lower). On those two pages the picture and words are not a full-width pair, so the draft keeps the Enfold columns (three-quarters, and two-fifths + three-fifths) and does not invent the water-jet split. The live text block is still floated to 55% inside its column.
-10. **Canonical duplicates** — `https://titanium.com/processing/kitting-services/` canonicalizes to `https://titanium.com/services/`. One private draft covers `/services/`. `https://titanium.com/markets/industrial/oil-gas/` canonicalizes to `https://titanium.com/oil-gas/`. It was not written over the Oil & Gas draft.
+2. **Additive Manufacturing form — export received.** Gravity Form **20**, “Additive Build Plates RFQ”, is saved at `migration/raw/gravity-form-20.json` and modeled at `migration/forms/gravity-form-20.model.json` (39 fields, conditional alloy and dimension rules, 19 notifications, 1 confirmation, file upload, hCaptcha). The draft does **not** submit it. Public submit stays off until a person says to turn it on. hCaptcha has no site key or secret in the export (`needs_keys`). Notification routing is recorded and marked `needs_keys`; nothing is emailed. The file upload is not wired.
+3. **Product grids** — Oil & Gas, Aerospace, Defense, and Consumer Products render a WordPress portfolio/query grid. Those regions stay source-only. An export of the portfolio query, or a decision to recreate the icons as picture cards, is still open. Oil & Gas is still waiting on that export.
+4. **The other public URLs** — This repository did not contain the earlier capture of about 419 pages. Public sitemaps currently list **404** URLs (305 pages, 65 posts, 30 portfolio items, 3 categories, 1 local). Twenty-seven layouts are converted below. Unpublished WordPress drafts, redirects, and menu-only links are not in that sitemap.
+5. **Card grids** — `/markets/` and `/processing/` include a custom card grid (theme CSS: each card `width: 24%`, four across, full width under 768px). The drafts keep the button row and the introduction, and lock the cards. They were not stacked into one column. A named preset, or a decision to recreate them as picture cards, is still open.
+6. **Inner 55% text width** — Heat treating and coil slitting include the same custom CSS as water jet (text block 55%, picture 40%, picture 20px lower). On those two pages the picture and words are not a full-width pair, so the draft keeps the Enfold columns (three-quarters, and two-fifths + three-fifths) and does not invent the water-jet split. The live text block is still floated to 55% inside its column.
+7. **Canonical duplicates** — `https://titanium.com/processing/kitting-services/` canonicalizes to `https://titanium.com/services/`. One private draft covers `/services/`. `https://titanium.com/markets/industrial/oil-gas/` canonicalizes to `https://titanium.com/oil-gas/`. It was not written over the Oil & Gas draft.
 
 ## Checked on the public site, no admin needed
 
@@ -34,7 +31,8 @@ Hosted conversions of existing pages: **0**. The twenty drafts in this repositor
 - **Quality** is a two-fifths + three-fifths row. **Oil & Gas** and **Fastener Alloys** are a two-thirds story plus a one-third line card. **Interconnect** is three-quarters plus one-quarter, not the two-thirds family.
 - **Chamfering, grinding, saw cutting, shearing, torch cutting, and trepanning** use the same page CSS as water jet: words 55%, picture 40%, 15px gap, picture 20px lower. Each draft uses that measured split. PVC coating does not include that CSS, so it stays full-width columns.
 - **Coil slitting** is a two-fifths picture plus a three-fifths story (the quality split), not the water-jet split.
-- **Aerospace** uses the medical float (pictures with `left` / `right` inside one column) plus a two-thirds story and a one-third line card. The product icons stay locked.
+- **Aerospace, Defense, Industrial, and Consumer Products** use named Enfold widths from the live stylesheet: three-fifths + two-fifths is 57.6% / 36.4%, four-fifths is 78.8%, and half + two quarters is 47% / 20.5% / 20.5%, each with the 6% gap. Defense and Consumer Products keep the portfolio grid locked. Industrial and Consumer Products float pictures the way Medical does.
+- **Aerospace** uses the medical float plus a two-thirds story and a one-third line card.
 - **Oil & Gas** and **Additive** were rebuilt from current public HTML because the captured column HTML changed (an image address no longer uses the `.webp` proxy). Nobody had edited those drafts. The grids are unchanged.
 - Standard Enfold columns use a **6%** gap after the first column (`margin-left: 6%` in the live theme CSS). That spacing is part of the named presets. It is not a free-form measurement.
 
@@ -55,7 +53,14 @@ Hosted conversions of existing pages: **0**. The twenty drafts in this repositor
 | `/interconnect-alloys/` | equal 3-button row, wide story + slim line card | thirds, three-one |
 | `/markets/medical/` | equal 3-button row, line card, float wrap | full, thirds, two-one, halves, float-wrap |
 | `/processing/water-jet-cutting/` | equal 3-button row, measured picture split | full, thirds, waterjet-split |
-| `/markets/additive-manufacturing-build-plates/` | equal 3-button row, line card; form blocked | lead-three-fifths, thirds, two-one |
+| `/markets/additive-manufacturing-build-plates/` | equal 3-button row, line card; Form 20 modeled, submit off | lead-three-fifths, thirds, two-one |
+| `/markets/defense/` | equal 3-button row, line card, wide fifths; product grid locked | lead-three-fifths, thirds, two-one, wide-fifths, quality-split |
+| `/markets/industrial/` | equal 3-button row, half plus two quarters, float wrap | lead-two-thirds, thirds, half-quarters, float-wrap |
+| `/markets/consumer-products/` | equal 3-button row, four-fifths lead, slim line card, float wrap; product grid locked | lead-four-fifths, thirds, three-one, float-wrap |
+| `/giving-back/` | alternating fifths rows | full, wide-fifths, quality-split |
+| `/titanium-about-us/` | equal 3-button row, four-fifths lead | lead-four-fifths, thirds, full |
+| `/frequently-asked-questions/` | equal 3-button row | full, thirds, lead-two-thirds |
+| `/privacy-policy/` | full story plus a wide/narrow row | full, two-one |
 | `/processing/chamfering/` | equal 3-button row, measured picture split | full, thirds, waterjet-split |
 | `/processing/grinding/` | equal 3-button row, measured picture split | full, thirds, waterjet-split |
 | `/processing/saw-cutting/` | equal 3-button row, measured picture split | full, thirds, waterjet-split, full, halves |
@@ -70,12 +75,12 @@ Hosted conversions of existing pages: **0**. The twenty drafts in this repositor
 | `/services/` | equal 3-button row, two equal service columns | full, thirds, halves |
 | `/markets/aerospace/` | equal 3-button row, line card, float wrap; product grid locked | lead-three-fifths, thirds, two-one, float-wrap |
 
-Parity against the live HTML (title, description, canonical, Open Graph title and description, links, pictures, and the measured layouts) passed for all twenty. Locked card grids, portfolio queries, and the Gravity Form are excluded from the picture check and called out in the report. Evidence: `migration/reports/parity.json`.
+Parity against the live HTML (title, description, canonical, Open Graph title and description, links, pictures, and the measured layouts) passed for all twenty-seven. Locked card grids, portfolio queries, and Gravity Form 20 are excluded from the picture check and called out in the report. Evidence: `migration/reports/parity.json`.
 
 ## Families still open
 
 - Home hero slider and the multi-section homepage.
-- Defense, Industrial, and Consumer Products (unmapped column widths above). Giving Back alternates three-fifths + two-fifths with the quality split. Careers mixes two-fifths with one-half. About opens at four-fifths.
+- Careers mixes a two-fifths column with a one-half column. That pair is not a named preset, so the page was not drafted.
 - Alloy and technical-data pages.
 - 65 blog posts.
 - Location pages, contact (Gravity Form), and the local sitemap entry.
