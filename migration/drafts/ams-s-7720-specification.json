@@ -1,0 +1,252 @@
+{
+  "id": "ams-s-7720-specification",
+  "path": "/ams-s-7720-specification/",
+  "title": "AMS-S-7720 | Steel, Corrosion-Resistant Bars, Wire and Forging Stock (Aircraft Quality)",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS-S-7720 | Steel, Corrosion-Resistant Bars, Wire and Forging Stock (Aircraft Quality)",
+    "description": "Please find the chemical and mechanical properties for AMS-S-7720. Stainless Steel Grade 316L round bar available at Titanium Industries.",
+    "canonical": "https://titanium.com/ams-s-7720-specification/",
+    "ogTitle": "AMS-S-7720 | Steel, Corrosion-Resistant Bars, Wire and Forging Stock (Aircraft Quality)",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS-S-7720. Stainless Steel Grade 316L round bar available at Titanium Industries.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS-S-7720 | Steel, Corrosion-Resistant Bars, Wire and Forging Stock (Aircraft Quality)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS-S-7720"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade: 316L"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product Forms: Steel, Corrosion-Resistant Bars, Wire and Forging Stock (Aircraft Quality)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Scope: This specification covers the requirements for compositions of corrosion-resistant (316L/18-8) steel bars, rods, wire and forging stock."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Grade 316L Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 17.25%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 12.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 2.5%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 1.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength: 70.3 – 90 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength: 25 – 170 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation: 35.0 – 60.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile properties and associated requirements vary due to orientation, section thickness, and engineering requirements."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Alloy 316L Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical and Petrochemical Processing,"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Medical Implants and Instrumentation"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Heat Exchangers and Surface Condensers"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Semiconductors"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Petroleum Refining"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cross Reference Specifications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 5653](https://titanium.com/ams-5653-specification/) , [AMS-QQ-S-763](https://titanium.com/ams-qq-s-763-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM A276](https://titanium.com/astm-a276-specification/) , [ASTM A479](https://titanium.com/astm-a479-specification/) , [ASTM A484](https://titanium.com/astm-a484-specification/)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-s-7720-specification/",
+    "sourceHash": "6129010b3700d0c91512a7edbdf43ad42ba0525a04cdc1778ff5b66de94f8775",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-s-7720-specification/ (private, noindex) beside https://titanium.com/ams-s-7720-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

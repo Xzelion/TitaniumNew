@@ -1,0 +1,132 @@
+{
+  "id": "ams-2241",
+  "path": "/ams-2241/",
+  "title": "AMS 2241 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS 2241 | Titanium Industries",
+    "description": "AMS-2241: Tolerances, Corrosion and Heat-Resistant Steel, Iron Alloy, Titanium, and Titanium Alloy Bars and Wire",
+    "canonical": "https://titanium.com/ams-2241/",
+    "ogTitle": "AMS 2241 | Titanium Industries",
+    "ogDescription": "AMS-2241: Tolerances, Corrosion and Heat-Resistant Steel, Iron Alloy, Titanium, and Titanium Alloy Bars and Wire",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS-2241 | Titanium Industries"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "lead-two-thirds",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-13",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "AMS-2241: Tolerances, Corrosion and Heat-Resistant Steel, Iron Alloy, Titanium, and Titanium Alloy Bars and Wire"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "STANDARD by SAE International"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium products offered at all Titanium Industries locations:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Plate](https://titanium.com/products/plate/) | [Titanium Sheet](https://titanium.com/products/titanium-sheet/)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-2241/",
+    "sourceHash": "93b594e12867578d27468f16daf014040e64af5d5cb23c519d6a81f037a4942b",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | lead-two-thirds",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-2241/ (private, noindex) beside https://titanium.com/ams-2241/. Check the grid (full, thirds, lead-two-thirds), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

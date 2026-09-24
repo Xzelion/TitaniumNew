@@ -1,0 +1,264 @@
+{
+  "id": "ams-4117-specification",
+  "path": "/ams-4117-specification/",
+  "title": "AMS 4117 | Aluminum Alloy, Rolled or Cold Finished, Bars, Rods, & Wire",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS 4117 | Aluminum Alloy, Rolled or Cold Finished, Bars, Rods, & Wire",
+    "description": "Please find the chemical and mechanical properties for AMS 4117. Aluminum Alloy 6061; -T6, -T651 round bar offered at Titanium Industries.",
+    "canonical": "https://titanium.com/ams-4117-specification/",
+    "ogTitle": "AMS 4117 | Aluminum Alloy, Rolled or Cold Finished, Bars, Rods, & Wire",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS 4117. Aluminum Alloy 6061; -T6, -T651 round bar offered at Titanium Industries.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS 4117 | Aluminum Alloy, Rolled or Cold Finished, Bars, Rods, & Wire | Aluminum Alloy, Rolled or Cold Finished, Bars, Rods, and Wire and Flash Welded Rings | Solution and Precipitation Heat Treated"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS 4117"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy: 6061; -T6, -T651"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product Forms: Aluminum Alloy, Rolled or Cold Finished Bars, Rods, and Wire and Flash Welded Rings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Condition: Solution and Precipitation Heat Treated"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Scope: This specification covers an aluminum alloy in the form of rolled or cold-finished bars, rods, and wire and of flash welded rings and stock for flash welded rings. These products have been used typically for parts requiring moderate strength where limited formability is acceptable, but usage is not limited to such applications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability: [Aluminum Alloy 6061; -T6, -T651 round bar](https://titanium.com/shop/products/mill-products-aluminum-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Al 97%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cu 0.3%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 0.6%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 0.2%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 0.7 % Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mg 1%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Zn 0.3% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti 0.2% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 0.2% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Other 0.2%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength: 16 – 45 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength: 8 – 39 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation: 12 – 25%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile properties and associated requirements vary due to orientation, section thickness, and engineering requirements."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 6061 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aerospace – Wings and Fuselage"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Marine Applications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Automotive Parts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Bicycle Frames"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fishing Reels"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Suppressors"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cross Reference Specifications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS QQ-A-225/8"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM B211](https://titanium.com/astm-b211-specification/)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-4117-specification/",
+    "sourceHash": "8dce4c96ae73a20d74879e3ec7d3c1db92f2b081e0b0d5513b3429fcbd4e5b2c",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-4117-specification/ (private, noindex) beside https://titanium.com/ams-4117-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

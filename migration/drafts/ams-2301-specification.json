@@ -1,0 +1,184 @@
+{
+  "id": "ams-2301-specification",
+  "path": "/ams-2301-specification/",
+  "title": "AMS 2301 | Steel Cleanliness, Aircraft Quality Magnetic Particle Inspection Procedure",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS 2301 | Steel Cleanliness, Aircraft Quality Magnetic Particle Inspection Procedure",
+    "description": "Please find the chemical and mechanical properties for AMS 2301 Alloy Steel round bar available at Titanium Industries.",
+    "canonical": "https://titanium.com/ams-2301-specification/",
+    "ogTitle": "AMS 2301 | Steel Cleanliness, Aircraft Quality Magnetic Particle Inspection Procedure",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS 2301 Alloy Steel round bar available at Titanium Industries.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS 2301 | Steel Cleanliness, Aircraft Quality Magnetic Particle Inspection Procedure"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS 2301"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel Grades: AISI 4130, AISI 4140, AISI 52100, AISI 6304, AISI 8740, AISI 9310"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product Forms: Steel Cleanliness, Aircraft Quality Magnetic Particle Inspection Procedure"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Scope: This specification covers steel cleanliness requirements in inch/pound units for aircraft-quality ferro-magnetic steels, other than hardenable corrosion resistant steels (refer to AMS2303), by magnetic particle inspection methods. This specification contains sampling, specimen preparation, inspection procedures and cleanliness rating criteria"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Alloy Steel AISI 4130 Round Bar](https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Alloy Steel AISI 4140 Round Bar](https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Alloy Steel AISI 52100 Round Bar](https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Alloy Steel AISI 6304 Round Bar](https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Alloy Steel AISI 8740 Round Bar](https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Alloy Steel AISI 9310 Round Bar](https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Shop Alloy Steel Round Bar",
+              "href": "https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar",
+              "variant": "primary"
+            },
+            {
+              "id": "button-16",
+              "kind": "button",
+              "label": "Discounted Products",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Alloy+Steel",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-2301-specification/",
+    "sourceHash": "3845604dd5d7488b9594368948e98518d0d438391cce6063f7c31f71c881eb88",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-2301-specification/ (private, noindex) beside https://titanium.com/ams-2301-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

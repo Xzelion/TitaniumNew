@@ -1,0 +1,260 @@
+{
+  "id": "ams-5936-specification",
+  "path": "/ams-5936-specification/",
+  "title": "AMS 5936 | Steel, Corrosion-Resistant, Bars, Wire, and Forgings",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS 5936 | Steel, Corrosion-Resistant, Bars, Wire, and Forgings",
+    "description": "Please find the chemical and mechanical properties for AMS 5936. Stainless Steel Grade Custom 465 Round Bar available at Titanium Industries.",
+    "canonical": "https://titanium.com/ams-5936-specification/",
+    "ogTitle": "AMS 5936 | Steel, Corrosion-Resistant, Bars, Wire, and Forgings",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS 5936. Stainless Steel Grade Custom 465 Round Bar available at Titanium Industries.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS 5936 | Steel, Corrosion-Resistant, Bars, Wire, and Forgings | Vacuum Induction Plus Vacuum Consumable Electrode Re-Melted Solution Heat Treated, Precipitation Hardenable"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS 5936"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade: Custom 465"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product Forms: Steel, Corrosion-Resistant, Bars, Wire, and Forgings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Condition: Vacuum Induction Plus Vacuum Consumable Electrode Re-Melted Solution Heat Treated, Precipitation Hardenable"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Scope: This specification covers a corrosion-resistant steel in the form of bars, wire, forgings, and forging stock."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Grade Custom 465 Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 74.35%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 11.75%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 11.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti 1.65%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 2.05%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.010%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength: 190 – 280 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength: 170 – 270 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation: 2.3 – 14%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile properties and associated requirements vary due to orientation, section thickness, and engineering requirements."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Typical Applications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Conveyors"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Food Processing"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Heat Exchangers"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Surface Condensers"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cross Reference Specifications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM A564](https://titanium.com/astm-a564-specification/) , [ASTM F899](https://titanium.com/astm-f899-specification/)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-5936-specification/",
+    "sourceHash": "8887607cfd17bb8bba39c3885078fa1104329521fffb8aa61015cad5ab8c7562",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-5936-specification/ (private, noindex) beside https://titanium.com/ams-5936-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

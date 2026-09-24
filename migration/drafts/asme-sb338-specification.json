@@ -1,0 +1,224 @@
+{
+  "id": "asme-sb338-specification",
+  "path": "/asme-sb338-specification/",
+  "title": "ASME SB-338 | Quality Standard Specification for Seamless and Welded Titanium and Titanium Alloy Tubes for Condensers and Heat Exchangers",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASME SB-338 | Quality Standard Specification for Seamless and Welded Titanium and Titanium Alloy Tubes for Condensers and Heat Exchangers",
+    "description": "ASME SB-338 | Standard Specification for Seamless and Welded Titanium and Titanium Alloy Tubes for Condensers and Heat Exchangers",
+    "canonical": "https://titanium.com/asme-sb338-specification/",
+    "ogTitle": "ASME SB-338 | Quality Standard Specification for Seamless and Welded Titanium and Titanium Alloy Tubes for Condensers and Heat Exchangers",
+    "ogDescription": "ASME SB-338 | Standard Specification for Seamless and Welded Titanium and Titanium Alloy Tubes for Condensers and Heat Exchangers",
+    "ogImage": "https://titanium.com/wp-content/uploads/2025/08/August-2025-Beyond-the-metal-12.jpg"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASME SB-338 | Standard Specification for Seamless and Welded Titanium and Titanium Alloy Tubes for Condensers and Heat Exchangers"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASME SB-338"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "ASME SB-338 | Standard Specification for [Seamless](https://qqa.titanium.com/product/mill-product-titanium-seamless-tube) and [Welded](https://shop.titanium.com/shop/products/mill-products-titanium-welded-tube) Titanium and Titanium Alloy Tubes for Condensers and Heat Exchangers"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Identical to ASTM B338, ASME SB-338 is the standard specification for seamless and welded titanium and titanium alloy tubes or tubing which are intended for surface condensers, evaporators, and heat exchangers. This specification covers 28 grades of Titanium and Titanium alloys for tubing purpose, with Titanium Grade 2, Grade 7, and Grade 12 being the common material for tubing applications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The Titanium seamless tube must be manufactured from hollow billet using cold drawing or cold reducing processes with a continuous periphery in all stages of the manufacturing process. The Titanium welded tube must be manufactured from annealed, flat-rolled plates using automatic arc-welding or other welding process."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The standard also covers referenced documents, terminology, chemical requirements, tensile requirements, flattening test, flaring test, nondestructive tests, dimensions, wall thickness, tolerances, surface finish, inspection, product marking and packaging information of the Titanium and Titanium alloy tubes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Relevant Products:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grade 2 Seamless Tube](https://qqa.titanium.com/product/mill-product-titanium-seamless-tube)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Follow us on Social Media:"
+                }
+              ]
+            },
+            {
+              "id": "picture-19",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
+              "alt": "Titanium Industries | Instagram",
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-20",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
+              "alt": "Titanium Industries | LinkedIn",
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-21",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
+              "alt": "Titanium Industries | Twitter",
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-22",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
+              "alt": "Titanium Industries | Facebook",
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-23",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
+              "alt": "Titanium Industries | Youtube",
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/asme-sb338-specification/",
+    "sourceHash": "e6b689cdc5c435635e9746e6b490440019be36704e18a70cde34023f6dc3326f",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | full",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/asme-sb338-specification/ (private, noindex) beside https://titanium.com/asme-sb338-specification/. Check the grid (full, thirds, two-one, full), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

@@ -1,0 +1,417 @@
+{
+  "id": "alloys--alloy-steels--alloy-steel-aisi-8740",
+  "path": "/alloys/alloy-steels/alloy-steel-aisi-8740/",
+  "title": "Alloy Steel AISI 8740 | UNS# G87400 Round Bar | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Alloy Steel AISI 8740 | UNS# G87400 Round Bar | Titanium Industries",
+    "description": "Alloy Steel AISI 8740 | UNS# G87400 Round Bar offered at Titanium Industries' locations. Quick turnarounds and complete quality control.",
+    "canonical": "https://titanium.com/alloys/alloy-steels/alloy-steel-aisi-8740/",
+    "ogTitle": "Alloy Steel AISI 8740 | UNS# G87400 Round Bar | Titanium Industries",
+    "ogDescription": "Alloy Steel AISI 8740 | UNS# G87400 Round Bar offered at Titanium Industries' locations. Quick turnarounds and complete quality control.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Alloy Steel AISI 8740 | UNS# G87400"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 8740 | UNS# G87400 is similar to AISI 4140 and is generally used for aircraft fasteners and engine bolts, piston rods, axles, tool joints, and other applications where strength, toughness, and wear resistance are top priorities. As a nickel-chromium-molybdenum low-alloy steel, AISI 8740 demonstrates high tensile strength, good yield strength, fatigue resistance, toughness, and wear resistance properties."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 8740 Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2301](https://titanium.com/ams-2301-specification/) , [AMS 6322](https://titanium.com/ams-6322-specification/) , [AMS-S-6049](https://titanium.com/ams-s-6049-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM A331](https://titanium.com/astm-a331-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 8740 product forms offered at all Titanium Industries’ locations:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Alloy Steel AISI 8740 Round Bar](https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Buy Now",
+              "href": "https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar",
+              "variant": "primary"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 8740 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aerospace Fasteners"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Automotive"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Petrochemical"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Waste Processing"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Marine"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Defense"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Pharmaceutical"
+                }
+              ]
+            },
+            {
+              "id": "button-17",
+              "kind": "button",
+              "label": "Buy Discounted Alloy Steel",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Alloy+Steel",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-18",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-19",
+          "items": [
+            {
+              "id": "text-20",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.43% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 0.40 – 0.60%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 96.65 – 97.72%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 0.72 – 1.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 0.20 – 0.30%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 0.40 – 0.70%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P 0.035% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 0.15 – 0.30%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.040% Max"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-21",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-22",
+          "items": [
+            {
+              "id": "text-23",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU-in/hr-ft²-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (1/°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.284"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "323"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.114"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2 Offset"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (R"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "m"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (AL=5 x Ø)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "16%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Brinell Hardness (H)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "269"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "269"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): 29700"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: 65%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/alloy-steels/alloy-steel-aisi-8740/",
+    "sourceHash": "7bd07fa5571be21503c3704c509cd00c0b4e5e367f2f8d00bc4645fc9c63d671",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-fifths",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/alloy-steels/alloy-steel-aisi-8740/ (private, noindex) beside https://titanium.com/alloys/alloy-steels/alloy-steel-aisi-8740/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-fifths), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

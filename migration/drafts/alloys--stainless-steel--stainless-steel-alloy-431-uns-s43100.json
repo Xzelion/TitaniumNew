@@ -1,0 +1,360 @@
+{
+  "id": "alloys--stainless-steel--stainless-steel-alloy-431-uns-s43100",
+  "path": "/alloys/stainless-steel/stainless-steel-alloy-431-uns-s43100/",
+  "title": "Discover Stainless Steel Alloy 431 | UNS# S43100 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Discover Stainless Steel Alloy 431 | UNS# S43100 | Titanium Industries",
+    "description": "Stainless Steel Alloy 431 is a martensitic, heat-treatable grade with excellent corrosion resistance, torque strength, high toughness and tensile properties.",
+    "canonical": "https://titanium.com/alloys/stainless-steel/stainless-steel-alloy-431-uns-s43100/",
+    "ogTitle": "Discover Stainless Steel Alloy 431 | UNS# S43100 | Titanium Industries",
+    "ogDescription": "Stainless Steel Alloy 431 is a martensitic, heat-treatable grade with excellent corrosion resistance, torque strength, high toughness and tensile properties.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Stainless Steel Alloy 431 | UNS# S43100"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Alloy 431 is a martensitic, heat-treatable grade with excellent corrosion resistance, torque strength, high toughness and tensile properties. These properties make grade 431 ideal for bolt and shaft applications but the grade cannot be cold-worked owing to its high yield strength. Subsequently, the grade is suitable for operations such as spinning, deep drawing, bending or cold heading."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Martensitic steels fabrication is typically conducted using techniques that allow hardening and tempering treatments and poor weldability. The corrosion resistance properties of 431 steels are lower than that of austenitic grades. The operations of grade 431 are limited by their loss of strength at high temperatures, due to over-tempering, and loss of ductility at negative temperatures."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel product forms offered at all Titanium Industries’ locations:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Hex Bar](https://titanium.com/shop/products/mill-products-stainless-steel-hex-bar)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Stainless Steel Alloy 431 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Laboratory equipment"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Marine systems"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Beater bars"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Pump and propeller shafts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nuts and bolts"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.20% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 1.0% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 1.0% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.03% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 15.0 – 17.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 1.25 – 2.50%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-19",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density (kg/m3)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical Resistivity (nΩ.m)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal Conductivity (W/m.K)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific Heat"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0-100°C (J/kg.K)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (μm/m/°C)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "7800"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "720"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "20.2 at 100°C"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "460"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "12.1"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (MPa)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "655"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1055"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (MPa)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "862"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1350"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (% in 50mm)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "19.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "20.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Brinell Hardness (HB)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "277"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "388"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (GPa): 200"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: –"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/stainless-steel/stainless-steel-alloy-431-uns-s43100/",
+    "sourceHash": "b1c21e743d8711f804a546f08c33165306bc94fdf042ab702508071780113f47",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/stainless-steel/stainless-steel-alloy-431-uns-s43100/ (private, noindex) beside https://titanium.com/alloys/stainless-steel/stainless-steel-alloy-431-uns-s43100/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

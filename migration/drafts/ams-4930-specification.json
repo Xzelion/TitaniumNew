@@ -1,0 +1,263 @@
+{
+  "id": "ams-4930-specification",
+  "path": "/ams-4930-specification/",
+  "title": "AMS 4930 | Titanium Alloy Bars, Wire, Forgings, and Rings | Annealed",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS 4930 | Titanium Alloy Bars, Wire, Forgings, and Rings | Annealed",
+    "description": "Please find the chemical and mechanical properties for AMS 4930. Titanium 6Al-4V ELI Grade 23 Round Bar and Rectangle Bar.",
+    "canonical": "https://titanium.com/ams-4930-specification/",
+    "ogTitle": "AMS 4930 | Titanium Alloy Bars, Wire, Forgings, and Rings | Annealed",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS 4930. Titanium 6Al-4V ELI Grade 23 Round Bar and Rectangle Bar.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS 4930 | Titanium Alloy Bars, Wire, Forgings, and Rings | Annealed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS 4930"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Alloy: Titanium 6Al-4V ELI Grade 23"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product Forms: Titanium Alloy Bars, Wire, Forgings, and Rings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Condition: Annealed"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium 6Al-4V ELI Grade 23 Rectangle Bar](https://titanium.com/products/rectangle-bar/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium 6Al-4V ELI Grade 23 Round Bar](https://qqa.titanium.com/product/mill-product-titanium-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "CHEMICAL COMPOSITION"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Al 5.50 – 6.50%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "V 3.50 – 4.50%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.08% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N 0.05% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "O 0.13% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "H 0.0125% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 0.25% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti Balance"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Other Elements 0.40%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength: 120 – 125 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength: 110 – 115 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation: 8 – 10%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Reduction of Area: 15 – 25%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile properties and associated requirements vary due to orientation, section thickness, and engineering requirements."
+                }
+              ]
+            },
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Shop Discounted T.i. Products",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Titanium",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Required Acceptance Tests"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Microstructure"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Surface Contamination"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cross Reference Specifications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2631](https://titanium.com/ams-2631-specification/) , [AMS 6932](https://titanium.com/ams-6932-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM F136](https://titanium.com/astm-f136-specification/) , [ASTM B348 Gr 23](https://titanium.com/astm-b348-specification/)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-4930-specification/",
+    "sourceHash": "0e4f6d5729a99bfd34db2edcdd2f3f15b4f5ad936a3d12df58ac8cab21c22f56",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-4930-specification/ (private, noindex) beside https://titanium.com/ams-4930-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

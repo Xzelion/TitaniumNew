@@ -1,0 +1,152 @@
+{
+  "id": "astm-b338-specification",
+  "path": "/astm-b338-specification/",
+  "title": "ASTM B338 | Standard Specification for Seamless and Welded Titanium and Titanium Alloy Tubes for Condensers and Heat Exchangers",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASTM B338 | Standard Specification for Seamless and Welded Titanium and Titanium Alloy Tubes for Condensers and Heat Exchangers",
+    "description": "ASTM B338 specification covers 28 grades of seamless and welded titanium alloy tubes for surface condensers, evaporators, and heat exchangers.",
+    "canonical": "https://titanium.com/astm-b338-specification/",
+    "ogTitle": "ASTM B338 | Standard Specification for Seamless and Welded Titanium and Titanium Alloy Tubes for Condensers and Heat Exchangers",
+    "ogDescription": "ASTM B338 specification covers 28 grades of seamless and welded titanium alloy tubes for surface condensers, evaporators, and heat exchangers.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASTM B338 | Standard Specification for Seamless and Welded Titanium and Titanium Alloy Tubes for Condensers and Heat Exchangers"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Specification: ASTM B338"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM B338 Scope: This specification covers 28 grades of seamless and welded titanium alloy tubes for surface condensers, evaporators, and heat exchangers. Seamless tube shall be made from hollow billet by any cold reducing or cold drawing process that will yield a product meeting the requirements prescribed. Welded tube shall be made from flat-rolled product by an automatic arc-welding process. The welded tube shall be sufficiently cold worked to final size in order to transform the cast weld microstructure into a typical equiaxed microstructure in the weld upon subsequent heat treatment. The titanium shall conform to the chemical requirements prescribed. The room temperature tensile properties of the tube in the condition normally supplied shall conform to the requirements prescribed. Tubing shall withstand, without cracking, flattening under a load applied gradually at room temperature until the distance between the load platens is not more than the required height. Welded tube shall be subjected to a reverse flattening test in accordance with supplement II of test methods and definitions A 370. Welded tubing shall be tested using both a non-destructive electromagnetic test and an ultrasonic test method. Seamless and welded/cold worked tubing shall be tested using an ultrasonic test method. Welded tubing shall be tested with a hydrostatic or pneumatic test method. Seamless tubing shall be tested with an electromagnetic or hydrostatic or pneumatic test method."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for ASTM specifications."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium CP 3 Grade 2 Seamless Tube](https://qqa.titanium.com/product/mill-product-titanium-seamless-tube)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium CP 3 Grade 2 Welded Tube](https://qqa.titanium.com/product/mill-product-titanium-welded-tube)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/astm-b338-specification/",
+    "sourceHash": "492931ba95b18c49e7109eff980fb88ddb75d4ff0c6dd4688746b8f260e7253d",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/astm-b338-specification/ (private, noindex) beside https://titanium.com/astm-b338-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

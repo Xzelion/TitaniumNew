@@ -1,0 +1,685 @@
+{
+  "id": "alloys",
+  "path": "/alloys/",
+  "title": "Discover Best Quality Titanium, Nickel, Aluminum, Stainless Steels, Alloys - Carbon Steels & More",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Discover Best Quality Titanium, Nickel, Aluminum, Stainless Steels, Alloys - Carbon Steels & More",
+    "description": "Titanium Industries offers a wide range of specialty metals & distribtion to the Aerospace, Industrial, Medical, Oil & Gas Markets. Titanium, Nickel Alloys & more",
+    "canonical": "https://titanium.com/alloys/",
+    "ogTitle": "Discover Best Quality Titanium, Nickel, Aluminum, Stainless Steels, Alloys - Carbon Steels & More",
+    "ogDescription": "Titanium Industries offers a wide range of specialty metals & distribtion to the Aerospace, Industrial, Medical, Oil & Gas Markets. Titanium, Nickel Alloys & more",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Our Specialty Metals Inventory | Titanium Industries"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "three-one",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "text-7",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Titanium | Stainless Steel | Nickel | Aluminum | Carbon & Alloy Steels"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "As the global leader in distributing specialty metals, Titanium Industries provides quality products at competitive prices, with the quickest deliveries. With over 18 worldwide locations, T.I. is proud to provide specialty metals such as Titanium, Nickel, Stainless Steel, Cobalt Chrome, Alloy Steels, Aluminum, Carbon Steels and more in many product forms. Please find our catalog of specialty metals and specifications for the entire T.I. product lineup below."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "text-8",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Weight Calculator"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-9",
+      "preset": "thirds",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-10",
+          "items": [
+            {
+              "id": "button-13",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-11",
+          "items": [
+            {
+              "id": "button-14",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://titanium.com/shop/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "full",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "[Titanium Alloy Products | Titanium Supplier](https://titanium.com/alloys/titanium-and-titanium-alloys/)"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Commercially Pure Titanium"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade 1 CP 4 | UNS R50250"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade 2 CP 3 | UNS R50400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade 3 CP 2 | UNS R50550"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade 4 CP 1 | UNS R50700"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Titanium Alloys"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 6Al-4V Grade 5 | UNS R56400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 6Al-2SN-4ZR-2MO | UNS R54620"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 3Al-2.5V Grade 9 | UNS R56320"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 6Al-4V Grade 5 STA | UNS R56400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 6Al-2SN-4ZR-6MO | UNS R56260"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade 12 0.8NI-0.3Mo"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 6Al-4V ELI Grade 23 | UNS R56407"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 7Al-4Mo | UNS R56740"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade 19 Ti BETA C™"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 6Al-6V-2SN | UNS R56620"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade 7 | UNS R52400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 15V-3Cr-3Sn-3Al"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-19",
+      "preset": "full",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "[Stainless Steel Products | Stainless Steel Supplier](https://titanium.com/alloys/stainless-steel/)"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Stainless Steel Alloys"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Precipitation Hardenable Stainless Steels"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel 13-8 PH | UNS S13800"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel 15-5 PH | UNS S15500"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel 17-4 PH | UNS S17400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel 17-7 PH | UNS S17700"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Austenitic Alloys | 100, 200, & 300 Series"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 108 | UNS S29108"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 304 | UNS S30400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 321 | UNS S32100"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 301 | UNS S30100"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 304L | UNS S30403"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 347 | UNS S34700"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 302 | UNS S30200"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 310 | UNS S31000"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 355 | UNS S35500"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 303 | UNS S30300"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 316 | UNS S31600"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 303 SE | UNS S30323"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 316L | UNS S31603"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ferritic & Martensitic Alloys | 400 Series"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 403 | UNS S40300"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 422 | UNS S42200"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 440C | UNS S44004"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 410 | UNS 41000"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 430 | UNS S43000"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Custom 455 | UNS S45500"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 416 HT | UNS S41600"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 430F | UNS S43020"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Custom 465 | UNS S46500"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 418 | UNS S41800"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 431 | UNS S43100"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A286 | UNS S66286"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 420 | UNS S42000"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 440A | UNS S44002"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AerMet® 100| UNS K92580"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-22",
+      "preset": "full",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-23",
+          "items": [
+            {
+              "id": "text-24",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "[Nickel Alloy Products | Nickel Alloy Supplier](https://titanium.com/alloys/nickel-alloys/)"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Nickel Alloys"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy 600 | UNS N06600"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Monel® K500 | UNS N05500"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy 625 | UNS N06625"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "MP35N® | UNS R30035"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy 718 | UNS N07718"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A-286 | UNS S66286"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy 750 | UNS N07750"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Waspaloy™ | UNS N07001"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-25",
+      "preset": "full",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-26",
+          "items": [
+            {
+              "id": "text-27",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "[Alloy Steels Products | Alloy Steel Supplier](https://titanium.com/alloys/alloy-steels/)"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Alloy Steels"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nitralloy 135® (135M)| UNS K24065"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 4340 | UNS G43400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 6150 | UNS G61500"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6304 (17-22A) | UNS K14675"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 4130 | UNS G41300"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AISI 4340 MOD 300M | UNS K44220"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 8740 | UNS G87400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel HP 9-4-30 | UNS K91283"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 4140 | UNS G41400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 4340 VM | UNS K44220"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI E9310 | UNS G93106"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel H-11 | UNS T20811"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 4330 | UNS K23080"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 4815 | UNS G48150"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 9313"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 52100 | UNS G52986"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-28",
+      "preset": "full",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-29",
+          "items": [
+            {
+              "id": "text-30",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "[Aluminum Alloy Products | Aluminum Alloy Supplier](https://titanium.com/alloys/aluminum-alloys/)"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Aluminum Alloys"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 2014 | UNS A92014"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 6061 | UNS A96061"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 2017 | UNS A92017"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 7050 | UNS A97050"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 2024 | UNS A92024"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 7075 | UNS A97075"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-31",
+      "preset": "full",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-32",
+          "items": [
+            {
+              "id": "text-33",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "[Carbon Steel Products | Carbon Steel Supplier](https://titanium.com/alloys/carbon-steels/)"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Carbon Steels"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Carbon Steel AISI 1018 | UNS G10180"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Carbon Steel AISI 1137 | UNS G11370"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Carbon Steel AISI 1215 | UNS G12150"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Carbon Steel AISI 12L14 | UNS G12144"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-34",
+      "preset": "full",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-35",
+          "items": [
+            {
+              "id": "text-36",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "[Cobalt Chrome Products | Cobalt Chrome Moly Supplier](https://titanium.com/alloys/cobalt-chrome/)"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Cobalt Chrome"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Co-Cr-Mo (CCM) 1537"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/",
+    "sourceHash": "75fe9d7c247eaccfd841df1747b7d8c87d1ca19a7379454739900517e80c0df3",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | three-one | thirds | full | full | full | full | full | full | full",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/ (private, noindex) beside https://titanium.com/alloys/. Check the grid (full, three-one, thirds, full, full, full, full, full, full, full), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

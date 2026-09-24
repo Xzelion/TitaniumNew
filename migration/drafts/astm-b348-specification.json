@@ -1,0 +1,183 @@
+{
+  "id": "astm-b348-specification",
+  "path": "/astm-b348-specification/",
+  "title": "ASTM B348 | Standard Specification for Titanium and Titanium Alloy Bars and Billets",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASTM B348 | Standard Specification for Titanium and Titanium Alloy Bars and Billets",
+    "description": "ASTM B348 specification covers annealed bars and grills made from titanium or its alloys. All material grades covered should conform to the required chemical composition requirements.",
+    "canonical": "https://titanium.com/astm-b348-specification/",
+    "ogTitle": "ASTM B348 | Standard Specification for Titanium and Titanium Alloy Bars and Billets",
+    "ogDescription": "ASTM B348 specification covers annealed bars and grills made from titanium or its alloys. All material grades covered should conform to the required chemical composition requirements.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASTM B348 | Standard Specification for Titanium and Titanium Alloy Bars and Billets"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Specification: ASTM B348"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM B348 Scope: This specification covers annealed bars and grills made from titanium or its alloys. All material grades covered should conform to the required chemical composition requirements. Elements that are intentionally added to the melt should be identified, analyzed and reported in the chemical analysis. Specimens for tension tests should be machined and the tensile properties determined using a specified strain rate through the yield strength and at an increasing rate. Each annealed material may be furnished as either descaled, sandblasted, ground, or rough turned."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for ASTM specifications."
+                }
+              ]
+            },
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Discounted T.i. Products",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Titanium",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium CP 4 Grade 1 Round Bar](https://qqa.titanium.com/product/mill-product-titanium-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium CP 3 Grade 2 Round Bar](https://qqa.titanium.com/product/mill-product-titanium-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium CP 1 Grade 4 Round Bar](https://qqa.titanium.com/product/mill-product-titanium-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Alloy 6Al-4V Grade 5 Round Bar](https://qqa.titanium.com/product/mill-product-titanium-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Alloy 6Al-4V Grade 5 Rectangle Bar](https://qqa.titanium.com/product/mill-product-titanium-rectangular-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Alloy 6Al-4V Grade 5 Block](https://qqa.titanium.com/product/mill-product-titanium-block)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Alloy 6Al-4V ELI Grade 23 Round Bar](https://qqa.titanium.com/product/mill-product-titanium-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Alloy 6Al-4V ELI Grade 23 Rectangle Bar](https://qqa.titanium.com/product/mill-product-titanium-rectangular-bar)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/astm-b348-specification/",
+    "sourceHash": "abdf6339c1aed1c045ceb26405defdedafd920ce39a521cc91207df240d2781c",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/astm-b348-specification/ (private, noindex) beside https://titanium.com/astm-b348-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

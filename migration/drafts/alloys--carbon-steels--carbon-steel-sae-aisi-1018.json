@@ -1,0 +1,399 @@
+{
+  "id": "alloys--carbon-steels--carbon-steel-sae-aisi-1018",
+  "path": "/alloys/carbon-steels/carbon-steel-sae-aisi-1018/",
+  "title": "Carbon Steel AISI 1018 | UNS# G10180 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Carbon Steel AISI 1018 | UNS# G10180 | Titanium Industries",
+    "description": "Carbon Steel AISI 1018 demonstrates good strength, some ductility, and comparative ease of welding and machining.",
+    "canonical": "https://titanium.com/alloys/carbon-steels/carbon-steel-sae-aisi-1018/",
+    "ogTitle": "Carbon Steel AISI 1018 | UNS# G10180 | Titanium Industries",
+    "ogDescription": "Carbon Steel AISI 1018 demonstrates good strength, some ductility, and comparative ease of welding and machining.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Carbon Steel AISI 1018 | UNS# G10180"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/web-app-manifest-512x512.png",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Carbon Steel AISI 1018 is the most commonly available cold-rolled steels. 1018 demonstrates good strength, some ductility, and comparative ease of welding and machining. This material is also chemically similar to A36 Hot Rolled steel, but cold rolling creates a better surface finish and ultimately better properties. Typically found in applications that include pins, rods, shafts, spindles, and sprockets."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Carbon Steel AISI 1018 Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 5069, AMS 5069A"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM A29, ASTM A512, ASTM A611 (D-1), ASTM A635, ASTM A510 ASTM A794 ASTM A519 ASTM A544, ASTM A108 ASTM A513 ASTM A830, ASTM A545 ASTM A548, ASTM A549 ASTM A659, ASTM A576"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "SAE J412 SAE J1397, SAE J403, SAE J414"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "MIL S-11310 (CS 1018)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "MIL J-1397 MIL J-403, MIL J-412"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Shop Carbon Steel Round Bar",
+              "href": "https://qqa.titanium.com/product/mill-product-carbon-steel-round-bar",
+              "variant": "primary"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Carbon Steel AISI 1018 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Shafts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Spindles"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Pins"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Rods"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Sprocket assemblies."
+                }
+              ]
+            },
+            {
+              "id": "button-17",
+              "kind": "button",
+              "label": "Discounted Carbon Steel Round Bar",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Carbon+Steel",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-18",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-19",
+          "items": [
+            {
+              "id": "text-20",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 0.60 – 0.90%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.15 – 0.20%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.05% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P 0.04% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe Balance"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-21",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-22",
+          "items": [
+            {
+              "id": "text-23",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density (lbs/cubic in)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (W/m-K)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity (BTU/lb-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (µm/m-K)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.284"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "7.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "52"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.11"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "12"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "750"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-24",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-25",
+          "items": [
+            {
+              "id": "text-26",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Mpa)240"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "240"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (Mpa)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "430"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "480"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "17%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "27%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Hardness, Brinell"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "130"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "140"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): 29000"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: –"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/carbon-steels/carbon-steel-sae-aisi-1018/",
+    "sourceHash": "a5c9ec1d9f5301036e067b5301f390b114258d2f118bb71525b953ca19d46ca7",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-fifths | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/carbon-steels/carbon-steel-sae-aisi-1018/ (private, noindex) beside https://titanium.com/alloys/carbon-steels/carbon-steel-sae-aisi-1018/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-fifths, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

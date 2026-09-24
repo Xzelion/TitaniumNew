@@ -1,0 +1,264 @@
+{
+  "id": "ams-6322-specification",
+  "path": "/ams-6322-specification/",
+  "title": "AMS 6322 | Steel Bars, Forgings, and Rings",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS 6322 | Steel Bars, Forgings, and Rings",
+    "description": "Please find the chemical and mechanical properties for AMS 6322. Alloy Steel Grade AISI 8740 Round Bar available at Titanium Industries.",
+    "canonical": "https://titanium.com/ams-6322-specification/",
+    "ogTitle": "AMS 6322 | Steel Bars, Forgings, and Rings",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS 6322. Alloy Steel Grade AISI 8740 Round Bar available at Titanium Industries.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS 6322 | Steel Bars, Forgings, and Rings"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS 6322"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel Grade: AISI 8740"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product Forms: Steel Bars, Forgings, and Rings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Scope: This specification covers an aircraft-quality, low-alloy steel in the form of bars, forgings, flash-welded rings, and stock for forging or flash-welded rings."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Alloy Steel Grade AISI 8470 Round Bar](https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.43% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 0.40 – 0.60%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 96.65 – 97.72%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 0.72 – 1.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 0.20 – 0.30%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 0.40 – 0.70%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P 0.035% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 0.15 – 0.30%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.040% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength: –"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength: –"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation: 16.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile properties and associated requirements vary due to orientation, section thickness, and engineering requirements."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 8740 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aerospace Fasteners"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Automotive"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Petrochemical"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Waste Processing"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Marine"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Defense"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Pharmaceutical"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cross Reference Specifications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2301](https://titanium.com/ams-2301-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM A331](https://titanium.com/astm-a331-specification/)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-6322-specification/",
+    "sourceHash": "02065d3f098c402606f56ccbc45b3170848613b09625805db97d124b9fcdc962",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-6322-specification/ (private, noindex) beside https://titanium.com/ams-6322-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

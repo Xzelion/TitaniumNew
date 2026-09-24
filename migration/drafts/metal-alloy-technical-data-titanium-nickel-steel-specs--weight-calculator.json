@@ -1,0 +1,171 @@
+{
+  "id": "metal-alloy-technical-data-titanium-nickel-steel-specs--weight-calculator",
+  "path": "/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+  "title": "Discover Easy to use Metal Weight Calculator - Titanium Industries #1 Metal Supply",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Discover Easy to use Metal Weight Calculator - Titanium Industries #1 Metal Supply",
+    "description": "Titanium Industries | Metal Weight Calculator | Specialty Metals",
+    "canonical": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+    "ogTitle": "Discover Easy to use Metal Weight Calculator - Titanium Industries #1 Metal Supply",
+    "ogDescription": "Titanium Industries | Metal Weight Calculator | Specialty Metals",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Metal Weight Calculator"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "lead-two-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "text-6",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "weight calculator"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-7",
+      "preset": "two-one",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-8",
+          "items": [
+            {
+              "id": "text-10",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Follow the steps below to calculate the weight of your titanium product."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Step 1. Determine Shape:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Calculate by Rounds OR Calculate by Rectangles"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Step 2. Enter Dimensions:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "(measured in inches)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Rounds Diameter: Length: Rectangles Thickness Width Length"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Rectangles Thickness Width Length"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Step 3. Select material:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Alloy 625 Alloy 718 316LVM CCM 1537"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density Automatically based on material selected: Total weight: 0 lbs"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "CONTACT US"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-9",
+          "items": [
+            {
+              "id": "button-11",
+              "kind": "button",
+              "label": "CONTACT US",
+              "href": "https://titanium.com/titanium-about-us/contact-us/",
+              "variant": "primary"
+            },
+            {
+              "id": "text-12",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "[QUOTE](https://titanium.com/quickquote/)"
+                }
+              ]
+            },
+            {
+              "id": "button-13",
+              "kind": "button",
+              "label": "VIEW ALL LOCATIONS",
+              "href": "https://titanium.com/titanium-about-us/locations/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+    "sourceHash": "657732ffed5068d252bc193b3ad7514a052b198a880300f20971717c206257e9",
+    "converterVersion": "2",
+    "converterFamily": "unclassified",
+    "families": [
+      "unclassified"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | lead-two-fifths | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/ (private, noindex) beside https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/. Check the grid (full, lead-two-fifths, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

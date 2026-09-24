@@ -1,0 +1,170 @@
+{
+  "id": "astm-a331-specification",
+  "path": "/astm-a331-specification/",
+  "title": "ASTM A331 | Standard Specification for Steel Bars, Alloy, Cold-Finished",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASTM A331 | Standard Specification for Steel Bars, Alloy, Cold-Finished",
+    "description": "ASTM A331 This specification covers cold-finished alloy steel bars of grades and cross sections regarded as generally suitable for heat treatment.",
+    "canonical": "https://titanium.com/astm-a331-specification/",
+    "ogTitle": "ASTM A331 | Standard Specification for Steel Bars, Alloy, Cold-Finished",
+    "ogDescription": "ASTM A331 This specification covers cold-finished alloy steel bars of grades and cross sections regarded as generally suitable for heat treatment.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASTM A331 | Standard Specification for Steel Bars, Alloy, Cold-Finished"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Specification: ASTM A331"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM A331 Scope: This specification covers cold-finished alloy steel bars of grades and cross sections regarded as generally suitable for heat treatment, for machining into components, or for use in the “as-finished” condition in constructional applications, or for other similar purposes. Grades of steel are identified by grade numbers or by chemical composition. Some end uses may require material superior to standard requirements, involving one or more of the available designations shown in the supplementary requirements. These shall apply only when specified individually by the purchaser in the order."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for ASTM specifications."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Buy Alloy Steel Round Bar",
+              "href": "https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar",
+              "variant": "primary"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Alloy Steel AISI 4130 Round Bar](https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Alloy Steel AISI 8740 Round Bar](https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Alloy Steel AISI 52100 Round Bar](https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar)"
+                }
+              ]
+            },
+            {
+              "id": "button-17",
+              "kind": "button",
+              "label": "Discounted Alloy Steel",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Alloy+Steel",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/astm-a331-specification/",
+    "sourceHash": "1f1f4ccacf3b23f2b1235ede58434946e2ba1304bd173cbd6e5f0e52f2e4fd98",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/astm-a331-specification/ (private, noindex) beside https://titanium.com/astm-a331-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

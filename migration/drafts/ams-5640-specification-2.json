@@ -1,0 +1,244 @@
+{
+  "id": "ams-5640-specification-2",
+  "path": "/ams-5640-specification-2/",
+  "title": "AMS 5640 | Steel, Corrosion-Resistant, Bars, Wire, and Forgings Free Machining",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS 5640 | Steel, Corrosion-Resistant, Bars, Wire, and Forgings Free Machining",
+    "description": "Please find the chemical and mechanical properties for AMS 5640. Stainless Steel Grade 303 round bar available at Titanium Industries.",
+    "canonical": "https://titanium.com/ams-5640-specification-2/",
+    "ogTitle": "AMS 5640 | Steel, Corrosion-Resistant, Bars, Wire, and Forgings Free Machining",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS 5640. Stainless Steel Grade 303 round bar available at Titanium Industries.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS 5640 | Steel, Corrosion-Resistant, Bars, Wire, and Forgings 18Cr - 9.0Ni Free Machining"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS 5640"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade: 303"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product Forms: This specification covers three types of a free-machining, corrosion-resistant steel in the form of bars, wire, forgings, and forging stock."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Grade 303 Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 18%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 69%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 0.60%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 9.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S >= 0.15%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength: 72.5 – 108.8 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength: 34.8 – 60.2 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation: 35.0 – 40.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile properties and associated requirements vary due to orientation, section thickness, and engineering requirements."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Alloy 303 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aircraft Applications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fasteners"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Screws"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cross Reference Specifications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 5641](https://titanium.com/ams-5641-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM A484](https://titanium.com/astm-a484-specification/) , [ASTM A582](https://titanium.com/astm-a582-specification/) , [ASTM F899](https://titanium.com/astm-f899-specification/)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-5640-specification-2/",
+    "sourceHash": "51634024f2da58ba6ef53099e14e2cd9163acf47722e56cb3dba3969f33d1409",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-5640-specification-2/ (private, noindex) beside https://titanium.com/ams-5640-specification-2/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

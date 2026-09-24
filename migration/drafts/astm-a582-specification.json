@@ -1,0 +1,152 @@
+{
+  "id": "astm-a582-specification",
+  "path": "/astm-a582-specification/",
+  "title": "ASTM A582 | Standard Specification for Free-Machining Stainless Steel Bars",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASTM A582 | Standard Specification for Free-Machining Stainless Steel Bars",
+    "description": "ASTM A582 specification covers hot-finished or cold-finished bars, except bars for forging, suitable for machining processes.",
+    "canonical": "https://titanium.com/astm-a582-specification/",
+    "ogTitle": "ASTM A582 | Standard Specification for Free-Machining Stainless Steel Bars",
+    "ogDescription": "ASTM A582 specification covers hot-finished or cold-finished bars, except bars for forging, suitable for machining processes.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASTM A582 | Standard Specification for Free-Machining Stainless Steel Bars"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Specification: ASTM A582"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM A582 Scope: This specification covers hot-finished or cold-finished bars, except bars for forging, suitable for machining processes. It includes rounds, squares, and hexagons in the more commonly used types of stainless free-machining steels designed especially for optimum machinability and for general corrosion and high-temperature service. Bars may be furnished either hot finished or cold finished in one of the conditions specified. Materials shall adhere to specified chemical composition requirements. At least one hardness testing shall be made midway between surface and center on each lot to determine that the material conforms to hardness requirements. Also, test methods and definition for hardness testing are presented."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for ASTM specifications."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Grade 303 Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Grade 303SE Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/astm-a582-specification/",
+    "sourceHash": "25cc92e26057d8471e6fcd0109509d8cb80a1c9aa15b5b9e93d736e4fd0e3886",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/astm-a582-specification/ (private, noindex) beside https://titanium.com/astm-a582-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

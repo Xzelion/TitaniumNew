@@ -1,0 +1,252 @@
+{
+  "id": "ams-4900-titanium-grade-3",
+  "path": "/ams-4900-titanium-grade-3/",
+  "title": "AMS 4900 | Titanium CP Grade 3 Sheet, Strip, and Plate | T.I.",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS 4900 | Titanium CP Grade 3 Sheet, Strip, and Plate | T.I.",
+    "description": "Please find the chemical and mechanical properties for AMS 4900. Titanium Commercially Pure Grade 3 Sheet, Strip, and Plate, Annealed",
+    "canonical": "https://titanium.com/ams-4900-titanium-grade-3/",
+    "ogTitle": "AMS 4900 | Titanium CP Grade 3 Sheet, Strip, and Plate | T.I.",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS 4900. Titanium Commercially Pure Grade 3 Sheet, Strip, and Plate, Annealed",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS 4900 | Titanium Sheet, Strip, and Plate Commercially Pure | Annealed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS 4900"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade: Titanium CP 2 Grade 3"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product Forms: Titanium Sheet, Strip, and Plate Commercially Pure"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Condition: Annealed"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability: [Titanium CP 2 Grade 3 Sheet](https://titanium.com/shop/products/mill-products-titanium-sheet)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti Balance"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.08%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 0.30%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N 0.05%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "O 0.30%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "H 0.015%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength: 65 ksi / 448 mpa"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength: 55 – 80 ksi / 379 – 552 mpa"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation: 18%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile properties and associated requirements vary due to orientation, section thickness, and engineering requirements."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Required Acceptance Tests"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Bend Testing"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grain Size"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Surface Contamination"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cross Reference Specifications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium CP 2 Grade 3 Sheet"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS-T-9046 CP 2](https://titanium.com/ams-t-9047-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM B265](https://titanium.com/astm-b265-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM F67](https://titanium.com/astm-f67-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "EN 10204.3.1"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASME SB265"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-4900-titanium-grade-3/",
+    "sourceHash": "a79a0d90147655983e6fdea45e736fa0cdf45ccc1f67e2a7416b83d54b23764e",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-4900-titanium-grade-3/ (private, noindex) beside https://titanium.com/ams-4900-titanium-grade-3/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

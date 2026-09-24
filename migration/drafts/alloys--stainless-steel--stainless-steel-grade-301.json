@@ -1,0 +1,409 @@
+{
+  "id": "alloys--stainless-steel--stainless-steel-grade-301",
+  "path": "/alloys/stainless-steel/stainless-steel-grade-301/",
+  "title": "Stainless Steel Grade 301 | UNS# S30100 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Stainless Steel Grade 301 | UNS# S30100 | Titanium Industries",
+    "description": "Stainless Steel 301 is a chromium nickel austenitic stainless steel capable of high strengths and ductility through cold working methods.",
+    "canonical": "https://titanium.com/alloys/stainless-steel/stainless-steel-grade-301/",
+    "ogTitle": "Stainless Steel Grade 301 | UNS# S30100 | Titanium Industries",
+    "ogDescription": "Stainless Steel 301 is a chromium nickel austenitic stainless steel capable of high strengths and ductility through cold working methods.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Stainless Steel Grade 301 | UNS# S30100"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Type 301 is a chromium nickel austenitic stainless steel capable of high strengths and ductility through cold working methods. It is not hardenable by heat treatment. Type 301 is non-magnetic in the annealed condition and becomes more magnetic and achieves optimal resistance to corrosion with cold working. 301 stainless steel is a modification of stainless steel grade 304 that contains lower chromium and nickel to increase the range for work hardening. Type 301 steel also exhibits corrosion resistance similar to grade 302 and grade 304. Preferable over 302 and 304 in the tempered condition due to higher elongation to facilitate fabrication."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel product forms offered at all Titanium Industries’ locations:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Hex Bar](https://titanium.com/shop/products/mill-products-stainless-steel-hex-bar)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 108 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Springs"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fasteners & Washers"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Zippers"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Clips"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Clamps"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Pins"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.15% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 2.0% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 1.0% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P 0.045 Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.015% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 18.5% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo –"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 8.0% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N 0.20% Max"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-19",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU-in/hr-ft²-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (1/°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.285"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "6.95"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "162"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.12"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.00000169"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2590"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-22",
+      "preset": "lead-three-quarters",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-23",
+          "items": [
+            {
+              "id": "text-24",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2 Offset"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "30"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (R"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "m"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "75"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (AL=5 x Ø)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "40.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Brinell Hardness (H)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): –"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: –"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/stainless-steel/stainless-steel-grade-301/",
+    "sourceHash": "259efec4d18551c046d2245c3200705b83290fce4a91f0f9b03d763556d9bfb4",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/stainless-steel/stainless-steel-grade-301/ (private, noindex) beside https://titanium.com/alloys/stainless-steel/stainless-steel-grade-301/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-quarters, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

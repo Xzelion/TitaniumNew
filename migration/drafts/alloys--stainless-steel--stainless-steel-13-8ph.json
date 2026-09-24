@@ -1,0 +1,413 @@
+{
+  "id": "alloys--stainless-steel--stainless-steel-13-8ph",
+  "path": "/alloys/stainless-steel/stainless-steel-13-8ph/",
+  "title": "Stainless Steel 13-8 PH | UNS# S13800 Round Bar | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Stainless Steel 13-8 PH | UNS# S13800 Round Bar | Titanium Industries",
+    "description": "Stainless Steel 13-8 PH | UNS# S13800 Round Bar is offered at Titanium Industries. Quick Shipments, Total Quality Control.",
+    "canonical": "https://titanium.com/alloys/stainless-steel/stainless-steel-13-8ph/",
+    "ogTitle": "Stainless Steel 13-8 PH | UNS# S13800 Round Bar | Titanium Industries",
+    "ogDescription": "Stainless Steel 13-8 PH | UNS# S13800 Round Bar is offered at Titanium Industries. Quick Shipments, Total Quality Control.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Stainless Steel Grade 13-8 PH | UNS# S13800"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop",
+              "href": "https://qqa.titanium.com/product?type=mill-product",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel 13- PH is a a martensitic precipitation-hardening steel that exhibits high hardness, excellent strength properties, good corrosion resistance, and superior toughness. Corrosion resistance for this metal is similar to Stainless Steel 304 and demonstrates good transvers toughness properties that are achieved through tight control of chemical composition, vacuum melting, and low carbon content."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "This alloy is double melted in a vacuum induction furnace followed by consumable electrode vacuum melt processes. Primary applications are for parts and accessories that require corrosion resistance, high strength, and good ductility."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel 13-8 PH Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2300](https://titanium.com/ams-2300-specification/) , [AMS 5629 TYPE 1](https://titanium.com/ams-5629-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM A564](https://titanium.com/astm-a564-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel 13-8 PH products offered at all Titanium Industries’ locations:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel 13-8 Round Bar](https://qqa.titanium.com/product/mill-product-stainless-steel-round-bar)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Buy Stainless Steel Round Bar",
+              "href": "https://qqa.titanium.com/product/mill-product-stainless-steel-round-bar",
+              "variant": "primary"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel 13-8 PH Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aerospace Components"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Petrochemical Industries"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Power Generation"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Waterjet Cutting Components"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Injection Molding Equipment"
+                }
+              ]
+            },
+            {
+              "id": "button-17",
+              "kind": "button",
+              "label": "Discounted Stainless Steel",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Stainless+Steel",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-18",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-19",
+          "items": [
+            {
+              "id": "text-20",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 12.25 – 13.23%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 7.50 – 8.50%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 2.00 – 2.50%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Al 0.90 – 1.35%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N 0.010%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 0.10%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 0.10%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.05%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P 0.010%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.008%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe Balance"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-21",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-22",
+          "items": [
+            {
+              "id": "text-23",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU-in/hr-ft²-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (1/°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.282"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.72"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "97"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.11"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.00000589"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2560"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2 Offset"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "85210"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (R"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "m"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "130235"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (AL=5 x Ø)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "7.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "13.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Brinell Hardness (H)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "301"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "451"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): 28300"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: 36%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/stainless-steel/stainless-steel-13-8ph/",
+    "sourceHash": "e681a0e3fda300d531c1ea893e8a9ab720aa48ccf0a792005faa26f6e4bd6ca4",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/stainless-steel/stainless-steel-13-8ph/ (private, noindex) beside https://titanium.com/alloys/stainless-steel/stainless-steel-13-8ph/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

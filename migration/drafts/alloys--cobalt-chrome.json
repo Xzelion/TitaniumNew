@@ -1,0 +1,187 @@
+{
+  "id": "alloys--cobalt-chrome",
+  "path": "/alloys/cobalt-chrome/",
+  "title": "Cobalt Chrome Alloy Round Bar & Specialty Metals | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Cobalt Chrome Alloy Round Bar & Specialty Metals | Titanium Industries",
+    "description": "Titanium Industries carries Cobalt Chrome Alloy Round Bar for medical applications. High strength, corrosion resistance, and wear resistance.",
+    "canonical": "https://titanium.com/alloys/cobalt-chrome/",
+    "ogTitle": "Cobalt Chrome Alloy Round Bar & Specialty Metals | Titanium Industries",
+    "ogDescription": "Titanium Industries carries Cobalt Chrome Alloy Round Bar for medical applications. High strength, corrosion resistance, and wear resistance.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Please find size ranges for 1537 Cobalt Chrome Alloy Round Bar, below."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Industries’ selection of [Cobalt Chrome Alloy Round Bar](https://qqa.titanium.com/product/mill-product-cobalt-chrome-moly-round-bar) . With quick turnarounds on quotes and an exceptional selection of specialty metal processing and service capabilities, Titanium Industries is ready to deliver. If the Carbon Steel product form you require is not shown below, please do not hesitate to [contact us here or contact your local T. I. Sales Representative.](https://titanium.com/contact-us/)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://qqa.titanium.com/product?type=mill-product",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "one-three",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "[Cobalt Chrome Round Bar](https://titanium.com/shop/products/mill-products-cobalt-chrome-moly-round-bar)"
+                }
+              ]
+            },
+            {
+              "id": "picture-15",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Round_Bar_Hi-300x200.jpg",
+              "alt": "round bar",
+              "href": "https://titanium.com/products/round-bar/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Buy Now"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-17",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Cobalt Chrome Alloy Round Bar Size Range:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum diameter: 0.780″/1.00 mm | Maximum diameter: 14.000″/400.00 mm"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Cobalt Chrome"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Co-Cr-Mo (CCM) 1537 | UNS N06617 | ASTM F1537"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cobalt Chrome Alloy Round Bar Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM F1537, ASTM F799"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS: [AMS 2630](https://titanium.com/ams-2630-specification/) , AMS 5844, AMS 5845"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/cobalt-chrome/",
+    "sourceHash": "2249dd853722b623663e86e418fa69c5d45a823b312834970bbb46dfc4704c00",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | one-three",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/cobalt-chrome/ (private, noindex) beside https://titanium.com/alloys/cobalt-chrome/. Check the grid (full, thirds, one-three), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

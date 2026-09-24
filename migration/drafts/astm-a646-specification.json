@@ -1,0 +1,240 @@
+{
+  "id": "astm-a646-specification",
+  "path": "/astm-a646-specification/",
+  "title": "ASTM A646 | Standard Specification for Premium Quality Alloy Steel Blooms and Billets for Aircraft and Aerospace Forgings",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASTM A646 | Standard Specification for Premium Quality Alloy Steel Blooms and Billets for Aircraft and Aerospace Forgings",
+    "description": "ASTM A646 specification covers premium quality alloy steel semifinished rolled or forged blooms and billets for reforging into critical parts such as aircraft landing-gear forgings.",
+    "canonical": "https://titanium.com/astm-a646-specification/",
+    "ogTitle": "ASTM A646 | Standard Specification for Premium Quality Alloy Steel Blooms and Billets for Aircraft and Aerospace Forgings",
+    "ogDescription": "ASTM A646 specification covers premium quality alloy steel semifinished rolled or forged blooms and billets for reforging into critical parts such as aircraft landing-gear forgings.",
+    "ogImage": "https://titanium.com/s/img/s/img/s/img/s/img/s/img/wp-content/uploads/2023/07/Instagram-300x300.png.webp"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASTM A646 | Standard Specification for Premium Quality Alloy Steel Blooms and Billets for Aircraft and Aerospace Forgings"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Specification: ASTM A646"
+                }
+              ]
+            },
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Buy Alloy Steel",
+              "href": "https://qqa.titanium.com/product?category=Alloy%20Steel&type=mill-product",
+              "variant": "primary"
+            },
+            {
+              "id": "button-16",
+              "kind": "button",
+              "label": "Shop Discounted Steel",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Stainless+Steel",
+              "variant": "primary"
+            },
+            {
+              "id": "text-17",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "ASTM A646 | Standard Specification for Premium Quality Alloy Steel"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM A646 Scope: This specification covers premium quality alloy steel semifinished rolled or forged blooms and billets for reforging into critical parts such as aircraft landing-gear forgings."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for ASTM specifications."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Alloy Steel AISI 4340 MOD 300M](https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar) [Round Bar](https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-19",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Follow us on Social Media:"
+                }
+              ]
+            },
+            {
+              "id": "picture-22",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
+              "alt": "Titanium Industries | Instagram",
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-23",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
+              "alt": "Titanium Industries | LinkedIn",
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-24",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
+              "alt": "Titanium Industries | Twitter",
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-25",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
+              "alt": "Titanium Industries | Facebook",
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-26",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
+              "alt": "Titanium Industries | Youtube",
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/astm-a646-specification/",
+    "sourceHash": "ea269e624233aa5c24171db46ef62ecd2b9057c0975d9189e3c74f3dd96b7caf",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | full",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/astm-a646-specification/ (private, noindex) beside https://titanium.com/astm-a646-specification/. Check the grid (full, thirds, two-one, full), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

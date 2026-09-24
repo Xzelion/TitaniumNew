@@ -1,0 +1,178 @@
+{
+  "id": "astm-f899-specification",
+  "path": "/astm-f899-specification/",
+  "title": "ASTM F899 | Standard Specification for Wrought Stainless Steels for Surgical Instruments",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASTM F899 | Standard Specification for Wrought Stainless Steels for Surgical Instruments",
+    "description": "ASTM F899 specification covers the chemical requirements for wrought stainless steels used for the manufacture of surgical instruments.",
+    "canonical": "https://titanium.com/astm-f899-specification/",
+    "ogTitle": "ASTM F899 | Standard Specification for Wrought Stainless Steels for Surgical Instruments",
+    "ogDescription": "ASTM F899 specification covers the chemical requirements for wrought stainless steels used for the manufacture of surgical instruments.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASTM F899 | Standard Specification for Wrought Stainless Steels for Surgical Instruments"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Specification: ASTM F899"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM F899 Scope: This specification covers the chemical requirements for wrought stainless steels used for the manufacture of surgical instruments. Classes of stainless steels covered here are Class 3 (austenitic stainless steel), Class 4 (martensitic stainless steel), Class 5 (precipitation hardening stainless steel), and Class 6 (ferritic stainless steel). The data contained in this specification, such as typical hardness values, common heat treating cycles, and examples of selected stainless steels that have been used for surgical instruments, are provided for reference only. Mechanical property, heat treatment, hardness, and all other requirements except for chemical composition, are governed by the appropriate material standards as specified or as agreed upon between purchaser and supplier."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for ASTM specifications."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Buy Stainless Steel Round bar",
+              "href": "https://qqa.titanium.com/product/mill-product-stainless-steel-round-bar",
+              "variant": "primary"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Grade 17-4 Round Bar](https://qqa.titanium.com/product/mill-product-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Grade 303 Round Bar](https://qqa.titanium.com/product/mill-product-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Grade 440C Round Bar](https://qqa.titanium.com/product/mill-product-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Grade Custom 455 Round Bar](https://qqa.titanium.com/product/mill-product-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Grade Custom 465 Round Bar](https://qqa.titanium.com/product/mill-product-stainless-steel-round-bar)"
+                }
+              ]
+            },
+            {
+              "id": "button-17",
+              "kind": "button",
+              "label": "Discound Stainless Bar",
+              "href": "https://qqa.titanium.com/product/mill-product-stainless-steel-round-bar",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/astm-f899-specification/",
+    "sourceHash": "4d78194fce2f5cc023274e869dfe84b014461b5689f18df850f4d05649b96f5c",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/astm-f899-specification/ (private, noindex) beside https://titanium.com/astm-f899-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

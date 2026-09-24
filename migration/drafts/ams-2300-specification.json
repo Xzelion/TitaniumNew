@@ -1,0 +1,173 @@
+{
+  "id": "ams-2300-specification",
+  "path": "/ams-2300-specification/",
+  "title": "AMS 2300 | Steel Cleanliness, Premium Aircraft-Quality Magnetic Particle Inspection Procedure",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS 2300 | Steel Cleanliness, Premium Aircraft-Quality Magnetic Particle Inspection Procedure",
+    "description": "Please find the chemical and mechanical properties for AMS 2300. Stainless Steel round bar available at Titanium Industries.",
+    "canonical": "https://titanium.com/ams-2300-specification/",
+    "ogTitle": "AMS 2300 | Steel Cleanliness, Premium Aircraft-Quality Magnetic Particle Inspection Procedure",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS 2300. Stainless Steel round bar available at Titanium Industries.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS 2300 | Steel Cleanliness, Premium Aircraft-Quality Magnetic Particle Inspection Procedure"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "lead-four-fifths",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-13",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS 2300"
+                }
+              ]
+            },
+            {
+              "id": "button-14",
+              "kind": "button",
+              "label": "Shop Stainless Steel",
+              "href": "https://qqa.titanium.com/product?category=Stainless%20Steel&type=mill-product",
+              "variant": "primary"
+            },
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Shop Discounted Stainless Steel",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Stainless+Steel",
+              "variant": "primary"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grades: Type 13-8, Type 15-5"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product Forms: Steel Cleanliness, Premium Aircraft-Quality Magnetic Particle Inspection Procedure"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Scope: This specification covers steel cleanliness requirements in inch/pound units for premium aircraft-quality ferromagnetic steels, including hardenable, corrosion-resistant steels, by magnetic particle inspection methods. This specification contains sampling, sample preparation, inspection procedures and cleanliness rating criteria (see 8.2)."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Application: This procedure has been used typically for the cleanliness evaluation of blooms, billets, tube rounds, stock for forging or flash welded rings, slabs, bars, sheet, plate, tubing, and extrusions used in fabricating highly stressed parts where very strict magnetic particle inspection standards are used in final inspection of such parts, but may be used for qualification of a heat, melt or lot of steel."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel 13-8 PH Round Bar](https://qqa.titanium.com/product/mill-product-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel 15-5 PH Round Bar](https://qqa.titanium.com/product/mill-product-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-2300-specification/",
+    "sourceHash": "9b0a6b04cf4fa4aff29b8686cf1a16793a0b597af6a9232a8a3634b9c899397b",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | lead-four-fifths",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-2300-specification/ (private, noindex) beside https://titanium.com/ams-2300-specification/. Check the grid (full, thirds, lead-four-fifths), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

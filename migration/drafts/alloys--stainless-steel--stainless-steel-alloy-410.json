@@ -1,0 +1,391 @@
+{
+  "id": "alloys--stainless-steel--stainless-steel-alloy-410",
+  "path": "/alloys/stainless-steel/stainless-steel-alloy-410/",
+  "title": "Stainless Steel Alloy 410 | UNS# S41000 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Stainless Steel Alloy 410 | UNS# S41000 | Titanium Industries",
+    "description": "Stainless Steel Alloy 410 is a martensitic stainless steel that provides good corrosion resistance in addition to high strength and hardness.",
+    "canonical": "https://titanium.com/alloys/stainless-steel/stainless-steel-alloy-410/",
+    "ogTitle": "Stainless Steel Alloy 410 | UNS# S41000 | Titanium Industries",
+    "ogDescription": "Stainless Steel Alloy 410 is a martensitic stainless steel that provides good corrosion resistance in addition to high strength and hardness.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Stainless Steel Alloy 410 | UNS# S41000"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Alloy 410 is a martensitic stainless steel that provides good corrosion resistance in addition to high strength and hardness. It is magnetic in the annealed and hardened conditions. Applications requiring moderate corrosion resistance and high mechanical properties typically use type 410. The corrosion resistance of grade 410 steels can be further enhanced by using processes such as hardening, tempering and polishing. Quenching and tempering can also harden type 410 steels and are generally used for applications involving mild corrosion, heat resistance and high strength."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel product forms offered at all Titanium Industries’ locations:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Hex Bar](https://titanium.com/shop/products/mill-products-stainless-steel-hex-bar)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Alloy 410 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cutlery"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Micrometer parts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Compressor parts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Valve parts for oil fields"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fasteners"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Springs"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Pins"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Gun clips"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.15% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 1.0% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 1.0% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P 0.04% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.03% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 11.5 – 13.5%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 0.75%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-19",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU/hr/ft2/ft/° F (W/m•K)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity (BTU/lb/° F (kJ/kg•K))"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (min/in)-°F"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.28"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "24.9"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.11 (0.46)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "9.9"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2723"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2 Offset"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "30"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (R"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "m"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "65"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (AL=5 x Ø)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "20.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Brinell Hardness (Rb)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "88"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): 20600"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: –"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/stainless-steel/stainless-steel-alloy-410/",
+    "sourceHash": "1a9a3b1d12e4d8f5f436207c77a760fb61c3f3b9064a6ef0924189647746b6de",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/stainless-steel/stainless-steel-alloy-410/ (private, noindex) beside https://titanium.com/alloys/stainless-steel/stainless-steel-alloy-410/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

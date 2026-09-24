@@ -386,14 +386,14 @@ function rowFromColumns(
     )
     return null
   }
-  const preset = presetForKeys(keys)
+  const flush = columns.every((column) => (column.getAttribute('class') ?? '').split(/\s+/).includes('no_margin'))
+  const preset = presetForKeys(keys, flush)
   if (!preset) {
-    pushSource(
-      sourceOnly,
-      ids,
-      'Unmapped columns',
-      `This row uses column widths (${keys.join(' + ')}) that are not a named preset. It was not forced into a full-width row.`,
-    )
+    const shown = keys.join(' + ')
+    const reason = flush
+      ? `This row uses no-margin column widths (${shown}). A no-margin quarter is 24.9% and a no-margin three-quarter is 75%, with no 6% gap. A no-margin fifth is 20% and a no-margin four-fifth is 80%. It was not forced into the gapped preset.`
+      : `This row uses column widths (${shown}) that are not a named preset. It was not forced into a full-width row.`
+    pushSource(sourceOnly, ids, 'Unmapped columns', reason)
     return null
   }
   const spaceAbove = columns.some((column) => (column.getAttribute('class') ?? '').includes('column-top-margin'))
@@ -425,8 +425,10 @@ function widthKey(column: HTMLElement): string | null {
   return '1'
 }
 
-function presetForKeys(keys: string[]): RowPreset | null {
+function presetForKeys(keys: string[], flush = false): RowPreset | null {
   const joined = keys.join('+')
+  // no_margin drops the 6% gap and uses a different width (24.9% / 75%, or 40% for two fifths).
+  if (flush && (joined === '1/4+3/4' || joined === '2/5' || joined === '1/5+4/5')) return null
   const map: Record<string, RowPreset> = {
     '1': 'full',
     '1/2': 'halves',
@@ -436,7 +438,9 @@ function presetForKeys(keys: string[]): RowPreset | null {
     '1/3+2/3': 'one-two',
     '2/5+3/5': 'quality-split',
     '3/4+1/4': 'three-one',
+    '1/4+3/4': 'one-three',
     '2/3': 'lead-two-thirds',
+    '2/5': 'lead-two-fifths',
     '3/5': 'lead-three-fifths',
     '3/4': 'lead-three-quarters',
     '4/5': 'lead-four-fifths',

@@ -1,0 +1,401 @@
+{
+  "id": "alloys--alloy-steels--alloy-steel-4140",
+  "path": "/alloys/alloy-steels/alloy-steel-4140/",
+  "title": "Discover Quality Alloy Steel 4140 Round Bar | UNS# G43400 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Discover Quality Alloy Steel 4140 Round Bar | UNS# G43400 | Titanium Industries",
+    "description": "Alloy Steel 4140 Round Bar | UNS# G43400 offered at Titanium Industries' worlwide locations. Quick turnarounds and complete quality control.",
+    "canonical": "https://titanium.com/alloys/alloy-steels/alloy-steel-4140/",
+    "ogTitle": "Discover Quality Alloy Steel 4140 Round Bar | UNS# G43400 | Titanium Industries",
+    "ogDescription": "Alloy Steel 4140 Round Bar | UNS# G43400 offered at Titanium Industries' worlwide locations. Quick turnarounds and complete quality control.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Alloy Steel 4140 | UNS# G41400"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel 4140 | UNS# G41400 contains chromium, molybdenum, and manganese and is an excellent material choice for many various applications due to its toughness, high fatigue strength, and abrasion and impact resistance. Few grades match the versatility of 4140. AISI 4140 demonstrates good atmospheric corrosion resistance and shows good combinations of toughness, strength, fatigue and wear resistances. Because of these desirable characteristics, AISI 4140 is often used as forgings in the aerospace, oil & gas , agricultural, and defense industries."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel 4140 Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2301](https://titanium.com/ams-2301-specification/) , [AMS-S-5626](https://titanium.com/ams-s-5626-specification/) , [AMS 6349](https://titanium.com/ams-6349-specification/) , [AMS 6382](https://titanium.com/ams-6382-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel 4140 product forms offered at all Titanium Industries’ locations:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Alloy Steel 4140 Round Bar](https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Buy Now",
+              "href": "https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar",
+              "variant": "primary"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel 4140 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Commercial and Military Aircraft"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Automotive"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Oil & Gas"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Agricultural"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Forged Gears and Shafts"
+                }
+              ]
+            },
+            {
+              "id": "button-17",
+              "kind": "button",
+              "label": "Discounted Alloy Steel",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Alloy+Steel",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-18",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-19",
+          "items": [
+            {
+              "id": "text-20",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 97.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 1.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 0.90%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.40%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 0.25%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 0.20%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.05%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P 0.04%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-21",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-22",
+          "items": [
+            {
+              "id": "text-23",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU-in/hr-ft²-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (1/°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.284"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "7.84"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "396"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.113"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.00000678"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2580"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2 Offset"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "60.2"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "95"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (R"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "m"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "95"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "107.3"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (AL=5 x Ø)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "17.7%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "25.7%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Brinell Hardness (H)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "197"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "578"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): 29700"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: 66%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/alloy-steels/alloy-steel-4140/",
+    "sourceHash": "29fcc8fbcdb348e53a186a24fa09d277a914c4ef58d04386a36e8649162a9516",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/alloy-steels/alloy-steel-4140/ (private, noindex) beside https://titanium.com/alloys/alloy-steels/alloy-steel-4140/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

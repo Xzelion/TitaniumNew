@@ -1,0 +1,152 @@
+{
+  "id": "astm-b381-specification",
+  "path": "/astm-b381-specification/",
+  "title": "ASTM B381 | Standard Specification for Titanium and Titanium Alloy Forgings",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASTM B381 | Standard Specification for Titanium and Titanium Alloy Forgings",
+    "description": "The grades of titanium and titanium alloy metal covered by ASTM B381 specification shall conform to the requirements as to chemical composition prescribed.",
+    "canonical": "https://titanium.com/astm-b381-specification/",
+    "ogTitle": "ASTM B381 | Standard Specification for Titanium and Titanium Alloy Forgings",
+    "ogDescription": "The grades of titanium and titanium alloy metal covered by ASTM B381 specification shall conform to the requirements as to chemical composition prescribed.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASTM B381 | Standard Specification for Titanium and Titanium Alloy Forgings"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Specification: ASTM B381"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM B381 Scope: The grades of titanium and titanium alloy metal covered by this specification shall conform to the requirements as to chemical composition prescribed. Forgings supplied under this specification shall conform to the requirements as to mechanical properties specified, as applicable, such as tensile strength, yield strength, and elongation. Nondestructive test requirements such as ultrasonic test, X-ray, or surface inspection shall be specified by the purchaser, if required."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for ASTM specifications."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium CP 3 Grade 2 Round Bar](https://qqa.titanium.com/product/mill-product-titanium-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Alloy 6Al-4V Grade 5 Round Bar](https://qqa.titanium.com/product/mill-product-titanium-round-bar)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/astm-b381-specification/",
+    "sourceHash": "5a4abe4181fe16301c0b58b438023fd16b4c17dbd5777df7763ab4c7ddf7810e",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/astm-b381-specification/ (private, noindex) beside https://titanium.com/astm-b381-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

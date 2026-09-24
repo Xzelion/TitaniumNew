@@ -1,0 +1,325 @@
+{
+  "id": "alloys--nickel-alloys--nickel-alloy-waspaloy",
+  "path": "/alloys/nickel-alloys/nickel-alloy-waspaloy/",
+  "title": "Discover Quality Nickel Alloy Waspaloy ® Round Bar | UNS# N07001 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Discover Quality Nickel Alloy Waspaloy ® Round Bar | UNS# N07001 | Titanium Industries",
+    "description": "Nickel Alloy Waspaloy ® Round Bar | UNS# N07001 is offered at all Titanium Industries' locations, worlwide. Quick turnarounds and compelte quality control.",
+    "canonical": "https://titanium.com/alloys/nickel-alloys/nickel-alloy-waspaloy/",
+    "ogTitle": "Discover Quality Nickel Alloy Waspaloy ® Round Bar | UNS# N07001 | Titanium Industries",
+    "ogDescription": "Nickel Alloy Waspaloy ® Round Bar | UNS# N07001 is offered at all Titanium Industries' locations, worlwide. Quick turnarounds and compelte quality control.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Nickel Alloy Waspaloy ® | UNS# N07001"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy Waspaloy ® | UNS# N07001 is an age-hardenable, nickel based super-alloy that exhibits good corrosion resistance, excellent strength properties, is mostly impervious to oxidation, and performs well in extreme environments. Typically used in gas turbine engines that require strength and corrosion resistance at high temperatures, Waspaloy can also be found in compressors, shafts, seals, rings, fasteners, airframe assemblies, and missile systems. It has also performed better than Nickel Alloy 718 in most high temperature situations."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy Waspaloy® Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 5708](https://titanium.com/ams-5708-specification/) , AMS 5909 Capable"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy Waspaloy® offered at all Titanium Industries’ locations:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Nickel Alloy Waspaloy® Round Bar](https://qqa.titanium.com/product/mill-product-nickel-alloy-round-bar)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Buy Now",
+              "href": "https://qqa.titanium.com/product/mill-product-nickel-alloy-round-bar",
+              "variant": "primary"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Waspaloy® Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aerospace"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fasteners"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Seals, Rings, and Shafts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Gas Turbines"
+                }
+              ]
+            },
+            {
+              "id": "button-17",
+              "kind": "button",
+              "label": "Discounted Products",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Nickel+Alloy",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-18",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-19",
+          "items": [
+            {
+              "id": "text-20",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.02 – 0.10%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 0.50% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 0.75% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 18.0 – 21.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "B 0.003 – 0.008%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 2.0% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Co 12.0 – 15.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti 2.60 – 3.25%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Al 1.0 – 1.50%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Zr 0.02 – 0.12%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.02% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni Balance"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-21",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-22",
+          "items": [
+            {
+              "id": "text-23",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU-in/hr-ft²-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (1/°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0..296"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.34"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "87.4"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.125"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.00000772"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2475"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/nickel-alloys/nickel-alloy-waspaloy/",
+    "sourceHash": "967055b36350e45b90b3f21d4f628e2545437f9ea791a00bb9139d0b271bdd3b",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/nickel-alloys/nickel-alloy-waspaloy/ (private, noindex) beside https://titanium.com/alloys/nickel-alloys/nickel-alloy-waspaloy/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

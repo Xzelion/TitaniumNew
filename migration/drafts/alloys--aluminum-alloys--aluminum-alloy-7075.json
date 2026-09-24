@@ -1,0 +1,403 @@
+{
+  "id": "alloys--aluminum-alloys--aluminum-alloy-7075",
+  "path": "/alloys/aluminum-alloys/aluminum-alloy-7075/",
+  "title": "Discover Quality Aluminum Alloy 7075 Round Bar | UNS# A97050 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Discover Quality Aluminum Alloy 7075 Round Bar | UNS# A97050 | Titanium Industries",
+    "description": "Aluminum Alloy 7075-T7351 and 7075-T651 Round Bar Round Bar | UNS# A97050 is available at all global Titanium Industries locations.",
+    "canonical": "https://titanium.com/alloys/aluminum-alloys/aluminum-alloy-7075/",
+    "ogTitle": "Discover Quality Aluminum Alloy 7075 Round Bar | UNS# A97050 | Titanium Industries",
+    "ogDescription": "Aluminum Alloy 7075-T7351 and 7075-T651 Round Bar Round Bar | UNS# A97050 is available at all global Titanium Industries locations.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Aluminum Alloy 7075 | UNS# A97075"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 7075 | UNS# A97075 demonstrates high strength, good mechanical properties, offers good stress corrosion cracking resistance, and has good machinability. Because of 7075’s high strength-to-weight ratio, this alloy is widely used in highly stressed structural aerospace parts. 7075 also has strength comparable to many steels is used for applications include fittings, gears, shafts, missile components, regulated valves, and other aerospace and defense equipment."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 7075 Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tempers: T7351 Solution Heat Treated, Stretched, Artificially Overaged T651 Solution Heat Treated, Stretched, Artificially Aged"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 4123](https://titanium.com/ams-4123-specification/) , [AMS 4124](https://titanium.com/ams-4124-specification/) , AMS QQ-A-225/9"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM B211](https://titanium.com/astm-b211-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 7075 Products Available at Titanium Industries:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Aluminum Alloy 7075-T7351 and 7075-T651 Round Bar](https://titanium.com/shop/products/mill-products-aluminum-round-bar)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 7075 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aircraft Structural Parts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Extrusions"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fittings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Irrigation Tubing"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tools"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Al 89.25%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cu 1.6%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mg 2.5%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 0.23%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Zn 5.6%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Other"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-19",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU-in/hr-ft²-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (1/°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.102"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "45.37"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1030"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.229"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.00001300"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1030"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2 Offset"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "15.2"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "68"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (R"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "m"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "63"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "83"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (AL=5 x Ø)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "11.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "13.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Brinell Hardness (H)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "60"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "150"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): 10400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: –"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/aluminum-alloys/aluminum-alloy-7075/",
+    "sourceHash": "8591f63a6247bf4ccf6ccef0ee73a99540f25c1f9fcd8a3d8cbf91bc60898ed3",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/aluminum-alloys/aluminum-alloy-7075/ (private, noindex) beside https://titanium.com/alloys/aluminum-alloys/aluminum-alloy-7075/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

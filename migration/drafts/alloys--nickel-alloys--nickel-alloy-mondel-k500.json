@@ -1,0 +1,315 @@
+{
+  "id": "alloys--nickel-alloys--nickel-alloy-mondel-k500",
+  "path": "/alloys/nickel-alloys/nickel-alloy-mondel-k500/",
+  "title": "Nickel Alloy Monel® K500 | UNS# N05500 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Nickel Alloy Monel® K500 | UNS# N05500 | Titanium Industries",
+    "description": "Titanium Industries carries a wide selection of Nickel Alloys in many product forms at all locations, worlwide. Nickel Round Bar.",
+    "canonical": "https://titanium.com/alloys/nickel-alloys/nickel-alloy-mondel-k500/",
+    "ogTitle": "Nickel Alloy Monel® K500 | UNS# N05500 | Titanium Industries",
+    "ogDescription": "Titanium Industries carries a wide selection of Nickel Alloys in many product forms at all locations, worlwide. Nickel Round Bar.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Nickel Alloy MP35N® | UNS# R30035"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Discounted Products",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Nickel+Alloy",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-11",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-8",
+          "items": [
+            {
+              "id": "button-12",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-13",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-14",
+          "items": [
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy Monel® K500 | UNS# N05500 is an age hardenable nickel-copper alloy that demonstrates excellent corrosion resistance, good strength and hardness, mostly resistant to sour-gas environments, is nonmagnetic, and is superior to Alloy 400. Monel® K500 also has great mechanical properties in sub-zero temperatures and can be found in applications that include valve components for ships, offshore drilling, oil well collars, centrifugal pumps, impellers, and other similar"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy Monel® K500 Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS: AMS 4676"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM: ASTM B-865"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Please find Titanium Industries’ [Nickel Round Bar](https://qqa.titanium.com/product/mill-product-nickel-alloy-round-bar) here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-15",
+          "items": [
+            {
+              "id": "text-17",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Monel® K500 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electronic Components and Sensors"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Marine Engineering"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Oil & Gas"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Processing"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Pulp & Paper"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-18",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-19",
+          "items": [
+            {
+              "id": "text-20",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 63.0% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cu 27 – 33.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Al 2.30 – 3.15%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 2.0% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 0.20% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti 0.35 – 0.85%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 0.50% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.25% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 01% Max"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-21",
+      "preset": "lead-two-thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-22",
+          "items": [
+            {
+              "id": "text-23",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU-in/hr-ft²-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (1/°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.3054"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "302"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.186"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.0000076"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2460"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/nickel-alloys/nickel-alloy-mondel-k500/",
+    "sourceHash": "87d8c091e749095ec5d577d1fc9bfe519c231604941104d80acddb72420821e3",
+    "converterVersion": "2",
+    "converterFamily": "unclassified",
+    "families": [
+      "unclassified"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | quarters | two-one | lead-three-fifths | lead-two-thirds",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/nickel-alloys/nickel-alloy-mondel-k500/ (private, noindex) beside https://titanium.com/alloys/nickel-alloys/nickel-alloy-mondel-k500/. Check the grid (full, quarters, two-one, lead-three-fifths, lead-two-thirds), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

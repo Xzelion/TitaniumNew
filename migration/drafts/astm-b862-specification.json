@@ -1,0 +1,148 @@
+{
+  "id": "astm-b862-specification",
+  "path": "/astm-b862-specification/",
+  "title": "ASTM B862 | Standard Specification for Titanium and Titanium Alloy Welded Pipe",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASTM B862 | Standard Specification for Titanium and Titanium Alloy Welded Pipe",
+    "description": "ASTM B862 covers the requirements for 33 grades of titanium and titanium alloy welded pipe intended for general corrosion resisting and elevated temperature service.",
+    "canonical": "https://titanium.com/astm-b862-specification/",
+    "ogTitle": "ASTM B862 | Standard Specification for Titanium and Titanium Alloy Welded Pipe",
+    "ogDescription": "ASTM B862 covers the requirements for 33 grades of titanium and titanium alloy welded pipe intended for general corrosion resisting and elevated temperature service.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASTM B862 | Standard Specification for Titanium and Titanium Alloy Welded Pipe"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Specification: ASTM B862"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM B862 Scope: This specification covers the requirements for 33 grades of titanium and titanium alloy welded pipe intended for general corrosion resisting and elevated temperature service. Welded pipe shall be made from annealed flat-rolled products by a welding process. Welded pipe may be further reduced by cold working or hot working. Grades 1, 2, 2 H, 7, 7H, 11,13, 14, 16, 16H, 17, 26H, 33, and 37 shall be furnished as welded or annealed. Grades 3, 12, 15, and 34 shall be furnished as annealed. Grade 5, 23, 24, 25, 35 shall be furnished as annealed, or aged. Grade 9, 18, 38 shall be furnished as annealed. Grade 19, 20, 21 shall be furnished as solution treated, or solution treated and aged. The materials shall conform to the required chemical composition for nitrogen, carbon, hydrogen, iron, oxygen, aluminum, vanadium, tin, ruthenium, palladium, cobalt, molybdenum, chromium, nickel, niobium, zirconium, silicon, and titanium. They shall also conform to the required mechanical propetries such as tensile strength, yield strength, and elongation."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for ASTM specifications."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grade 2 Welded Pipe](https://qqa.titanium.com/product/mill-product-titanium-welded-pipe)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/astm-b862-specification/",
+    "sourceHash": "db1090a873c4fd21586483f5ddf524a0cb00507e0d66b6c03e82b6f81657673d",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/astm-b862-specification/ (private, noindex) beside https://titanium.com/astm-b862-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

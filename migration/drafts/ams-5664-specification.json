@@ -1,0 +1,279 @@
+{
+  "id": "ams-5664-specification",
+  "path": "/ams-5664-specification/",
+  "title": "AMS 5664 | Alloy Bars, Forgings, and Rings, Corrosion and Heat Resistant Nickel Base",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS 5664 | Alloy Bars, Forgings, and Rings, Corrosion and Heat Resistant Nickel Base",
+    "description": "Please find the chemical and mechanical properties for AMS 5664 Nickel Alloy 718 round bar available at Titanium Industries.",
+    "canonical": "https://titanium.com/ams-5664-specification/",
+    "ogTitle": "AMS 5664 | Alloy Bars, Forgings, and Rings, Corrosion and Heat Resistant Nickel Base",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS 5664 Nickel Alloy 718 round bar available at Titanium Industries.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS 5664 | Alloy Bars, Forgings, and Rings, Corrosion and Heat Resistant Nickel Base | Consumable Electrode or Vacuum Induction Melted 1950 °F (1066 °C) Solution Heat Treated, Precipitation Hardenable"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS 5664"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy: 718"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product Forms: Alloy Bars, Forgings, and Rings, Corrosion and Heat Resistant Nickel Base"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Condition: Consumable Electrode or Vacuum Induction Melted 1950 °F (1066 °C) Solution Heat Treated, Precipitation Hardenable"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Scope: This specification covers a corrosion and heat resistant nickel alloy in the form of bars, forgings, flash welded rings 10 inches (254 mm) and under in least nominal cross-sectional dimension, and stock of any size for forging or flash welded rings."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Nickel Alloy 718 Round Bar](https://qqa.titanium.com/product/mill-product-nickel-alloy-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 52.5%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 19.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 3.05%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nb 5.035%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cu"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Co"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength: 14 – 220 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength: 80 – 150 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation: 18 – 27.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile properties and associated requirements vary due to orientation, section thickness, and engineering requirements."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy 718 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Jet engines"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Rotor Bolts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Gas turbine operations"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cross Reference Specifications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2261](https://titanium.com/ams-2261-specification/) , [AMS 5662](https://titanium.com/ams-5662-specification/) , [AMS 5663](https://titanium.com/ams-5663-specification/) , [AMS 5708](https://titanium.com/ams-5708-specification/) , [AMS 5962](https://titanium.com/ams-5962-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS Capable: [AMS 5663,](https://titanium.com/ams-5663-specification/) [AMS 5664](https://titanium.com/ams-5664-specification/) , AMS 5909"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASME SB446, ASME SB637"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "NACE API 6A718, NACE Per MR 0175"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM B446](https://titanium.com/astm-b446-specification/) , [ASTM B637](https://titanium.com/astm-b637-specification/)"
+                }
+              ]
+            },
+            {
+              "id": "button-16",
+              "kind": "button",
+              "label": "Discounted Products",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Nickel+Alloy",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-5664-specification/",
+    "sourceHash": "20c56647d63921362ca508fd1e17eaba5a9e5006cc46cf976c44afb40577a53a",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-5664-specification/ (private, noindex) beside https://titanium.com/ams-5664-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

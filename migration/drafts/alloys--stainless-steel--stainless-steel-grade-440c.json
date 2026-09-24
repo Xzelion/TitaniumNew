@@ -1,0 +1,412 @@
+{
+  "id": "alloys--stainless-steel--stainless-steel-grade-440c",
+  "path": "/alloys/stainless-steel/stainless-steel-grade-440c/",
+  "title": "Discover Best Quality Stainless Steel Grade 440C Round Bar | UNS# S4400 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Discover Best Quality Stainless Steel Grade 440C Round Bar | UNS# S4400 | Titanium Industries",
+    "description": "Stainless Steel Grade 440C round bar offered at Titanium Industries' worlwide locations. Quick turnarounds and complete quality control.",
+    "canonical": "https://titanium.com/alloys/stainless-steel/stainless-steel-grade-440c/",
+    "ogTitle": "Discover Best Quality Stainless Steel Grade 440C Round Bar | UNS# S4400 | Titanium Industries",
+    "ogDescription": "Stainless Steel Grade 440C round bar offered at Titanium Industries' worlwide locations. Quick turnarounds and complete quality control.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Stainless Steel Grade 440C | UNS# S44004"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 440C | UNS# S44004 is a high carbon martensitic stainless steel that demonstrates high strength, moderate corrosion resistance, and good hardness and wear resistance. The highest resistances for type 440C can be achieved by hardening and polishing which make this material ideal for cutting instrumentation, surgical blades, and knife blades. Because of these traits it is also common to find type 440C in ball bearings, valves, and measuring instruments."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 440C Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 5630](https://titanium.com/ams-5630-specification/) , [AMS 5880](https://titanium.com/ams-5880-specification/) , [AMS-QQ-S-763](https://titanium.com/ams-qq-s-763-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM A276](https://titanium.com/astm-a276-specification/) , [ASTM F899](https://titanium.com/astm-f899-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Type 440C product forms offered at all Titanium Industries’ locations:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Grade 440C Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Buy Now",
+              "href": "https://titanium.com/shop/products/mill-products-stainless-steel-round-bar",
+              "variant": "primary"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 440C Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ball Bearings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Valves"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Measuring Tools and Instruments"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Surgical Blades"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Knife Blades"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cutting Tools"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-17",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-18",
+          "items": [
+            {
+              "id": "text-19",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 79.15%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 17.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 1.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 1.10%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 1.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 0.75%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-20",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-21",
+          "items": [
+            {
+              "id": "text-22",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU-in/hr-ft²-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (1/°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.282"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.87"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "168"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.11"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.00000567"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2700"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-23",
+      "preset": "lead-three-quarters",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-24",
+          "items": [
+            {
+              "id": "text-25",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2 Offset"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "60.9"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "276"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (R"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "m"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "110"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "286"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (AL=5 x Ø)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "15.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Brinell Hardness (H)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "240"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "580"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): 30400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: 40%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/stainless-steel/stainless-steel-grade-440c/",
+    "sourceHash": "a23b6b289f478ca78ca585ed9e63ad0dfa28c2e103b879ffa6db91822d165fd6",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/stainless-steel/stainless-steel-grade-440c/ (private, noindex) beside https://titanium.com/alloys/stainless-steel/stainless-steel-grade-440c/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-quarters, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

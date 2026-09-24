@@ -1,0 +1,389 @@
+{
+  "id": "alloys--titanium-and-titanium-alloys--grade-12",
+  "path": "/alloys/titanium-and-titanium-alloys/grade-12/",
+  "title": "Titanium Grade 12 0.8NI-0.3MO | R52400 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Titanium Grade 12 0.8NI-0.3MO | R52400 | Titanium Industries",
+    "description": "Titanium Grade 12 demonstrates excellent strength at high temperatures, excellent weldability, and crevice corrosion resistance.",
+    "canonical": "https://titanium.com/alloys/titanium-and-titanium-alloys/grade-12/",
+    "ogTitle": "Titanium Grade 12 0.8NI-0.3MO | R52400 | Titanium Industries",
+    "ogDescription": "Titanium Grade 12 demonstrates excellent strength at high temperatures, excellent weldability, and crevice corrosion resistance.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Titanium Grade 12 0.8NI-0.3MO | R52400"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade 12 0.8NI-0.3MO is a commercially pure wrought Titanium alloy. Grade 12 demonstrates excellent strength at high temperatures, excellent weldability, and crevice corrosion resistance. This material is similar to Titanium Grade 2 and Grade 3 with the addition of molybdenum and nickel, which offers enhanced corrosion resistance. Grade 12 can be hot or cold formed using press brake forming, hydropress forming, stretch forming or drop hammer method. This materials ability to be formed in a various of ways makes Grade 12 useful in numerous applications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Industries’ offers a wide range of products and services."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Round Bar](https://qqa.titanium.com/product/mill-product-titanium-round-bar) | [Titanium Plate](https://qqa.titanium.com/product/mill-product-titanium-plate) | [Titanium Sheet](https://qqa.titanium.com/product/mill-product-titanium-sheet)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Grade 12 Titanium Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Shell and heat exchangers"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Hydrometallurgical applications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elevated temperature chemical manufacturing"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Marine and airfare components"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.08% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N 0.03% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "O 0.25% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "H 0.15% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 0.60- 0.90%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 30% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti Remainder"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-19",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU-in/hr-ft²-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat (BTU/lb-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (1/°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.163"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "11"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.13"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.00000530"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-22",
+      "preset": "lead-three-quarters",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-23",
+          "items": [
+            {
+              "id": "text-24",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2 Offset"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "55.1"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (R"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "m"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "79.8"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (AL=5 x Ø)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "12.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Brinell Hardness (H)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "180"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "235"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): 15200"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: –"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/titanium-and-titanium-alloys/grade-12/",
+    "sourceHash": "d424edbfa2d3f18d591a920bdf6674be8ae077b9883118d5ca9cfc210be82c98",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/titanium-and-titanium-alloys/grade-12/ (private, noindex) beside https://titanium.com/alloys/titanium-and-titanium-alloys/grade-12/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-quarters, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

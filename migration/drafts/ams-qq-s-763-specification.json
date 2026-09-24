@@ -1,0 +1,217 @@
+{
+  "id": "ams-qq-s-763-specification",
+  "path": "/ams-qq-s-763-specification/",
+  "title": "AMS-QQ-S-763 | Steel, Corrosion Resistant, Bars, Wire, Shapes, and Forgings",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS-QQ-S-763 | Steel, Corrosion Resistant, Bars, Wire, Shapes, and Forgings",
+    "description": "Please find the chemical and mechanical properties for AMS-QQ-S-763. Stainless Steel Grade 302 round bar available at Titanium Industries.",
+    "canonical": "https://titanium.com/ams-qq-s-763-specification/",
+    "ogTitle": "AMS-QQ-S-763 | Steel, Corrosion Resistant, Bars, Wire, Shapes, and Forgings",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS-QQ-S-763. Stainless Steel Grade 302 round bar available at Titanium Industries.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS-QQ-S-763 | Steel, Corrosion Resistant, Bars, Wire, Shapes, and Forgings"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "lead-two-thirds",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-13",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS-S-7720"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Various Stainless Steel Grades"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product Forms: Steel, Corrosion Resistant, Bars, Wire, Shapes, and Forgings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Scope: This specification covers corrosion-resistant steel bars, wire, shapes, and forgings."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Grade 316L Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Grade 321 Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Grade 347 Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Grade 440C Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 17.25%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 12.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 2.5%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 1.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength: 70.3 – 90 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength: 25 – 170 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation: 35.0 – 60.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile properties and associated requirements vary due to orientation, section thickness, and engineering requirements."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-qq-s-763-specification/",
+    "sourceHash": "25bc4925fdbcc9ee4d1e146128d4d84fcc555c9283d9c2dcf1fe729dbbbb9082",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | lead-two-thirds",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-qq-s-763-specification/ (private, noindex) beside https://titanium.com/ams-qq-s-763-specification/. Check the grid (full, thirds, lead-two-thirds), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

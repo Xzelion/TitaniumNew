@@ -1,0 +1,287 @@
+{
+  "id": "alloys--alloy-steels--alloy-steel-6304-17-22a",
+  "path": "/alloys/alloy-steels/alloy-steel-6304-17-22a/",
+  "title": "Discover Top Alloy Steel AMS 6304 (17-22A) Round Bar | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Discover Top Alloy Steel AMS 6304 (17-22A) Round Bar | Titanium Industries",
+    "description": "Alloy Steel AMS 6304 (17-22A) Round Bar offered at Titanium Industries' worlwide locations. Quick turnarounds and complete quality control.",
+    "canonical": "https://titanium.com/alloys/alloy-steels/alloy-steel-6304-17-22a/",
+    "ogTitle": "Discover Top Alloy Steel AMS 6304 (17-22A) Round Bar | Titanium Industries",
+    "ogDescription": "Alloy Steel AMS 6304 (17-22A) Round Bar offered at Titanium Industries' worlwide locations. Quick turnarounds and complete quality control.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Alloy Steel AMS 6304 (17-22A) | UNS# K14675"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AMS 6304 (17-22A) | UNS# K14675 is a structural low alloy steel that demonstrates exceptionally high strength, high-temperature strength, and excellent heat resistance. Because of these traits, AMS 6404 (17-22A) is generally used for manufacturing aviation parts, mechanical parts for engines, industrial furnaces, turbine rotors, petrochemical engineering operations, steam turbines, shafts, studs, fasteners, missile components, and many other similar applications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AMS 6304 (17-22A) Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2301](https://titanium.com/ams-2301-specification/) , [AMS 6304](https://titanium.com/ams-6304-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM A193 (CHEMISTRY ONLY)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AMS 6304 (17-22A) product forms offered at all Titanium Industries’ locations:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Alloy Steel AMS 6304 (17-22A) Round Bar](https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Buy Now",
+              "href": "https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar",
+              "variant": "primary"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AMS 6304 (17-22A) Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aviation parts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fasteners"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Industrial furnaces"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical parts for engines"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Missile components"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Petrochemical engineering operations"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Shafts and studs"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steam turbines"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Turbine rotors"
+                }
+              ]
+            },
+            {
+              "id": "button-17",
+              "kind": "button",
+              "label": "Discounted Products",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Alloy+Steel",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-18",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-19",
+          "items": [
+            {
+              "id": "text-20",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 95.8%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 1.25%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 0.65%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 0.55%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 0.50%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cu 0.35%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.30%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "V 0.30%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 0.25%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.0080%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P 0.0080%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N 0.0050%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "H 0.00250%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "O 0.00250%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/alloy-steels/alloy-steel-6304-17-22a/",
+    "sourceHash": "3a51ef40fc07dd164712fb5ab0c532c0365ac091d788184ca285a37f605253ec",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/alloy-steels/alloy-steel-6304-17-22a/ (private, noindex) beside https://titanium.com/alloys/alloy-steels/alloy-steel-6304-17-22a/. Check the grid (full, thirds, two-one, lead-three-fifths), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

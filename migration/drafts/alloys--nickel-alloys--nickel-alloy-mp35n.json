@@ -1,0 +1,417 @@
+{
+  "id": "alloys--nickel-alloys--nickel-alloy-mp35n",
+  "path": "/alloys/nickel-alloys/nickel-alloy-mp35n/",
+  "title": "Nickel Alloy MP35N® | UNS# R30035 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Nickel Alloy MP35N® | UNS# R30035 | Titanium Industries",
+    "description": "Titanium Industries carries a wide selection of Nickel Alloys in many product forms at all locations, worlwide. Nickel Round Bar.",
+    "canonical": "https://titanium.com/alloys/nickel-alloys/nickel-alloy-mp35n/",
+    "ogTitle": "Nickel Alloy MP35N® | UNS# R30035 | Titanium Industries",
+    "ogDescription": "Titanium Industries carries a wide selection of Nickel Alloys in many product forms at all locations, worlwide. Nickel Round Bar.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Nickel Alloy MP35N® | UNS# R30035"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Discounted Products",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Nickel+Alloy",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-11",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-8",
+          "items": [
+            {
+              "id": "button-12",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-13",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-14",
+          "items": [
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy MP35N® | UNS# R30035 is a unique, age-hardenable high-performance nickel based alloy that demonstrates high strength, good toughness, and good ductility. These characteristics make MP35N® exceptional in terms to stress resistance in regards to cracking and crevicing. Additionally, MP35N® also maintains excellent corrosion resistance in chloride solutions, mineral acids, hydrogen-sulfides, and in saltwater. Because of these traits, MP35N® is often used in the Oil & Gas industries, medical instrumentation and dental devices, fasteners, chemical applications, food processing equipment, and other similar applications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy MP35N® Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS: AMS 5758, AMS 5844, AMS 5845"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM: ASTM F-562"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Please find Titanium Industries’ selection of [Nickel Round Bar](https://qqa.titanium.com/product/mill-product-nickel-alloy-round-bar) here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-15",
+          "items": [
+            {
+              "id": "text-17",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "MP35N® Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Medical Devices and Instrumentation"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Marine Engineering"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Oil & Gas"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Processing"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Food Processing"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-18",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-19",
+          "items": [
+            {
+              "id": "text-20",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 35.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Co 33.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 20.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 10.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 1.0% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti 1.0% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 0.20% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 0.20% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.03% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P 0.020% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "B 0.01% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 01% Max"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-21",
+      "preset": "lead-two-thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-22",
+          "items": [
+            {
+              "id": "text-23",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU-in/hr-ft²-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (1/°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0..305"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.67"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "78"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.12"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.00000711"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2510"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-24",
+      "preset": "lead-three-quarters",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-25",
+          "items": [
+            {
+              "id": "text-26",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp0.2 Offset) (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "57"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "29"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (Rm) (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "152"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "362"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (AL=5 x Ø)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "40%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Brinell Hardness (H)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "353"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "487"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): 33770"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: Unknown"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/nickel-alloys/nickel-alloy-mp35n/",
+    "sourceHash": "100095f17760a2e5964c51ee8c334f666166e154ccbe8f05b19d38f73ac81757",
+    "converterVersion": "2",
+    "converterFamily": "unclassified",
+    "families": [
+      "unclassified"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | quarters | two-one | lead-three-fifths | lead-two-thirds | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/nickel-alloys/nickel-alloy-mp35n/ (private, noindex) beside https://titanium.com/alloys/nickel-alloys/nickel-alloy-mp35n/. Check the grid (full, quarters, two-one, lead-three-fifths, lead-two-thirds, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

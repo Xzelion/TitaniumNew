@@ -1,0 +1,251 @@
+{
+  "id": "ams-6257-specification",
+  "path": "/ams-6257-specification/",
+  "title": "AMS 6257 | Steel Bars, Forgings, and Tubing | Consumable Electrode Vacuum Re-Melted Normalized and Tempered",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS 6257 | Steel Bars, Forgings, and Tubing | Consumable Electrode Vacuum Re-Melted Normalized and Tempered",
+    "description": "Please find the chemical and mechanical properties for AMS 6257. Alloy Steel Grade AISI 8740 Round Bar available at Titanium Industries.",
+    "canonical": "https://titanium.com/ams-6257-specification/",
+    "ogTitle": "AMS 6257 | Steel Bars, Forgings, and Tubing | Consumable Electrode Vacuum Re-Melted Normalized and Tempered",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS 6257. Alloy Steel Grade AISI 8740 Round Bar available at Titanium Industries.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS 6257 | Steel Bars, Forgings, and Tubing | Consumable Electrode Vacuum Re-Melted Normalized and Tempered"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS 6257"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel Grade: AISI 4340 MOD 300M"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product Forms: Steel, Chrome-Nickel-Molybdenum (8740) Bars and Re-forging Stock (Aircraft Quality)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Condition: Consumable Electrode Vacuum Re-melted Normalized and Tempered"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Scope: This specification covers a premium aircraft-quality, low-alloy steel in the form of bars, forgings, mechanical tubing, and forging stock."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Alloy Steel Grade AISI 4340 MOD 300M Round Bar](https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.38 – 0.43% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 0.65 – 0.90%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 1.45 – 1.80%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P 0.010% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.008%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 0.70 – 0.95%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 1.65 – 2.00%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 0.30 – 0.50%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "V 0.05 – 0.10%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cu 0.35% Max"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Shop Discounted Steel Products",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Alloy+Steel&form=Round+Bar&grade=4340",
+              "variant": "primary"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 300M (4340 MOD) Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aircraft landing gear"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Airframe parts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Flap track"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Components for missiles"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Motorsports"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cross Reference Specifications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2300](https://titanium.com/ams-2300-specification/) , [AMS 6417](https://titanium.com/ams-6417-specification/) , [AMS 6419](https://titanium.com/ams-6417-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "SAE 434M"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-6257-specification/",
+    "sourceHash": "46613ee531bc29ab1862a2fdc9f20a4593627b46da26a8a0fa373560c1e7f34c",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-6257-specification/ (private, noindex) beside https://titanium.com/ams-6257-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

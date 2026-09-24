@@ -1,0 +1,268 @@
+{
+  "id": "ams-5731-specification",
+  "path": "/ams-5731-specification/",
+  "title": "AMS 5731 | Steel Bars, Forgings, Tubing, and Rings, Corrosion and Heat Resistant",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS 5731 | Steel Bars, Forgings, Tubing, and Rings, Corrosion and Heat Resistant",
+    "description": "Please find the chemical and mechanical properties for AMS 5731. Incoloy Alloy A286 round bar available at Titanium Industries.",
+    "canonical": "https://titanium.com/ams-5731-specification/",
+    "ogTitle": "AMS 5731 | Steel Bars, Forgings, Tubing, and Rings, Corrosion and Heat Resistant",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS 5731. Incoloy Alloy A286 round bar available at Titanium Industries.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS 5731 | Steel Bars, Forgings, Tubing, and Rings, Corrosion and Heat Resistant | Consumable Electrode Melted, Solution Treated"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS 5731"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy: Incoloy Alloy A286"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product Forms: Steel Bars, Forgings, Tubing, and Rings, Corrosion and Heat Resistant"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Condition: Consumable Electrode Melted, Solution Treated"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Scope: Specifies a corrosion and heat-resistant steel in the form of bars, wire, forgings, mechanical tubing, flash welded rings, and stock for forging, flash welded rings, or heading."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Incoloy Alloy A286 Round Bar](https://titanium.com/shop/products/mill-products-nickel-alloy-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 52.5%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 19%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nb 5.125%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 3.05%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Co"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti 0.90%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cu"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Al 0.50%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ta"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "B"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe balance"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Alloy A286 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Jet Engine Components"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fasteners and Bolts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Flanges"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Offshor Oil & Gas"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Afterburners"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cross Reference Specifications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 5737](https://titanium.com/ams-5737-specification/) , [AMS 5853](https://titanium.com/ams-5853-specification/) , Capable of AMS-5732"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM A638](https://titanium.com/astm-a638-specification/)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-5731-specification/",
+    "sourceHash": "74d153aa117d235c3596a79a06b6f9b64d71978b384d7e95005659d22c916b32",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-5731-specification/ (private, noindex) beside https://titanium.com/ams-5731-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

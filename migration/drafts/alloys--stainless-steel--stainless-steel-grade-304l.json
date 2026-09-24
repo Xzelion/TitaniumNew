@@ -1,0 +1,425 @@
+{
+  "id": "alloys--stainless-steel--stainless-steel-grade-304l",
+  "path": "/alloys/stainless-steel/stainless-steel-grade-304l/",
+  "title": "Discover Best Quality Stainless Steel Alloy 304L Round Bar | UNS# S30403 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Discover Best Quality Stainless Steel Alloy 304L Round Bar | UNS# S30403 | Titanium Industries",
+    "description": "Stainless Steel Alloy 304L Round Bar UNS# S30403 offered at Titanium Industries' worlwide locations. Quick turnarounds and complete quality control.",
+    "canonical": "https://titanium.com/alloys/stainless-steel/stainless-steel-grade-304l/",
+    "ogTitle": "Discover Best Quality Stainless Steel Alloy 304L Round Bar | UNS# S30403 | Titanium Industries",
+    "ogDescription": "Stainless Steel Alloy 304L Round Bar UNS# S30403 offered at Titanium Industries' worlwide locations. Quick turnarounds and complete quality control.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Stainless Steel Alloy 304L | UNS# S30403"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Alloy 304L | UNS# S30403 is an austenitic alloy and is the lower carbon variant of Stainless Steel grade 304. This grade can be welded without the issues seen in carbon precipitation hardened materials that reduces the corrosive and oxidation resistance properties. 304L demonstrates excellent strength and toughness at cryogenic temperatures, is non-magnetic, is easily welded, and resists atmospheric corrosion. Because of these properties, this metal is often used in chemical and petrochemical processing, pressure vessels, heat exchangers, surface condensers, food processing, petroleum refining, power generation, pulp and paper, and many other similar industries."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Alloy 304L Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 2241, [AMS 5647](https://titanium.com/ams-5647-specification/) , AMA 5639"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM A276](https://titanium.com/astm-a276-specification/) , [ASTM A479](https://titanium.com/astm-a479-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Alloy 304L products offered at all Titanium Industries’ locations:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Alloy 304L Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Buy Now",
+              "href": "https://titanium.com/shop/products/mill-products-stainless-steel-round-bar",
+              "variant": "primary"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Stainless Steel Alloy 304L Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical and Petrochemical Processing,"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Pressure Vessels"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Heat Exchangers and Surface Condensers"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Food Processing"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Petroleum Refining"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Power Generation"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Pulp and Paper"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-17",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-18",
+          "items": [
+            {
+              "id": "text-19",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.030%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 0.75%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 2.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P 0.045%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.030%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 19.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 10.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N 0.10%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-20",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-21",
+          "items": [
+            {
+              "id": "text-22",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU-in/hr-ft²-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (1/°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.29"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.4"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "112"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.12"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.00000940"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2550"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-23",
+      "preset": "lead-three-quarters",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-24",
+          "items": [
+            {
+              "id": "text-25",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2 Offset"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "30.5"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "140"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (R"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "m"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "70"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "185"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (AL=5 x Ø)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "40.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "58.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Brinell Hardness (H)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "160"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "201"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): 28500"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: 40%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/stainless-steel/stainless-steel-grade-304l/",
+    "sourceHash": "a3e826ad4c5c9d5047cab73f3c77d191c0385f90fae9634977e6abffd34cc1ba",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/stainless-steel/stainless-steel-grade-304l/ (private, noindex) beside https://titanium.com/alloys/stainless-steel/stainless-steel-grade-304l/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-quarters, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

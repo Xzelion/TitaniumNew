@@ -1,0 +1,155 @@
+{
+  "id": "astm-b637-specification",
+  "path": "/astm-b637-specification/",
+  "title": "ASTM B637 | Standard Specification for Precipitation-Hardening and Cold Worked Nickel Alloy Bars, Forgings, and Forging Stock for Moderate or High Temperature Service",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASTM B637 | Standard Specification for Precipitation-Hardening and Cold Worked Nickel Alloy Bars, Forgings, and Forging Stock for Moderate or High Temperature Service",
+    "description": "ASTM B637 specification covers hot- and cold-worked precipitation-hardenable nickel alloy rod, bar, forgings, and forging stock for high-temperature service.",
+    "canonical": "https://titanium.com/astm-b637-specification/",
+    "ogTitle": "ASTM B637 | Standard Specification for Precipitation-Hardening and Cold Worked Nickel Alloy Bars, Forgings, and Forging Stock for Moderate or High Temperature Service",
+    "ogDescription": "ASTM B637 specification covers hot- and cold-worked precipitation-hardenable nickel alloy rod, bar, forgings, and forging stock for high-temperature service.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASTM B637 | Standard Specification for Precipitation-Hardening and Cold Worked Nickel Alloy Bars, Forgings, and Forging Stock for Moderate or High Temperature Service"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Specification: ASTM B637"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM B637 Scope: This specification covers hot- and cold-worked precipitation-hardenable nickel alloy rod, bar, forgings, and forging stock for high-temperature service. Chemical analysis shall be performed on the alloy and shall conform to the chemical composition requirement in carbon, manganese, silicon, phosphorus, sulfur, chromium, cobalt, molybdenum, columbium, tantalum, titanium, aluminum, zirconium, boron, iron, copper, and nickel. The material shall follow recommended annealing treatment, solution treatment, stabilizing treatment, and precipitation hardening treatment. Tension testing, hardness testing and stress-rupture testing shall be performed on the material and shall comply to the required tensile strength, yield strength, elongation, reduction in area, and Brinell hardness."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for ASTM specifications."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Nickel Alloy 718 Round Bar](https://qqa.titanium.com/product/mill-product-nickel-alloy-round-bar)"
+                }
+              ]
+            },
+            {
+              "id": "button-16",
+              "kind": "button",
+              "label": "Discounted Products",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Nickel+Alloy",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/astm-b637-specification/",
+    "sourceHash": "4f99c934f0c23c2010d061964fdfd25507d20e5d9c883defb4efb9628cd65c73",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/astm-b637-specification/ (private, noindex) beside https://titanium.com/astm-b637-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

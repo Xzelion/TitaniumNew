@@ -1,0 +1,172 @@
+{
+  "id": "astm-a276-specification",
+  "path": "/astm-a276-specification/",
+  "title": "ASTM A276 | Standard Specification for Stainless Steel Bars and Shapes",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASTM A276 | Standard Specification for Stainless Steel Bars and Shapes",
+    "description": "The ASTM A276 specification covers hot-finished or cold-finished bars except bars for reforging. Contact T.I. today for pricing, availability.",
+    "canonical": "https://titanium.com/astm-a276-specification/",
+    "ogTitle": "ASTM A276 | Standard Specification for Stainless Steel Bars and Shapes",
+    "ogDescription": "The ASTM A276 specification covers hot-finished or cold-finished bars except bars for reforging. Contact T.I. today for pricing, availability.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASTM A276 | Standard Specification for Stainless Steel Bars and Shapes"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Specification: ASTM A276"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM A276 Scope: This specification covers hot-finished or cold-finished bars except bars for reforging. It includes rounds, squares, and hexagons, and hot-rolled or extruded shapes, such as angles, tees, and channels in the more commonly used types of stainless steels. The bars shall be furnished in one of the following conditions: Condition A in which the bars are annealed, Condition H in which the bars are hardened and tempered at a relative temperature, Condition T in which the bars are hardened and tempered at a relatively high temperature, Condition S in which the bars are strain hardened or relatively light cold worked, and Condition B in which the bars are relatively severe cold worked. The material shall be subjected to a mechanical test to determine its tensile strength, yield strength, elongation, and Brinell hardness."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for ASTM specifications."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Grade 304L Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Grade 316L Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Grade 321 Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Grade 321 Hex Bar](https://titanium.com/shop/products/mill-products-stainless-steel-hex-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Grade 347 Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Grade 347 Hex Bar](https://titanium.com/shop/products/mill-products-stainless-steel-hex-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Grade 440C Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/astm-a276-specification/",
+    "sourceHash": "8f4dcb305458d60f2e9dcbfeaa36d639ba9c1c34cf35d49f0d86251f646c290f",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/astm-a276-specification/ (private, noindex) beside https://titanium.com/astm-a276-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

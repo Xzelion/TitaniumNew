@@ -1,0 +1,405 @@
+{
+  "id": "alloys--nickel-alloys--nickel-inconel-600",
+  "path": "/alloys/nickel-alloys/nickel-inconel-600/",
+  "title": "Nickel Alloy Inconel® 600 Round Bar | UNS# N06600",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Nickel Alloy Inconel® 600 Round Bar | UNS# N06600",
+    "description": "Nickel Inconel® 600 is a nickel-chromium alloy that exhibits good oxidation resistance at high temperatures & resistances against chloride environments.",
+    "canonical": "https://titanium.com/alloys/nickel-alloys/nickel-inconel-600/",
+    "ogTitle": "Nickel Alloy Inconel® 600 Round Bar | UNS# N06600",
+    "ogDescription": "Nickel Inconel® 600 is a nickel-chromium alloy that exhibits good oxidation resistance at high temperatures & resistances against chloride environments.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Nickel Alloy Inconel® 600 | UNS# N06600"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy Inconel® 600 is a nickel-chromium alloy that exhibits good oxidation resistance at high temperatures and resistances against chloride environments. Due to the chromium content, this alloy was originally designed for cryogenic temperatures and contains excellent mechanical properties for high strength and good workability. This alloy is widely used in the chemical and food processing, power generation, furnace components, and many other market segments."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy Inconel® 600 Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS: AMS 5665"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AS: AS 6279"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ISO: ISO 17025"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Nickel Round Bar](https://qqa.titanium.com/product/mill-product-nickel-alloy-round-bar) offered at all Titanium Industries’ locations can be found here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy Inconel® 600 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aircraft Applications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Processing"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Food Processing"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Furnace Components"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 15.5%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 8%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cu"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni remainder"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-19",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU-in/hr-ft²-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (1/°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.305"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.67"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "103"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.106"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.00000739"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2470"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-22",
+      "preset": "lead-three-quarters",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-23",
+          "items": [
+            {
+              "id": "text-24",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2 Offset"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "26.1"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "45"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (R"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "m"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "79.8"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "135"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (AL=5 x Ø)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "40.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "45.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Brinell Hardness (H)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "120"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "290"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): 3000"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: 22%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/nickel-alloys/nickel-inconel-600/",
+    "sourceHash": "f4ce673dd591e1084613d6c5213330c124e707225d5636a31d0f991fb06529ef",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/nickel-alloys/nickel-inconel-600/ (private, noindex) beside https://titanium.com/alloys/nickel-alloys/nickel-inconel-600/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-quarters, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

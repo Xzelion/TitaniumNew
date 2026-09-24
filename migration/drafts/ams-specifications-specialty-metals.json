@@ -1,0 +1,1373 @@
+{
+  "id": "ams-specifications-specialty-metals",
+  "path": "/ams-specifications-specialty-metals/",
+  "title": "Read about our quality Aerospace Material | AMS Specifications | Specialty Metals | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Read about our quality Aerospace Material | AMS Specifications | Specialty Metals | Titanium Industries",
+    "description": "Titanium Industries carries a wide range of specialty metals conforming to AMS specifications for Aerospace Material. Please find a full list one this page.",
+    "canonical": "https://titanium.com/ams-specifications-specialty-metals/",
+    "ogTitle": "Read about our quality Aerospace Material | AMS Specifications | Specialty Metals | Titanium Industries",
+    "ogDescription": "Titanium Industries carries a wide range of specialty metals conforming to AMS specifications for Aerospace Material. Please find a full list one this page.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Specialty Metal SAE Aerospace Material Specifications | AMS Specifications"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://qqa.titanium.com/product?type=mill-product",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "full",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-13",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Aerospace Material Specifications (AMS) are established by the Society of Automotive Engineers (SAE). Compiled in a comprehensive database of individual directives, AMS specifications cover materials, material tolerances, and quality control procedures and processes. AMS specifications are created or updated to align with the advances in material science and processes technologies within the Aerospace industry."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Global aerospace engineering standards are vital to the certification of an aircrafts airworthiness and interoperability. The AMS database consists of over 8,500 aerospace standards currently active and the documents create commonality between processes and procedures, practices, and the manufacturing of products throughout the aerospace industry."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS specifications list chemical composition, detailed technical requirements, and cross reference similar specifications and materials, like corrosion and heat resistant steels, alloy steels, cast iron, aluminum, magnesium, copper, titanium, and other nonferrous alloys, special property and reactive materials, and non-metallic materials."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Below is a list of the products carried in our inventory that conform to AMS specifications ."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Disclaimer The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "SAE Aerospace Material Specifications (AMS Specifications)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specification"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Description"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "UNS#"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 2261"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tolerances Nickel, Nickel Alloy, and Cobalt Alloy Bars, Rods, and Wire"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N06625"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy 625"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 2300"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel Cleanliness, Premium Aircraft-Quality Magnetic Particle Inspection Procedure"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N/A"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Various Steel Grades"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 2301"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel Cleanliness, Aircraft Quality Magnetic Particle Inspection Procedure"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N/A"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Various Steel Grades"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 2630"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Inspection, Ultrasonic Product Over 0.5 Inch (12.7 mm) Thick"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R31537"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cobalt Chrome (CCM) Alloy F1537"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 2631"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ultrasonic Inspection Titanium and Titanium Alloy Bar, Billet and Plate"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N/A"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Alloys and Grades"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 4117"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy, Rolled or Cold Finished, Bars, Rods, and Wire and Flash Welded Rings | Solution and Precipitation Heat Treated"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A96061"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 6061; -T6, -T651"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 4120"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy, Rolled or Cold Finished, Bars, Rods, & Wire | Solution Heat Treated and Naturally Aged, Solution Heat Treated, Cold Worked, and Naturally Aged"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A92024"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 2024-T4/2024-T351"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 4123"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy, Rolled or Cold Finished Bars and Rods (7075-T651) | Solution and Precipitation Heat Treated"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A97075"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 7075-T7351"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 4124"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy, Rolled or Cold Finished Bars, Rods, and Wire (7075-T73, T7351) | Solution Heat Treated, Stress Relieved by Stretching, and Overaged"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A97075"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 7075-T7351"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 4339"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy, Rolled or Cold Finished Bars & Rods | Solution Heat Treated, Cold Worked, and Artificially Aged"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A92024"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 2024-T851"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 4900"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Sheet, Strip, and Plate Commercially Pure | Annealed"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R50550"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium CP 2 Grade 3"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 4901"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Sheet, Strip, and Plate Commercially Pure | Annealed"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R50700"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium CP 1 Grade 4"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 4907"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Alloy, Sheet, Strip, and Plate | Annealed"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R56401"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 6Al-4V ELI Grade 23"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 4911"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Alloy, Sheet, Strip, and Plate | Annealed"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R56400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 6Al-4V Grade 5"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 4921"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Bars, Wire, Forgings, and Rings | Annealed"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R50700"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium CP 1 Grade 4"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 4928"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Alloy Bars, Wire, Forgings, Rings, and Drawn Shapes | Annealed"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R56400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 6Al-4V Grade 5"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 4930"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Alloy Bars, Wire, Forgings, and Rings | Annealed"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R56401"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 6Al-4V ELI Grade 23"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 4951"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Welding Wire Commercially Pure | Environment Controlled Packaging"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R50700"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium CP 2 Grade 3"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 4965"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Alloy, Bars, Wire, Forgings, and Rings Solution | Heat Treated and Aged"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R56400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 6Al-4V Grade 5"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 4981"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Alloy Bars and Forgings | Solution and Precipitation Heat Treated"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R56260"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 6Al-2Sn-4Zr-6Mo"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 5617"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel, Corrosion-Resistant, Bars, Wire, and Forgings | Vacuum Induction Plus Vacuum Consumable Electrode Melted Solution Heat Treated, Precipitation Hardenable"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S45500"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Custom 455"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS-S-5626"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel: Chrome-Molybdenum Bars, Rods, and Forging Stock (For Aircraft Applications)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G41400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 4140"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 5629"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel Bars, Forgings, Tubing, and Rings, Corrosion Resistant | Vacuum Induction plus Consumable Electrode Melted"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S13800"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 13-8 PH"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 5630"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel, Corrosion-Resistant, Bars, Wire, and Forgings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S44004"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 440C"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 5640"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel, Corrosion-Resistant, Bars, Wire, and Forgings | Free Machining"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S30300"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 303"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 5641"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel, Corrosion-Resistant, Bars, Wire, Forgings and Forging Stock Free-Machining; for Swaging or Upsetting | Solution Heat Treated"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S30323"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 303Se"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 5643"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel, Bars and Forgings, Corrosion Resistant | Precipitation Hardening"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S17400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 17-4 PH"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 5645"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel, Corrosion and Heat Resistant, Bars, Wire, Forgings, Mechanical Tubing, Rings and Forging Stock (321) | Solution Heat Treated"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S32100"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 321"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 5646"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel, Corrosion and Heat-Resistant, Bars, Wire, Forgings, Mechanical Tubing, Rings and Forging Stock (347) | Solution Heat Treated"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S34700"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 347"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 5647"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel, Corrosion-Resistant, Bars, Wire, Forgings, Mechanical Tubing, and Rings | Solution Heat Treated"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S30403"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 304L"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 5653"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel Bars, Forgings, and Rings, Corrosion and Heat Resistant"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S31603"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 316L"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 5659"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel, Corrosion Resistant, Bars, Wire, Forgings, Rings, and Extrusions | Consumable Electrode Re-Melted Solution Heat Treated, Precipitation Hardenable"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S15500"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 15-5 PH"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 5662"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy, Corrosion and Heat-Resistant, Bars, Forgings, and Rings | Consumable Electrode or Vacuum Induction Melted 1775 °F (968 °C) Solution Heat Treated, Precipitation-Hardenable"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N07718"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy 718"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 5663"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Bars, Forgings, and Rings, Corrosion and Heat Resistant Nickel Base | Solution and Precipitation Heat Treated Consumable Electrode or Vacuum Induction Melted"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N07718"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy 718"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 5664"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Bars, Forgings, and Rings, Corrosion and Heat Resistant Nickel Base | Consumable Electrode or Vacuum Induction Melted 1950 °F (1066 °C) Solution Heat Treated, Precipitation Hardenable"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N07718"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy 718"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 5666"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy, Corrosion and Heat-Resistant, Bars, Forgings, Extrusions, and Rings | Annealed"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N06625"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy 625"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 5708"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Bars and Forgings, Corrosion and Heat Resistant Nickel Base | Solution Heat Treated, 1975 F (1079.4 C) Treatment Consumable Electrode or Vacuum Induction Melted"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N07001"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Waspaloy™"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 5731"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel Bars, Forgings, Tubing, and Rings, Corrosion and Heat Resistant | Consumable Electrode Melted, Solution Treated"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S66286"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Incoloy Alloy A286"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 5737"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel, Corrosion and Heat-Resistant, Bars, Wire, Forgings, and Tubing | Consumable Electrode Melted 1650 °F (899 °C) Solution and Precipitation Heat Treated"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S66286"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Incoloy Alloy A286"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 5844"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Bars, High Strength, Corrosion Resistant | Solution Heat Treated, Cold Drawn, Centerless Ground"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R30035"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy MP35N®"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 5853"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel Bars, Corrosion and Heat Resistant | Solution Treated and Work-Strengthened 160,000 psi (1105 MPa) Tensile Strength, Consumable Electrode Melted"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S66286"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Incoloy Alloy A286"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 5880"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel Bars and Forgings, Corrosion Resistant Bearing Quality"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S44004"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 440C"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 5936"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel, Corrosion-Resistant, Bars, Wire, and Forgings | Vacuum Induction Plus Vacuum Consumable Electrode Re-Melted Solution Heat Treated, Precipitation Hardenable"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S45500"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Custom 455"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 5962"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy, Corrosion and Heat Resistant, Bar and Wire | Consumable Electrode or Vacuum Induction Melted 1775 °F (968 °C) Solution Treated and Cold Worked Precipitation Hardenable"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N07718"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy 718"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS-S-6049"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel, Chrome-Nickel-Molybdenum (8740) Bars and Re-forging Stock (Aircraft Quality)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G87400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 8740"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6257"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel Bars, Forgings, and Tubing | Consumable Electrode Vacuum Re-Melted Normalized and Tempered"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "K44220"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 4340 MOD 300M"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6260"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel, Bars, Forgings, and Tubing"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G93106"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI E9310"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6265"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel, Premium Quality | Consumable Electrode Vacuum Melted"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G93106"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI E9310"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6279"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Standard Practice for Production, Distribution, and Procurement of Metal Stock"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S17400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 17-4 PH"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6304"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Low-Alloy Steel, Heat-Resistant, Bars, Forgings, and Tubing"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "K14675"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6304 (17-22A)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6322"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel Bars, Forgings, and Rings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G87400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 8740"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6346"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel Bars Hardened and Tempered, 125 Ksi (862 MPa) | Tensile Strength"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G41300"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 4130"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6348"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel Bars | Normalized"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G41300"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 4130"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6349"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel Bars | Normalized"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G41400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 4140"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6370"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel, Bars, Forgings, and Rings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G41300"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 4130"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6382"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel, Bars, Forgings, and Rings | Annealed"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G41400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 4140"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6409"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel Bars, Forgings, and Tubing | Special Aircraft Quality Cleanliness Normalized and Tempered"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G43400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 4340"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6414"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel, Bars, Forgings, and Tubing | Vacuum Consumable Electrode Re-Melted"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G43400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 4340"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6415"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel, Bars, Forgings, and Tubing"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G43400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 4340"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6417"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel Bars, Forgings, and Tubing | Premium Quality, Consumable Electrode Melted"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "K44220"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 4340 MOD 300M"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6419"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel, Bars, Forgings, and Tubing | Consumable Electrode Vacuum Re-Melted"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "K44220"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 4340 MOD 300M"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6440"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel, Bars, Forgings, and Tubing | For Bearing Applications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G52986"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel 52100"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6444"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel, Premium Bearing Quality | Consumable Electrode Vacuum Melted"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G52986"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel 52100"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6484"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel, Bars, Forgings, and Tubing | Normalized and Tempered"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G43400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 4340"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6485"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel Bars and Forgings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "T20811"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI H-11"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6487"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel, Bars, Forgings, and Forging Stock | Consumable Electrode Vacuum Re-Melted"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "T20811"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI H-11"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6488"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel Bars and Forgings | Premium Quality"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "T20811"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI H-11"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS-S-6758"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel, Chrome-Molybdenum Bars and Re-Forging Stock (Aircraft Quality)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G41300"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 4130"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6875"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Heat Treatment of Steel Raw Materials"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N/A"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N/A"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6930"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Alloy Bars, Forgings and Forging Stock | Solution Heat Treated and Aged"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R56400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 6Al-4V Grade 5"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6931"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Alloy Bars, Forgings and Forging Stock | Annealed"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R56400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 6Al-4V Grade 5"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6932"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Alloy Bars, Forgings and Forging Stock | Extra Low Interstitial | Annealed"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R56401"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 6Al-4V ELI Grade 23"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS-S-7720"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel, Corrosion-Resistant Bars, Wire and Forging Stock (Aircraft Quality)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S31603"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 316L"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS-QQ-S-763"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steel, Corrosion Resistant, Bars, Wire, Shapes, and Forgings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N/A"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Various Steel Grades"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS-T-9046"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium and Titanium Alloy, Sheet, Strip, and Plate"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N/A"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Alloys & Grades"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS-T-9047"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium and Titanium Alloy, Bars (Rolled or Forged) and Reforging Stock, Aircraft Quality"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N/A"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Alloys & Grades"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-specifications-specialty-metals/",
+    "sourceHash": "c15cf14a9a8b24d5030cd4b01aa4eb8a00b7d4b2e0f2dc1a2aa8f46afaac3ed8",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | full",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-specifications-specialty-metals/ (private, noindex) beside https://titanium.com/ams-specifications-specialty-metals/. Check the grid (full, thirds, full), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

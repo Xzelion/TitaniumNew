@@ -1,0 +1,220 @@
+{
+  "id": "asme-sb-637",
+  "path": "/asme-sb-637/",
+  "title": "ASME SB-637 Standards: Discover the Benefits",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASME SB-637 Standards: Discover the Benefits",
+    "description": "ASME SB-637 | Standard Specification for Precipitation-Hardening Nickel Alloy Bars, Forgings, and Forging Stock for High-Temperature Service",
+    "canonical": "https://titanium.com/asme-sb-637/",
+    "ogTitle": "ASME SB-637 Standards: Discover the Benefits",
+    "ogDescription": "ASME SB-637 | Standard Specification for Precipitation-Hardening Nickel Alloy Bars, Forgings, and Forging Stock for High-Temperature Service",
+    "ogImage": "https://titanium.com/wp-content/uploads/2025/08/August-2025-Beyond-the-metal-9.jpg"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASME SB-637 | Standard Specification for Precipitation-Hardening Nickel Alloy Bars, Forgings, and Forging Stock for High-Temperature Service"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "ASME SB-637"
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "ASME SB-637"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASME SB-637 specification covers hot and cold worked precipitation-hardenable [nickel alloy rod](https://titanium.com/alloys/nickel-alloys/) , bar, forgings, and forging stock for high-temperature service. The material shall conform to the requirements as to chemical composition prescribed within the specification. Unless otherwise specified, the material shall be supplied in the solution treated condition, suitable for subsequent age hardening. The solution treated material shall be capable of meeting the mechanical property requirements within the specification, and the stress rupture requirements following the precipitation hardening treatment."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "When the material is to be supplied in the solution treated plus aged condition, the requirements of Table 3 and Table 4 shall apply, with the precipitation hardening treatment of Table 2, or as agreed upon between the purchaser and the manufacturer as part of the purchase contract."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Relevant Products:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Nickel Alloy 718 Round Bar](https://titanium.com/shop/products/mill-products-nickel-alloy-round-bar)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Follow us on Social Media:"
+                }
+              ]
+            },
+            {
+              "id": "picture-19",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
+              "alt": "Titanium Industries | Instagram",
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-20",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
+              "alt": "Titanium Industries | LinkedIn",
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-21",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
+              "alt": "Titanium Industries | Twitter",
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-22",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
+              "alt": "Titanium Industries | Facebook",
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-23",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
+              "alt": "Titanium Industries | Youtube",
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/asme-sb-637/",
+    "sourceHash": "d655cac85cd2a0ca5230a0b7ae379879629fe0021c1c12cdadc891d75cd13331",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | full",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/asme-sb-637/ (private, noindex) beside https://titanium.com/asme-sb-637/. Check the grid (full, thirds, two-one, full), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

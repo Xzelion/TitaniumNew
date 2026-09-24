@@ -1,0 +1,178 @@
+{
+  "id": "astm-a564-specification",
+  "path": "/astm-a564-specification/",
+  "title": "ASTM A564 | Standard Specification for Hot-Rolled and Cold-Finished Age-Hardening Stainless Steel Bars and Shapes",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASTM A564 | Standard Specification for Hot-Rolled and Cold-Finished Age-Hardening Stainless Steel Bars and Shapes",
+    "description": "ASTM A564 covers bars and shapes of age-hardening stainless steels. Hot or cold-finished rounds, squares, hex, bar, angles, tees, channels are included.",
+    "canonical": "https://titanium.com/astm-a564-specification/",
+    "ogTitle": "ASTM A564 | Standard Specification for Hot-Rolled and Cold-Finished Age-Hardening Stainless Steel Bars and Shapes",
+    "ogDescription": "ASTM A564 covers bars and shapes of age-hardening stainless steels. Hot or cold-finished rounds, squares, hex, bar, angles, tees, channels are included.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASTM A564 | Standard Specification for Hot-Rolled and Cold-Finished Age-Hardening Stainless Steel Bars and Shapes"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Specification: ASTM A564"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM A564 Scope: This specification covers bars and shapes of age-hardening stainless steels. Hot-finished or cold-finished rounds, squares, hexagons, bar shapes, angles, tees, and channels are included. These shapes may be produced by hot rolling, extruding, or forging. Type 631 and 632 stainless steels contain a large amount of ferrite in the microstructure and can have low ductility in forgings and large diameter bars. Material of types other than XM-16, XM-25, and Type 630 shall be furnished in the solution-annealed condition, or in the equalized and oven-tempered condition. Types 630, XM-16, and XM-25 may be furnished in the solution-annealed or age-hardened condition. Type UNS S46910 shall be furnished in solution annealed, cold-worked or aged-hardened condition. Shapes may be subjected to either Class A or Class C preparation for removal of visible surface imperfections. The material shall be subjected to tension, impact, and hardness tests."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for ASTM specifications."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Buy Stainless Steel Round Bar",
+              "href": "https://qqa.titanium.com/product/mill-product-stainless-steel-round-bar",
+              "variant": "primary"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Grade 13-8 Round Bar](https://qqa.titanium.com/product/mill-product-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Grade 15-5 Round Bar](https://qqa.titanium.com/product/mill-product-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Grade 17-4 Round Bar](https://qqa.titanium.com/product/mill-product-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Grade Custom 455 Round Bar](https://qqa.titanium.com/product/mill-product-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Grade Custom 465 Round Bar](https://qqa.titanium.com/product/mill-product-stainless-steel-round-bar)"
+                }
+              ]
+            },
+            {
+              "id": "button-17",
+              "kind": "button",
+              "label": "Discounted Stainless Steel",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Stainless+Steel",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/astm-a564-specification/",
+    "sourceHash": "02c1d7380c6984ae70d86aac9c58ae4f31baa8eeec74f9d4d1026761dd3bf599",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/astm-a564-specification/ (private, noindex) beside https://titanium.com/astm-a564-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

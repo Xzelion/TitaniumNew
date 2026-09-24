@@ -1,0 +1,276 @@
+{
+  "id": "ams-5844-specification",
+  "path": "/ams-5844-specification/",
+  "title": "AMS 5844 Specification | Steel Bars, Forgings, Tubing, and Rings, Corrosion and Heat Resistant",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS 5844 Specification | Steel Bars, Forgings, Tubing, and Rings, Corrosion and Heat Resistant",
+    "description": "Please find the chemical and mechanical properties for AMS 5844 Specification. Incoloy Alloy A286 round bar available at Titanium Industries.",
+    "canonical": "https://titanium.com/ams-5844-specification/",
+    "ogTitle": "AMS 5844 Specification | Steel Bars, Forgings, Tubing, and Rings, Corrosion and Heat Resistant",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS 5844 Specification. Incoloy Alloy A286 round bar available at Titanium Industries.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS 5844 | Alloy Bars, High Strength, Corrosion Resistant | Solution Heat Treated, Cold Drawn, Centerless Ground"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS 5844"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy: Nickel Alloy MP35N®"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product Forms: Alloy Bars, High Strength, Corrosion Resistant"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Condition: Solution Heat Treated, Cold Drawn, Centerless Ground"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Scope: This specification covers a high-strength, corrosion-resistant alloy in the form of bars up to 1.75 inch (44.4 mm) in diameter."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Incoloy Alloy A286 Round Bar](https://titanium.com/shop/products/mill-products-nickel-alloy-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 52.5%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 19%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nb 5.125%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 3.05%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Co"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti 0.90%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cu"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Al 0.50%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ta"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "B"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe balance"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength: 152 – 362 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength: 29 – 57 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation: 1.0 – 40.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile properties and associated requirements vary due to orientation, section thickness, and engineering requirements."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy MP35N® Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Medical Devices and Instrumentation"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Marine Engineering"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Oil & Gas"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Processing"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Food Processing"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-5844-specification/",
+    "sourceHash": "e276b710f30d60bfc9140077ec6c169d4679c1da6217ed12e07d107ba157e69c",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-5844-specification/ (private, noindex) beside https://titanium.com/ams-5844-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

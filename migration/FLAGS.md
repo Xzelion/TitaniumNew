@@ -2,7 +2,7 @@
 
 These items stopped because they need WordPress admin, a Cloudflare allow, or a decision only a person should make. Everything else in this branch continued.
 
-Hosted conversions of existing pages: **0**. The thirty-four drafts in this repository are candidate dry-runs. The readiness screen says **Planned / awaiting integration**, not Ready and not Partly converted on the hosted CMS.
+Hosted conversions of existing pages: **0**. The two hundred forty-eight drafts in this repository are candidate dry-runs. The readiness screen says **Planned / awaiting integration**, not Ready and not Partly converted on the hosted CMS.
 
 ## Handoff notes that this repository cannot confirm
 
@@ -19,12 +19,19 @@ Hosted conversions of existing pages: **0**. The thirty-four drafts in this repo
 1. **Firearms layout** — `https://titanium.com/markets/firearms/` returns Cloudflare 403 from this environment (the block page names `wpewaf.com`). The public text is visible through a reader view, but the column classes are not. Do not guess the grid. Please export the page HTML from WordPress, or allow this host, and re-run `npm run convert` after placing the file at `migration/raw/firearms.html`.
 2. **Additive Manufacturing form — export received.** Gravity Form **20**, “Additive Build Plates RFQ”, is saved at `migration/raw/gravity-form-20.json` and modeled at `migration/forms/gravity-form-20.model.json` (39 fields, conditional alloy and dimension rules, 19 notifications, 1 confirmation, file upload, hCaptcha). The draft does **not** submit it. Public submit stays off until a person says to turn it on. hCaptcha has no site key or secret in the export (`needs_keys`). Notification routing is recorded and marked `needs_keys`; nothing is emailed. The file upload is not wired.
 3. **Product grids** — Oil & Gas uses the portfolio export (`migration/raw/oil-gas-portfolio.xml`). Aerospace, Defense, and Consumer Products did not get that export. Their product lists are already in the public HTML, so those drafts use picture cards from the page itself (the image, title, and link that are on the page). Industrial has no product query. There is still no WordPress export for the Aerospace, Defense, or Consumer Products portfolio bodies.
-4. **The other public URLs** — This repository did not contain the earlier capture of about 419 pages. Public sitemaps currently list **404** URLs (305 pages, 65 posts, 30 portfolio items, 3 categories, 1 local). Thirty-four layouts are converted below. Unpublished WordPress drafts, redirects, and menu-only links are not in that sitemap.
+4. **The other public URLs** — This repository did not contain the earlier capture of about 419 pages. Public sitemaps currently list **404** URLs (305 pages, 65 posts, 30 portfolio items, 3 categories, 1 local). Two hundred forty-eight layouts are converted below. Unpublished WordPress drafts, redirects, and menu-only links are not in that sitemap.
 5. **Card grids** — `/markets/` and `/processing/` include a custom card grid (theme CSS: each card `width: 24%`, four across, full width under 768px). The drafts keep the button row and the introduction, and lock the cards. They were not stacked into one column. A named preset, or a decision to recreate them as picture cards, is still open.
 6. **Inner 55% text width** — Heat treating and coil slitting include the same custom CSS as water jet (text block 55%, picture 40%, picture 20px lower). On those two pages the picture and words are not a full-width pair, so the draft keeps the Enfold columns (three-quarters, and two-fifths + three-fifths) and does not invent the water-jet split. The live text block is still floated to 55% inside its column.
 7. **Canonical duplicates** — `https://titanium.com/processing/kitting-services/` canonicalizes to `https://titanium.com/services/`. One private draft covers `/services/`. `https://titanium.com/markets/industrial/oil-gas/` canonicalizes to `https://titanium.com/oil-gas/`. It was not written over the Oil & Gas draft. `https://titanium.com/locations/` canonicalizes to `https://titanium.com/contact-us/`. `https://titanium.com/services/scrap-reclamation/` and `https://titanium.com/services/toll-processing/` and `https://titanium.com/services/just-in-time-jit-kanban-programs/` canonicalize to `https://titanium.com/services/`. `https://titanium.com/services/scrap-reclamation-2/` is its own page and has its own draft.
 8. **Contact form** — Gravity Form **18** is on `/contact-us/`, `/rfq/`, and the global locations page. No Form 18 export is in this repository. Those drafts do not submit it. The locations page hides the form in the public HTML (`display: none`); the draft still locks it.
 9. **Unmapped column pair** — Careers and Terms & Conditions each mix a two-fifths column with a one-half column. That pair is not a named preset, so those pages were not drafted.
+10. **Alloy rows that do not fill the page** — Four public alloy pages mix column widths that are not a named preset. They were not drafted. The grade pages under Alloy Steels and Nickel Alloys, and the other titanium grades, are drafted.
+    - `/alloys/alloy-steels/` has a quarter + three-quarter product row (that preset exists) and a following quarter + third row (20.5% + 6% gap + 29.3%) for the rest of the Alloy Steel Round Bar list, including SAE AISI H-11. The mixed row is why the hub was held.
+    - `/alloys/nickel-alloys/` has the same quarter + three-quarter pattern, plus Nickel Hollow Bar as a quarter + half (20.5% + 6% + 47%).
+    - `/alloys/titanium-and-titanium-alloys/` mixes gapped quarter + three-quarter rows with no-margin rows. A no-margin quarter is **24.9%** and a no-margin three-quarter is **75%**, with no 6% gap. The billet row is a no-margin fifth + four-fifth (**20%** + **80%**). Titanium Block is a quarter + two-fifths (20.5% + 6% + 36.4%). Those widths were not forced into the gapped quarter / three-quarter preset.
+    - `/alloys/titanium-and-titanium-alloys/ti-grade-2-cp-3/` has one row of third + quarter + third for mill products, pipe and tube, and fittings.
+11. **Weight calculator** — `/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/` is a private draft. The public page is an HTML form (`myform`) plus `calculator.js` (rounds, rectangles, and material densities). The draft keeps the step labels. It does not calculate a weight and it does not submit the form.
+12. **Specification tables** — AMS, ASTM, and ASME pages keep chemical composition and mechanical properties as paragraphs, in cell order, inside the named columns. The column editor has heading and paragraph blocks. The numbers are in the draft. They are not a spreadsheet grid. The technical-data hub links the public Alloy Datasheet Guidebook PDF. That link stays in the draft.
 
 ## Checked on the public site, no admin needed
 
@@ -41,6 +48,8 @@ Hosted conversions of existing pages: **0**. The thirty-four drafts in this repo
 - **Oil & Gas** and **Additive** were rebuilt from current public HTML because the captured column HTML changed (an image address no longer uses the `.webp` proxy). Nobody had edited those drafts. The story columns are unchanged. The Oil & Gas product grid is now the picture cards above.
 - **Message from the President** is one full-width story. The portrait uses WordPress `alignleft`. That is not the Medical `.left` / `.right` wrap, so the draft does not apply the medical float.
 - Standard Enfold columns use a **6%** gap after the first column (`margin-left: 6%` in the live theme CSS). That spacing is part of the named presets. It is not a free-form measurement.
+- **Alloy product rows** on Stainless Steel, Carbon Steels, and Cobalt Chrome are a quarter (20.5%) beside three quarters (73.5%), with the 6% gap. That is the `one-three` preset. It is the reverse of the three-quarter / quarter row already used on Interconnect.
+- **Weight calculator title** is one column at two fifths (36.4%). The story beside the line card stays two thirds / one third.
 
 ## Do not do these from this branch
 
@@ -88,14 +97,28 @@ Hosted conversions of existing pages: **0**. The thirty-four drafts in this repo
 | `/titanium-industries-global-metal-supplier-locations/` | location columns; news slider and Form 18 locked | full, full, halves, thirds, thirds, full, lead-three-fifths, full, full, thirds |
 
 | `/services/scrap-reclamation-2/` | scrap story and a quote row | lead-three-fifths, full, two-one |
+| `/alloys/` | alloy family cards | full, three-one, thirds, full |
+| `/alloys/stainless-steel/` | four product rows at quarter / three quarters | thirds, full, one-three |
+| `/alloys/carbon-steels/` | round bar row at quarter / three quarters | full, thirds, one-three |
+| `/alloys/cobalt-chrome/` | round bar row at quarter / three quarters | full, thirds, one-three |
+| `/alloys/aluminum-alloys/` | narrow left / wide right stories | full, thirds, one-two |
+| `/alloys/copper-alloys/` | equal button and story columns | full, thirds, thirds |
+| `/metal-alloy-technical-data-titanium-nickel-steel-specs/` | technical hub and the public datasheet PDF link | full, thirds, two-one, halves |
+| `/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/` | two-fifths title; calculator inputs are not a working form | full, lead-two-fifths, two-one |
+| `/ams-specifications-specialty-metals/` | AMS index | full, thirds, full |
+| `/astm-specifications/` | ASTM index | full, thirds, full, lead-four-fifths |
+| `/asme-specifications/` | ASME index | full, thirds, full, lead-four-fifths |
+| `/quick-quote-alloy-steel-round-bar/` | public shop and Quick Quote App links | full, quality-split, full, halves, full |
 
-Parity against the live HTML (title, description, canonical, Open Graph title and description, links, pictures, and the measured layouts) passed for all thirty-four. Locked card grids, the locations news slider, and Gravity Forms 18 and 20 are excluded from the picture check and called out in the report. Oil & Gas cards are checked against the portfolio export. Aerospace, Defense, and Consumer Products cards are checked against the public HTML. Evidence: `migration/reports/parity.json`.
+Seventy-eight alloy grade pages and one hundred fourteen AMS, ASTM, and ASME specification pages use the same private-draft pattern (usually full, thirds, and a two-thirds / one-third line card, with chemistry and mechanical values kept as paragraphs). Eleven more technical-data pages (cross references, what is titanium, history of titanium, seawater, charters of freedom) are drafted the same way. Each path and grid is in `migration/reports/conversions.json`.
+
+Parity against the live HTML (title, description, canonical, Open Graph title and description, links, pictures, and the measured layouts) passed for all two hundred forty-eight. Locked card grids, the locations news slider, and Gravity Forms 18 and 20 are excluded from the picture check and called out in the report. Oil & Gas cards are checked against the portfolio export. Aerospace, Defense, and Consumer Products cards are checked against the public HTML. Evidence: `migration/reports/parity.json`.
 
 ## Families still open
 
 - Home hero slider and the multi-section homepage.
 - Careers and Terms & Conditions mix a two-fifths column with a one-half column. That pair is not a named preset, so those pages were not drafted.
-- Alloy and technical-data pages, including `/alloys/` and the grade pages.
+- Four alloy pages whose column mix is not a named preset: `/alloys/alloy-steels/`, `/alloys/nickel-alloys/`, `/alloys/titanium-and-titanium-alloys/`, and `/alloys/titanium-and-titanium-alloys/ti-grade-2-cp-3/`. Their grade pages are drafted. The weight calculator draft does not run `calculator.js`.
 - 65 blog posts.
 - Gravity Form 18 export (contact, RFQ, and the locations page). The drafts do not submit it.
 - The local sitemap entry.

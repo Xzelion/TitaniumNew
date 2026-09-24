@@ -1,0 +1,449 @@
+{
+  "id": "alloys--stainless-steel--stainless-steel-incoloy-a286",
+  "path": "/alloys/stainless-steel/stainless-steel-incoloy-a286/",
+  "title": "View our Top Quality Stainless Steel Alloy A286 Round Bar | UNS# S66286 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "View our Top Quality Stainless Steel Alloy A286 Round Bar | UNS# S66286 | Titanium Industries",
+    "description": "Stainless Steel Alloy A286 Round Bar | UNS# S66286 offered at Titanium Industries' locations. Quick turnarounds, complete quality control.",
+    "canonical": "https://titanium.com/alloys/stainless-steel/stainless-steel-incoloy-a286/",
+    "ogTitle": "View our Top Quality Stainless Steel Alloy A286 Round Bar | UNS# S66286 | Titanium Industries",
+    "ogDescription": "Stainless Steel Alloy A286 Round Bar | UNS# S66286 offered at Titanium Industries' locations. Quick turnarounds, complete quality control.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Stainless Steel Alloy A286 | UNS# S66286"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Alloy A286 | UNS# S66286 is an iron-based austenitic super-alloy that exhibits high strength and good corrosion resistance. A286 offers high ductility and is superior to many other commercial alloys with comparable properties. Because of this metals desirable characteristics, it is often used in jet engines, superchargers, and other applications that demonstrate high temperatures. A286 is also used for low temperature applications that require ductile and non-magnetic high strength materials."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Alloy A286 Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 5731](https://titanium.com/ams-5731-specification/) , [AMS 5737](https://titanium.com/ams-5737-specification/) , [AMS 5853](https://titanium.com/ams-5853-specification/) , Capable of AMS-5732"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM A638](https://titanium.com/astm-a638-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Alloy A286 products offered at all Titanium Industries’ locations:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Alloy A286 Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Buy Now",
+              "href": "https://titanium.com/shop/products/mill-products-stainless-steel-round-bar",
+              "variant": "primary"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Stainless Steel Alloy A286 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Jet Engine Components"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fasteners and Bolts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Flanges"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Offshor Oil & Gas"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Afterburners"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-17",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-18",
+          "items": [
+            {
+              "id": "text-19",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 52.5%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 19%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nb 5.125%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 3.05%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Co"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti 0.90%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cu"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Al 0.50%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ta"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "B"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe balance"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-20",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-21",
+          "items": [
+            {
+              "id": "text-22",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU-in/hr-ft²-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (1/°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.286"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.9"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "104"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.11"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.00000917"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2500"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-23",
+      "preset": "lead-three-quarters",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-24",
+          "items": [
+            {
+              "id": "text-25",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2 Offset"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "50"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "95"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (R"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "m"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "90"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "171"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (AL=5 x Ø)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "11.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "24.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Brinell Hardness (H)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "279"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "327"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): 29000"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: 28%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/stainless-steel/stainless-steel-incoloy-a286/",
+    "sourceHash": "2bea002b1a425db1fc9bed70f14ad84cebe37569ac6ff59f67719626cb585e62",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/stainless-steel/stainless-steel-incoloy-a286/ (private, noindex) beside https://titanium.com/alloys/stainless-steel/stainless-steel-incoloy-a286/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-quarters, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

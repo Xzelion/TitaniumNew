@@ -1,0 +1,151 @@
+{
+  "id": "ams-6875-specification",
+  "path": "/ams-6875-specification/",
+  "title": "AMS 6875 | Heat Treatment of Steel Raw Materials",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS 6875 | Heat Treatment of Steel Raw Materials",
+    "description": "Please find the chemical and mechanical properties for AMS 6875 Stainless Steel round bar available at Titanium Industries.",
+    "canonical": "https://titanium.com/ams-6875-specification/",
+    "ogTitle": "AMS 6875 | Heat Treatment of Steel Raw Materials",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS 6875 Stainless Steel round bar available at Titanium Industries.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS 6875 | Heat Treatment of Steel Raw Materials"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "lead-two-thirds",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "button-13",
+              "kind": "button",
+              "label": "Buy Stainless Steel Round Bar",
+              "href": "https://qqa.titanium.com/product/mill-product-stainless-steel-round-bar",
+              "variant": "primary"
+            },
+            {
+              "id": "button-14",
+              "kind": "button",
+              "label": "Discounted Stainless Steel Inventory",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Stainless+Steel",
+              "variant": "primary"
+            },
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS 6875"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Scope: This specification covers the requirements for heat-treatment of four classes of steel and the requirements for furnace equipment, test procedures and information for heat-treating procedures, heat-treating temperatures and material test procedures. This specification is applicable only to the heat treatment of raw material; it does not cover the requirements for the heat treatment of steel parts. This specification also describes procedures that, when followed, will produce the desired properties and material qualities within the limitations of the respective alloys."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel 17-4 Round Bar](https://qqa.titanium.com/product/mill-product-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-6875-specification/",
+    "sourceHash": "ab84e2d899aed01e64eac11b8b9cca0130d22360890a1939c9568f3644894b5f",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | lead-two-thirds",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-6875-specification/ (private, noindex) beside https://titanium.com/ams-6875-specification/. Check the grid (full, thirds, lead-two-thirds), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

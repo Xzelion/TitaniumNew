@@ -1,0 +1,266 @@
+{
+  "id": "ams-6346-specification",
+  "path": "/ams-6346-specification/",
+  "title": "AMS 6346 | Steel Bars Hardened and Tempered | Tensile Strength",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS 6346 | Steel Bars Hardened and Tempered | Tensile Strength",
+    "description": "Please find the chemical and mechanical properties for AMS 6346. Alloy Steel Grade AISI 4130 Round Bar available at Titanium Industries.",
+    "canonical": "https://titanium.com/ams-6346-specification/",
+    "ogTitle": "AMS 6346 | Steel Bars Hardened and Tempered | Tensile Strength",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS 6346. Alloy Steel Grade AISI 4130 Round Bar available at Titanium Industries.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS 6346 | Steel Bars Hardened and Tempered, 125 Ksi (862 MPa) | Tensile Strength"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS 6346"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel Grade: AISI 4130"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product Forms: Steel Bars Hardened and Tempered | Tensile Strength"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Scope: This specification covers an aircraft-quality, low-alloy steel in the form of heat treated bars 1.50 inches (38.1 mm) and less in diameter or least distance between parallel sides."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Alloy Steel Grade AISI 4130 Round Bar](https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 97.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 1.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 0.50%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.30%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 0.25%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 0.20%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.05%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P 0.05%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength: 81.2 – 150 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength: 52.3 – 63.3 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation: 25.5 – 28.2%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile properties and associated requirements vary due to orientation, section thickness, and engineering requirements."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel 4130 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Commercial and Military Aircraft"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Automotive"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Oil & Gas"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Agricultural"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Forged Valve Bodies and Pumps"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cross Reference Specifications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2301](https://titanium.com/ams-2301-specification/) , [AMS 6348](https://titanium.com/ams-6348-specification/) , [AMS 6370](https://titanium.com/ams-6370-specification/) , [AMS-S-6758](https://titanium.com/ams-s-6758-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM A331](https://titanium.com/astm-a331-specification/)"
+                }
+              ]
+            },
+            {
+              "id": "button-16",
+              "kind": "button",
+              "label": "Shop Alloy Steel Round Bar",
+              "href": "https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar",
+              "variant": "primary"
+            },
+            {
+              "id": "button-17",
+              "kind": "button",
+              "label": "Discounted Products",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Alloy+Steel",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-6346-specification/",
+    "sourceHash": "918711e01008cc2eac9782f6df923bb1ce33fda0ce5b91fcea7120ce9f7ae3c1",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-6346-specification/ (private, noindex) beside https://titanium.com/ams-6346-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

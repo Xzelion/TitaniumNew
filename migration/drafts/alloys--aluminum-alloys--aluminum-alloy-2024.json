@@ -1,0 +1,407 @@
+{
+  "id": "alloys--aluminum-alloys--aluminum-alloy-2024",
+  "path": "/alloys/aluminum-alloys/aluminum-alloy-2024/",
+  "title": "Discover Top Aluminum Alloy 2024 | UNS# A92024 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Discover Top Aluminum Alloy 2024 | UNS# A92024 | Titanium Industries",
+    "description": "Aluminum Alloy 2024 | UNS# A92024is an aluminum based alloy typically used in the Aerospace industry. Titanium Industries.",
+    "canonical": "https://titanium.com/alloys/aluminum-alloys/aluminum-alloy-2024/",
+    "ogTitle": "Discover Top Aluminum Alloy 2024 | UNS# A92024 | Titanium Industries",
+    "ogDescription": "Aluminum Alloy 2024 | UNS# A92024is an aluminum based alloy typically used in the Aerospace industry. Titanium Industries.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Aluminum Alloy 2024 | UNS# A92024"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 2024 | UNS# A92024 is the most common aluminum that is heat treatable. This metal demonstrates high strength and is primarily used in fittings for aircraft, structural components like rivets, connectors, valve bodies for hydraulics, and similar applications. 2024 is strong compared to other Aluminum Alloys, shows average machining properties, and is susceptible to corrosion. Because of the lack of corrosion resistance, this metal is often cladded to protect against the elements."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 2024 Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tempers Available: T351 Solution Heat Treated, Stretched, Naturally Aged T851 Solution Heat Treated, Stretched, Artificially Aged"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 4120](https://titanium.com/ams-4120-specification/) , [AMS 4339](https://titanium.com/ams-4339-specification/) , AMS-QQ-A-225/6A"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM B211](https://titanium.com/astm-b211-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 2024 Products Offered at Titanium Industries:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Aluminum Alloy 2024-T351 and 2024-T851 Round Bar](https://titanium.com/shop/products/mill-products-aluminum-round-bar)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 2024 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aerospace – Wing and Fuselage"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aircraft Fittings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Gears and Shafts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Bolts and Fasteners"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Missile Components"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Orthopedic Equipment"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Al 93%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cu 4.4%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 0.5%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 0.6%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 0.5 % Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mg 1.5%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Zn 0.2% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti 0.2% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 0.1% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Other 0.1%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-19",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU-in/hr-ft²-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (1/°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.1"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "49.4"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1340"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.21"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.00001270"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1060"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2 Offset"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "14"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "41"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (R"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "m"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "21"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "70"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (AL=5 x Ø)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "20.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Brinell Hardness (H)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "47"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "135"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): 10600"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: 30%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/aluminum-alloys/aluminum-alloy-2024/",
+    "sourceHash": "787c8bcaf80846aca85cd32d398530c3da54e39bf1fa7ad7ee1494ed15ae72f2",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/aluminum-alloys/aluminum-alloy-2024/ (private, noindex) beside https://titanium.com/alloys/aluminum-alloys/aluminum-alloy-2024/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

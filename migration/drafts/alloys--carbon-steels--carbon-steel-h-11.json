@@ -1,0 +1,420 @@
+{
+  "id": "alloys--carbon-steels--carbon-steel-h-11",
+  "path": "/alloys/carbon-steels/carbon-steel-h-11/",
+  "title": "Carbon Steel H-11 | UNS# T20811 Round Bar | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Carbon Steel H-11 | UNS# T20811 Round Bar | Titanium Industries",
+    "description": "Carbon Steel H-11 | UNS# T20811 Round Bar offered at Titanium Industries' locations. Quick turnarounds and complete quality control.",
+    "canonical": "https://titanium.com/alloys/carbon-steels/carbon-steel-h-11/",
+    "ogTitle": "Carbon Steel H-11 | UNS# T20811 Round Bar | Titanium Industries",
+    "ogDescription": "Carbon Steel H-11 | UNS# T20811 Round Bar offered at Titanium Industries' locations. Quick turnarounds and complete quality control.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Carbon Steel H-11 | UNS# T20811"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Carbon Steel H-11 | UNS# T20811, also known as Tool Steel H11 is a chromium-based steel alloy in the “H” family of steels according to the AISI classification system. One of the more commonly used alloys in the “H” family, H-11 demonstrates excellent impact toughness, excellent resistance to cracking, and thermal fatigue cracking. Because of these desirable traits, H-11 is often used in the aerospace industry for landing gear, blades for rotorcraft and shafts, die-casting dies and similar applications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Carbon Steel H-11 Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS: AMS 6485, AMS 6487, AMS 6488"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Carbon Steel H-11 product forms offered at all Titanium Industries’ locations:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Carbon Steel H-11 Round Bar](https://titanium.com/shop/products/mill-products-carbon-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Please find Titanium Industries’ inventory of [Carbon Steel Round Bar](https://titanium.com/shop/products/mill-products-carbon-steel-round-bar) here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Buy Now",
+              "href": "https://titanium.com/shop/products/mill-products-carbon-steel-round-bar",
+              "variant": "primary"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Carbon Steel H-11 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aerospace Landing Gear"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Rotorcraft Blades and Shafts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Die-casting Dies"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-17",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-18",
+          "items": [
+            {
+              "id": "text-19",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.38 – 0.43%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 0.20 – 0.40%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 0.80 – 1.00%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.015% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P 0.015% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 4.75 – 5.25 %"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 1.20 – 1.40%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "V 0.40 – 0.60%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 0.25% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cu 0.35% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe Balance"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-20",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-21",
+          "items": [
+            {
+              "id": "text-22",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU-in/hr-ft²-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (1/°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.282"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "171"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "6.63"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2600"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-23",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-24",
+          "items": [
+            {
+              "id": "text-25",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2 Offset"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "215"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (R"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "m"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "260"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (AL=5 x Ø)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "8%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Hardness, Rockwell C"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "56"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): 27500"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: 75 – 80%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/carbon-steels/carbon-steel-h-11/",
+    "sourceHash": "0b778cf7f9c4db1c02b15ebdc6eae3ecf263fb5a61436c8772679fb0bcc012b9",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-fifths | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/carbon-steels/carbon-steel-h-11/ (private, noindex) beside https://titanium.com/alloys/carbon-steels/carbon-steel-h-11/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-fifths, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

@@ -103,6 +103,16 @@ export const PRESETS: Record<RowPreset, PresetDefinition> = {
       { label: 'Side column', widthPercent: quarter, marginLeftPercent: 6 },
     ],
   },
+  'one-three': {
+    id: 'one-three',
+    label: 'Slim left / wide right (quarters)',
+    description: 'A slim column on the left (one quarter, 20.5%) and the story on the right (three quarters, 73.5%), with the live site gap.',
+    bars: [1, 3],
+    columns: [
+      { label: 'Slim column', widthPercent: quarter, marginLeftPercent: 0 },
+      { label: 'Wide column', widthPercent: threeQuarter, marginLeftPercent: 6 },
+    ],
+  },
   'waterjet-split': {
     id: 'waterjet-split',
     label: 'Picture beside the words',
@@ -128,6 +138,13 @@ export const PRESETS: Record<RowPreset, PresetDefinition> = {
     description: 'A single column at two thirds of the page, like the quality page title.',
     bars: [2],
     columns: [{ label: 'Heading column', widthPercent: twoThird, marginLeftPercent: 0 }],
+  },
+  'lead-two-fifths': {
+    id: 'lead-two-fifths',
+    label: 'Heading, two fifths wide',
+    description: 'A single column at two fifths of the page (36.4%).',
+    bars: [2],
+    columns: [{ label: 'Heading column', widthPercent: twoFifth, marginLeftPercent: 0 }],
   },
   'lead-three-fifths': {
     id: 'lead-three-fifths',
@@ -242,9 +259,11 @@ function ROW_PRESET_ORDER(): PresetDefinition[] {
     PRESETS['one-two'],
     PRESETS['quality-split'],
     PRESETS['three-one'],
+    PRESETS['one-three'],
     PRESETS['waterjet-split'],
     PRESETS['float-wrap'],
     PRESETS['lead-two-thirds'],
+    PRESETS['lead-two-fifths'],
     PRESETS['lead-three-fifths'],
     PRESETS['lead-three-quarters'],
     PRESETS['lead-four-fifths'],

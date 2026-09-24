@@ -1,0 +1,280 @@
+{
+  "id": "ams-5663-specification",
+  "path": "/ams-5663-specification/",
+  "title": "AMS 5663 | Alloy Bars, Forgings, and Rings, Corrosion and Heat Resistant Nickel Base",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS 5663 | Alloy Bars, Forgings, and Rings, Corrosion and Heat Resistant Nickel Base",
+    "description": "Please find the chemical and mechanical properties for AMS 5663 Nickel Alloy 718 round bar available at Titanium Industries.",
+    "canonical": "https://titanium.com/ams-5663-specification/",
+    "ogTitle": "AMS 5663 | Alloy Bars, Forgings, and Rings, Corrosion and Heat Resistant Nickel Base",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS 5663 Nickel Alloy 718 round bar available at Titanium Industries.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS 5663 | Alloy Bars, Forgings, and Rings, Corrosion and Heat Resistant Nickel Base | Solution and Precipitation Heat Treated Consumable Electrode or Vacuum Induction Melted"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Discounted Products",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Nickel+Alloy",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-11",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-8",
+          "items": [
+            {
+              "id": "button-12",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-13",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-14",
+          "items": [
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS 5663"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy: 718"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product Forms: Alloy Bars, Forgings, and Rings, Corrosion and Heat Resistant Nickel Base"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Condition: Solution and Precipitation Heat Treated Consumable Electrode or Vacuum Induction Melted"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Scope: Specifies a corrosion and heat-resistant nickel alloy in the form of bars, forgings, flash welded rings up to 10 inches (254 mm) in least cross-sectional dimension, having a maximum cross-sectional area of 78 in (503 cm), and stock of any size for forging or flash welded rings."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Nickel Alloy 718 Round Bar](https://qqa.titanium.com/product/mill-product-nickel-alloy-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 52.5%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 19.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 3.05%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nb 5.035%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cu"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Co"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength: 14 – 220 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength: 80 – 150 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation: 18 – 27.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile properties and associated requirements vary due to orientation, section thickness, and engineering requirements."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-15",
+          "items": [
+            {
+              "id": "text-17",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy 718 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Jet engines"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Rotor Bolts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Gas turbine operations"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cross Reference Specifications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2261](https://titanium.com/ams-2261-specification/) , [AMS 5662](https://titanium.com/ams-5662-specification/) , [AMS 5664](https://titanium.com/ams-5664-specification/) , [AMS 5708](https://titanium.com/ams-5708-specification-2/) , [AMS 5962](https://titanium.com/ams-5962-specification/) , AMS 5909"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASME SB446, ASME SB637"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "NACE API 6A718, NACE Per MR 0175"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM B446](https://titanium.com/astm-b446-specification/) , [ASTM B637](https://titanium.com/astm-b637-specification/)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-5663-specification/",
+    "sourceHash": "8526bf1e4f8eb66db07456ed77c00f6ca023269c2cb123ee3604b38dd339cd8a",
+    "converterVersion": "2",
+    "converterFamily": "unclassified",
+    "families": [
+      "unclassified"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | quarters | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-5663-specification/ (private, noindex) beside https://titanium.com/ams-5663-specification/. Check the grid (full, quarters, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

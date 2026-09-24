@@ -1,0 +1,307 @@
+{
+  "id": "alloys--stainless-steel--stainless-steel-alloy-430f",
+  "path": "/alloys/stainless-steel/stainless-steel-alloy-430f/",
+  "title": "Stainless Steel Alloy 430F | UNS# S43020 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Stainless Steel Alloy 430F | UNS# S43020 | Titanium Industries",
+    "description": "Stainless Steel Alloy 430F is a ferritic stainless steel formulated for primary forming into wrought products.",
+    "canonical": "https://titanium.com/alloys/stainless-steel/stainless-steel-alloy-430f/",
+    "ogTitle": "Stainless Steel Alloy 430F | UNS# S43020 | Titanium Industries",
+    "ogDescription": "Stainless Steel Alloy 430F is a ferritic stainless steel formulated for primary forming into wrought products.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Stainless Steel Alloy 430F | UNS# S43020"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Alloy 430F is a ferritic stainless steel formulated for primary forming into wrought products. This materials properties are appropriate for the annealed condition and demonstrates a moderately low embodied energy among the wrought ferritic stainless steels."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Similar to Stainless Steel Alloy 430, 430F has increased sulfur to significantly improve machinability. Though similar, 430F does not form as easily as standard 430 due to the sulfur content but still demonstrates moderate ductility. 430F is often used for gears, fasteners, or solenoids within various industries."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel product forms offered at all Titanium Industries’ locations:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Hex Bar](https://titanium.com/shop/products/mill-products-stainless-steel-hex-bar)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Alloy 430F Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fasteners"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Gears"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Shafts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Pinions"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 81.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 16.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn ≤ 1.25%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si ≤ 1.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo ≤ 0.60%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S ≥ 0.15%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C ≤ 0.12%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "K ≤ 0.060%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-19",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "(lb/ft3)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "(% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "(BTU/h-ft-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "(BTU/lb-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "(µm/m-K)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ".282"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.8%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "25"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.12"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "10"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/stainless-steel/stainless-steel-alloy-430f/",
+    "sourceHash": "a491128ff1196be7971fb1d6f817aaed008a0fa73ee9e312962a127341885a8e",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/stainless-steel/stainless-steel-alloy-430f/ (private, noindex) beside https://titanium.com/alloys/stainless-steel/stainless-steel-alloy-430f/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

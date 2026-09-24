@@ -1,0 +1,417 @@
+{
+  "id": "alloys--nickel-alloys--nickel-alloy-750",
+  "path": "/alloys/nickel-alloys/nickel-alloy-750/",
+  "title": "Nickel Alloy 750 | UNS# N07750 | Titanium Industries Nickel Round Bar",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Nickel Alloy 750 | UNS# N07750 | Titanium Industries Nickel Round Bar",
+    "description": "Inconel® Alloy X-750, Haynes® X-750, or Nickel Alloy 750 round bar is a precipitation hardenable nickel-chromium super-alloy, offered at T.I.",
+    "canonical": "https://titanium.com/alloys/nickel-alloys/nickel-alloy-750/",
+    "ogTitle": "Nickel Alloy 750 | UNS# N07750 | Titanium Industries Nickel Round Bar",
+    "ogDescription": "Inconel® Alloy X-750, Haynes® X-750, or Nickel Alloy 750 round bar is a precipitation hardenable nickel-chromium super-alloy, offered at T.I.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Nickel Alloy 750 | UNS# N07750"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Discounted Inventory",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Nickel+Alloy",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-11",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-8",
+          "items": [
+            {
+              "id": "button-12",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-13",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-14",
+          "items": [
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Inconel® Alloy X-750, Haynes® X-750, or Nickel Alloy 750 is a precipitation hardenable nickel-chromium super-alloy. This super-alloy is typically found in applications that require oxidation and corrosion resistant qualities and high strength at high temperatures. Much of the effect of precipitation hardening is lost with temperatures over 1300°F; heat-treated material has useful strength up to 1800°F. Nickel alloy 750 also has excellent properties in cryogenic temperatures."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Please find Titanium Industries [Nickel Round Bar](https://qqa.titanium.com/product/mill-product-nickel-alloy-round-bar) here."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-15",
+          "items": [
+            {
+              "id": "text-17",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy 750 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Gas turbines: blades, seals, and rotors"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Bolts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Forming tools"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Extrusion dies"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Heat treating and nuclear reactor applications"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-18",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-19",
+          "items": [
+            {
+              "id": "text-20",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 14.0 – 17.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 5.0 – 9.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti 2.25 – 2.75%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 1.0% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nb 0.7 – 1.20%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cu 0.5% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 0.50% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Al 0.4 – 1.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.08% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.01% Min"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni Remainder"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-21",
+      "preset": "lead-two-thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-22",
+          "items": [
+            {
+              "id": "text-23",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU-in/hr-ft²-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (1/°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.298"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "98"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.0000078"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2575"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-24",
+      "preset": "lead-three-quarters",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-25",
+          "items": [
+            {
+              "id": "text-26",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2 Offset"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (R"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "m"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "192.2"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (AL=5 x Ø)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "23.60%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Brinell Hardness (H)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): –"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: –"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/nickel-alloys/nickel-alloy-750/",
+    "sourceHash": "a38385adf2d1a6b339139c78e2a8818fe4f062fbfcdcfe439872aae11b754d6e",
+    "converterVersion": "2",
+    "converterFamily": "unclassified",
+    "families": [
+      "unclassified"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | quarters | two-one | lead-three-fifths | lead-two-thirds | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/nickel-alloys/nickel-alloy-750/ (private, noindex) beside https://titanium.com/alloys/nickel-alloys/nickel-alloy-750/. Check the grid (full, quarters, two-one, lead-three-fifths, lead-two-thirds, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

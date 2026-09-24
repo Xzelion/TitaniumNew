@@ -1,0 +1,183 @@
+{
+  "id": "astm-f67-specification",
+  "path": "/astm-f67-specification/",
+  "title": "ASTM F67 | Specification for Unalloyed Titanium, Surgical Implant Applications",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASTM F67 | Specification for Unalloyed Titanium, Surgical Implant Applications",
+    "description": "ASTM F67 | Standard Specification for Unalloyed Titanium, for Surgical Implant Applications (UNS R50250, UNS R50400, UNS R50550, UNS R50700)",
+    "canonical": "https://titanium.com/astm-f67-specification/",
+    "ogTitle": "ASTM F67 | Specification for Unalloyed Titanium, Surgical Implant Applications",
+    "ogDescription": "ASTM F67 | Standard Specification for Unalloyed Titanium, for Surgical Implant Applications (UNS R50250, UNS R50400, UNS R50550, UNS R50700)",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASTM F67 | Standard Specification for Unalloyed Titanium, for Surgical Implant Applications (UNS R50250, UNS R50400, UNS R50550, UNS R50700)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Specification: ASTM F67"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM F67 Scope: This specification covers the chemical, mechanical, and metallurgical requirements for four grades of unalloyed titanium strips, sheets, plates, bars, billets, forgings, and wires used for the manufacture of surgical implants. The four grades identified here are defined as follows: Grade 1 — UNS R50250; Grade 2 — UNS R50400; Grade 3 — UNS R50550; and Grade 4 — UNS R50700. Mill products may be supplied with a descaled or pickled, abrasive blasted, chemically milled, ground, machined, peeled, or polished finish, or as specified by the purchaser. Materials shall be furnished in the hotworked, cold-worked, forged, annealed, or stress-relieved condition. Mechanical properties to which the titanium materials shall conform are ultimate tensile strength, yield strength, elongation, and reduction of area."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for ASTM specifications."
+                }
+              ]
+            },
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Shop Discounted Titanium",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Titanium",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grade 2 CP 3 Round Bar](https://qqa.titanium.com/product/mill-product-titanium-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grade 2 CP 3 Plate](https://qqa.titanium.com/product/mill-product-titanium-plate)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grade 2 CP 3 Sheet](https://qqa.titanium.com/product/mill-product-titanium-sheet)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grade 3 CP 2 Sheet](https://qqa.titanium.com/product/mill-product-titanium-sheet)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grade 4 CP 1 Round Bar](https://qqa.titanium.com/product/mill-product-titanium-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grade 4 CP 1 Plate](https://qqa.titanium.com/product/mill-product-titanium-plate)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grade 4 CP 1 Sheet](https://qqa.titanium.com/product/mill-product-titanium-sheet)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium 6Al-4V ELI Grade 23 Round Bar](https://qqa.titanium.com/product/mill-product-titanium-round-bar)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/astm-f67-specification/",
+    "sourceHash": "624220560a476b56b6fcd671ab74f8863755dd9c75befc13074845de5549d0ea",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/astm-f67-specification/ (private, noindex) beside https://titanium.com/astm-f67-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

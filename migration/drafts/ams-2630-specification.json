@@ -1,0 +1,224 @@
+{
+  "id": "ams-2630-specification",
+  "path": "/ams-2630-specification/",
+  "title": "AMS 2630 | Inspection, Ultrasonic Product Over 0.5 Inch (12.7 mm) Thick",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS 2630 | Inspection, Ultrasonic Product Over 0.5 Inch (12.7 mm) Thick",
+    "description": "Please find the chemical and mechanical properties for AMS 2630. Cobalt Chrome 1537 Round Bar available at Titanium Industries.",
+    "canonical": "https://titanium.com/ams-2630-specification/",
+    "ogTitle": "AMS 2630 | Inspection, Ultrasonic Product Over 0.5 Inch (12.7 mm) Thick",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS 2630. Cobalt Chrome 1537 Round Bar available at Titanium Industries.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS 2630 | Inspection, Ultrasonic Product Over 0.5 Inch (12.7 mm) Thick"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS 2630"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cobalt-chrome-molybdenum (CCM) Grade: 1537"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Scope: Inspection, Ultrasonic Product Over 0.5 Inch (12.7 mm) Thick"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Description: This specification covers procedures for ultrasonic inspection, by pulse-echo procedures, of flat, rectangular, round, cylindrical, and contoured products having a thickness or cross-sectional dimension greater than 0.5 inch (12.7 mm), using either contact or immersion methods, and using the longitudinal-wave or shear-wave modes or combinations of the two, as necessary. This specification may apply to testing finished machined parts provided the parts can meet the basic testability requirements, such as size, contour, metallurgical structure, and thickness."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Cobalt Chrome Grade 1537 Round Bar](https://qqa.titanium.com/product/mill-product-cobalt-chrome-moly-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "CHEMICAL COMPOSITION"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.14% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 1.0% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 1.0% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 26.0 – 30.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 5.0 – 7.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 1.0% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 0.75% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N 0.25% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Co Balance"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Hardness: 40 HRC"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength (Mpa): 827 min"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation: 12%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile properties and associated requirements vary due to orientation, section thickness, and engineering requirements."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Typical Applications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Medical implants (endoprothesis and osteosynthesis)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-2630-specification/",
+    "sourceHash": "cc2da689047f536bb7d70f8ab2e94d1370a2f67fdc397a86cf23681c5e496d70",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-2630-specification/ (private, noindex) beside https://titanium.com/ams-2630-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

@@ -1,0 +1,361 @@
+{
+  "id": "alloys--alloy-steels--alloy-steel-aisi-4815",
+  "path": "/alloys/alloy-steels/alloy-steel-aisi-4815/",
+  "title": "Alloy Steel AISI 4815 | UNS# G48150 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Alloy Steel AISI 4815 | UNS# G48150 | Titanium Industries",
+    "description": "Alloy Steel AISI 4815 | UNS# G48150 is an alloy steel that demonstrates moderately high thermal conductivity among SAE-AISI wrought steels.",
+    "canonical": "https://titanium.com/alloys/alloy-steels/alloy-steel-aisi-4815/",
+    "ogTitle": "Alloy Steel AISI 4815 | UNS# G48150 | Titanium Industries",
+    "ogDescription": "Alloy Steel AISI 4815 | UNS# G48150 is an alloy steel that demonstrates moderately high thermal conductivity among SAE-AISI wrought steels.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Alloy Steel AISI 4815 | UNS# G48150"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "lead-two-thirds",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-13",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "SAE/AISI 4815 is an alloy steel that demonstrates moderately high thermal conductivity among SAE-AISI wrought steels. In addition, it has a moderately high base cost and a moderately high embodied energy."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Alloy Steel Round Bar Offered at Titanium Industries can be found here.](https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "SAE/AISI 4815 Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM A29, ASTM A322, ASTM A331, ASTM A519, ASTM A752, ASTM A505"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "SAE J1397, SAE J404, SAE J412, SAE J770"
+                }
+              ]
+            },
+            {
+              "id": "button-14",
+              "kind": "button",
+              "label": "Shop Discounted Alloy Steel",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Alloy+Steel",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-15",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-16",
+          "items": [
+            {
+              "id": "text-17",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe Balance"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.13 – 0.18%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 0.40 – 0.60%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P 0.035% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.04% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 0.15 – 0.30%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 3.25 – 3.75%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 0.20 – 0.30%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-18",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-19",
+          "items": [
+            {
+              "id": "text-20",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density (lbs/cubic in)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU-in/hr-ft²-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity (BTU/lb-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (µm/m-K)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.278"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "6.6%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "30"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.11"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "12"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2600"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-21",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-22",
+          "items": [
+            {
+              "id": "text-23",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Mpa)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "370"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (Mpa)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "550"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "23%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Hardness (HBW)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "170"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): –"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: –"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/alloy-steels/alloy-steel-aisi-4815/",
+    "sourceHash": "98a9afbb1a91e5f6316af14eb56de6553519f8cf25d643d1e0d9f24dc92b6bed",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | lead-two-thirds | lead-three-fifths | lead-three-fifths | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/alloy-steels/alloy-steel-aisi-4815/ (private, noindex) beside https://titanium.com/alloys/alloy-steels/alloy-steel-aisi-4815/. Check the grid (full, thirds, lead-two-thirds, lead-three-fifths, lead-three-fifths, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

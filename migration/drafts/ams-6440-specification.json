@@ -1,0 +1,240 @@
+{
+  "id": "ams-6440-specification",
+  "path": "/ams-6440-specification/",
+  "title": "AMS 6440 | Steel, Bars, Forgings, and Tubing | For Bearing Applications",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS 6440 | Steel, Bars, Forgings, and Tubing | For Bearing Applications",
+    "description": "Please find the chemical and mechanical properties for AMS 6440. Alloy Steel Grade AISI 52100 Round Bar available at Titanium Industries.",
+    "canonical": "https://titanium.com/ams-6440-specification/",
+    "ogTitle": "AMS 6440 | Steel, Bars, Forgings, and Tubing | For Bearing Applications",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS 6440. Alloy Steel Grade AISI 52100 Round Bar available at Titanium Industries.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS 6440 | Steel, Bars, Forgings, and Tubing | For Bearing Applications"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS 6440"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel Grade: AISI 52100"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product Forms: Steel, Bars, Forgings, and Tubing"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Application: For Bearing Applications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Scope: This specification covers a low-alloy steel in the form of bars, forgings, mechanical tubing, and forging stock."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Alloy Steel Grade AISI 52100 Round Bar](https://titanium.com/shop/products/mill-products-alloy-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe Balance"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 1.3 – 1.6%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.98 – 1.10%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 0.25 – 0.45%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 0.15 – 0.30%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength: 85 – 105 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength: 45 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation: 45.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile properties and associated requirements vary due to orientation, section thickness, and engineering requirements."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel 52100 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Commercial and Military Aircraft"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Anti-Friction Bearings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cross Reference Specifications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2301](https://titanium.com/ams-2301-specification/) , [AMS 6444](https://titanium.com/ams-6444-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM A295](https://titanium.com/astm-a295-specification/) , [ASTM A331](https://titanium.com/astm-a331-specification/)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-6440-specification/",
+    "sourceHash": "b33811f76bf44a1ee0f708cd1fb2ba524cd04657625b2c5823002166f67b9468",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-6440-specification/ (private, noindex) beside https://titanium.com/ams-6440-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

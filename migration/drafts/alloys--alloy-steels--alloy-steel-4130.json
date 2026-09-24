@@ -1,0 +1,405 @@
+{
+  "id": "alloys--alloy-steels--alloy-steel-4130",
+  "path": "/alloys/alloy-steels/alloy-steel-4130/",
+  "title": "Discover Best Quality Alloy Steel 4130 | AISI 4130 | UNS# G41300 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Discover Best Quality Alloy Steel 4130 | AISI 4130 | UNS# G41300 | Titanium Industries",
+    "description": "Alloy Steel 4130 AISI 4130 | UNS# G41300 offered at Titanium Industries' worlwide locations. Quick turnarounds and complete quality control.",
+    "canonical": "https://titanium.com/alloys/alloy-steels/alloy-steel-4130/",
+    "ogTitle": "Discover Best Quality Alloy Steel 4130 | AISI 4130 | UNS# G41300 | Titanium Industries",
+    "ogDescription": "Alloy Steel 4130 AISI 4130 | UNS# G41300 offered at Titanium Industries' worlwide locations. Quick turnarounds and complete quality control.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Alloy Steel 4130 | UNS# G43400"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel 4130 | UNS# G41300 also known as AISI or SAE 4130 is a low-alloy steel that contains chromium and molybdenum and demonstrates good strength, toughness, machinability, and weldability. Often utilized as forgings in the aerospace and oil & gas industries, automotive, agricultural, and defense applications. AISI 4130 is versatile with good atmospheric resistance and good strength at moderately high temperatures."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel 4130 Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2301](https://titanium.com/ams-2301-specification/) , [AMS 6346](https://titanium.com/ams-6346-specification/) , [AMS 6348](https://titanium.com/ams-6348-specification/) , [AMS 6370](https://titanium.com/ams-6370-specification/) , [AMS-S-6758](https://titanium.com/ams-s-6758-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM A331](https://titanium.com/astm-a331-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel 4130 product forms offered at all Titanium Industries’ locations:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Alloy Steel 4130 Round Bar](https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Buy Now",
+              "href": "https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar",
+              "variant": "primary"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel 4130 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Commercial and Military Aircraft"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Automotive"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Oil & Gas"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Agricultural"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Forged Valve Bodies and Pumps"
+                }
+              ]
+            },
+            {
+              "id": "button-17",
+              "kind": "button",
+              "label": "Discounted Products",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Alloy+Steel",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-18",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-19",
+          "items": [
+            {
+              "id": "text-20",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 97.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 1.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 0.50%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.30%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 0.25%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 0.20%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.05%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P 0.05%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-21",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-22",
+          "items": [
+            {
+              "id": "text-23",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU-in/hr-ft²-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (1/°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.284"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "7.73"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "296"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.114"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.00000620"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2610"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2 Offset"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "52.3"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "63.3"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (R"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "m"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "81.2"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "150"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (AL=5 x Ø)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "25.5%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "28.2%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Brinell Hardness (H)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "156"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "331"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): 29700"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: 72%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/alloy-steels/alloy-steel-4130/",
+    "sourceHash": "70c3f4c75bca6b06859655bb22a5d74527e59c5ad8a4ab33299cc331fd7ee192",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/alloy-steels/alloy-steel-4130/ (private, noindex) beside https://titanium.com/alloys/alloy-steels/alloy-steel-4130/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

@@ -1,0 +1,421 @@
+{
+  "id": "alloys--stainless-steel--stainless-steel-grade-316",
+  "path": "/alloys/stainless-steel/stainless-steel-grade-316/",
+  "title": "Stainless Steel Grade 316 | UNS# S31600 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Stainless Steel Grade 316 | UNS# S31600 | Titanium Industries",
+    "description": "Stainless Steel Grade 316 is the standard molybdenum-bearing grade; typically second to Grade 304 amongst the austenitic SS family.",
+    "canonical": "https://titanium.com/alloys/stainless-steel/stainless-steel-grade-316/",
+    "ogTitle": "Stainless Steel Grade 316 | UNS# S31600 | Titanium Industries",
+    "ogDescription": "Stainless Steel Grade 316 is the standard molybdenum-bearing grade; typically second to Grade 304 amongst the austenitic SS family.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Stainless Steel Grade 316 | UNS# S31600"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 316 is the standard molybdenum-bearing grade; typically second in importance to Grade 304 amongst the austenitic stainless steel family. The materials molybdenum content allows for better corrosion resistant properties than Grade 304, especially with higher resistance to pitting and crevice corrosion in chloride environments. It has excellent forming and welding characteristics and is formed into a variety of parts for applications within the industrial, architectural, and transportation industries. Grade 316 also demonstrates outstanding welding characteristics."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel product forms offered at all Titanium Industries’ locations:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Hex Bar](https://titanium.com/shop/products/mill-products-stainless-steel-hex-bar)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 316 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Food preparation equipment used in chloride environments"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Laboratory benches & equipment"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Coastal architectural paneling, railings & trim"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Boat fittings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical containers"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Heat Exchangers"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Woven or welded screens for mining, quarrying & water filtration"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Threaded fasteners"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Springs"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.08% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 2.0% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 0.75% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P 0.045%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.03% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 16.0 – 18.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 2.0 – 3.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 10.0 – 14.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N 0.10% Max"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-19",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU-in/hr-ft2-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (1/°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.29"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "21.4"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.12"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.0000185"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2590"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-22",
+      "preset": "lead-three-quarters",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-23",
+          "items": [
+            {
+              "id": "text-24",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2 Offset"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "30"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (R"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "m"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "75"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (AL=5 x Ø)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "40.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Hardness (RB)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "95"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): 19789"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: –"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/stainless-steel/stainless-steel-grade-316/",
+    "sourceHash": "0bba38e0af8252994d0e717c506ea72d84e03e82b11ec3cbb2b4daa190eccf62",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/stainless-steel/stainless-steel-grade-316/ (private, noindex) beside https://titanium.com/alloys/stainless-steel/stainless-steel-grade-316/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-quarters, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

@@ -1,0 +1,126 @@
+{
+  "id": "metal-alloy-technical-data-titanium-nickel-steel-specs--history-of-titanium",
+  "path": "/metal-alloy-technical-data-titanium-nickel-steel-specs/history-of-titanium/",
+  "title": "History of Titanium | Titanium Industries | Contact Us Today",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "History of Titanium | Titanium Industries | Contact Us Today",
+    "description": "Titanium was discovered in 1791 by William Gregor, a clergyman and amateur geologist, as an inclusion of a mineral in Cornwall, Great Britain.",
+    "canonical": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/history-of-titanium/",
+    "ogTitle": "History of Titanium | Titanium Industries | Contact Us Today",
+    "ogDescription": "Titanium was discovered in 1791 by William Gregor, a clergyman and amateur geologist, as an inclusion of a mineral in Cornwall, Great Britain.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "lead-four-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "History of Titanium"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "two-one",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "text-7",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "History of Titanium and it’s Impact"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium was discovered in 1791 by William Gregor, a clergyman and amateur geologist, as an inclusion of a mineral in Cornwall, Great Britain. William recognized the presence of a new element when he found black sand near a stream and observed it to be magnetic."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Upon an analysis of this sand, he identified the presence of two metal oxides: iron oxide, which explained the magnetism and a white metallic oxide he could not identify. Understanding that the unidentified oxide contained a metal not matching any known element, the amateur geologist reported his findings to the Royal Geological Society of Cornwall."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "At about the same time, Franz-Joseph Müller von Reichenstein produced a comparable material, but also could not identify it. In 1795, Martin Heinrich Klaproth, a Prussian chemist, independently rediscovered this unknown oxide in rutile from Boinik, a village in Hungary. Martin discovered the material contained a new element and named it after the Titans of Greek mythology. Upon hearing of Gregor’s previous discovery, he acquired a sample of manaccanite and confirmed the presence of Titanium"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The element occurs within a number of mineral deposits, but mainly in rutile and ilmenite. These minerals are extensively found in the Earth’s crust and lithosphere and is found in almost all living things; such as bodies of water, rocks, and soils. Titanium is extracted from its principal mineral ores by using the Kroll and Hunter processes. Titanium dioxide is the most common compound and is a popular photo catalyst, used in the manufacture of white pigments. Additional compounds include titanium tetrachloride (TiCl4), which is a component of smoke screens and catalysts and titanium trichloride (TiCl3), used as a catalyst in the polypropylene production."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Currently, the recognized process for Titanium extraction from its parent ores is arduous and costly. The ore cannot be reduced by heating with carbon, similar to iron smelting, because Titanium will combine with the carbon to produce titanium carbide."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "In 1910, pure titanium (99.9%) was first created by Matthew Hunter at Rensselaer Polytechnic Institute using a new method, called the Hunter Process. This new process was completed by heating TiCl4 with sodium between 700 and 800°C, while under immense pressure. Titanium did not have applications outside a laboratory until William Justin Kroll produced it by reducing titanium tetrachloride (TiCl4) with calcium, in 1932. During the following 8 years, Hunter refined his process using magnesium, combined with sodium, which is now called the Kroll process."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "During the 1950’s and 1960’s, the former Soviet Union pioneered the utilization of Titanium in military and submarine applications, which was part of Cold War programs. In the early 1950’s, Titanium was applied extensively to military aviation programs, predominantly in high-performance jets. Examples of aircraft are the F-100 Super Sabre, Lockheed A-12, and SR-71."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Because of the Soviet Union’s Titanium applications, the metal was considered a strategic material by the U.S. government. This new designation caused a large stockpile of Titanium sponge, maintained by the Defense National Stockpile Center until the complete usage of this stockpile in the 2000’s."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium can be alloyed with iron, aluminum, vanadium, molybdenum, and many other elements. These additional metals allow for strong, lightweight alloys used in aerospace and the military (jet engines, missiles, and spacecraft, etc.), automotive, agriculture, industrial processes (chemical production, petrochemical production, desalination plants, pulp and paper, etc.), medical prostheses and orthopedic implants, dental implants and endodontic instrumentation, sporting goods, jewelry, and many other applications."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/history-of-titanium/",
+    "sourceHash": "043fd08510468184cd1b42c482262b1317d078d78cb691fa427d3cee640c0ed2",
+    "converterVersion": "2",
+    "converterFamily": "unclassified",
+    "families": [
+      "unclassified"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "lead-four-fifths | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/metal-alloy-technical-data-titanium-nickel-steel-specs/history-of-titanium/ (private, noindex) beside https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/history-of-titanium/. Check the grid (lead-four-fifths, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}
