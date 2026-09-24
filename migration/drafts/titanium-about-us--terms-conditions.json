@@ -1,0 +1,286 @@
+{
+  "id": "titanium-about-us--terms-conditions",
+  "path": "/titanium-about-us/terms-conditions/",
+  "title": "Terms and Conditions of Sale and Delivery | Titanium Industries | Reliable Service",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Terms and Conditions of Sale and Delivery | Titanium Industries | Reliable Service",
+    "description": "Terms and Conditions of Sale and Delivery can be found here. For any questions, please contact us today.",
+    "canonical": "https://titanium.com/titanium-about-us/terms-conditions/",
+    "ogTitle": "Terms and Conditions of Sale and Delivery | Titanium Industries | Reliable Service",
+    "ogDescription": "Terms and Conditions of Sale and Delivery can be found here. For any questions, please contact us today.",
+    "ogImage": "https://titanium.com/wp-content/uploads/2023/07/Instagram.png"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Terms and Conditions of Sale and Delivery"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-13",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Titanium Industries’ Terms and Conditions of Sale and Delivery"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Please download the attached Terms and Conditions of Sale and Delivery in PDF format for your reference."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "For additional information, please contact us today at +1-888-482-6486 or email us at [[email protected]](https://titanium.com/cdn-cgi/l/email-protection#becddfd2dbcdfecad7cadfd0d7cbd390ddd1d3)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-14",
+      "preset": "custom",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-15",
+          "items": [
+            {
+              "id": "text-17",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "North America"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[United States – Sale Terms](https://titanium.com/wp-content/uploads/2024/05/Terms-and-Conditions-of-Sale-and-Delivery-003-1.pdf)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[United States – Purchase Terms](https://titanium.com/wp-content/uploads/2015/02/Terms-and-Conditions-of-Purchase.pdf)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[United States – Paperwork Revisions](https://titanium.com/wp-content/uploads/2015/02/T.I.-Paperwork-Revision-w-GH-Signature.pdf)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Canada – English Version](https://titanium.com/wp-content/uploads/2023/04/English_CanadaTerms-and-Conditions-of-Sale-and-Delivery.pdf)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Canada – French Version](https://titanium.com/wp-content/uploads/2023/04/French-Terms-and-Conditions-of-Sale-and-Delivery_3.pdf)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "South America"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Brazil](https://titanium.com/wp-content/uploads/2020/06/Terms-and-Conditions-of-Sale-and-Delivery-003.pdf)"
+                }
+              ]
+            }
+          ],
+          "width": "two-fifths"
+        },
+        {
+          "id": "column-16",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Europe"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[United Kingdom](https://titanium.com/wp-content/uploads/2023/04/UK-Terms-and-Conditions-of-Sale-and-Delivery-3-21.pdf)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Germany](https://titanium.com/wp-content/uploads/2026/03/Germany-Terms-and-Conditions-of-Sale-and-Delivery-Final2.pdf)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Asia"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[China](https://titanium.com/wp-content/uploads/2020/06/Terms-and-Conditions-of-Sale-and-Delivery-003.pdf)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Taiwan](https://titanium.com/wp-content/uploads/2020/06/Terms-and-Conditions-of-Sale-and-Delivery-003.pdf)"
+                }
+              ]
+            }
+          ],
+          "width": "half"
+        }
+      ]
+    },
+    {
+      "id": "row-19",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Follow us on Social Media:"
+                }
+              ]
+            },
+            {
+              "id": "picture-22",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
+              "alt": "Titanium Industries | Instagram",
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-23",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
+              "alt": "Titanium Industries | LinkedIn",
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-24",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
+              "alt": "Titanium Industries | Twitter",
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-25",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
+              "alt": "Titanium Industries | Facebook",
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-26",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
+              "alt": "Titanium Industries | Youtube",
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/titanium-about-us/terms-conditions/",
+    "sourceHash": "9359f70687ccf20dd19b68f542bb731591dc4af5c62c82efae76d968ea22c550",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta",
+      "custom-column-widths"
+    ],
+    "convertedAt": "2026-09-24T21:10:43.998Z",
+    "grid": "full | thirds | full | custom(two-fifths+half) | full",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/titanium-about-us/terms-conditions/ (private, noindex) beside https://titanium.com/titanium-about-us/terms-conditions/. Check the grid (full, thirds, full, custom(two-fifths+half), full), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

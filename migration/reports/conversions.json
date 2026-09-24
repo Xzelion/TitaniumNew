@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T21:04:52.498Z",
+  "generatedAt": "2026-09-24T21:10:43.998Z",
   "sitemap": {
     "capturedInRepoBeforeThisChange": 0,
     "publicSitemapUrls": 404
@@ -17,7 +17,7 @@
       ],
       "converterFamily": "quality-split",
       "remainingSourceOnly": [],
-      "verify": "Open /preview/quality-systems/ (private, noindex) beside https://titanium.com/quality-systems/. Check the grid (lead-two-thirds, thirds, quality-split), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "verify": "Open /preview/quality-systems/ (private, noindex) beside https://titanium.com/quality-systems/. Check the grid (lead-two-thirds, thirds, quality-split), pictures, buttons, and the search title. The Customer Satisfaction Survey button sits in the three-fifths column (36.4% / 6% / 57.6%) and links to https://titanium.com/customer-satisfaction-survey/. Saving in Payload does not change the public site.",
       "sourceHash": "b3a34f26c059baa44e5281d768580a69f72a682068e91747469d5cb6d7ba8701"
     },
     {
@@ -568,10 +568,39 @@
       "sourceHash": "8231f081d5906c5a3ef62d18b73f63b058d2b99dc17b159239f2d485486442eb"
     },
     {
-      "path": "/alloys/alloy-steels/",
-      "id": "alloys--alloy-steels",
+      "path": "/careers/",
+      "id": "careers",
       "action": "write",
       "reason": "New private draft.",
+      "grid": "full | thirds | custom(two-fifths+half) | full",
+      "families": [
+        "custom-column-widths"
+      ],
+      "converterFamily": "custom-column-widths",
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/careers/ (private, noindex) beside https://titanium.com/careers/. Check the grid (full, thirds, custom(two-fifths+half), full), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "97c3caf56ae789149e8c86ccbc6282c8204f5dc5c64977e4f67a6e09d61bc844"
+    },
+    {
+      "path": "/titanium-about-us/terms-conditions/",
+      "id": "titanium-about-us--terms-conditions",
+      "action": "write",
+      "reason": "New private draft.",
+      "grid": "full | thirds | full | custom(two-fifths+half) | full",
+      "families": [
+        "equal-3-cta",
+        "custom-column-widths"
+      ],
+      "converterFamily": "equal-3-cta",
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/titanium-about-us/terms-conditions/ (private, noindex) beside https://titanium.com/titanium-about-us/terms-conditions/. Check the grid (full, thirds, full, custom(two-fifths+half), full), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "9359f70687ccf20dd19b68f542bb731591dc4af5c62c82efae76d968ea22c550"
+    },
+    {
+      "path": "/alloys/alloy-steels/",
+      "id": "alloys--alloy-steels",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | one-three | custom(quarter+third)",
       "families": [
         "equal-3-cta",
@@ -585,8 +614,8 @@
     {
       "path": "/alloys/nickel-alloys/",
       "id": "alloys--nickel-alloys",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | one-three | custom(quarter+half)",
       "families": [
         "equal-3-cta",
@@ -600,8 +629,8 @@
     {
       "path": "/alloys/titanium-and-titanium-alloys/",
       "id": "alloys--titanium-and-titanium-alloys",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | full | custom(flush-quarter+flush-three-quarters) | custom(flush-quarter+flush-three-quarters) | custom(flush-quarter+flush-three-quarters) | one-three | one-three | custom(quarter+two-fifths) | one-three | custom(flush-fifth+flush-four-fifths) | thirds | full | halves | halves | halves | halves | halves | full",
       "families": [
         "equal-3-cta",
@@ -615,8 +644,8 @@
     {
       "path": "/alloys/titanium-and-titanium-alloys/ti-grade-2-cp-3/",
       "id": "alloys--titanium-and-titanium-alloys--ti-grade-2-cp-3",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | custom(third+quarter+third) | lead-three-fifths | lead-four-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta",

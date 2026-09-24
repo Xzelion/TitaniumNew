@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T21:04:52.498Z",
+  "generatedAt": "2026-09-24T21:10:43.998Z",
   "pages": [
     {
       "path": "/quality-systems/",
@@ -1771,6 +1771,100 @@
           "name": "Text",
           "pass": true,
           "detail": "No heading to compare."
+        }
+      ]
+    },
+    {
+      "path": "/careers/",
+      "id": "careers",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Careers - Titanium Industries"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "At Titanium Industries, we foster a culture that values collaboration, innovation, and inclusivity. Here, you're not just an employee; you'r"
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/careers/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Careers - Titanium Industries"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "At Titanium Industries, we foster a culture that values collaboration, innovation, and inclusivity. Here, you're not just an employee; you'r"
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "0 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "6 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Open Positions at Titanium Industries"
+        }
+      ]
+    },
+    {
+      "path": "/titanium-about-us/terms-conditions/",
+      "id": "titanium-about-us--terms-conditions",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Terms and Conditions of Sale and Delivery | Titanium Industries | Reliable Service"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "Terms and Conditions of Sale and Delivery can be found here. For any questions, please contact us today."
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/titanium-about-us/terms-conditions/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Terms and Conditions of Sale and Delivery | Titanium Industries | Reliable Service"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "Terms and Conditions of Sale and Delivery can be found here. For any questions, please contact us today."
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "13 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "5 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Terms and Conditions of Sale and Delivery"
         }
       ]
     },

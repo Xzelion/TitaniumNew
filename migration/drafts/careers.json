@@ -1,0 +1,267 @@
+{
+  "id": "careers",
+  "path": "/careers/",
+  "title": "Careers - Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Careers - Titanium Industries",
+    "description": "At Titanium Industries, we foster a culture that values collaboration, innovation, and inclusivity. Here, you're not just an employee; you're part of a",
+    "canonical": "https://titanium.com/careers/",
+    "ogTitle": "Careers - Titanium Industries",
+    "ogDescription": "At Titanium Industries, we foster a culture that values collaboration, innovation, and inclusivity. Here, you're not just an employee; you're part of a",
+    "ogImage": "https://titanium.com/wp-content/uploads/2024/02/TITANIUM.COMcAREERS.jpg"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "picture-3",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/12/1.jpg",
+              "alt": "1",
+              "href": "",
+              "wrap": "none"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "picture-8",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/12/1-2-1030x556.png",
+              "alt": "Global Alloy Distributor",
+              "href": "",
+              "wrap": "none"
+            },
+            {
+              "id": "text-9",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Culture"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "At Titanium Industries, we foster a culture that values collaboration, innovation, and inclusivity. Here, you’re not just an employee; you’re part of a dynamic team where your ideas are heard, diversity is celebrated, and every contribution is acknowledged."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "picture-10",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/12/2-1030x556.png",
+              "alt": "Global alloy distributor",
+              "href": "",
+              "wrap": "none"
+            },
+            {
+              "id": "text-11",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Growth"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "In a rapidly evolving industry, Titanium Industries offers a platform for continuous learning and professional development. Whether you’re starting your career or bringing years of experience, we provide the tools, resources, and mentorship to help you grow."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "picture-12",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2024/03/careerpage-1030x556.png",
+              "alt": "ti_Careers",
+              "href": "",
+              "wrap": "none"
+            },
+            {
+              "id": "text-13",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Benefits"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Your well-being matters to us. That’s why Titanium Industries provides a comprehensive benefits package designed to support you and your family. From competitive healthcare plans to retirement savings options, we prioritize your financial and physical wellness."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-14",
+      "preset": "custom",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-15",
+          "items": [
+            {
+              "id": "picture-17",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/12/Untitled-design-3-824x1030.jpg",
+              "alt": "Titanium Team",
+              "href": "",
+              "wrap": "none"
+            }
+          ],
+          "width": "two-fifths"
+        },
+        {
+          "id": "column-16",
+          "items": [
+            {
+              "id": "picture-18",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/12/TI-Logo-Full-Digital-TBackground-1-1030x173.png",
+              "alt": "Titanium Industries Specialty Metal supplier",
+              "href": "",
+              "wrap": "none"
+            },
+            {
+              "id": "text-19",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Discover a workplace where culture, growth, and benefits come together seamlessly."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "At Titanium Industries, we’re not just offering jobs; we’re inviting you to be part of a community that values your skills and aspirations."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Take the next step in your career journey. Apply now and unlock a world of opportunities with Titanium Industries."
+                }
+              ]
+            }
+          ],
+          "width": "half"
+        }
+      ]
+    },
+    {
+      "id": "row-20",
+      "preset": "full",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-21",
+          "items": [
+            {
+              "id": "text-22",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Open Positions at Titanium Industries"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Keywords"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Location"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Category"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Any category"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Administrative"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Sales"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Warehouse"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Full Time"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Part Time"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Temporary"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Your browser does not support JavaScript, or it is disabled. JavaScript must be enabled in order to view listings."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Load more listings"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/careers/",
+    "sourceHash": "97c3caf56ae789149e8c86ccbc6282c8204f5dc5c64977e4f67a6e09d61bc844",
+    "converterVersion": "2",
+    "converterFamily": "custom-column-widths",
+    "families": [
+      "custom-column-widths"
+    ],
+    "convertedAt": "2026-09-24T21:10:43.998Z",
+    "grid": "full | thirds | custom(two-fifths+half) | full",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/careers/ (private, noindex) beside https://titanium.com/careers/. Check the grid (full, thirds, custom(two-fifths+half), full), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

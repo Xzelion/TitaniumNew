@@ -246,7 +246,18 @@ export function toPageDocument(parsed: ParsedPage, now: string): PageDocument {
 function verifyNote(path: string, parsed: ParsedPage): string {
   const preview = `/preview${path}`
   const live = parsed.seo.canonical || `https://titanium.com${path}`
-  return `Open ${preview} (private, noindex) beside ${live}. Check the grid (${parsed.rows.map((row) => rowGridLabel(row)).join(', ')}), pictures, buttons, and the search title. Saving in Payload does not change the public site.`
+  const grid = parsed.rows.map((row) => rowGridLabel(row)).join(', ')
+  const survey = parsed.rows.some((row) =>
+    row.columns.some((column) =>
+      column.items.some(
+        (item) => item.kind === 'button' && item.href.includes('customer-satisfaction-survey'),
+      ),
+    ),
+  )
+  const surveyNote = survey
+    ? ' The Customer Satisfaction Survey button sits in the three-fifths column (36.4% / 6% / 57.6%) and links to https://titanium.com/customer-satisfaction-survey/.'
+    : ''
+  return `Open ${preview} (private, noindex) beside ${live}. Check the grid (${grid}), pictures, buttons, and the search title.${surveyNote} Saving in Payload does not change the public site.`
 }
 
 function pathFromCanonical(canonical: string): string {

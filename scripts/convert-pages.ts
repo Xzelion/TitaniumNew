@@ -53,6 +53,8 @@ const pages = [
   { file: 'message-from-the-president.html', name: 'president' },
   { file: 'global-locations.html', name: 'global-locations' },
   { file: 'scrap-reclamation-2.html', name: 'scrap-reclamation-2' },
+  { file: 'careers.html', name: 'careers' },
+  { file: 'titanium-about-us--terms-conditions.html', name: 'terms-conditions' },
   // Alloy listings, grade pages, and technical-data / specification pages.
   { file: 'alloys--alloy-steels.html', name: 'alloys--alloy-steels' },
   { file: 'alloys--nickel-alloys.html', name: 'alloys--nickel-alloys' },
