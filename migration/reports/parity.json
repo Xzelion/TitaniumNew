@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T20:16:48.815Z",
+  "generatedAt": "2026-09-24T20:31:33.898Z",
   "pages": [
     {
       "path": "/quality-systems/",
@@ -81,12 +81,12 @@
         {
           "name": "Links",
           "pass": true,
-          "detail": "5 links kept."
+          "detail": "12 links kept."
         },
         {
           "name": "Media",
           "pass": true,
-          "detail": "7 pictures kept."
+          "detail": "14 pictures kept."
         },
         {
           "name": "Text",
@@ -94,9 +94,9 @@
           "detail": "Heading kept: T.I. Oil and Gas | Specialty Metals"
         },
         {
-          "name": "Product grid locked",
+          "name": "Oil & Gas picture cards",
           "pass": true,
-          "detail": "This product grid is a WordPress query, not a fixed column layout."
+          "detail": "7 picture cards from the portfolio export."
         }
       ]
     },
@@ -1369,7 +1369,7 @@
         {
           "name": "Media",
           "pass": true,
-          "detail": "0 pictures kept."
+          "detail": "5 pictures kept."
         },
         {
           "name": "Text",
@@ -1422,6 +1422,308 @@
           "name": "Text",
           "pass": true,
           "detail": "Heading kept: Privacy Policy | Titanium Industries"
+        }
+      ]
+    },
+    {
+      "path": "/contact-us/",
+      "id": "contact-us",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Contact Us | Titanium Industries Locations and Contact Information"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "Please find Titanium Industries global sales and service center locations here. All contact information is available here. Contact Us Today!"
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/contact-us/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Contact Us | Titanium Industries Locations and Contact Information"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "Please find Titanium Industries global sales and service center locations here. All contact information is available here. Contact Us Today!"
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "0 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "0 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: North America"
+        },
+        {
+          "name": "Protected form locked",
+          "pass": true,
+          "detail": "Form fields, notifications, and captcha live in WordPress. This draft does not submit the form."
+        }
+      ]
+    },
+    {
+      "path": "/rfq/",
+      "id": "rfq",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Request for Quote [RFQ] Submission | Titanium Industries"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "Titanium Industries' RFQ Request for Quote submission tool is quick and easy. Looking for pricing on Titanium Round Bar, Titanium Plate, Pip"
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/rfq/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Request for Quote [RFQ] Submission | Titanium Industries"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "Titanium Industries' RFQ Request for Quote submission tool is quick and easy. Looking for pricing on Titanium Round Bar, Titanium Plate, Pip"
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "1 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "3 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: RFQ Submission | Titanium Industries"
+        },
+        {
+          "name": "Protected form locked",
+          "pass": true,
+          "detail": "Form fields, notifications, and captcha live in WordPress. This draft does not submit the form."
+        }
+      ]
+    },
+    {
+      "path": "/titanium-about-us/history-of-titanium-industries/",
+      "id": "titanium-about-us--history-of-titanium-industries",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Discover the History of Titanium Industries | About Us | #1 Top Global Leader in Specialty Metals Distribution"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "Titanium Industries Inc. (T.I.), founded in 1972 at the forefront of the commercialization and industrialization of titanium and its alloys."
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/titanium-about-us/history-of-titanium-industries/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Discover the History of Titanium Industries | About Us | #1 Top Global Leader in Specialty Metals Distribution"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "Titanium Industries Inc. (T.I.), founded in 1972 at the forefront of the commercialization and industrialization of titanium and its alloys."
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "3 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "0 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: History of Titanium Industries (T.I.)"
+        }
+      ]
+    },
+    {
+      "path": "/titanium-about-us/mission-statement/",
+      "id": "titanium-about-us--mission-statement",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "View Titanium Industries Mission Statement | Contact Titanium Industries for Excellent Services"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "Titanium Industries Mission Statement | Titanium Industries is committed to being the global market leader in the supply of Titanium and oth"
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/titanium-about-us/mission-statement/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "View Titanium Industries Mission Statement | Contact Titanium Industries for Excellent Services"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "Titanium Industries Mission Statement | Titanium Industries is committed to being the global market leader in the supply of Titanium and oth"
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "2 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "0 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Titanium Industries | Mission Statement"
+        }
+      ]
+    },
+    {
+      "path": "/titanium-about-us/message-from-the-president/",
+      "id": "titanium-about-us--message-from-the-president",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Here is a Message From Titanium Industries President | Brett Paddock"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "Message From Titanium Industries President | Brett Paddock. Titanium Industries is the global leader in specialty metals supply solutions."
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/titanium-about-us/message-from-the-president/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Here is a Message From Titanium Industries President | Brett Paddock"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "Message From Titanium Industries President | Brett Paddock. Titanium Industries is the global leader in specialty metals supply solutions."
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "0 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "2 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Titanium Industries Message from the President"
+        }
+      ]
+    },
+    {
+      "path": "/titanium-industries-global-metal-supplier-locations/",
+      "id": "titanium-industries-global-metal-supplier-locations",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Titanium Industries | #1 Best Global Metal Supplier | Locations"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "Discover the top industry-leading global metal supplier, Titanium Industries Inc. Enhance your business with top-quality materials and excep"
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/titanium-industries-global-metal-supplier-locations/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Titanium Industries | #1 Best Global Metal Supplier | Locations"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "Discover the top industry-leading global metal supplier, Titanium Industries Inc. Enhance your business with top-quality materials and excep"
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "3 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "5 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: North America"
+        },
+        {
+          "name": "News slider locked",
+          "pass": true,
+          "detail": "This news slider is a WordPress post query. The posts were not copied into the draft."
+        },
+        {
+          "name": "Protected form locked",
+          "pass": true,
+          "detail": "Form fields, notifications, and captcha live in WordPress. This draft does not submit the form."
         }
       ]
     }

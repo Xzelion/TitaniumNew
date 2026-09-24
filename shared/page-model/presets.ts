@@ -168,6 +168,29 @@ export const PRESETS: Record<RowPreset, PresetDefinition> = {
       { label: 'Second quarter', widthPercent: quarter, marginLeftPercent: 6 },
     ],
   },
+  quarters: {
+    id: 'quarters',
+    label: 'Four quarters',
+    description: 'Four columns at the live quarter width (20.5%), with the 6% gap.',
+    bars: [1, 1, 1, 1],
+    columns: [
+      { label: 'First quarter', widthPercent: quarter, marginLeftPercent: 0 },
+      { label: 'Second quarter', widthPercent: quarter, marginLeftPercent: 6 },
+      { label: 'Third quarter', widthPercent: quarter, marginLeftPercent: 6 },
+      { label: 'Fourth quarter', widthPercent: quarter, marginLeftPercent: 6 },
+    ],
+  },
+  'quarter-trio': {
+    id: 'quarter-trio',
+    label: 'Three quarter-width cards',
+    description: 'Three columns at the live quarter width (20.5%). They stay the same width as a four-across row. They do not stretch into thirds.',
+    bars: [1, 1, 1],
+    columns: [
+      { label: 'First quarter', widthPercent: quarter, marginLeftPercent: 0 },
+      { label: 'Second quarter', widthPercent: quarter, marginLeftPercent: 6 },
+      { label: 'Third quarter', widthPercent: quarter, marginLeftPercent: 6 },
+    ],
+  },
 }
 
 export const PRESET_LIST: PresetDefinition[] = ROW_PRESET_ORDER()
@@ -192,6 +215,8 @@ function ROW_PRESET_ORDER(): PresetDefinition[] {
     PRESETS['lead-four-fifths'],
     PRESETS['wide-fifths'],
     PRESETS['half-quarters'],
+    PRESETS.quarters,
+    PRESETS['quarter-trio'],
   ]
 }
 

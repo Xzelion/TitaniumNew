@@ -193,21 +193,88 @@
           ]
         }
       ]
+    },
+    {
+      "id": "row-14",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-15",
+          "items": [
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Follow us on Social Media:"
+                }
+              ]
+            },
+            {
+              "id": "picture-17",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
+              "alt": "Titanium Industries | Instagram",
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-18",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
+              "alt": "Titanium Industries | LinkedIn",
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-19",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
+              "alt": "Titanium Industries | Twitter",
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-20",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
+              "alt": "Titanium Industries | Facebook",
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-21",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
+              "alt": "Titanium Industries | Youtube",
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
+            }
+          ]
+        }
+      ]
     }
   ],
   "publishedVersion": null,
   "provenance": {
     "sourceUrl": "https://titanium.com/frequently-asked-questions/",
-    "sourceHash": "8b0b8902e6e47f52b065903af40f0b81c79ed3f4c46e10603a45f97279238aba",
+    "sourceHash": "0c58a530e03218bcff45a3546c1264e6a71a069c799fdd132b8b51e9a7066636",
     "converterVersion": "2",
     "converterFamily": "equal-3-cta",
     "families": [
       "equal-3-cta"
     ],
-    "convertedAt": "2026-09-24T20:16:48.815Z",
-    "grid": "full | thirds | lead-two-thirds",
+    "convertedAt": "2026-09-24T20:30:22.163Z",
+    "grid": "full | thirds | lead-two-thirds | full",
     "remainingSourceOnly": [],
-    "verify": "Open /preview/frequently-asked-questions/ (private, noindex) beside https://titanium.com/frequently-asked-questions/. Check the grid (full, thirds, lead-two-thirds), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+    "verify": "Open /preview/frequently-asked-questions/ (private, noindex) beside https://titanium.com/frequently-asked-questions/. Check the grid (full, thirds, lead-two-thirds, full), pictures, buttons, and the search title. Saving in Payload does not change the public site."
   },
   "siteVisibility": "private_draft",
   "editedByHuman": false

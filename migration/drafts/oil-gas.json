@@ -229,7 +229,7 @@
           "id": "column-26",
           "items": [
             {
-              "id": "text-28",
+              "id": "text-27",
               "kind": "text",
               "blocks": [
                 {
@@ -242,29 +242,205 @@
           ]
         }
       ]
+    },
+    {
+      "id": "row-28",
+      "preset": "quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-29",
+          "items": [
+            {
+              "id": "picture-33",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Round_Bar_Hi.jpg",
+              "alt": "Round Bar",
+              "href": "https://titanium.com/metalproducts/round-bar/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-34",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Round Bar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-30",
+          "items": [
+            {
+              "id": "picture-35",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Plate_Low.jpg",
+              "alt": "Plate",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-plate",
+              "wrap": "none"
+            },
+            {
+              "id": "text-36",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Plate"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-31",
+          "items": [
+            {
+              "id": "picture-37",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Sheet_Metal_Low.jpg",
+              "alt": "Sheet",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-sheet",
+              "wrap": "none"
+            },
+            {
+              "id": "text-38",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Sheet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-32",
+          "items": [
+            {
+              "id": "picture-39",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Tube_Low-1.jpg",
+              "alt": "Seamless Tube",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-seamless-tube",
+              "wrap": "none"
+            },
+            {
+              "id": "text-40",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Seamless Tube"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-41",
+      "preset": "quarter-trio",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-42",
+          "items": [
+            {
+              "id": "picture-45",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Pipe_Low.jpg",
+              "alt": "Seamless Pipe",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-seamless-pipe",
+              "wrap": "none"
+            },
+            {
+              "id": "text-46",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Seamless Pipe"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-43",
+          "items": [
+            {
+              "id": "picture-47",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Billet_Low-1.jpg",
+              "alt": "Billet",
+              "href": "https://titanium.com/metalproducts/billet/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-48",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Billet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-44",
+          "items": [
+            {
+              "id": "picture-49",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Coil_Hi.jpg",
+              "alt": "Coil",
+              "href": "https://titanium.com/metalproducts/coil/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-50",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Coil"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "publishedVersion": null,
   "provenance": {
     "sourceUrl": "https://titanium.com/oil-gas/",
-    "sourceHash": "7745e563ae703b10faa363e68ffd8402416a1451f49eaeaf563d70b87c98d3fd",
+    "sourceHash": "eaec43856127a43867370c61dd6c658f831c709bf52643f8ebdb52ebbb4fe38c",
     "converterVersion": "2",
     "converterFamily": "intro-two-one-linecard",
     "families": [
       "equal-3-cta",
       "intro-two-one-linecard",
-      "portfolio-grid-blocked"
+      "portfolio-picture-cards"
     ],
-    "convertedAt": "2026-09-24T20:10:41.852Z",
-    "grid": "lead-three-fifths | thirds | two-one | full",
-    "remainingSourceOnly": [
-      {
-        "id": "source-27",
-        "label": "Product grid",
-        "reason": "This product grid is a WordPress query, not a fixed column layout."
-      }
-    ],
-    "verify": "Open /preview/oil-gas/ (private, noindex) beside https://titanium.com/oil-gas/. Check the grid (lead-three-fifths, thirds, two-one, full), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+    "convertedAt": "2026-09-24T20:26:53.127Z",
+    "grid": "lead-three-fifths | thirds | two-one | full | quarters | quarter-trio",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/oil-gas/ (private, noindex) beside https://titanium.com/oil-gas/. Check the grid (lead-three-fifths, thirds, two-one, full, quarters, quarter-trio), pictures, buttons, and the search title. Saving in Payload does not change the public site."
   },
   "siteVisibility": "private_draft",
   "editedByHuman": false

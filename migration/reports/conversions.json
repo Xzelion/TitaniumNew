@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T20:16:48.815Z",
+  "generatedAt": "2026-09-24T20:31:33.898Z",
   "sitemap": {
     "capturedInRepoBeforeThisChange": 0,
     "publicSitemapUrls": 404
@@ -25,22 +25,16 @@
       "id": "oil-gas",
       "action": "skip",
       "reason": "Source hash is unchanged.",
-      "grid": "lead-three-fifths | thirds | two-one | full",
+      "grid": "lead-three-fifths | thirds | two-one | full | quarters | quarter-trio",
       "families": [
         "equal-3-cta",
         "intro-two-one-linecard",
-        "portfolio-grid-blocked"
+        "portfolio-picture-cards"
       ],
       "converterFamily": "intro-two-one-linecard",
-      "remainingSourceOnly": [
-        {
-          "id": "source-27",
-          "label": "Product grid",
-          "reason": "This product grid is a WordPress query, not a fixed column layout."
-        }
-      ],
-      "verify": "Open /preview/oil-gas/ (private, noindex) beside https://titanium.com/oil-gas/. Check the grid (lead-three-fifths, thirds, two-one, full), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
-      "sourceHash": "7745e563ae703b10faa363e68ffd8402416a1451f49eaeaf563d70b87c98d3fd"
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/oil-gas/ (private, noindex) beside https://titanium.com/oil-gas/. Check the grid (lead-three-fifths, thirds, two-one, full, quarters, quarter-trio), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "eaec43856127a43867370c61dd6c658f831c709bf52643f8ebdb52ebbb4fe38c"
     },
     {
       "path": "/markets/fastener-alloys/",
@@ -106,8 +100,8 @@
     {
       "path": "/markets/additive-manufacturing-build-plates/",
       "id": "markets--additive-manufacturing-build-plates",
-      "action": "write",
-      "reason": "Source changed and nobody has edited the draft, so it was rebuilt.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "lead-three-fifths | thirds | two-one",
       "families": [
         "equal-3-cta",
@@ -354,8 +348,8 @@
     {
       "path": "/markets/defense/",
       "id": "markets--defense",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "lead-three-fifths | thirds | two-one | wide-fifths | quality-split | wide-fifths | quality-split | wide-fifths",
       "families": [
         "equal-3-cta",
@@ -377,8 +371,8 @@
     {
       "path": "/markets/industrial/",
       "id": "markets--industrial",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "lead-two-thirds | thirds | half-quarters | float-wrap | float-wrap | float-wrap | float-wrap | float-wrap | float-wrap | float-wrap | float-wrap",
       "families": [
         "equal-3-cta",
@@ -392,8 +386,8 @@
     {
       "path": "/markets/consumer-products/",
       "id": "markets--consumer-products",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "lead-four-fifths | thirds | three-one | float-wrap | float-wrap | float-wrap",
       "families": [
         "equal-3-cta",
@@ -415,8 +409,8 @@
     {
       "path": "/giving-back/",
       "id": "giving-back",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | wide-fifths | quality-split | wide-fifths | quality-split",
       "families": [
         "quality-split"
@@ -429,8 +423,8 @@
     {
       "path": "/titanium-about-us/",
       "id": "titanium-about-us",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "lead-four-fifths | thirds | full",
       "families": [
         "equal-3-cta"
@@ -443,22 +437,22 @@
     {
       "path": "/frequently-asked-questions/",
       "id": "frequently-asked-questions",
-      "action": "write",
-      "reason": "New private draft.",
-      "grid": "full | thirds | lead-two-thirds",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
+      "grid": "full | thirds | lead-two-thirds | full",
       "families": [
         "equal-3-cta"
       ],
       "converterFamily": "equal-3-cta",
       "remainingSourceOnly": [],
-      "verify": "Open /preview/frequently-asked-questions/ (private, noindex) beside https://titanium.com/frequently-asked-questions/. Check the grid (full, thirds, lead-two-thirds), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
-      "sourceHash": "8b0b8902e6e47f52b065903af40f0b81c79ed3f4c46e10603a45f97279238aba"
+      "verify": "Open /preview/frequently-asked-questions/ (private, noindex) beside https://titanium.com/frequently-asked-questions/. Check the grid (full, thirds, lead-two-thirds, full), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "0c58a530e03218bcff45a3546c1264e6a71a069c799fdd132b8b51e9a7066636"
     },
     {
       "path": "/privacy-policy/",
       "id": "privacy-policy",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | two-one",
       "families": [
         "unclassified"
@@ -467,6 +461,115 @@
       "remainingSourceOnly": [],
       "verify": "Open /preview/privacy-policy/ (private, noindex) beside https://titanium.com/privacy-policy/. Check the grid (full, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
       "sourceHash": "7e1f214a2b9baee3d5681bf6be88521c37876b1598ac3ce1c7e2e46b48318935"
+    },
+    {
+      "path": "/contact-us/",
+      "id": "contact-us",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
+      "grid": "lead-three-fifths | full | full | thirds",
+      "families": [
+        "protected-form-blocked"
+      ],
+      "converterFamily": "protected-form-blocked",
+      "remainingSourceOnly": [
+        {
+          "id": "source-16",
+          "label": "Gravity Form",
+          "reason": "Form fields, notifications, and captcha live in WordPress. This draft does not submit the form."
+        }
+      ],
+      "verify": "Open /preview/contact-us/ (private, noindex) beside https://titanium.com/contact-us/. Check the grid (lead-three-fifths, full, full, thirds), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "b302a1e9499e67fbc45f267e3bffbcae6c38011068e5725153d1826064f85951"
+    },
+    {
+      "path": "/rfq/",
+      "id": "rfq",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
+      "grid": "full | full | halves",
+      "families": [
+        "protected-form-blocked"
+      ],
+      "converterFamily": "protected-form-blocked",
+      "remainingSourceOnly": [
+        {
+          "id": "source-10",
+          "label": "Gravity Form",
+          "reason": "Form fields, notifications, and captcha live in WordPress. This draft does not submit the form."
+        }
+      ],
+      "verify": "Open /preview/rfq/ (private, noindex) beside https://titanium.com/rfq/. Check the grid (full, full, halves), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "d144fffe0585ca65fe53a72453785817add2a980220ff70fcff5a6f528f6ea4a"
+    },
+    {
+      "path": "/titanium-about-us/history-of-titanium-industries/",
+      "id": "titanium-about-us--history-of-titanium-industries",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
+      "grid": "full | thirds | full",
+      "families": [
+        "equal-3-cta"
+      ],
+      "converterFamily": "equal-3-cta",
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/titanium-about-us/history-of-titanium-industries/ (private, noindex) beside https://titanium.com/titanium-about-us/history-of-titanium-industries/. Check the grid (full, thirds, full), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "21b17a8abdd01bcfbbe90275094257806fabd030ea70108c4f7595e2919f0105"
+    },
+    {
+      "path": "/titanium-about-us/mission-statement/",
+      "id": "titanium-about-us--mission-statement",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
+      "grid": "lead-four-fifths | thirds | full",
+      "families": [
+        "unclassified"
+      ],
+      "converterFamily": "unclassified",
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/titanium-about-us/mission-statement/ (private, noindex) beside https://titanium.com/titanium-about-us/mission-statement/. Check the grid (lead-four-fifths, thirds, full), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "4588cc38f1cb62eb6e5f9c0245e562398b46c2dc89b134c2b6f416736e55cc29"
+    },
+    {
+      "path": "/titanium-about-us/message-from-the-president/",
+      "id": "titanium-about-us--message-from-the-president",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
+      "grid": "full",
+      "families": [
+        "unclassified"
+      ],
+      "converterFamily": "unclassified",
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/titanium-about-us/message-from-the-president/ (private, noindex) beside https://titanium.com/titanium-about-us/message-from-the-president/. Check the grid (full), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "d261abd6264a9b6dd0e183d981887cfa1bfa0c2dba7b19cbab88d23ab38eb354"
+    },
+    {
+      "path": "/titanium-industries-global-metal-supplier-locations/",
+      "id": "titanium-industries-global-metal-supplier-locations",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
+      "grid": "full | full | halves | thirds | thirds | full | lead-three-fifths | full | full | thirds",
+      "families": [
+        "equal-3-cta",
+        "protected-form-blocked",
+        "news-slider-blocked"
+      ],
+      "converterFamily": "equal-3-cta",
+      "remainingSourceOnly": [
+        {
+          "id": "source-44",
+          "label": "Gravity Form",
+          "reason": "Form fields, notifications, and captcha live in WordPress. This draft does not submit the form."
+        },
+        {
+          "id": "source-47",
+          "label": "News slider",
+          "reason": "This news slider is a WordPress post query. The posts were not copied into the draft."
+        }
+      ],
+      "verify": "Open /preview/titanium-industries-global-metal-supplier-locations/ (private, noindex) beside https://titanium.com/titanium-industries-global-metal-supplier-locations/. Check the grid (full, full, halves, thirds, thirds, full, lead-three-fifths, full, full, thirds), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "ed3d29cea8a53f14170789027feea31c360f7301ac491998f5840caac6172514"
     }
   ]
 }

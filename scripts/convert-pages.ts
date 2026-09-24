@@ -3,6 +3,7 @@ import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { parityChecks } from '../shared/convert/parity'
 import { parseAviaHtml, toPageDocument } from '../shared/convert/parse-avia'
+import { oilGasCardsFromWxr, type PortfolioCard } from '../shared/convert/portfolio-wxr'
 import { formNoteFromModel, modelGravityFormExport, type KnownFormNote } from '../shared/forms/gravity-form'
 import { gateConversion } from '../shared/page-model/hash-gate'
 import { roundTripPageDocument } from '../shared/page-model/schema'
@@ -45,6 +46,12 @@ const pages = [
   { file: 'titanium-about-us.html', name: 'about' },
   { file: 'frequently-asked-questions.html', name: 'faq' },
   { file: 'privacy-policy.html', name: 'privacy' },
+  { file: 'contact-us.html', name: 'contact-us' },
+  { file: 'rfq.html', name: 'rfq' },
+  { file: 'history.html', name: 'history' },
+  { file: 'mission-statement.html', name: 'mission' },
+  { file: 'message-from-the-president.html', name: 'president' },
+  { file: 'global-locations.html', name: 'global-locations' },
 ]
 
 mkdirSync(draftDir, { recursive: true })
@@ -53,6 +60,14 @@ const formDir = path.join(root, 'migration/forms')
 mkdirSync(formDir, { recursive: true })
 
 const knownForms: KnownFormNote[] = []
+let portfolioCards: PortfolioCard[] | null = null
+const portfolioPath = path.join(rawDir, 'oil-gas-portfolio.xml')
+if (existsSync(portfolioPath)) {
+  portfolioCards = oilGasCardsFromWxr(readFileSync(portfolioPath, 'utf8'))
+  const portfolioDir = path.join(root, 'migration/portfolio')
+  mkdirSync(portfolioDir, { recursive: true })
+  writeFileSync(path.join(portfolioDir, 'oil-gas-cards.json'), `${JSON.stringify(portfolioCards, null, 2)}\n`)
+}
 const formExportPath = path.join(rawDir, 'gravity-form-20.json')
 if (existsSync(formExportPath)) {
   const model = modelGravityFormExport(JSON.parse(readFileSync(formExportPath, 'utf8')), 20)
@@ -73,7 +88,7 @@ for (const page of pages) {
   }
   const html = readFileSync(htmlPath, 'utf8')
   const ids = createIdFactory()
-  const parsed = parseAviaHtml(html, ids, knownForms)
+  const parsed = parseAviaHtml(html, ids, knownForms, portfolioCards)
   const incoming = roundTripPageDocument(toPageDocument(parsed, now))
   const draftPath = path.join(draftDir, `${incoming.id}.json`)
   const existing = existsSync(draftPath) ? JSON.parse(readFileSync(draftPath, 'utf8')) : null

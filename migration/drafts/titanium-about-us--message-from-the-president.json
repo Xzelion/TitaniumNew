@@ -1,0 +1,97 @@
+{
+  "id": "titanium-about-us--message-from-the-president",
+  "path": "/titanium-about-us/message-from-the-president/",
+  "title": "Here is a Message From Titanium Industries President | Brett Paddock",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Here is a Message From Titanium Industries President | Brett Paddock",
+    "description": "Message From Titanium Industries President | Brett Paddock. Titanium Industries is the global leader in specialty metals supply solutions.",
+    "canonical": "https://titanium.com/titanium-about-us/message-from-the-president/",
+    "ogTitle": "Here is a Message From Titanium Industries President | Brett Paddock",
+    "ogDescription": "Message From Titanium Industries President | Brett Paddock. Titanium Industries is the global leader in specialty metals supply solutions.",
+    "ogImage": "https://titanium.com/wp-content/uploads/2023/08/Head-Shots-300-×-300-px-6.jpg"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Titanium Industries Message from the President"
+                }
+              ]
+            },
+            {
+              "id": "picture-4",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/08/Head-Shots-300-%C3%97-300-px-6.jpg",
+              "alt": "Our President | Brett Paddock",
+              "href": "",
+              "wrap": "none"
+            },
+            {
+              "id": "text-5",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Industries is the global leader in specialty metals supply solutions for the aerospace, medical, industrial and oil and gas markets. We are the largest independent distributor of specialty metals including titanium stocked throughout our global service center network. Since establishment in 1972, our business has steadily expanded into most markets, customers, products and geographies. We consider our company to have the capabilities and sophistication of a large multinational entity, as well as the responsiveness and creativity of a smaller family business…and we hope you agree."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The key to the success of our company is our people. They are smart, energetic, experienced and customer service-centric. Most importantly, our award winning people are responsible for providing our customers with industry leading quality products, service, best value, and reliability. Our collective commitment to uphold these characteristics is unwavering. The products we supply end up as knee replacements, aircraft components, and critical off shore oil equipment where quality is not an option, but an absolute necessity."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "We are fortunate and privileged to be the proprietor of the titanium.com domain. This is not only an important marketing tool for our company, it also supports our leadership in the industry, which is a responsibility we take seriously. We strive to provide industry leading, meaningful information on this website, including news feeds, public commodity trends, technical information, weight calculators, product information, and more."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thank you for visiting our website. Please come back soon and let us know how we can assist you."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Sincerely,"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Brett S. Paddock"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "President & CEO"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/titanium-about-us/message-from-the-president/",
+    "sourceHash": "d261abd6264a9b6dd0e183d981887cfa1bfa0c2dba7b19cbab88d23ab38eb354",
+    "converterVersion": "2",
+    "converterFamily": "unclassified",
+    "families": [
+      "unclassified"
+    ],
+    "convertedAt": "2026-09-24T20:30:22.163Z",
+    "grid": "full",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/titanium-about-us/message-from-the-president/ (private, noindex) beside https://titanium.com/titanium-about-us/message-from-the-president/. Check the grid (full), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

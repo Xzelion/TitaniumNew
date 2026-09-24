@@ -20,6 +20,8 @@ export const ROW_PRESETS = [
   'lead-four-fifths',
   'wide-fifths',
   'half-quarters',
+  'quarters',
+  'quarter-trio',
 ] as const
 
 export type RowPreset = (typeof ROW_PRESETS)[number]

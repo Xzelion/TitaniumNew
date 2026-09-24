@@ -4,6 +4,7 @@ import { hashSource } from '../page-model/hash-gate'
 import { PRESETS } from '../page-model/presets'
 import type { IdFactory } from '../page-model/workspace'
 import { createRow } from '../page-model/workspace'
+import type { PortfolioCard } from './portfolio-wxr'
 import type {
   ColumnItem,
   PageDocument,
@@ -43,23 +44,61 @@ export interface ParsedPage {
   heading: string
   imageUrls: string[]
   linkHrefs: string[]
+  portfolioCards: PortfolioCard[]
 }
 
-export function parseAviaHtml(html: string, ids: IdFactory, knownForms: KnownFormNote[] = []): ParsedPage {
+interface ConvertState {
+  portfolioCards: PortfolioCard[] | null
+  portfolioApplied: boolean
+}
+
+export function parseAviaHtml(
+  html: string,
+  ids: IdFactory,
+  knownForms: KnownFormNote[] = [],
+  portfolioCards: PortfolioCard[] | null = null,
+): ParsedPage {
   const root = parse(html)
   const seo = readSeo(root, html)
   const styleText = root.querySelectorAll('style').map((node) => node.text).join('\n')
   const waterjetCss = isWaterjetCss(styleText)
   const sourceOnly: SourceOnlyRegion[] = []
+  const oilGasCards = pathFromCanonical(seo.canonical) === '/oil-gas/' ? portfolioCards : null
+  const state: ConvertState = { portfolioCards: oilGasCards, portfolioApplied: false }
   const columns = root.querySelectorAll('.flex_column_div').filter((node) => {
     const cls = node.getAttribute('class') ?? ''
     return cls.includes('flex_column_div') && !cls.includes('grid-entry') && !inChrome(node) && !insideAnotherColumn(node)
   })
-  if (columns.length === 0) throw new Error('No entry content on this page')
+  const story = columns.length === 0 ? root.querySelector('.post-entry .entry-content-wrapper') : null
+  if (columns.length === 0 && (!story || inChrome(story))) throw new Error('No entry content on this page')
   const groups = groupRows(columns)
-  let rows = groups
-    .map((group) => rowFromColumns(group, ids, sourceOnly))
-    .filter((row): row is Row => row !== null)
+  const looseBlocks = root.querySelectorAll('.av_textblock_section').filter((node) => !insideLockedRegion(node))
+  const ordered: Array<{ pos: number; columns?: HTMLElement[]; storyNode?: HTMLElement }> = [
+    ...groups.map((group) => ({ pos: sourceStart(group[0]), columns: group })),
+    ...looseBlocks.map((node) => ({ pos: sourceStart(node), storyNode: node })),
+  ].sort((left, right) => left.pos - right.pos)
+  let rows: Row[] = []
+  for (const block of ordered) {
+    if (block.columns) {
+      const before = state.portfolioApplied
+      const row = rowFromColumns(block.columns, ids, sourceOnly, state)
+      if (row) rows.push(row)
+      if (!before && state.portfolioApplied && state.portfolioCards) rows.push(...portfolioCardRows(state.portfolioCards, ids))
+      continue
+    }
+    if (!block.storyNode) continue
+    const row = createRow(ids, 'full', false)
+    const column = row.columns[0]
+    if (!column) continue
+    column.items = piecesToItems(collectPieces(block.storyNode, ids, sourceOnly, state), ids)
+    if (column.items.length > 0) rows.push(row)
+  }
+  if (rows.length === 0 && story) {
+    const row = createRow(ids, 'full', false)
+    const column = row.columns[0]
+    if (column) column.items = piecesToItems(collectPieces(story, ids, sourceOnly, state), ids)
+    rows = [row]
+  }
   if (waterjetCss) rows = rows.map((row) => applyWaterjet(row, ids))
   rows = rows.map((row) => applyMedical(row))
   const waterjet = rows.some((row) => row.preset === 'waterjet-split')
@@ -84,6 +123,17 @@ export function parseAviaHtml(html: string, ids: IdFactory, knownForms: KnownFor
       knownForm?.reason ?? 'Form fields, notifications, and captcha live in WordPress. This draft does not submit the form.',
     )
   }
+  const newsSlider = [...root.querySelectorAll('.avia-content-slider'), ...root.querySelectorAll('.slide-entry')].find(
+    (node) => !inChrome(node),
+  )
+  if (newsSlider) {
+    pushSource(
+      sourceOnly,
+      ids,
+      'News slider',
+      'This news slider is a WordPress post query. The posts were not copied into the draft.',
+    )
+  }
   const cardGrid = [...root.querySelectorAll('.home-markets'), ...root.querySelectorAll('.home-processing')].find(
     (node) => !inChrome(node),
   )
@@ -95,16 +145,28 @@ export function parseAviaHtml(html: string, ids: IdFactory, knownForms: KnownFor
       'These cards are custom HTML at 24% width (four across on a desktop, full width on a phone). They are not a named column preset, so they were not stacked into one column.',
     )
   }
-  const bundle = parse(`<div class="entry-content">${columns.map((column) => column.toString()).join('')}</div>`)
+  const columnHtml = columns.map((column) => column.toString()).join('\n')
+  const looseHtml = looseBlocks.map((node) => node.toString()).join('\n')
+  const storyHtml = story ? story.toString() : ''
+  const bundle = parse(`<div class="entry-content">${columnHtml}\n${looseHtml}\n${columnHtml ? '' : storyHtml}</div>`)
   const entry = bundle.querySelector('.entry-content')
   if (!entry) throw new Error('No entry content on this page')
+  const portfolioToken =
+    state.portfolioApplied && state.portfolioCards
+      ? `\noil-gas-cards:${state.portfolioCards.map((card) => card.wpId).join(',')}`
+      : ''
   const sourceHash = hashSource(
-    `${columns.map((column) => column.toString()).join('\n')}\n${waterjet ? 'waterjet-40-55-15-20' : ''}${cardGrid ? '\ncard-grid-24' : ''}${knownForm ? `\n${knownForm.hashToken}` : ''}\nconverter-${CONVERTER_VERSION}`,
+    `${columnHtml}\n${looseHtml}\n${columnHtml ? '' : storyHtml}\n${waterjet ? 'waterjet-40-55-15-20' : ''}${cardGrid ? '\ncard-grid-24' : ''}${newsSlider ? '\nnews-slider' : ''}${knownForm ? `\n${knownForm.hashToken}` : ''}${portfolioToken}\nconverter-${CONVERTER_VERSION}`,
   )
-  const families = familiesFor(rows, sourceOnly)
+  const families = familiesFor(rows, sourceOnly, state.portfolioApplied)
   const facts = collectFacts(entry)
   const imageUrls = facts.images
   const linkHrefs = facts.links
+  const appliedCards = state.portfolioApplied && state.portfolioCards ? state.portfolioCards : []
+  for (const card of appliedCards) {
+    if (card.imageUrl) imageUrls.push(card.imageUrl)
+    if (card.href) linkHrefs.push(card.href)
+  }
   return {
     seo,
     sourceHash,
@@ -117,6 +179,7 @@ export function parseAviaHtml(html: string, ids: IdFactory, knownForms: KnownFor
     heading: facts.heading,
     imageUrls,
     linkHrefs,
+    portfolioCards: appliedCards,
   }
 }
 
@@ -223,6 +286,36 @@ function isWaterjetCss(css: string): boolean {
   )
 }
 
+function sourceStart(node: HTMLElement | undefined): number {
+  const range = (node as { range?: [number, number] } | undefined)?.range
+  return range?.[0] ?? 0
+}
+
+function insideLockedRegion(node: HTMLElement): boolean {
+  if (inChrome(node)) return true
+  let current: HTMLElement | null = node
+  while (current && current.getAttribute) {
+    const cls = current.getAttribute('class') ?? ''
+    const tokens = cls.split(/\s+/)
+    if (
+      cls.includes('flex_column_div') ||
+      cls.includes('avia-content-slider') ||
+      tokens.includes('slide-entry') ||
+      cls.includes('av-hotspot') ||
+      cls.includes('gform_wrapper') ||
+      tokens.includes('home-markets') ||
+      tokens.includes('home-processing') ||
+      cls.includes('isotope-item') ||
+      cls.includes('grid-entry')
+    ) {
+      return true
+    }
+    const parent = current.parentNode
+    current = parent && 'getAttribute' in parent ? (parent as HTMLElement) : null
+  }
+  return false
+}
+
 function insideAnotherColumn(node: HTMLElement): boolean {
   let parent = node.parentNode
   while (parent && 'getAttribute' in parent) {
@@ -244,7 +337,12 @@ function groupRows(columns: HTMLElement[]): HTMLElement[][] {
   return groups
 }
 
-function rowFromColumns(columns: HTMLElement[], ids: IdFactory, sourceOnly: SourceOnlyRegion[]): Row | null {
+function rowFromColumns(
+  columns: HTMLElement[],
+  ids: IdFactory,
+  sourceOnly: SourceOnlyRegion[],
+  state: ConvertState,
+): Row | null {
   const keys = columns.map(widthKey)
   if (keys.some((key) => key === null)) {
     const shown = keys.map((key) => key ?? 'unmapped').join(' + ')
@@ -271,7 +369,7 @@ function rowFromColumns(columns: HTMLElement[], ids: IdFactory, sourceOnly: Sour
   columns.forEach((column, index) => {
     const target = row.columns[index]
     if (!target) return
-    const pieces = collectPieces(column, ids, sourceOnly)
+    const pieces = collectPieces(column, ids, sourceOnly, state)
     target.items = piecesToItems(pieces, ids)
   })
   if (columns.length > row.columns.length) {
@@ -312,6 +410,8 @@ function presetForKeys(keys: string[]): RowPreset | null {
     '4/5': 'lead-four-fifths',
     '3/5+2/5': 'wide-fifths',
     '1/2+1/4+1/4': 'half-quarters',
+    '1/4+1/4+1/4+1/4': 'quarters',
+    '1/4+1/4+1/4': 'quarter-trio',
   }
   return map[joined] ?? null
 }
@@ -329,13 +429,13 @@ interface Piece {
   reason?: string
 }
 
-function collectPieces(column: HTMLElement, ids: IdFactory, sourceOnly: SourceOnlyRegion[]): Piece[] {
+function collectPieces(column: HTMLElement, ids: IdFactory, sourceOnly: SourceOnlyRegion[], state: ConvertState): Piece[] {
   const pieces: Piece[] = []
-  walk(column, pieces, ids, sourceOnly)
+  walk(column, pieces, ids, sourceOnly, state)
   return pieces
 }
 
-function walk(node: Node, pieces: Piece[], ids: IdFactory, sourceOnly: SourceOnlyRegion[]): void {
+function walk(node: Node, pieces: Piece[], ids: IdFactory, sourceOnly: SourceOnlyRegion[], state: ConvertState): void {
   if (!isElement(node)) {
     const text = cleanText(node.text ?? '')
     if (text) pieces.push({ kind: 'paragraph', text })
@@ -345,12 +445,22 @@ function walk(node: Node, pieces: Piece[], ids: IdFactory, sourceOnly: SourceOnl
   const cls = node.getAttribute('class') ?? ''
   if (tag === 'script' || tag === 'style') return
   if (cls.includes('gform_wrapper') || (node.getAttribute('id') ?? '').startsWith('gform_wrapper')) {
-    const reason = 'Gravity Form is captcha-protected. Notifications and conditional logic need WordPress admin.'
-    pieces.push({ kind: 'source', label: 'Protected form', reason })
-    pushSource(sourceOnly, ids, 'Protected form', reason)
+    const reason = 'Form fields, notifications, and captcha live in WordPress. This draft does not submit the form.'
+    pieces.push({ kind: 'source', label: 'Gravity Form', reason })
+    pushSource(sourceOnly, ids, 'Gravity Form', reason)
+    return
+  }
+  if (cls.includes('avia-content-slider') || cls.split(/\s+/).includes('slide-entry')) {
+    const reason = 'This news slider is a WordPress post query. The posts were not copied into the draft.'
+    pieces.push({ kind: 'source', label: 'News slider', reason })
+    pushSource(sourceOnly, ids, 'News slider', reason)
     return
   }
   if (cls.includes('isotope-item') || cls.includes('grid-entry')) {
+    if (state.portfolioCards && state.portfolioCards.length > 0 && cls.split(/\s+/).includes('oil-gas_sort')) {
+      state.portfolioApplied = true
+      return
+    }
     const reason = 'This product grid is a WordPress query, not a fixed column layout.'
     pieces.push({ kind: 'source', label: 'Product grid', reason })
     pushSource(sourceOnly, ids, 'Product grid', reason)
@@ -382,13 +492,48 @@ function walk(node: Node, pieces: Piece[], ids: IdFactory, sourceOnly: SourceOnl
     }
     return
   }
-  for (const child of node.childNodes) walk(child, pieces, ids, sourceOnly)
+  for (const child of node.childNodes) walk(child, pieces, ids, sourceOnly, state)
+}
+
+function portfolioCardRows(cards: PortfolioCard[], ids: IdFactory): Row[] {
+  const rows: Row[] = []
+  for (let index = 0; index < cards.length; index += 4) {
+    const slice = cards.slice(index, index + 4)
+    const preset: RowPreset =
+      slice.length === 4 ? 'quarters' : slice.length === 3 ? 'quarter-trio' : slice.length === 2 ? 'halves' : 'full'
+    const row = createRow(ids, preset, false)
+    slice.forEach((card, columnIndex) => {
+      const column = row.columns[columnIndex]
+      if (!column) return
+      const picture: ColumnItem = {
+        id: ids.next('picture'),
+        kind: 'picture',
+        src: card.imageUrl,
+        alt: card.title,
+        href: card.href,
+        wrap: 'none',
+      }
+      const title: ColumnItem = {
+        id: ids.next('text'),
+        kind: 'text',
+        blocks: [{ type: 'heading', level: 3, text: card.title }],
+      }
+      column.items = [picture, title]
+    })
+    rows.push(row)
+  }
+  return rows
 }
 
 function pushAnchor(node: HTMLElement, pieces: Piece[]): void {
   const href = absoluteUrl(node.getAttribute('href') ?? '')
   const img = node.querySelector('img')
   const label = cleanText(node.text)
+  const isButton = (node.getAttribute('class') ?? '').includes('avia-button')
+  if (isButton && (!href || href === '#')) {
+    if (label) pieces.push({ kind: 'paragraph', text: label })
+    return
+  }
   if (img) {
     const picture = pictureFrom(img, href)
     if (picture) pieces.push(picture)
@@ -512,7 +657,7 @@ function isSocial(src: string): boolean {
   return /instagram|linkedin|twitter|facebook|youtube/i.test(src)
 }
 
-function familiesFor(rows: Row[], sourceOnly: SourceOnlyRegion[]): string[] {
+function familiesFor(rows: Row[], sourceOnly: SourceOnlyRegion[], portfolioApplied: boolean): string[] {
   const families = new Set<string>()
   if (rows.some((row) => row.preset === 'thirds' && isCtaRow(row))) families.add('equal-3-cta')
   if (rows.some((row) => row.preset === 'two-one' && hasLineCard(row))) families.add('intro-two-one-linecard')
@@ -523,7 +668,9 @@ function familiesFor(rows: Row[], sourceOnly: SourceOnlyRegion[]): string[] {
   if (sourceOnly.some((region) => region.label === 'Protected form' || region.label.startsWith('Gravity Form'))) {
     families.add('protected-form-blocked')
   }
+  if (portfolioApplied) families.add('portfolio-picture-cards')
   if (sourceOnly.some((region) => region.label === 'Product grid')) families.add('portfolio-grid-blocked')
+  if (sourceOnly.some((region) => region.label === 'News slider')) families.add('news-slider-blocked')
   if (sourceOnly.some((region) => region.label === 'Card grid')) families.add('custom-card-grid-blocked')
   if (sourceOnly.some((region) => region.label === 'Text width inside the column')) families.add('inner-width-not-split')
   if (sourceOnly.some((region) => region.label === 'Unmapped columns')) families.add('unmapped-columns')
@@ -540,7 +687,9 @@ function primaryFamily(families: string[]): string {
     'intro-three-one-linecard',
     'equal-3-cta',
     'protected-form-blocked',
+    'portfolio-picture-cards',
     'portfolio-grid-blocked',
+    'news-slider-blocked',
     'custom-card-grid-blocked',
     'inner-width-not-split',
     'unmapped-columns',
@@ -632,6 +781,8 @@ function insideSkipped(node: HTMLElement): boolean {
     if (
       cls.includes('isotope-item') ||
       cls.includes('grid-entry') ||
+      cls.includes('avia-content-slider') ||
+      cls.includes('slide-entry') ||
       cls.includes('gform_wrapper') ||
       tokens.includes('home-markets') ||
       tokens.includes('home-processing') ||

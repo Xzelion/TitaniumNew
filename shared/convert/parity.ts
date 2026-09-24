@@ -66,6 +66,24 @@ export function parityChecks(parsed: ParsedPage, page: PageDocument): ParityChec
     detail: liveText ? `Heading kept: ${liveText.slice(0, 80)}` : 'No heading to compare.',
   })
   const locked = page.provenance.remainingSourceOnly
+  if (parsed.portfolioCards.length > 0) {
+    const pictures = page.rows.flatMap((row) =>
+      row.columns.flatMap((column) => column.items.filter((item) => item.kind === 'picture')),
+    )
+    const missing = parsed.portfolioCards.filter(
+      (card) => !pictures.some((picture) => picture.src === card.imageUrl && picture.href === card.href && picture.alt === card.title),
+    )
+    const missingTitles = parsed.portfolioCards.filter((card) => !draftText.includes(card.title))
+    const stillLocked = locked.some((region) => region.label === 'Product grid')
+    checks.push({
+      name: 'Oil & Gas picture cards',
+      pass: missing.length === 0 && missingTitles.length === 0 && !stillLocked,
+      detail:
+        missing.length === 0 && missingTitles.length === 0 && !stillLocked
+          ? `${parsed.portfolioCards.length} picture cards from the portfolio export.`
+          : 'A product card from the export is missing.',
+    })
+  }
   const productGrid = locked.find((region) => region.label === 'Product grid')
   if (productGrid) {
     checks.push({ name: 'Product grid locked', pass: true, detail: productGrid.reason })
@@ -73,6 +91,10 @@ export function parityChecks(parsed: ParsedPage, page: PageDocument): ParityChec
   const cardGrid = locked.find((region) => region.label === 'Card grid')
   if (cardGrid) {
     checks.push({ name: 'Card grid locked', pass: true, detail: cardGrid.reason })
+  }
+  const news = locked.find((region) => region.label === 'News slider')
+  if (news) {
+    checks.push({ name: 'News slider locked', pass: true, detail: news.reason })
   }
   const form = locked.find((region) => region.label === 'Protected form' || region.label.startsWith('Gravity Form'))
   if (form) {
