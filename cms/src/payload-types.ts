@@ -87,8 +87,12 @@ export interface Config {
     defaultIDType: number;
   };
   fallbackLocale: null;
-  globals: {};
-  globalsSelect: {};
+  globals: {
+    'site-chrome': SiteChrome;
+  };
+  globalsSelect: {
+    'site-chrome': SiteChromeSelect<false> | SiteChromeSelect<true>;
+  };
   locale: null;
   widgets: {
     collections: CollectionsWidget;
@@ -312,6 +316,258 @@ export interface PayloadMigrationsSelect<T extends boolean = true> {
   batch?: T;
   updatedAt?: T;
   createdAt?: T;
+}
+/**
+ * Private draft of the live header, mega menu, footer, and homepage hero. Saving does not change the public website. Preview is /preview/chrome/.
+ *
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "site-chrome".
+ */
+export interface SiteChrome {
+  id: number;
+  /**
+   * This chrome stays a private draft.
+   */
+  siteVisibility?: string | null;
+  /**
+   * Hosted conversion stays off.
+   */
+  publishedToSite?: boolean | null;
+  sourceUrl?: string | null;
+  logo: {
+    src: string;
+    alt: string;
+    href: string;
+  };
+  phone: {
+    label: string;
+    href: string;
+    id?: string | null;
+  };
+  email: {
+    label: string;
+    href: string;
+    id?: string | null;
+  };
+  utilityLinks?:
+    | {
+        label: string;
+        href: string;
+        id?: string | null;
+      }[]
+    | null;
+  /**
+   * Top item, then column groups, then the links inside a group.
+   */
+  navigation?:
+    | {
+        label: string;
+        href: string;
+        groups?:
+          | {
+              label: string;
+              href: string;
+              links?:
+                | {
+                    label: string;
+                    href: string;
+                    id?: string | null;
+                  }[]
+                | null;
+              id?: string | null;
+            }[]
+          | null;
+        id?: string | null;
+      }[]
+    | null;
+  footerColumns?:
+    | {
+        title?: string | null;
+        groups?:
+          | {
+              label: string;
+              href: string;
+              links?:
+                | {
+                    label: string;
+                    href: string;
+                    id?: string | null;
+                  }[]
+                | null;
+              id?: string | null;
+            }[]
+          | null;
+        id?: string | null;
+      }[]
+    | null;
+  /**
+   * Footer certification images. Leave the link blank when the logo is not a link.
+   */
+  badges?:
+    | {
+        label: string;
+        href?: string | null;
+        src: string;
+        id?: string | null;
+      }[]
+    | null;
+  socialLinks?:
+    | {
+        label: string;
+        href: string;
+        id?: string | null;
+      }[]
+    | null;
+  legalText?: string | null;
+  /**
+   * Change the headline, subcopy, background image URL, and buttons. Slide order is the rotator order.
+   */
+  heroSlides?:
+    | {
+        headline: string;
+        subcopy?: string | null;
+        backgroundImage?: string | null;
+        callsToAction?:
+          | {
+              label: string;
+              href: string;
+              id?: string | null;
+            }[]
+          | null;
+        id?: string | null;
+      }[]
+    | null;
+  /**
+   * What this draft does not copy from WordPress.
+   */
+  notes?:
+    | {
+        text: string;
+        id?: string | null;
+      }[]
+    | null;
+  _status?: ('draft' | 'published') | null;
+  updatedAt?: string | null;
+  createdAt?: string | null;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "site-chrome_select".
+ */
+export interface SiteChromeSelect<T extends boolean = true> {
+  siteVisibility?: T;
+  publishedToSite?: T;
+  sourceUrl?: T;
+  logo?:
+    | T
+    | {
+        src?: T;
+        alt?: T;
+        href?: T;
+      };
+  phone?:
+    | T
+    | {
+        label?: T;
+        href?: T;
+        id?: T;
+      };
+  email?:
+    | T
+    | {
+        label?: T;
+        href?: T;
+        id?: T;
+      };
+  utilityLinks?:
+    | T
+    | {
+        label?: T;
+        href?: T;
+        id?: T;
+      };
+  navigation?:
+    | T
+    | {
+        label?: T;
+        href?: T;
+        groups?:
+          | T
+          | {
+              label?: T;
+              href?: T;
+              links?:
+                | T
+                | {
+                    label?: T;
+                    href?: T;
+                    id?: T;
+                  };
+              id?: T;
+            };
+        id?: T;
+      };
+  footerColumns?:
+    | T
+    | {
+        title?: T;
+        groups?:
+          | T
+          | {
+              label?: T;
+              href?: T;
+              links?:
+                | T
+                | {
+                    label?: T;
+                    href?: T;
+                    id?: T;
+                  };
+              id?: T;
+            };
+        id?: T;
+      };
+  badges?:
+    | T
+    | {
+        label?: T;
+        href?: T;
+        src?: T;
+        id?: T;
+      };
+  socialLinks?:
+    | T
+    | {
+        label?: T;
+        href?: T;
+        id?: T;
+      };
+  legalText?: T;
+  heroSlides?:
+    | T
+    | {
+        headline?: T;
+        subcopy?: T;
+        backgroundImage?: T;
+        callsToAction?:
+          | T
+          | {
+              label?: T;
+              href?: T;
+              id?: T;
+            };
+        id?: T;
+      };
+  notes?:
+    | T
+    | {
+        text?: T;
+        id?: T;
+      };
+  _status?: T;
+  updatedAt?: T;
+  createdAt?: T;
+  globalType?: T;
 }
 /**
  * This interface was referenced by `Config`'s JSON-Schema

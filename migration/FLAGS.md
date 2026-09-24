@@ -119,18 +119,30 @@ Hosted conversions of existing pages: **0**. The two hundred fifty-five drafts i
 
 Seventy-eight alloy grade pages and one hundred fourteen AMS, ASTM, and ASME specification pages use the same private-draft pattern (usually full, thirds, and a two-thirds / one-third line card, with chemistry and mechanical values kept as paragraphs). Eleven more technical-data pages (cross references, what is titanium, history of titanium, seawater, charters of freedom) are drafted the same way. Each path and grid is in `migration/reports/conversions.json`.
 
-Parity against the live HTML (title, description, canonical, Open Graph title and description, links, pictures, and the measured layouts) passed for all two hundred fifty-five. Locked card grids, the locations news slider, and Gravity Forms 18, 20, and 23 are excluded from the picture check and called out in the report. Oil & Gas cards are checked against the portfolio export. Aerospace, Defense, and Consumer Products cards are checked against the public HTML. Quality Systems parity includes the Customer Satisfaction Survey button in the three-fifths column. Evidence: `migration/reports/parity.json`.
+Parity against the live HTML (title, description, canonical, Open Graph title and description, links, pictures, and the measured layouts) passed for all two hundred fifty-five page drafts. Locked card grids, the locations news slider, and Gravity Forms 18, 20, and 23 are excluded from the picture check and called out in the report. Oil & Gas cards are checked against the portfolio export. Aerospace, Defense, and Consumer Products cards are checked against the public HTML. Quality Systems parity includes the Customer Satisfaction Survey button in the three-fifths column. Evidence: `migration/reports/parity.json`.
+
+## Site chrome
+
+The live header, mega menu, footer, and homepage hero are one private document: `migration/chrome/site-chrome.json`. Payload global **Site chrome** uses the same fields (logo, phone, email, utility links, menu items with column groups, footer columns, approval logos, social links, legal line, and hero slides). `npm run cms:seed` saves that global as a draft. `publishedToSite` is forced off. Hosted conversions stay **0**. Page drafts stay **255**.
+
+Preview: `/preview/chrome/` (noindex). Marketing can change a headline, a menu label, or a footer link in the global. The existing Astro pages still use their own static header and footer.
+
+The homepage hero is six LayerSlider slides. Each slide has a headline, subcopy, background image URL, and buttons (Create Quote, Shop Clearance, Learn More). Slide order is the rotator order. LayerSlider motion is not a field. Some words are also painted into the background picture, so editing the headline does not repaint that file.
+
+The menu matches the live mega menu: Create Quote, Contact Us, Mill Products, Pipe and Fittings, Alloys, Markets, Resources, and Processing. Mill Products and Pipe and Fittings link into `qqa.titanium.com`. Those shop pages are not rebuilt. Markets includes the Firearms label and URL. The Firearms page was not fetched.
+
+The footer keeps the product lists, the four link groups (WordPress labels them “Col 1 (Hidden Text)” and so on), six approval logos, and Twitter, LinkedIn, Facebook, Instagram, and Youtube. The header email is `sales@titanium.com`. The header phone is 1-88-TITANIUM.
 
 ## Families still open
 
-- Home hero slider and the multi-section homepage.
-- Color sections and headline rotators (text is kept; background, overlay, and rotation are not editor blocks).
+- Homepage sections under the slider (welcome copy, product grid, markets, locations). The hero itself is editable.
+- Wiring the static Astro header and footer on the existing marketing pages to the Site chrome global.
+- Color sections and headline rotators on interior pages (text is kept; background, overlay, and rotation are not editor blocks).
 - The 24% card grids on `/markets/` and `/processing/`.
 - The weight calculator draft does not run `calculator.js`.
 - 65 blog posts.
 - Gravity Form 18 export (contact, RFQ, and the locations page). The drafts do not submit it.
 - Gravity Form 23 is modeled. Public submit still needs a person to turn it on. hCaptcha is not in the export.
 - The local sitemap entry.
-- Firearms (`https://titanium.com/markets/firearms/`, Cloudflare 403). Not fetched and not drafted.
-- Header, footer, and mega menu. Footer “T.I. Approvals” logos are site chrome, not part of these page drafts.
-- Shop and quote apps on `qqa.titanium.com` (linked, not rebuilt).
+- Firearms page (`https://titanium.com/markets/firearms/`, Cloudflare 403). Not fetched and not drafted. The menu item is only the label and URL.
+- Shop and quote apps on `qqa.titanium.com` (linked from the menu and hero, not rebuilt).

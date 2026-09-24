@@ -1,0 +1,878 @@
+{
+  "id": "site-chrome",
+  "siteVisibility": "private_draft",
+  "publishedToSite": false,
+  "sourceUrl": "https://titanium.com/",
+  "logo": {
+    "src": "https://titanium.com/wp-content/uploads/2016/10/titanium_LOGO_rgb_KO-274x300.png",
+    "alt": "Titanium Industries",
+    "href": "https://titanium.com/"
+  },
+  "phone": {
+    "label": "1-88-TITANIUM (1-888-482-6486)",
+    "href": "tel:+18884826486"
+  },
+  "email": {
+    "label": "sales@titanium.com",
+    "href": "mailto:sales@titanium.com"
+  },
+  "utilityLinks": [
+    {
+      "label": "Shop Now",
+      "href": "https://titanium.com/shop/"
+    },
+    {
+      "label": "My account",
+      "href": "https://qqa.titanium.com/auth/login"
+    },
+    {
+      "label": "Search",
+      "href": "#"
+    },
+    {
+      "label": "Cart",
+      "href": "https://qqa.titanium.com/auth/login"
+    }
+  ],
+  "navigation": [
+    {
+      "label": "CREATE QUOTE",
+      "href": "https://qqa.titanium.com/",
+      "groups": []
+    },
+    {
+      "label": "CONTACT US",
+      "href": "https://titanium.com/contact-us/",
+      "groups": [
+        {
+          "label": "RFQ Submission",
+          "href": "https://titanium.com/rfq/",
+          "links": []
+        },
+        {
+          "label": "T.I. News",
+          "href": "https://titanium.com/titanium-about-us/ti-news/",
+          "links": [
+            {
+              "label": "T.I. Invests in Inventory Expansion, Capacity, Processing Capabilities",
+              "href": "https://titanium.com/t-i-metal-inventory-expansion/"
+            },
+            {
+              "label": "T.I.’s Michigan Sales & Service Center Relocates",
+              "href": "https://titanium.com/ti-michigan-metal-service-center-relocated/"
+            },
+            {
+              "label": "T.I. Announces European Expansion",
+              "href": "https://titanium.com/ti-announces-specialty-metals-european-expansion/"
+            },
+            {
+              "label": "T.I. Announces New, Larger Jacksonville, FL Facility",
+              "href": "https://titanium.com/titanium-industries-announces-new-metal-supply-jacksonville-fl-facility/"
+            },
+            {
+              "label": "COVID-19",
+              "href": "https://titanium.com/contact-us/news/covid-19-announcement/"
+            },
+            {
+              "label": "Essential Business",
+              "href": "https://titanium.com/contact-us/news/essential-business/"
+            }
+          ]
+        },
+        {
+          "label": "About Us",
+          "href": "https://titanium.com/titanium-about-us/",
+          "links": [
+            {
+              "label": "Titanium Industries | Giving Back TO OUR COMMUNITIES",
+              "href": "https://titanium.com/giving-back/"
+            },
+            {
+              "label": "History of Titanium Industries",
+              "href": "https://titanium.com/titanium-about-us/history-of-titanium-industries/"
+            },
+            {
+              "label": "Message From Titanium Industries President",
+              "href": "https://titanium.com/titanium-about-us/message-from-the-president/"
+            },
+            {
+              "label": "Management Team",
+              "href": "https://titanium.com/titanium-about-us/management-team/"
+            },
+            {
+              "label": "Mission Statement",
+              "href": "https://titanium.com/titanium-about-us/mission-statement/"
+            },
+            {
+              "label": "Our Locations",
+              "href": "https://titanium.com/titanium-industries-global-metal-supplier-locations/"
+            }
+          ]
+        },
+        {
+          "label": "Career Center",
+          "href": "https://titanium.com/careers/",
+          "links": []
+        }
+      ]
+    },
+    {
+      "label": "MILL PRODUCTS",
+      "href": "https://qqa.titanium.com/product?type=mill-product",
+      "groups": [
+        {
+          "label": "Titanium",
+          "href": "#",
+          "links": [
+            {
+              "label": "Titanium Round Bar",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-round-bar"
+            },
+            {
+              "label": "Titanium Seamless Pipe",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-seamless-pipe"
+            },
+            {
+              "label": "Titanium Plate",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-plate"
+            },
+            {
+              "label": "Titanium Seamless Tube",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-seamless-tube"
+            },
+            {
+              "label": "Titanium Block",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-block"
+            },
+            {
+              "label": "Titanium Welded Pipe",
+              "href": "https://titanium.com/shop/products/mill-products-titanium-welded-pipe"
+            },
+            {
+              "label": "Titanium Rectangular Bar",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-rectangular-bar"
+            },
+            {
+              "label": "Titanium Wire",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-wire"
+            },
+            {
+              "label": "Titanium Sheet",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-sheet"
+            },
+            {
+              "label": "Titanium Welded Tube",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-welded-tube"
+            }
+          ]
+        },
+        {
+          "label": "Stainless Steel",
+          "href": "#",
+          "links": [
+            {
+              "label": "Stainless Steel Round Bar",
+              "href": "https://qqa.titanium.com/product/mill-product-stainless-steel-round-bar"
+            },
+            {
+              "label": "Stainless Steel Hex Bar",
+              "href": "https://qqa.titanium.com/product/mill-product-stainless-steel-hex-bar"
+            }
+          ]
+        },
+        {
+          "label": "Nickel Alloy",
+          "href": "#",
+          "links": [
+            {
+              "label": "Nickel Alloy Round Bar",
+              "href": "https://qqa.titanium.com/product/mill-product-nickel-alloy-round-bar"
+            }
+          ]
+        },
+        {
+          "label": "Alloy Steel",
+          "href": "#",
+          "links": [
+            {
+              "label": "Alloy Steel Round Bar",
+              "href": "https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar"
+            }
+          ]
+        },
+        {
+          "label": "Carbon Steel",
+          "href": "#",
+          "links": [
+            {
+              "label": "Carbon Steel Round Bar",
+              "href": "https://qqa.titanium.com/product/mill-product-carbon-steel-round-bar"
+            }
+          ]
+        },
+        {
+          "label": "Cobalt Chrome Moly",
+          "href": "#",
+          "links": [
+            {
+              "label": "Cobalt Chrome Moly Round Bar",
+              "href": "https://qqa.titanium.com/product/mill-product-cobalt-chrome-moly-round-bar"
+            }
+          ]
+        },
+        {
+          "label": "Aluminum",
+          "href": "#",
+          "links": [
+            {
+              "label": "Aluminum Round Bar",
+              "href": "https://qqa.titanium.com/product/mill-product-aluminum-round-bar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "PIPE AND FITTINGS",
+      "href": "#",
+      "groups": [
+        {
+          "label": "Titanium",
+          "href": "#",
+          "links": [
+            {
+              "label": "Titanium Concentric Reducer",
+              "href": "https://qqa.titanium.com/product/pipe-fitting-titanium-concentric-reducer"
+            },
+            {
+              "label": "Titanium Stub Ends",
+              "href": "https://qqa.titanium.com/product/pipe-fitting-titanium-stub-ends"
+            },
+            {
+              "label": "Titanium Eccentric Reducer",
+              "href": "https://qqa.titanium.com/product/pipe-fitting-titanium-eccentric-reducer"
+            },
+            {
+              "label": "Titanium Seamless Pipe",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-seamless-pipe"
+            },
+            {
+              "label": "Titanium Flange",
+              "href": "https://qqa.titanium.com/product/pipe-fitting-titanium-flange"
+            },
+            {
+              "label": "Titanium Welded Pipe",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-welded-pipe"
+            },
+            {
+              "label": "Titanium 90 ° Elbow",
+              "href": "https://qqa.titanium.com/product/pipe-fitting-titanium-90-%C2%B0-elbow"
+            },
+            {
+              "label": "Titanium Tee",
+              "href": "https://qqa.titanium.com/product/titanium-tee"
+            },
+            {
+              "label": "Titanium 45 ° Elbow",
+              "href": "https://qqa.titanium.com/product/pipe-fitting-titanium-45-%C2%B0-elbow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "ALLOYS",
+      "href": "https://titanium.com/alloys/",
+      "groups": [
+        {
+          "label": "Titanium Grades & Alloys",
+          "href": "https://titanium.com/alloys/titanium-and-titanium-alloys/",
+          "links": []
+        },
+        {
+          "label": "Stainless Steel Alloys",
+          "href": "https://titanium.com/alloys/stainless-steel/",
+          "links": []
+        },
+        {
+          "label": "Nickel Alloys",
+          "href": "https://titanium.com/alloys/nickel-alloys/",
+          "links": []
+        },
+        {
+          "label": "Aluminum Alloys",
+          "href": "https://titanium.com/alloys/aluminum-alloys/",
+          "links": []
+        },
+        {
+          "label": "Alloy Steel",
+          "href": "https://titanium.com/alloys/alloy-steels/",
+          "links": []
+        },
+        {
+          "label": "Carbon Steels",
+          "href": "https://titanium.com/alloys/carbon-steels/",
+          "links": []
+        },
+        {
+          "label": "Cobalt Chrome",
+          "href": "https://titanium.com/alloys/cobalt-chrome/",
+          "links": []
+        },
+        {
+          "label": "Copper Alloys",
+          "href": "https://titanium.com/alloys/copper-alloys/",
+          "links": []
+        }
+      ]
+    },
+    {
+      "label": "MARKETS",
+      "href": "https://titanium.com/markets/",
+      "groups": [
+        {
+          "label": "Additive Manufacturing Build Plates",
+          "href": "https://titanium.com/markets/additive-manufacturing-build-plates/",
+          "links": []
+        },
+        {
+          "label": "Aerospace",
+          "href": "https://titanium.com/markets/aerospace/",
+          "links": []
+        },
+        {
+          "label": "Industrial",
+          "href": "https://titanium.com/markets/industrial/",
+          "links": []
+        },
+        {
+          "label": "Oil & Gas",
+          "href": "https://titanium.com/oil-gas/",
+          "links": []
+        },
+        {
+          "label": "Medical",
+          "href": "https://titanium.com/markets/medical/",
+          "links": []
+        },
+        {
+          "label": "Defense",
+          "href": "https://titanium.com/markets/defense/",
+          "links": []
+        },
+        {
+          "label": "Engineered Fastener Alloys",
+          "href": "https://titanium.com/markets/fastener-alloys/",
+          "links": []
+        },
+        {
+          "label": "Firearms",
+          "href": "https://titanium.com/markets/firearms/",
+          "links": []
+        },
+        {
+          "label": "Metal Supplier for Consumer Products",
+          "href": "https://titanium.com/markets/consumer-products/",
+          "links": []
+        },
+        {
+          "label": "Interconnect",
+          "href": "https://titanium.com/interconnect-alloys/",
+          "links": []
+        }
+      ]
+    },
+    {
+      "label": "RESOURCES",
+      "href": "#",
+      "groups": [
+        {
+          "label": "METAL WEIGHT CALCULATOR",
+          "href": "https://qqa.titanium.com/tools/calculator",
+          "links": []
+        },
+        {
+          "label": "Articles",
+          "href": "https://titanium.com/titanium-about-us/ti-news/",
+          "links": [
+            {
+              "label": "What is Titanium?",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/what-is-titanium/"
+            },
+            {
+              "label": "History of Titanium",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/history-of-titanium/"
+            },
+            {
+              "label": "Fascinating Titanium Uses",
+              "href": "https://titanium.com/the-most-fascinating-titanium-uses/"
+            },
+            {
+              "label": "Ti Seawater Applications",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/titanium-seawater-applications/"
+            },
+            {
+              "label": "Titanium Corrosion",
+              "href": "https://titanium.com/titanium-corrosion-resistance/"
+            },
+            {
+              "label": "Charters of Freedom Project",
+              "href": "https://titanium.com/technical-references/charters-of-freedom-project/"
+            }
+          ]
+        },
+        {
+          "label": "Frequently Asked Questions",
+          "href": "https://titanium.com/frequently-asked-questions/",
+          "links": []
+        },
+        {
+          "label": "Metal Cross Reference",
+          "href": "#",
+          "links": [
+            {
+              "label": "Aluminum Cross Reference",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/aluminum-alloys-cross-reference/"
+            },
+            {
+              "label": "Alloy Steel Cross Reference",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/alloy-steel-international-cross-reference/"
+            },
+            {
+              "label": "Carbon Steel Cross Reference",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/carbon-steel-cross-reference/"
+            },
+            {
+              "label": "Nickel Cross Reference",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/nickel-international-cross-reference/"
+            },
+            {
+              "label": "Stainless S. Cross Reference",
+              "href": "https://titanium.com/technical-references/stainless-steel-cross-reference/"
+            }
+          ]
+        },
+        {
+          "label": "Titanium Cross Reference",
+          "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/titanium-international-cross-reference/",
+          "links": []
+        },
+        {
+          "label": "Privacy Policy",
+          "href": "https://titanium.com/privacy-policy/",
+          "links": []
+        },
+        {
+          "label": "Quality Systems",
+          "href": "https://titanium.com/quality-systems/",
+          "links": [
+            {
+              "label": "Customer Satisfaction Survey",
+              "href": "https://titanium.com/customer-satisfaction-survey/"
+            }
+          ]
+        },
+        {
+          "label": "Services",
+          "href": "https://titanium.com/services/",
+          "links": []
+        },
+        {
+          "label": "Specifications",
+          "href": "#",
+          "links": [
+            {
+              "label": "AMS Specifications",
+              "href": "https://titanium.com/ams-specifications-specialty-metals/"
+            },
+            {
+              "label": "ASME Specifications",
+              "href": "https://titanium.com/asme-specifications/"
+            },
+            {
+              "label": "ASTM Specifications",
+              "href": "https://titanium.com/astm-specifications/"
+            }
+          ]
+        },
+        {
+          "label": "Specialty Metals Technical Data & Alloy Specifications | Titanium Industries",
+          "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/",
+          "links": []
+        },
+        {
+          "label": "Terms & Conditions",
+          "href": "https://titanium.com/titanium-about-us/terms-conditions/",
+          "links": []
+        }
+      ]
+    },
+    {
+      "label": "PROCESSING",
+      "href": "https://titanium.com/processing/",
+      "groups": [
+        {
+          "label": "Water Jet Cutting",
+          "href": "https://titanium.com/processing/water-jet-cutting/",
+          "links": []
+        },
+        {
+          "label": "Saw Cutting",
+          "href": "https://titanium.com/processing/saw-cutting/",
+          "links": []
+        },
+        {
+          "label": "Chamfering",
+          "href": "https://titanium.com/processing/chamfering/",
+          "links": []
+        },
+        {
+          "label": "Torch Cutting",
+          "href": "https://titanium.com/processing/torch-cutting/",
+          "links": []
+        },
+        {
+          "label": "Heat Treating",
+          "href": "https://titanium.com/processing/heat-treating/",
+          "links": []
+        },
+        {
+          "label": "PVC Coating",
+          "href": "https://titanium.com/processing/pvc-coating/",
+          "links": []
+        },
+        {
+          "label": "Precision Grinding",
+          "href": "https://titanium.com/processing/grinding/",
+          "links": []
+        },
+        {
+          "label": "Trepanning Metal: Boring & Coring Metal",
+          "href": "https://titanium.com/processing/trepanning/",
+          "links": []
+        },
+        {
+          "label": "Coil Slitting",
+          "href": "https://titanium.com/processing/coil-slitting/",
+          "links": []
+        },
+        {
+          "label": "Shearing",
+          "href": "https://titanium.com/processing/shearing/",
+          "links": []
+        }
+      ]
+    }
+  ],
+  "footerColumns": [
+    {
+      "title": "",
+      "groups": [
+        {
+          "label": "Mill Products",
+          "href": "#",
+          "links": [
+            {
+              "label": "Round Bar",
+              "href": "https://titanium.com/metalproducts/round-bar/"
+            },
+            {
+              "label": "Rectangle Bar",
+              "href": "https://titanium.com/metalproducts/rectangle-bar/"
+            },
+            {
+              "label": "Titanium Hex Bar",
+              "href": "https://titanium.com/metalproducts/hex-bar/"
+            },
+            {
+              "label": "Hollow Bar",
+              "href": "https://titanium.com/metalproducts/hollow-bar/"
+            },
+            {
+              "label": "Billet",
+              "href": "https://titanium.com/metalproducts/billet/"
+            },
+            {
+              "label": "Titanium Block",
+              "href": "https://titanium.com/metalproducts/block/"
+            },
+            {
+              "label": "Titanium Plate",
+              "href": "https://titanium.com/metalproducts/plate/"
+            },
+            {
+              "label": "Titanium Sheet",
+              "href": "https://titanium.com/metalproducts/titanium-sheet/"
+            },
+            {
+              "label": "Expanded Metal",
+              "href": "https://titanium.com/metalproducts/expanded-metal/"
+            },
+            {
+              "label": "Titanium Wire",
+              "href": "https://titanium.com/metalproducts/wire/"
+            },
+            {
+              "label": "Coil",
+              "href": "https://titanium.com/metalproducts/coil/"
+            }
+          ]
+        },
+        {
+          "label": "Pipe & Fittings",
+          "href": "#",
+          "links": [
+            {
+              "label": "Titanium Seamless Pipe",
+              "href": "https://titanium.com/metalproducts/seamless-pipe/"
+            },
+            {
+              "label": "Titanium Welded Pipe",
+              "href": "https://titanium.com/metalproducts/welded-pipe/"
+            },
+            {
+              "label": "Titanium Seamless Tube",
+              "href": "https://titanium.com/metalproducts/seamless-tube/"
+            },
+            {
+              "label": "Titanium Welded Tube",
+              "href": "https://titanium.com/metalproducts/welded-tube/"
+            },
+            {
+              "label": "Titanium Concentric Reducers",
+              "href": "https://titanium.com/metalproducts/concentric-reducers/"
+            },
+            {
+              "label": "Titanium Grade 2 Eccentric Reducers",
+              "href": "https://titanium.com/metalproducts/eccentric-reducers/"
+            },
+            {
+              "label": "Titanium Elbows 45° & 90°",
+              "href": "https://titanium.com/metalproducts/elbows/"
+            },
+            {
+              "label": "Titanium Flanges",
+              "href": "https://titanium.com/metalproducts/flanges/"
+            },
+            {
+              "label": "Titanium Stub Ends",
+              "href": "https://titanium.com/metalproducts/stub-ends/"
+            },
+            {
+              "label": "Grade 2 Titanium Straight Tee",
+              "href": "https://titanium.com/metalproducts/tees/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "",
+      "groups": [
+        {
+          "label": "Col 1 (Hidden Text)",
+          "href": "#",
+          "links": [
+            {
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/"
+            },
+            {
+              "label": "RFQ Submission",
+              "href": "https://titanium.com/rfq/"
+            },
+            {
+              "label": "Shop Now",
+              "href": "https://titanium.com/shop/"
+            }
+          ]
+        },
+        {
+          "label": "Col 2 (Hidden Text)",
+          "href": "#",
+          "links": [
+            {
+              "label": "Quality System",
+              "href": "https://titanium.com/quality-systems/"
+            },
+            {
+              "label": "Specialty Metals Technical Data & Alloy Specifications | Titanium Industries",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/"
+            },
+            {
+              "label": "About Us",
+              "href": "https://titanium.com/titanium-about-us/"
+            }
+          ]
+        },
+        {
+          "label": "Col 3 (Hidden Text)",
+          "href": "#",
+          "links": [
+            {
+              "label": "Markets",
+              "href": "https://titanium.com/markets/"
+            },
+            {
+              "label": "Services",
+              "href": "https://titanium.com/services/"
+            },
+            {
+              "label": "Processing",
+              "href": "https://titanium.com/processing/"
+            }
+          ]
+        },
+        {
+          "label": "Col 4 (Hidden Text)",
+          "href": "#",
+          "links": [
+            {
+              "label": "Terms and Conditions",
+              "href": "https://titanium.com/titanium-about-us/terms-conditions/"
+            },
+            {
+              "label": "Privacy Policy",
+              "href": "https://titanium.com/privacy-policy/"
+            },
+            {
+              "label": "Careers",
+              "href": "https://titanium.com/careers/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "badges": [
+    {
+      "label": "Pratt & Whitney LCS",
+      "href": "",
+      "src": "https://titanium.com/wp-content/uploads/2019/09/200x200_0000_PrattWhiteneyLCS_0001_Background.png"
+    },
+    {
+      "label": "ISO Certification",
+      "href": "",
+      "src": "https://titanium.com/wp-content/uploads/2019/09/200x200_0001_image005.png"
+    },
+    {
+      "label": "ISO Certification",
+      "href": "",
+      "src": "https://titanium.com/wp-content/uploads/2025/04/ISO_2025_2.png"
+    },
+    {
+      "label": "AS97100 Rev D2",
+      "href": "",
+      "src": "https://titanium.com/wp-content/uploads/2025/04/AS9100_2025.png"
+    },
+    {
+      "label": "NACE Logo",
+      "href": "",
+      "src": "https://titanium.com/wp-content/uploads/2019/10/NACE-logo-300x180.png"
+    },
+    {
+      "label": "UK, Germany, NJ, US Locations",
+      "href": "",
+      "src": "https://titanium.com/wp-content/uploads/2025/04/2025-UKGERMANY-NJ-US-LOCATION2-3.png"
+    }
+  ],
+  "socialLinks": [
+    {
+      "label": "Twitter",
+      "href": "https://twitter.com/TI_Industries"
+    },
+    {
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/company/titanium-industries-inc-?trk=top_nav_home"
+    },
+    {
+      "label": "Facebook",
+      "href": "https://www.facebook.com/Titanium-Industries-119077081500702/?fref=ts"
+    },
+    {
+      "label": "Instagram",
+      "href": "https://www.instagram.com/titaniumindustries/"
+    },
+    {
+      "label": "Youtube",
+      "href": "https://www.youtube.com/@TitaniumIndustries"
+    }
+  ],
+  "legalText": "Copyright 2021 Titanium Industries, Inc. All Rights Reserved",
+  "heroSlides": [
+    {
+      "headline": "CREATE QUOTE!",
+      "subcopy": "",
+      "backgroundImage": "https://titanium.com/wp-content/uploads/2020/04/Home-Banner-Revisiom-cropped.png",
+      "callsToAction": [
+        {
+          "label": "CREATE QUOTE!",
+          "href": "https://qqa.titanium.com/"
+        }
+      ]
+    },
+    {
+      "headline": "SHOP CLEARANCE PAGE",
+      "subcopy": "",
+      "backgroundImage": "https://titanium.com/wp-content/uploads/2019/10/markets-background-dark.jpg",
+      "callsToAction": [
+        {
+          "label": "SHOP CLEARANCE PAGE",
+          "href": "https://qqa.titanium.com/discounted-products"
+        }
+      ]
+    },
+    {
+      "headline": "Full Line of Multi-Metals",
+      "subcopy": "T.I. is the global leader in specialty metals distribution.\nTitanium | Nickel Alloys | Stainless Steels | Alloy & Carbon Steels\nCobalt Chrome | Aluminum Alloys",
+      "backgroundImage": "https://titanium.com/wp-content/uploads/2015/11/TITANIUM-1600x600_0004_inventory-7.jpg",
+      "callsToAction": [
+        {
+          "label": "Learn More >>",
+          "href": "https://titanium.com/processing/"
+        }
+      ]
+    },
+    {
+      "headline": "Processing Services",
+      "subcopy": "Titanium Industries offers a wide variety of specialty metal processing\ncapabilities with the objective of reducing costs and cycle times.",
+      "backgroundImage": "https://titanium.com/wp-content/uploads/2020/02/water-jet-table-4-scaled.jpg",
+      "callsToAction": [
+        {
+          "label": "Learn More >>",
+          "href": "https://titanium.com/processing/"
+        }
+      ]
+    },
+    {
+      "headline": "Our Markets",
+      "subcopy": "T.I. is the global leader in specialty metals supply for the Aerospace,\nIndustrial, Medical, Defense and Oil & Gas markets.",
+      "backgroundImage": "https://titanium.com/wp-content/uploads/2019/01/shutterstock_115449532.jpg",
+      "callsToAction": [
+        {
+          "label": "Learn More >>",
+          "href": "https://titanium.com/markets/"
+        }
+      ]
+    },
+    {
+      "headline": "Quality Systems",
+      "subcopy": "T.I.’s Industry Leading Quality System delivers guaranteed reliability\nwith a full range of internationally accredited regulatory, OEM and\nsubcontractor quality approvals.",
+      "backgroundImage": "https://titanium.com/wp-content/uploads/2019/10/shipping-mark-2-1.jpg",
+      "callsToAction": [
+        {
+          "label": "Learn More >>",
+          "href": "https://titanium.com/quality-systems/"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Each homepage slide has a headline, subcopy, background image, and buttons. LayerSlider motion and delays are not fields.",
+    "Some slide words are also painted into the background picture. Editing the headline does not repaint that picture.",
+    "Shop and quote addresses on qqa.titanium.com stay links. The shop app is not rebuilt.",
+    "The Firearms menu item is the live label and URL. The Firearms page was not fetched.",
+    "The homepage sections under the slider (welcome, product grid, markets, locations) are not part of this hero.",
+    "The public Astro pages still use their static header and footer. This chrome is the Payload global and the private preview."
+  ]
+}

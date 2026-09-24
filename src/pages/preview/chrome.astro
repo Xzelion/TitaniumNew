@@ -1,0 +1,120 @@
+---
+import { readFileSync } from 'node:fs';
+import path from 'node:path';
+import { parseSiteChrome } from '../../../shared/chrome/schema';
+
+const chrome = parseSiteChrome(
+  JSON.parse(readFileSync(path.join(process.cwd(), 'migration/chrome/site-chrome.json'), 'utf8')),
+);
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="robots" content="noindex, nofollow" />
+    <title>Site chrome preview</title>
+    <style>
+      body { margin: 0; font-family: Inter, Arial, sans-serif; color: #102033; background: #f4f7fb; }
+      a { color: inherit; }
+      header, footer { background: #003366; color: #fff; }
+      .bar, .wrap { max-width: 1100px; margin: 0 auto; padding: 1rem 1.25rem; }
+      .bar { display: flex; gap: 1.5rem; align-items: center; flex-wrap: wrap; }
+      .logo { height: 64px; width: auto; background: #fff; }
+      nav details { border-top: 1px solid rgba(255,255,255,0.15); }
+      nav summary { cursor: pointer; padding: 0.7rem 1.25rem; font-weight: 700; }
+      .groups { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 1rem; padding: 0 1.25rem 1rem; }
+      .groups h2, .groups h3 { font-size: 0.95rem; margin: 0 0 0.4rem; }
+      .groups ul, .footer ul { margin: 0; padding-left: 1.1rem; }
+      .banner { background: #fff4d6; color: #5c4300; padding: 0.75rem 1.25rem; font-weight: 700; }
+      .slide { min-height: 280px; color: #fff; background: #0b1b33 center/cover no-repeat; display: flex; align-items: flex-end; }
+      .slide .copy { max-width: 720px; padding: 2rem 1.25rem; background: linear-gradient(transparent, rgba(0,0,0,0.55)); }
+      .slide h2 { margin: 0 0 0.5rem; font-size: 2rem; }
+      .slide p { white-space: pre-line; }
+      .cta { display: inline-block; margin: 0.25rem 0.5rem 0 0; padding: 0.45rem 0.8rem; background: #fff; color: #003366; font-weight: 800; text-decoration: none; }
+      footer { margin-top: 2rem; }
+      .notes { max-width: 1100px; margin: 1rem auto 2rem; }
+    </style>
+  </head>
+  <body>
+    <p class="banner">Private preview. Editing the Site chrome global does not change the public website.</p>
+    <header>
+      <div class="bar">
+        <a href={chrome.logo.href}><img class="logo" src={chrome.logo.src} alt={chrome.logo.alt} /></a>
+        <a href={chrome.phone.href}>{chrome.phone.label}</a>
+        <a href={chrome.email.href}>{chrome.email.label}</a>
+        {chrome.utilityLinks.map((link) => <a href={link.href}>{link.label}</a>)}
+      </div>
+      <nav>
+        {chrome.navigation.map((item) => (
+          <details>
+            <summary>{item.label}</summary>
+            <div class="groups">
+              <p><a href={item.href}>{item.href}</a></p>
+              {item.groups.map((group) => (
+                <section>
+                  <h2><a href={group.href}>{group.label}</a></h2>
+                  <ul>
+                    {group.links.map((link) => (
+                      <li><a href={link.href}>{link.label}</a></li>
+                    ))}
+                  </ul>
+                </section>
+              ))}
+            </div>
+          </details>
+        ))}
+      </nav>
+    </header>
+    <main>
+      {chrome.heroSlides.map((slide, index) => (
+        <section class="slide" style={`background-image: url('${slide.backgroundImage}')`}>
+          <div class="copy">
+            <p>Slide {index + 1}</p>
+            <h2>{slide.headline}</h2>
+            {slide.subcopy ? <p>{slide.subcopy}</p> : null}
+            {slide.callsToAction.map((link) => (
+              <a class="cta" href={link.href}>{link.label}</a>
+            ))}
+          </div>
+        </section>
+      ))}
+    </main>
+    <footer>
+      <div class="wrap">
+        {chrome.footerColumns.map((column) => (
+          <div class="groups">
+            {column.groups.map((group) => (
+              <section>
+                <h3><a href={group.href}>{group.label}</a></h3>
+                <ul>
+                  {group.links.map((link) => (
+                    <li><a href={link.href}>{link.label}</a></li>
+                  ))}
+                </ul>
+              </section>
+            ))}
+          </div>
+        ))}
+        <p>
+          {chrome.badges.map((badge) => (
+            badge.href ? (
+              <a href={badge.href}><img src={badge.src} alt={badge.label} height="64" /></a>
+            ) : (
+              <img src={badge.src} alt={badge.label} height="64" />
+            )
+          ))}
+        </p>
+        <p>
+          {chrome.socialLinks.map((link) => (
+            <a href={link.href}>{link.label}</a>
+          ))}
+        </p>
+        <p>{chrome.legalText}</p>
+      </div>
+    </footer>
+    <ul class="notes">
+      {chrome.notes.map((note) => <li>{note}</li>)}
+    </ul>
+  </body>
+</html>

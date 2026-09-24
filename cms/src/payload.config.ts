@@ -6,6 +6,7 @@ import { buildConfig } from 'payload'
 import sharp from 'sharp'
 import { Pages } from './collections/Pages'
 import { Users } from './collections/Users'
+import { SiteChrome } from './globals/SiteChrome'
 
 const dirname = path.dirname(fileURLToPath(import.meta.url))
 
@@ -23,6 +24,7 @@ export default buildConfig({
     },
   },
   collections: [Users, Pages],
+  globals: [SiteChrome],
   editor: lexicalEditor(),
   secret: process.env.PAYLOAD_SECRET || '',
   typescript: {

@@ -1,7 +1,9 @@
-import { readFileSync, readdirSync } from 'node:fs'
+import { existsSync, readFileSync, readdirSync } from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { getPayload } from 'payload'
+import { parseSiteChrome } from '../../shared/chrome/schema'
+import type { SiteChrome as ChromeDocument } from '../../shared/chrome/types'
 import config from './payload.config'
 
 const draftsDir = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../migration/drafts')
@@ -38,7 +40,36 @@ export default async function seed(): Promise<void> {
       },
     })
   }
+  const chromePath = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../migration/chrome/site-chrome.json')
+  if (existsSync(chromePath)) {
+    const chrome = parseSiteChrome(JSON.parse(readFileSync(chromePath, 'utf8')))
+    await payload.updateGlobal({
+      slug: 'site-chrome',
+      draft: true,
+      data: chromeData(chrome),
+    })
+    payload.logger.info('Seed saved the site chrome global as a private draft.')
+  }
   payload.logger.info(`Seed checked ${files.length} private drafts.`)
+}
+
+function chromeData(chrome: ChromeDocument) {
+  return {
+    siteVisibility: chrome.siteVisibility,
+    publishedToSite: false as const,
+    sourceUrl: chrome.sourceUrl,
+    logo: chrome.logo,
+    phone: chrome.phone,
+    email: chrome.email,
+    utilityLinks: chrome.utilityLinks,
+    navigation: chrome.navigation,
+    footerColumns: chrome.footerColumns,
+    badges: chrome.badges,
+    socialLinks: chrome.socialLinks,
+    legalText: chrome.legalText,
+    heroSlides: chrome.heroSlides,
+    notes: chrome.notes.map((text) => ({ text })),
+  }
 }
 
 await seed()
