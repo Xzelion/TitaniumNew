@@ -66,6 +66,23 @@ export function parityChecks(parsed: ParsedPage, page: PageDocument): ParityChec
     detail: liveText ? `Heading kept: ${liveText.slice(0, 80)}` : 'No heading to compare.',
   })
   const locked = page.provenance.remainingSourceOnly
+  if (parsed.htmlCards.length > 0) {
+    const pictures = page.rows.flatMap((row) =>
+      row.columns.flatMap((column) => column.items.filter((item) => item.kind === 'picture')),
+    )
+    const missing = parsed.htmlCards.filter(
+      (card) => !pictures.some((picture) => picture.src === card.imageUrl && picture.href === card.href && picture.alt === card.title),
+    )
+    const missingTitles = parsed.htmlCards.filter((card) => !draftText.includes(card.title))
+    checks.push({
+      name: 'Visible product cards',
+      pass: missing.length === 0 && missingTitles.length === 0,
+      detail:
+        missing.length === 0 && missingTitles.length === 0
+          ? `${parsed.htmlCards.length} picture cards from the public page.`
+          : 'A product card from the public page is missing.',
+    })
+  }
   if (parsed.portfolioCards.length > 0) {
     const pictures = page.rows.flatMap((row) =>
       row.columns.flatMap((column) => column.items.filter((item) => item.kind === 'picture')),

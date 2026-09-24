@@ -9,7 +9,7 @@ describe('committed private drafts', () => {
   const files = readdirSync(dir).filter((file) => file.endsWith('.json'))
 
   it('round-trips every converted page', () => {
-    expect(files.length).toBeGreaterThanOrEqual(33)
+    expect(files.length).toBeGreaterThanOrEqual(34)
     for (const file of files) {
       const page = JSON.parse(readFileSync(path.join(dir, file), 'utf8'))
       expect(roundTripPageDocument(page).id).toBe(page.id)

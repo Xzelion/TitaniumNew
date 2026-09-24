@@ -30,6 +30,9 @@ const fourFifth = 78.8
 const quarter = 20.5
 const threeQuarter = 73.5
 const half = 47
+const fifth = 15.2
+const sixth = 11.666666666666666
+const nearHalf = 49.8
 
 export const PRESETS: Record<RowPreset, PresetDefinition> = {
   full: {
@@ -191,6 +194,38 @@ export const PRESETS: Record<RowPreset, PresetDefinition> = {
       { label: 'Third quarter', widthPercent: quarter, marginLeftPercent: 6 },
     ],
   },
+  fifths: {
+    id: 'fifths',
+    label: 'Five fifths',
+    description: 'Five columns at the live fifth width (15.2%), with the 6% gap.',
+    bars: [1, 1, 1, 1, 1],
+    columns: [0, 1, 2, 3, 4].map((index) => ({
+      label: `Fifth ${index + 1}`,
+      widthPercent: fifth,
+      marginLeftPercent: index === 0 ? 0 : 6,
+    })),
+  },
+  sixths: {
+    id: 'sixths',
+    label: 'Six sixths',
+    description: 'Six columns at the live sixth width (11.7%), with the 6% gap.',
+    bars: [1, 1, 1, 1, 1, 1],
+    columns: [0, 1, 2, 3, 4, 5].map((index) => ({
+      label: `Sixth ${index + 1}`,
+      widthPercent: sixth,
+      marginLeftPercent: index === 0 ? 0 : 6,
+    })),
+  },
+  'near-halves': {
+    id: 'near-halves',
+    label: 'Two near halves',
+    description: 'Two columns at 49.8% from the live rule for no-margin av_one_second. There is no 6% gap.',
+    bars: [1, 1],
+    columns: [
+      { label: 'First card', widthPercent: nearHalf, marginLeftPercent: 0 },
+      { label: 'Second card', widthPercent: nearHalf, marginLeftPercent: 0 },
+    ],
+  },
 }
 
 export const PRESET_LIST: PresetDefinition[] = ROW_PRESET_ORDER()
@@ -217,6 +252,9 @@ function ROW_PRESET_ORDER(): PresetDefinition[] {
     PRESETS['half-quarters'],
     PRESETS.quarters,
     PRESETS['quarter-trio'],
+    PRESETS.fifths,
+    PRESETS.sixths,
+    PRESETS['near-halves'],
   ]
 }
 

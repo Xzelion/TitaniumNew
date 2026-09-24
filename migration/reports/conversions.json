@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T20:31:33.898Z",
+  "generatedAt": "2026-09-24T20:36:34.039Z",
   "sitemap": {
     "capturedInRepoBeforeThisChange": 0,
     "publicSitemapUrls": 404
@@ -325,48 +325,36 @@
     {
       "path": "/markets/aerospace/",
       "id": "markets--aerospace",
-      "action": "skip",
-      "reason": "Source hash is unchanged.",
-      "grid": "lead-three-fifths | thirds | two-one | float-wrap | float-wrap | float-wrap | float-wrap | float-wrap | float-wrap",
+      "action": "write",
+      "reason": "Source changed and nobody has edited the draft, so it was rebuilt.",
+      "grid": "lead-three-fifths | thirds | two-one | float-wrap | fifths | float-wrap | fifths | float-wrap | fifths | float-wrap | sixths | float-wrap | sixths | float-wrap | sixths",
       "families": [
         "equal-3-cta",
         "intro-two-one-linecard",
         "medical-float",
-        "portfolio-grid-blocked"
+        "html-picture-cards"
       ],
       "converterFamily": "medical-float",
-      "remainingSourceOnly": [
-        {
-          "id": "source-20",
-          "label": "Product grid",
-          "reason": "This product grid is a WordPress query, not a fixed column layout."
-        }
-      ],
-      "verify": "Open /preview/markets/aerospace/ (private, noindex) beside https://titanium.com/markets/aerospace/. Check the grid (lead-three-fifths, thirds, two-one, float-wrap, float-wrap, float-wrap, float-wrap, float-wrap, float-wrap), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
-      "sourceHash": "0b91e8be5c1969e07a799bab0e6a202540969c391783b91122647a1276c70a96"
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/markets/aerospace/ (private, noindex) beside https://titanium.com/markets/aerospace/. Check the grid (lead-three-fifths, thirds, two-one, float-wrap, fifths, float-wrap, fifths, float-wrap, fifths, float-wrap, sixths, float-wrap, sixths, float-wrap, sixths), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "7b968b833ceec3f39d9ca41e7bf64ba6080e4128b69f75ea0b2f14894d5a91b3"
     },
     {
       "path": "/markets/defense/",
       "id": "markets--defense",
-      "action": "skip",
-      "reason": "Source hash is unchanged.",
-      "grid": "lead-three-fifths | thirds | two-one | wide-fifths | quality-split | wide-fifths | quality-split | wide-fifths",
+      "action": "write",
+      "reason": "Source changed and nobody has edited the draft, so it was rebuilt.",
+      "grid": "lead-three-fifths | thirds | two-one | fifths | wide-fifths | quality-split | wide-fifths | quality-split | wide-fifths",
       "families": [
         "equal-3-cta",
         "intro-two-one-linecard",
         "quality-split",
-        "portfolio-grid-blocked"
+        "html-picture-cards"
       ],
       "converterFamily": "quality-split",
-      "remainingSourceOnly": [
-        {
-          "id": "source-14",
-          "label": "Product grid",
-          "reason": "This product grid is a WordPress query, not a fixed column layout."
-        }
-      ],
-      "verify": "Open /preview/markets/defense/ (private, noindex) beside https://titanium.com/markets/defense/. Check the grid (lead-three-fifths, thirds, two-one, wide-fifths, quality-split, wide-fifths, quality-split, wide-fifths), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
-      "sourceHash": "10d61fabbbc156ff76aad5a10392c238d12bc8f44d69b78af48c1ea69076c179"
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/markets/defense/ (private, noindex) beside https://titanium.com/markets/defense/. Check the grid (lead-three-fifths, thirds, two-one, fifths, wide-fifths, quality-split, wide-fifths, quality-split, wide-fifths), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "d354a31a4b82b4cfffd680c6ac9775ea9f1bcd91692d896e7b9ebf9b32d6d4d9"
     },
     {
       "path": "/markets/industrial/",
@@ -386,25 +374,19 @@
     {
       "path": "/markets/consumer-products/",
       "id": "markets--consumer-products",
-      "action": "skip",
-      "reason": "Source hash is unchanged.",
-      "grid": "lead-four-fifths | thirds | three-one | float-wrap | float-wrap | float-wrap",
+      "action": "write",
+      "reason": "Source changed and nobody has edited the draft, so it was rebuilt.",
+      "grid": "lead-four-fifths | thirds | three-one | float-wrap | sixths | float-wrap | near-halves | float-wrap | quarters",
       "families": [
         "equal-3-cta",
         "intro-three-one-linecard",
         "medical-float",
-        "portfolio-grid-blocked"
+        "html-picture-cards"
       ],
       "converterFamily": "medical-float",
-      "remainingSourceOnly": [
-        {
-          "id": "source-20",
-          "label": "Product grid",
-          "reason": "This product grid is a WordPress query, not a fixed column layout."
-        }
-      ],
-      "verify": "Open /preview/markets/consumer-products/ (private, noindex) beside https://titanium.com/markets/consumer-products/. Check the grid (lead-four-fifths, thirds, three-one, float-wrap, float-wrap, float-wrap), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
-      "sourceHash": "36db0e84e56bd4a1f288188ead7c357e870b434a89f51c8fc7ad0b8e54d2e5e3"
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/markets/consumer-products/ (private, noindex) beside https://titanium.com/markets/consumer-products/. Check the grid (lead-four-fifths, thirds, three-one, float-wrap, sixths, float-wrap, near-halves, float-wrap, quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "9c22f22f006d89983a7d9ad8cb73e1c5f546c4084f0a9f729fa3e376fbeab664"
     },
     {
       "path": "/giving-back/",
@@ -570,6 +552,20 @@
       ],
       "verify": "Open /preview/titanium-industries-global-metal-supplier-locations/ (private, noindex) beside https://titanium.com/titanium-industries-global-metal-supplier-locations/. Check the grid (full, full, halves, thirds, thirds, full, lead-three-fifths, full, full, thirds), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
       "sourceHash": "ed3d29cea8a53f14170789027feea31c360f7301ac491998f5840caac6172514"
+    },
+    {
+      "path": "/services/scrap-reclamation-2/",
+      "id": "services--scrap-reclamation-2",
+      "action": "write",
+      "reason": "New private draft.",
+      "grid": "lead-three-fifths | full | two-one",
+      "families": [
+        "unclassified"
+      ],
+      "converterFamily": "unclassified",
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/services/scrap-reclamation-2/ (private, noindex) beside https://titanium.com/services/scrap-reclamation-2/. Check the grid (lead-three-fifths, full, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "8231f081d5906c5a3ef62d18b73f63b058d2b99dc17b159239f2d485486442eb"
     }
   ]
 }

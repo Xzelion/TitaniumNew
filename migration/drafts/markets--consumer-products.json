@@ -145,7 +145,7 @@
           "id": "column-19",
           "items": [
             {
-              "id": "text-21",
+              "id": "text-20",
               "kind": "text",
               "blocks": [
                 {
@@ -156,7 +156,7 @@
               ]
             },
             {
-              "id": "picture-22",
+              "id": "picture-21",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2019/11/marine.jpg",
               "alt": "",
@@ -164,7 +164,7 @@
               "wrap": "left"
             },
             {
-              "id": "text-23",
+              "id": "text-22",
               "kind": "text",
               "blocks": [
                 {
@@ -227,15 +227,166 @@
       ]
     },
     {
-      "id": "row-24",
-      "preset": "float-wrap",
-      "spaceAbove": true,
+      "id": "row-23",
+      "preset": "sixths",
+      "spaceAbove": false,
       "columns": [
+        {
+          "id": "column-24",
+          "items": [
+            {
+              "id": "picture-30",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Round_Bar_Hi-260x185.jpg",
+              "alt": "Round Bar",
+              "href": "https://titanium.com/metalproducts/round-bar/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-31",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Round Bar"
+                }
+              ]
+            }
+          ]
+        },
         {
           "id": "column-25",
           "items": [
             {
-              "id": "text-26",
+              "id": "picture-32",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Billet_Low-1-260x185.jpg",
+              "alt": "Billet",
+              "href": "https://titanium.com/metalproducts/billet/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-33",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Billet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-26",
+          "items": [
+            {
+              "id": "picture-34",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Pipe_Low-260x185.jpg",
+              "alt": "Seamless Pipe",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-seamless-pipe",
+              "wrap": "none"
+            },
+            {
+              "id": "text-35",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Seamless Pipe"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-27",
+          "items": [
+            {
+              "id": "picture-36",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Plate_Low-260x185.jpg",
+              "alt": "Plate",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-plate",
+              "wrap": "none"
+            },
+            {
+              "id": "text-37",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Plate"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-28",
+          "items": [
+            {
+              "id": "picture-38",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Sheet_Metal_Low-260x185.jpg",
+              "alt": "Sheet",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-sheet",
+              "wrap": "none"
+            },
+            {
+              "id": "text-39",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Sheet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-29",
+          "items": [
+            {
+              "id": "picture-40",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Tube_Low-1-260x185.jpg",
+              "alt": "Seamless Tube",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-welded-tube",
+              "wrap": "none"
+            },
+            {
+              "id": "text-41",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Seamless Tube"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-42",
+      "preset": "float-wrap",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-43",
+          "items": [
+            {
+              "id": "text-44",
               "kind": "text",
               "blocks": [
                 {
@@ -246,7 +397,7 @@
               ]
             },
             {
-              "id": "picture-27",
+              "id": "picture-45",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2019/11/jewelry.jpg",
               "alt": "",
@@ -254,7 +405,7 @@
               "wrap": "right"
             },
             {
-              "id": "text-28",
+              "id": "text-46",
               "kind": "text",
               "blocks": [
                 {
@@ -285,15 +436,70 @@
       ]
     },
     {
-      "id": "row-29",
+      "id": "row-47",
+      "preset": "near-halves",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-48",
+          "items": [
+            {
+              "id": "picture-50",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Sheet_Metal_Low-260x185.jpg",
+              "alt": "Sheet",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-sheet",
+              "wrap": "none"
+            },
+            {
+              "id": "text-51",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Sheet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-49",
+          "items": [
+            {
+              "id": "picture-52",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Wire_1-260x185.jpg",
+              "alt": "Wire",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-wire",
+              "wrap": "none"
+            },
+            {
+              "id": "text-53",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Wire"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-54",
       "preset": "float-wrap",
       "spaceAbove": true,
       "columns": [
         {
-          "id": "column-30",
+          "id": "column-55",
           "items": [
             {
-              "id": "text-31",
+              "id": "text-56",
               "kind": "text",
               "blocks": [
                 {
@@ -304,7 +510,7 @@
               ]
             },
             {
-              "id": "picture-32",
+              "id": "picture-57",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2019/11/sport.jpg",
               "alt": "",
@@ -312,7 +518,7 @@
               "wrap": "left"
             },
             {
-              "id": "text-33",
+              "id": "text-58",
               "kind": "text",
               "blocks": [
                 {
@@ -379,13 +585,7 @@
                   "type": "heading",
                   "level": 4,
                   "text": "Products used in this application include:"
-                }
-              ]
-            },
-            {
-              "id": "text-34",
-              "kind": "text",
-              "blocks": [
+                },
                 {
                   "type": "paragraph",
                   "text": "To gain further insights into Titanium Industries and the diverse markets we cater to with our specialty metals, we invite you to explore our range of other markets:"
@@ -401,7 +601,7 @@
               ]
             },
             {
-              "id": "picture-35",
+              "id": "picture-59",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
               "alt": "Titanium Industries | Instagram",
@@ -410,7 +610,7 @@
               "displayPx": 59
             },
             {
-              "id": "picture-36",
+              "id": "picture-60",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
               "alt": "Titanium Industries | LinkedIn",
@@ -419,7 +619,7 @@
               "displayPx": 59
             },
             {
-              "id": "picture-37",
+              "id": "picture-61",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
               "alt": "Titanium Industries | Twitter",
@@ -428,7 +628,7 @@
               "displayPx": 59
             },
             {
-              "id": "picture-38",
+              "id": "picture-62",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
               "alt": "Titanium Industries | Facebook",
@@ -437,7 +637,7 @@
               "displayPx": 59
             },
             {
-              "id": "picture-39",
+              "id": "picture-63",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
               "alt": "Titanium Industries | Youtube",
@@ -448,30 +648,127 @@
           ]
         }
       ]
+    },
+    {
+      "id": "row-64",
+      "preset": "quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-65",
+          "items": [
+            {
+              "id": "picture-69",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Round_Bar_Hi-260x185.jpg",
+              "alt": "Round Bar",
+              "href": "https://titanium.com/metalproducts/round-bar/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-70",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Round Bar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-66",
+          "items": [
+            {
+              "id": "picture-71",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Plate_Low-260x185.jpg",
+              "alt": "Plate",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-plate",
+              "wrap": "none"
+            },
+            {
+              "id": "text-72",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Plate"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-67",
+          "items": [
+            {
+              "id": "picture-73",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Sheet_Metal_Low-260x185.jpg",
+              "alt": "Sheet",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-sheet",
+              "wrap": "none"
+            },
+            {
+              "id": "text-74",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Sheet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-68",
+          "items": [
+            {
+              "id": "picture-75",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Tube_Low-1-260x185.jpg",
+              "alt": "Seamless Tube",
+              "href": "https://titanium.com/products/seamless-tube/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-76",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Seamless Tube"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "publishedVersion": null,
   "provenance": {
     "sourceUrl": "https://titanium.com/markets/consumer-products/",
-    "sourceHash": "36db0e84e56bd4a1f288188ead7c357e870b434a89f51c8fc7ad0b8e54d2e5e3",
+    "sourceHash": "9c22f22f006d89983a7d9ad8cb73e1c5f546c4084f0a9f729fa3e376fbeab664",
     "converterVersion": "2",
     "converterFamily": "medical-float",
     "families": [
       "equal-3-cta",
       "intro-three-one-linecard",
       "medical-float",
-      "portfolio-grid-blocked"
+      "html-picture-cards"
     ],
-    "convertedAt": "2026-09-24T20:16:48.815Z",
-    "grid": "lead-four-fifths | thirds | three-one | float-wrap | float-wrap | float-wrap",
-    "remainingSourceOnly": [
-      {
-        "id": "source-20",
-        "label": "Product grid",
-        "reason": "This product grid is a WordPress query, not a fixed column layout."
-      }
-    ],
-    "verify": "Open /preview/markets/consumer-products/ (private, noindex) beside https://titanium.com/markets/consumer-products/. Check the grid (lead-four-fifths, thirds, three-one, float-wrap, float-wrap, float-wrap), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+    "convertedAt": "2026-09-24T20:36:34.039Z",
+    "grid": "lead-four-fifths | thirds | three-one | float-wrap | sixths | float-wrap | near-halves | float-wrap | quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/markets/consumer-products/ (private, noindex) beside https://titanium.com/markets/consumer-products/. Check the grid (lead-four-fifths, thirds, three-one, float-wrap, sixths, float-wrap, near-halves, float-wrap, quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
   },
   "siteVisibility": "private_draft",
   "editedByHuman": false

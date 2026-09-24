@@ -1,0 +1,158 @@
+{
+  "id": "services--scrap-reclamation-2",
+  "path": "/services/scrap-reclamation-2/",
+  "title": "Scrap Reclamation - Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Scrap Reclamation - Titanium Industries",
+    "description": "Scrap Reclamation",
+    "canonical": "https://titanium.com/services/scrap-reclamation-2/",
+    "ogTitle": "Scrap Reclamation - Titanium Industries",
+    "ogDescription": "Scrap Reclamation",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Scrap Reclamation"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "text-6",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "We Offer Scrap Reclamation"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-7",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-8",
+          "items": [
+            {
+              "id": "text-10",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "T.I. furnishes a competitive return on an investment for segregated scrap materials. As a manufacturing producer and distributor of specialty metals, we are uniquely both a producer and consumer of scrap materials and can offer competitive prices for segregated scrap materials. Closed loop recycling of alloy, grade and type segregated (drops, turnings, chips. swarf, etc.) enable you to reclaim the maximum value possible from your original metal purchase. Please contact you local T.I. representative to discuss scrap reclamation opportunities."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "CONTACT US"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-9",
+          "items": [
+            {
+              "id": "text-11",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "[titanium_live_chat_button]"
+                }
+              ]
+            },
+            {
+              "id": "button-12",
+              "kind": "button",
+              "label": "CONTACT US",
+              "href": "https://titanium.com/titanium-about-us/contact-us/",
+              "variant": "primary"
+            },
+            {
+              "id": "text-13",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "[QUOTE](https://titanium.com/quickquote/)"
+                }
+              ]
+            },
+            {
+              "id": "button-14",
+              "kind": "button",
+              "label": "VIEW ALL LOCATIONS",
+              "href": "https://titanium.com/titanium-about-us/locations/",
+              "variant": "primary"
+            },
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "For in stock products, submit shape, length and alloy and receive a quote in 15 minutes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Contact us](https://titanium.com/contact-us/) [Quick Quote](https://titanium.com/quickquote/) [Shop now](https://titanium.com/shop/)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/services/scrap-reclamation-2/",
+    "sourceHash": "8231f081d5906c5a3ef62d18b73f63b058d2b99dc17b159239f2d485486442eb",
+    "converterVersion": "2",
+    "converterFamily": "unclassified",
+    "families": [
+      "unclassified"
+    ],
+    "convertedAt": "2026-09-24T20:36:34.039Z",
+    "grid": "lead-three-fifths | full | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/services/scrap-reclamation-2/ (private, noindex) beside https://titanium.com/services/scrap-reclamation-2/. Check the grid (lead-three-fifths, full, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

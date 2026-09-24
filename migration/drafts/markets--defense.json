@@ -87,7 +87,7 @@
           "id": "column-12",
           "items": [
             {
-              "id": "text-15",
+              "id": "text-14",
               "kind": "text",
               "blocks": [
                 {
@@ -132,7 +132,7 @@
           "id": "column-13",
           "items": [
             {
-              "id": "text-16",
+              "id": "text-15",
               "kind": "text",
               "blocks": [
                 {
@@ -143,7 +143,7 @@
               ]
             },
             {
-              "id": "picture-17",
+              "id": "picture-16",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2023/05/Ti-Aerospace_LineCard_85x11_NEW12-27-22-232x300.jpg",
               "alt": "Titanium Industries Aerospace Line Card",
@@ -151,14 +151,14 @@
               "wrap": "none"
             },
             {
-              "id": "button-18",
+              "id": "button-17",
               "kind": "button",
               "label": "Titanium Industries | Aerospace Line Card",
               "href": "https://titanium.com/wp-content/uploads/2023/05/Ti-Aerospace_LineCard_85x11_NEW12-27-22-2.pdf",
               "variant": "primary"
             },
             {
-              "id": "text-19",
+              "id": "text-18",
               "kind": "text",
               "blocks": [
                 {
@@ -169,7 +169,7 @@
               ]
             },
             {
-              "id": "picture-20",
+              "id": "picture-19",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2023/05/Ti-Defense_LineCard_85x11_5.30.23-2-232x300.jpg",
               "alt": "Specialty Metals for Defense",
@@ -177,7 +177,7 @@
               "wrap": "none"
             },
             {
-              "id": "button-21",
+              "id": "button-20",
               "kind": "button",
               "label": "Titanium Industries | Combat Vehicle Mfg’s Line Card",
               "href": "https://titanium.com/wp-content/uploads/2023/05/Ti-Defense_LineCard_85x11_5.30.23.pdf",
@@ -188,15 +188,142 @@
       ]
     },
     {
-      "id": "row-22",
-      "preset": "wide-fifths",
+      "id": "row-21",
+      "preset": "fifths",
       "spaceAbove": false,
       "columns": [
+        {
+          "id": "column-22",
+          "items": [
+            {
+              "id": "picture-27",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Round_Bar_Hi-260x185.jpg",
+              "alt": "Titanium Round Bar",
+              "href": "https://titanium.com/metalproducts/round-bar/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-28",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Titanium Round Bar"
+                }
+              ]
+            }
+          ]
+        },
         {
           "id": "column-23",
           "items": [
             {
-              "id": "text-25",
+              "id": "picture-29",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Billet_Low-1-260x185.jpg",
+              "alt": "Titanium Billet",
+              "href": "https://titanium.com/metalproducts/billet/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-30",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Titanium Billet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-24",
+          "items": [
+            {
+              "id": "picture-31",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Block_Low-260x185.jpg",
+              "alt": "Titanium Block",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-block",
+              "wrap": "none"
+            },
+            {
+              "id": "text-32",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Titanium Block"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-25",
+          "items": [
+            {
+              "id": "picture-33",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Plate_Low-260x185.jpg",
+              "alt": "Titanium Plate",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-plate",
+              "wrap": "none"
+            },
+            {
+              "id": "text-34",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Titanium Plate"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-26",
+          "items": [
+            {
+              "id": "picture-35",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Sheet_Metal_Low-260x185.jpg",
+              "alt": "Titanium Sheet",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-sheet",
+              "wrap": "none"
+            },
+            {
+              "id": "text-36",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Titanium Sheet"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-37",
+      "preset": "wide-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-38",
+          "items": [
+            {
+              "id": "text-40",
               "kind": "text",
               "blocks": [
                 {
@@ -241,10 +368,10 @@
           ]
         },
         {
-          "id": "column-24",
+          "id": "column-39",
           "items": [
             {
-              "id": "picture-26",
+              "id": "picture-41",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2019/10/Airframe-1030x582.png",
               "alt": "Airframe",
@@ -252,7 +379,7 @@
               "wrap": "none"
             },
             {
-              "id": "picture-27",
+              "id": "picture-42",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2021/04/f-16-1816071_1280-e1541533886497.jpg",
               "alt": "AEROSPACE FRAME",
@@ -264,15 +391,15 @@
       ]
     },
     {
-      "id": "row-28",
+      "id": "row-43",
       "preset": "quality-split",
       "spaceAbove": false,
       "columns": [
         {
-          "id": "column-29",
+          "id": "column-44",
           "items": [
             {
-              "id": "picture-31",
+              "id": "picture-46",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2019/11/aircraft.jpg",
               "alt": "aircraft",
@@ -282,10 +409,10 @@
           ]
         },
         {
-          "id": "column-30",
+          "id": "column-45",
           "items": [
             {
-              "id": "text-32",
+              "id": "text-47",
               "kind": "text",
               "blocks": [
                 {
@@ -308,15 +435,15 @@
       ]
     },
     {
-      "id": "row-33",
+      "id": "row-48",
       "preset": "wide-fifths",
       "spaceAbove": false,
       "columns": [
         {
-          "id": "column-34",
+          "id": "column-49",
           "items": [
             {
-              "id": "text-36",
+              "id": "text-51",
               "kind": "text",
               "blocks": [
                 {
@@ -337,10 +464,10 @@
           ]
         },
         {
-          "id": "column-35",
+          "id": "column-50",
           "items": [
             {
-              "id": "picture-37",
+              "id": "picture-52",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2019/11/military-2.jpg",
               "alt": "military-2",
@@ -352,15 +479,15 @@
       ]
     },
     {
-      "id": "row-38",
+      "id": "row-53",
       "preset": "quality-split",
       "spaceAbove": false,
       "columns": [
         {
-          "id": "column-39",
+          "id": "column-54",
           "items": [
             {
-              "id": "picture-41",
+              "id": "picture-56",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2019/11/military-1.jpg",
               "alt": "Defense | Specialty Metals | Markets | Titanium Industries",
@@ -370,10 +497,10 @@
           ]
         },
         {
-          "id": "column-40",
+          "id": "column-55",
           "items": [
             {
-              "id": "text-42",
+              "id": "text-57",
               "kind": "text",
               "blocks": [
                 {
@@ -392,15 +519,15 @@
       ]
     },
     {
-      "id": "row-43",
+      "id": "row-58",
       "preset": "wide-fifths",
       "spaceAbove": false,
       "columns": [
         {
-          "id": "column-44",
+          "id": "column-59",
           "items": [
             {
-              "id": "text-46",
+              "id": "text-61",
               "kind": "text",
               "blocks": [
                 {
@@ -431,7 +558,7 @@
               ]
             },
             {
-              "id": "picture-47",
+              "id": "picture-62",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
               "alt": "Titanium Industries | Instagram",
@@ -440,7 +567,7 @@
               "displayPx": 59
             },
             {
-              "id": "picture-48",
+              "id": "picture-63",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
               "alt": "Titanium Industries | LinkedIn",
@@ -449,7 +576,7 @@
               "displayPx": 59
             },
             {
-              "id": "picture-49",
+              "id": "picture-64",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
               "alt": "Titanium Industries | Twitter",
@@ -458,7 +585,7 @@
               "displayPx": 59
             },
             {
-              "id": "picture-50",
+              "id": "picture-65",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
               "alt": "Titanium Industries | Facebook",
@@ -467,7 +594,7 @@
               "displayPx": 59
             },
             {
-              "id": "picture-51",
+              "id": "picture-66",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
               "alt": "Titanium Industries | Youtube",
@@ -478,10 +605,10 @@
           ]
         },
         {
-          "id": "column-45",
+          "id": "column-60",
           "items": [
             {
-              "id": "picture-52",
+              "id": "picture-67",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2023/05/Untitled-design-2-300x300.jpg",
               "alt": "Titanium Specialty metals for Navel",
@@ -496,25 +623,19 @@
   "publishedVersion": null,
   "provenance": {
     "sourceUrl": "https://titanium.com/markets/defense/",
-    "sourceHash": "10d61fabbbc156ff76aad5a10392c238d12bc8f44d69b78af48c1ea69076c179",
+    "sourceHash": "d354a31a4b82b4cfffd680c6ac9775ea9f1bcd91692d896e7b9ebf9b32d6d4d9",
     "converterVersion": "2",
     "converterFamily": "quality-split",
     "families": [
       "equal-3-cta",
       "intro-two-one-linecard",
       "quality-split",
-      "portfolio-grid-blocked"
+      "html-picture-cards"
     ],
-    "convertedAt": "2026-09-24T20:16:48.815Z",
-    "grid": "lead-three-fifths | thirds | two-one | wide-fifths | quality-split | wide-fifths | quality-split | wide-fifths",
-    "remainingSourceOnly": [
-      {
-        "id": "source-14",
-        "label": "Product grid",
-        "reason": "This product grid is a WordPress query, not a fixed column layout."
-      }
-    ],
-    "verify": "Open /preview/markets/defense/ (private, noindex) beside https://titanium.com/markets/defense/. Check the grid (lead-three-fifths, thirds, two-one, wide-fifths, quality-split, wide-fifths, quality-split, wide-fifths), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+    "convertedAt": "2026-09-24T20:36:34.039Z",
+    "grid": "lead-three-fifths | thirds | two-one | fifths | wide-fifths | quality-split | wide-fifths | quality-split | wide-fifths",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/markets/defense/ (private, noindex) beside https://titanium.com/markets/defense/. Check the grid (lead-three-fifths, thirds, two-one, fifths, wide-fifths, quality-split, wide-fifths, quality-split, wide-fifths), pictures, buttons, and the search title. Saving in Payload does not change the public site."
   },
   "siteVisibility": "private_draft",
   "editedByHuman": false

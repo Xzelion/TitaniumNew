@@ -52,6 +52,7 @@ const pages = [
   { file: 'mission-statement.html', name: 'mission' },
   { file: 'message-from-the-president.html', name: 'president' },
   { file: 'global-locations.html', name: 'global-locations' },
+  { file: 'scrap-reclamation-2.html', name: 'scrap-reclamation-2' },
 ]
 
 mkdirSync(draftDir, { recursive: true })

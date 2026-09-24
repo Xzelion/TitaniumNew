@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T20:31:33.898Z",
+  "generatedAt": "2026-09-24T20:36:34.039Z",
   "pages": [
     {
       "path": "/quality-systems/",
@@ -1047,12 +1047,12 @@
         {
           "name": "Links",
           "pass": true,
-          "detail": "5 links kept."
+          "detail": "38 links kept."
         },
         {
           "name": "Media",
           "pass": true,
-          "detail": "12 pictures kept."
+          "detail": "45 pictures kept."
         },
         {
           "name": "Text",
@@ -1060,9 +1060,9 @@
           "detail": "Heading kept: Aerospace"
         },
         {
-          "name": "Product grid locked",
+          "name": "Visible product cards",
           "pass": true,
-          "detail": "This product grid is a WordPress query, not a fixed column layout."
+          "detail": "33 picture cards from the public page."
         }
       ]
     },
@@ -1099,12 +1099,12 @@
         {
           "name": "Links",
           "pass": true,
-          "detail": "7 links kept."
+          "detail": "12 links kept."
         },
         {
           "name": "Media",
           "pass": true,
-          "detail": "13 pictures kept."
+          "detail": "18 pictures kept."
         },
         {
           "name": "Text",
@@ -1112,9 +1112,9 @@
           "detail": "Heading kept: Defense"
         },
         {
-          "name": "Product grid locked",
+          "name": "Visible product cards",
           "pass": true,
-          "detail": "This product grid is a WordPress query, not a fixed column layout."
+          "detail": "5 picture cards from the public page."
         }
       ]
     },
@@ -1218,12 +1218,12 @@
         {
           "name": "Links",
           "pass": true,
-          "detail": "5 links kept."
+          "detail": "17 links kept."
         },
         {
           "name": "Media",
           "pass": true,
-          "detail": "9 pictures kept."
+          "detail": "21 pictures kept."
         },
         {
           "name": "Text",
@@ -1231,9 +1231,9 @@
           "detail": "Heading kept: Titanium Industries | Metal Supplier for Consumer Products"
         },
         {
-          "name": "Product grid locked",
+          "name": "Visible product cards",
           "pass": true,
-          "detail": "This product grid is a WordPress query, not a fixed column layout."
+          "detail": "12 picture cards from the public page."
         }
       ]
     },
@@ -1724,6 +1724,53 @@
           "name": "Protected form locked",
           "pass": true,
           "detail": "Form fields, notifications, and captcha live in WordPress. This draft does not submit the form."
+        }
+      ]
+    },
+    {
+      "path": "/services/scrap-reclamation-2/",
+      "id": "services--scrap-reclamation-2",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Scrap Reclamation - Titanium Industries"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "Scrap Reclamation"
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/services/scrap-reclamation-2/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Scrap Reclamation - Titanium Industries"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "Scrap Reclamation"
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "2 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "0 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "No heading to compare."
         }
       ]
     }
