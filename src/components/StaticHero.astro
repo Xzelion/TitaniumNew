@@ -1,0 +1,245 @@
+---
+interface Stat {
+  value: string;
+  label: string;
+}
+
+interface Props {
+  trustStats: Stat[];
+}
+
+const { trustStats } = Astro.props;
+---
+
+  <!-- ===================== HERO SLIDER ===================== -->
+  <section id="hero-slider" style="position: relative; overflow: hidden; height: calc(100vh - 72px); min-height: 560px; max-height: 800px;">
+
+    <!-- SLIDES -->
+    <div id="slider-track" style="position: absolute; inset: 0;">
+
+      <!-- Slide 1: Specialty Metals Inventory -->
+      <div class="hero-slide" style="position: absolute; inset: 0; opacity: 1; transition: opacity 1s ease;">
+        <div class="slide-bg" style="position: absolute; inset: -5%; background: url('/images/slide-inventory.jpg') center/cover no-repeat; transform: scale(1); transition: transform 8s ease-out;"></div>
+        <div style="position: absolute; inset: 0; background: linear-gradient(135deg, rgba(13,20,60,0.82) 0%, rgba(20,30,80,0.65) 50%, rgba(10,15,40,0.4) 100%);"></div>
+        <div style="position: absolute; inset: 0; display: flex; align-items: center;">
+          <div style="max-width: 1280px; margin: 0 auto; padding: 0 3rem; width: 100%;">
+            <div class="slide-content" style="max-width: 720px; opacity: 0; transform: translateY(30px); transition: opacity 0.8s ease 0.3s, transform 0.8s ease 0.3s;">
+              <div style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.35rem 0.875rem; background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.25); border-radius: 100px; margin-bottom: 1.5rem;">
+                <span style="width: 5px; height: 5px; background: #93c5fd; border-radius: 50%; display: inline-block;"></span>
+                <span style="font-size: 0.75rem; font-weight: 600; color: #e2e8f0; letter-spacing: 0.06em; text-transform: uppercase;">Founded 1972 · AS9100D Certified</span>
+              </div>
+              <h1 style="font-size: clamp(2.25rem, 5vw, 4.5rem); font-weight: 900; line-height: 1.0; letter-spacing: -0.02em; color: #ffffff; margin-bottom: 1.25rem;">
+                The Global Leader in<br>
+                <span style="color: #93c5fd;">Specialty Metals</span>
+              </h1>
+              <p style="font-size: clamp(1rem, 2vw, 1.2rem); color: #cbd5e1; margin-bottom: 2.5rem; line-height: 1.7; max-width: 580px;">
+                Titanium · Nickel Alloys · Stainless Steel · Aluminum · Carbon Steel · Cobalt Chrome — 20+ global service centers, same-day shipping.
+              </p>
+              <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
+                <a href="/contact" style="padding: 0.875rem 2.25rem; background: #ffffff; color: #1b2060; font-size: 1rem; font-weight: 800; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 0.5rem; transition: all 0.2s;"
+                  onmouseenter="this.style.background='#e0e7ff'; this.style.transform='translateY(-2px)'"
+                  onmouseleave="this.style.background='#ffffff'; this.style.transform='translateY(0)'">
+                  Create Quote
+                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+                </a>
+                <a href="/alloys/titanium" style="padding: 0.875rem 2rem; background: transparent; color: #ffffff; font-size: 1rem; font-weight: 600; border-radius: 8px; text-decoration: none; border: 2px solid rgba(255,255,255,0.4); transition: all 0.2s;"
+                  onmouseenter="this.style.borderColor='rgba(255,255,255,0.8)'; this.style.background='rgba(255,255,255,0.1)'"
+                  onmouseleave="this.style.borderColor='rgba(255,255,255,0.4)'; this.style.background='transparent'">
+                  Browse Alloys
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Slide 2: World-Class Multi-Alloy Distributor -->
+      <div class="hero-slide" style="position: absolute; inset: 0; opacity: 0; transition: opacity 1s ease;">
+        <div class="slide-bg" style="position: absolute; inset: -5%; background: url('/images/slide-world-class.png') center/cover no-repeat; transform: scale(1.05); transition: transform 8s ease-out;"></div>
+        <div style="position: absolute; inset: 0; background: linear-gradient(135deg, rgba(10,15,50,0.75) 0%, rgba(20,30,80,0.5) 100%);"></div>
+        <div style="position: absolute; inset: 0; display: flex; align-items: center;">
+          <div style="max-width: 1280px; margin: 0 auto; padding: 0 3rem; width: 100%;">
+            <div class="slide-content" style="max-width: 680px; opacity: 0; transform: translateY(30px); transition: opacity 0.8s ease 0.3s, transform 0.8s ease 0.3s;">
+              <div style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.35rem 0.875rem; background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.25); border-radius: 100px; margin-bottom: 1.5rem;">
+                <span style="width: 5px; height: 5px; background: #93c5fd; border-radius: 50%; display: inline-block;"></span>
+                <span style="font-size: 0.75rem; font-weight: 600; color: #e2e8f0; letter-spacing: 0.06em; text-transform: uppercase;">World-Class Distributor</span>
+              </div>
+              <h2 style="font-size: clamp(2rem, 4.5vw, 4rem); font-weight: 900; line-height: 1.05; color: #ffffff; margin-bottom: 1.25rem;">
+                Multi-Alloy<br>
+                <span style="color: #93c5fd;">Distribution Excellence</span>
+              </h2>
+              <p style="font-size: clamp(1rem, 2vw, 1.15rem); color: #cbd5e1; margin-bottom: 2.5rem; line-height: 1.7; max-width: 560px;">
+                Complete inventory of titanium, nickel, stainless, aluminum, and cobalt chrome mill products. Quick Quote App available for instant pricing.
+              </p>
+              <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
+                <a href="/contact" style="padding: 0.875rem 2.25rem; background: #ffffff; color: #1b2060; font-size: 1rem; font-weight: 800; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 0.5rem; transition: all 0.2s;"
+                  onmouseenter="this.style.background='#e0e7ff'; this.style.transform='translateY(-2px)'"
+                  onmouseleave="this.style.background='#ffffff'; this.style.transform='translateY(0)'">
+                  Create Quote
+                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+                </a>
+                <a href="/contact#rfq" style="padding: 0.875rem 2rem; background: transparent; color: #ffffff; font-size: 1rem; font-weight: 600; border-radius: 8px; text-decoration: none; border: 2px solid rgba(255,255,255,0.4); transition: all 0.2s;"
+                  onmouseenter="this.style.borderColor='rgba(255,255,255,0.8)'; this.style.background='rgba(255,255,255,0.1)'"
+                  onmouseleave="this.style.borderColor='rgba(255,255,255,0.4)'; this.style.background='transparent'">
+                  Submit RFQ
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Slide 3: Markets / Industries -->
+      <div class="hero-slide" style="position: absolute; inset: 0; opacity: 0; transition: opacity 1s ease;">
+        <div class="slide-bg" style="position: absolute; inset: -5%; background: url('/images/slide-markets.jpg') center/cover no-repeat; transform: scale(1.05); transition: transform 8s ease-out;"></div>
+        <div style="position: absolute; inset: 0; background: linear-gradient(135deg, rgba(10,15,50,0.88) 0%, rgba(20,30,80,0.7) 60%, rgba(10,20,60,0.5) 100%);"></div>
+        <div style="position: absolute; inset: 0; display: flex; align-items: center;">
+          <div style="max-width: 1280px; margin: 0 auto; padding: 0 3rem; width: 100%;">
+            <div class="slide-content" style="max-width: 700px; opacity: 0; transform: translateY(30px); transition: opacity 0.8s ease 0.3s, transform 0.8s ease 0.3s;">
+              <div style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.35rem 0.875rem; background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.25); border-radius: 100px; margin-bottom: 1.5rem;">
+                <span style="width: 5px; height: 5px; background: #93c5fd; border-radius: 50%; display: inline-block;"></span>
+                <span style="font-size: 0.75rem; font-weight: 600; color: #e2e8f0; letter-spacing: 0.06em; text-transform: uppercase;">Global Markets</span>
+              </div>
+              <h2 style="font-size: clamp(2rem, 4.5vw, 4rem); font-weight: 900; line-height: 1.05; color: #ffffff; margin-bottom: 1.25rem;">
+                Serving the World's<br>
+                <span style="color: #93c5fd;">Most Demanding Industries</span>
+              </h2>
+              <p style="font-size: clamp(1rem, 2vw, 1.15rem); color: #cbd5e1; margin-bottom: 1.75rem; line-height: 1.7; max-width: 580px;">
+                Aerospace · Defense · Medical · Oil & Gas · Industrial · Marine — global leader since 1972 with AS9100D accreditation at every location.
+              </p>
+              <!-- Market tags -->
+              <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 2rem;">
+                {['Aerospace', 'Defense', 'Medical', 'Oil & Gas', 'Industrial', 'Marine'].map(m => (
+                  <span style="padding: 0.35rem 0.875rem; background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.2); border-radius: 100px; font-size: 0.8rem; font-weight: 600; color: #e2e8f0;">{m}</span>
+                ))}
+              </div>
+              <a href="/contact" style="padding: 0.875rem 2.25rem; background: #ffffff; color: #1b2060; font-size: 1rem; font-weight: 800; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 0.5rem; transition: all 0.2s;"
+                onmouseenter="this.style.background='#e0e7ff'; this.style.transform='translateY(-2px)'"
+                onmouseleave="this.style.background='#ffffff'; this.style.transform='translateY(0)'">
+                Learn More
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Navigation arrows -->
+    <button id="slider-prev" aria-label="Previous slide" style="position: absolute; left: 1.5rem; top: 50%; transform: translateY(-50%); z-index: 10; width: 48px; height: 48px; background: rgba(255,255,255,0.12); backdrop-filter: blur(8px); border: 1px solid rgba(255,255,255,0.25); border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; transition: all 0.2s;"
+      onmouseenter="this.style.background='rgba(255,255,255,0.25)'"
+      onmouseleave="this.style.background='rgba(255,255,255,0.12)'">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2.5"><path d="M15 18l-6-6 6-6"/></svg>
+    </button>
+    <button id="slider-next" aria-label="Next slide" style="position: absolute; right: 1.5rem; top: 50%; transform: translateY(-50%); z-index: 10; width: 48px; height: 48px; background: rgba(255,255,255,0.12); backdrop-filter: blur(8px); border: 1px solid rgba(255,255,255,0.25); border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; transition: all 0.2s;"
+      onmouseenter="this.style.background='rgba(255,255,255,0.25)'"
+      onmouseleave="this.style.background='rgba(255,255,255,0.12)'">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2.5"><path d="M9 18l6-6-6-6"/></svg>
+    </button>
+
+    <!-- Dot indicators -->
+    <div id="slider-dots" style="position: absolute; bottom: 2rem; left: 50%; transform: translateX(-50%); display: flex; gap: 0.625rem; z-index: 10;">
+      <button class="slider-dot active-dot" data-index="0" aria-label="Slide 1" style="width: 10px; height: 10px; border-radius: 50%; border: none; cursor: pointer; background: #ffffff; transition: all 0.3s;"></button>
+      <button class="slider-dot" data-index="1" aria-label="Slide 2" style="width: 10px; height: 10px; border-radius: 50%; border: none; cursor: pointer; background: rgba(255,255,255,0.4); transition: all 0.3s;"></button>
+      <button class="slider-dot" data-index="2" aria-label="Slide 3" style="width: 10px; height: 10px; border-radius: 50%; border: none; cursor: pointer; background: rgba(255,255,255,0.4); transition: all 0.3s;"></button>
+    </div>
+
+    <!-- Stats bar at bottom -->
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; z-index: 10; background: rgba(13,20,60,0.85); backdrop-filter: blur(12px); border-top: 1px solid rgba(255,255,255,0.1);">
+      <div style="max-width: 1280px; margin: 0 auto; display: grid; grid-template-columns: repeat(4, 1fr);">
+        {trustStats.map((stat, i) => (
+          <div style={`padding: 1rem; text-align: center; ${i < trustStats.length - 1 ? 'border-right: 1px solid rgba(255,255,255,0.1);' : ''}`}>
+            <div style="font-size: 1.5rem; font-weight: 900; color: #ffffff; line-height: 1; margin-bottom: 0.2rem;">{stat.value}</div>
+            <div style="font-size: 0.65rem; color: #94a3b8; font-weight: 500; letter-spacing: 0.05em; text-transform: uppercase;">{stat.label}</div>
+          </div>
+        ))}
+      </div>
+    </div>
+
+  </section>
+
+  <script is:inline>
+  (function() {
+    const SLIDES = document.querySelectorAll('.hero-slide');
+    const CONTENTS = document.querySelectorAll('.slide-content');
+    const DOTS = document.querySelectorAll('.slider-dot');
+    const TOTAL = SLIDES.length;
+    let cur = 0;
+    let t = null;
+
+    function show(n) {
+      n = (n + TOTAL) % TOTAL;
+      // Update slides
+      SLIDES.forEach(function(s, i) { s.style.opacity = i === n ? '1' : '0'; });
+      // Update content
+      CONTENTS.forEach(function(c, i) {
+        c.style.opacity = i === n ? '1' : '0';
+        c.style.transform = i === n ? 'translateY(0)' : 'translateY(20px)';
+      });
+      // Update dots
+      DOTS.forEach(function(d, i) {
+        d.style.background = i === n ? '#ffffff' : 'rgba(255,255,255,0.4)';
+        d.style.width = i === n ? '28px' : '10px';
+        d.style.borderRadius = i === n ? '5px' : '50%';
+      });
+      // Ken Burns on incoming slide
+      var bg = SLIDES[n].querySelector('.slide-bg');
+      if (bg) {
+        bg.style.transition = 'none';
+        bg.style.transform = 'scale(1.08)';
+        requestAnimationFrame(function() {
+          requestAnimationFrame(function() {
+            bg.style.transition = 'transform 8s ease-out';
+            bg.style.transform = 'scale(1)';
+          });
+        });
+      }
+      cur = n;
+    }
+
+    function startTimer() {
+      t = setInterval(function() { show(cur + 1); }, 7000);
+    }
+
+    function resetTimer() {
+      clearInterval(t);
+      startTimer();
+    }
+
+    // Init
+    show(0);
+    startTimer();
+
+    // Arrows
+    var prev = document.getElementById('slider-prev');
+    var next = document.getElementById('slider-next');
+    if (prev) prev.addEventListener('click', function() { show(cur - 1); resetTimer(); });
+    if (next) next.addEventListener('click', function() { show(cur + 1); resetTimer(); });
+
+    // Dots
+    DOTS.forEach(function(d, i) {
+      d.addEventListener('click', function() { show(i); resetTimer(); });
+    });
+
+    // Pause on hover
+    var hero = document.getElementById('hero-slider');
+    if (hero) {
+      hero.addEventListener('mouseenter', function() { clearInterval(t); });
+      hero.addEventListener('mouseleave', function() { startTimer(); });
+    }
+  })();
+  </script>
+
+
+<style>
+  .active-dot {
+    width: 28px !important;
+    border-radius: 5px !important;
+    background: #ffffff !important;
+  }
+
+  #hero-slider button {
+    font-family: inherit;
+  }
+</style>

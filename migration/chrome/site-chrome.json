@@ -873,6 +873,6 @@
     "Shop and quote addresses on qqa.titanium.com stay links. The shop app is not rebuilt.",
     "The Firearms menu item is the live label and URL. The Firearms page was not fetched.",
     "The homepage sections under the slider (welcome, product grid, markets, locations) are not part of this hero.",
-    "The public Astro pages still use their static header and footer. This chrome is the Payload global and the private preview."
+    "Local Astro pages and /preview and /editor routes read this document. A production build of public pages keeps the static header, footer, and homepage hero while publishedToSite is off."
   ]
 }
