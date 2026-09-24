@@ -63,11 +63,13 @@ function renderBlock(block: TextBlock): string {
 }
 
 function renderPicture(item: Extract<ColumnItem, { kind: 'picture' }>): string {
+  const icon = item.displayPx ? ' ti-icon' : ''
   const wrapClass =
     item.wrap === 'left' ? 'ti-wrap-left' : item.wrap === 'right' ? 'ti-wrap-right' : 'ti-picture'
-  const img = `<img src="${escapeHtml(item.src)}" alt="${escapeHtml(item.alt)}" />`
+  const size = item.displayPx ? ` style="width:${item.displayPx}px"` : ''
+  const img = `<img src="${escapeHtml(item.src)}" alt="${escapeHtml(item.alt)}"${size} />`
   const framed = item.href ? `<a href="${escapeHtml(item.href)}">${img}</a>` : img
-  return `<figure class="${wrapClass}">${framed}</figure>`
+  return `<figure class="${wrapClass}${icon}">${framed}</figure>`
 }
 
 function layoutCss(): string {
@@ -82,6 +84,8 @@ function layoutCss(): string {
     .ti-text h1, .ti-text h2, .ti-text h3, .ti-text h4 { color: #003366; line-height: 1.2; margin: 0 0 0.6rem; }
     .ti-text p { margin: 0 0 0.8rem; line-height: 1.6; }
     .ti-picture img, .ti-wrap-left img, .ti-wrap-right img { max-width: 100%; height: auto; display: block; }
+    .ti-icon { display: inline-block; margin: 0 6px 6px 0; vertical-align: middle; }
+    .ti-icon img { width: auto; height: auto; display: inline-block; }
     .ti-wrap-left { float: left; margin: ${floatLeft}; max-width: 300px; }
     .ti-wrap-right { float: right; margin: ${floatRight}; max-width: 300px; }
     .ti-float-column::after { content: ""; display: block; clear: both; }

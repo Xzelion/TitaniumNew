@@ -18,6 +18,9 @@ export default buildConfig({
     meta: {
       titleSuffix: ' — Titanium layout',
     },
+    components: {
+      beforeDashboard: ['/components/ReadinessBoard#ReadinessHome'],
+    },
   },
   collections: [Users, Pages],
   editor: lexicalEditor(),

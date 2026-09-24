@@ -6,6 +6,9 @@ export const Pages: CollectionConfig = {
     useAsTitle: 'title',
     defaultColumns: ['title', 'path'],
     description: 'Edit rows and columns here. Saving a draft does not change the public website.',
+    components: {
+      beforeListTable: ['/components/ReadinessBoard#ReadinessList'],
+    },
   },
   access: {
     read: ({ req }) => Boolean(req.user),

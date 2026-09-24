@@ -29,6 +29,8 @@ describe('workspace clicks', () => {
     expect(root.querySelector('[data-field="alt"]')).toBeTruthy()
     expect(root.querySelector('[data-field="body"]')).toBeNull()
     expect(root.querySelector('.ti-drawer textarea')).toBeNull()
+    expect(root.innerHTML).toContain('Back to the row')
+    expect(root.innerHTML).toContain('Unsaved changes')
     expect(root.innerHTML).toContain('Layout editing')
     const visual = root.querySelector('[data-readiness="visual_check"]')
     if (!(visual instanceof HTMLElement)) throw new Error('missing visual check')

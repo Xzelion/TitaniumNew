@@ -1,0 +1,68 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { loadDrafts } from '../lib/drafts';
+import { allLedgerEntries } from '../../shared/page-model/ledger';
+
+const entries = allLedgerEntries(loadDrafts());
+---
+
+<Layout
+  title="Layout editing readiness"
+  description="Private candidate status. Not a public conversion ledger."
+  robots="noindex, nofollow"
+  exactTitle
+>
+  <main class="ledger">
+    <h1>Layout editing readiness</h1>
+    <p>
+      These notes describe this candidate. No page here is a hosted conversion, and none are released on titanium.com.
+    </p>
+    <table>
+      <thead>
+        <tr>
+          <th>Page</th>
+          <th>Layout editing</th>
+          <th>Visual check</th>
+          <th>Published version</th>
+          <th>Last checked</th>
+        </tr>
+      </thead>
+      <tbody>
+        {
+          entries.map((entry) => (
+            <tr>
+              <td>
+                <strong>{entry.title}</strong>
+                <div>{entry.path}</div>
+                <div>{entry.region}</div>
+              </td>
+              <td>
+                <strong>{entry.layoutEditing}</strong>
+                <div>{entry.layoutDetail}</div>
+              </td>
+              <td>
+                <strong>{entry.visualCheck}</strong>
+                <div>{entry.visualDetail}</div>
+              </td>
+              <td>{entry.publishedVersion}</td>
+              <td>
+                {entry.lastChecked}
+                <details>
+                  <summary>Technical evidence</summary>
+                  <p>{entry.evidence}</p>
+                </details>
+              </td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+  </main>
+</Layout>
+
+<style>
+  .ledger { max-width: 1200px; margin: 0 auto; padding: 6rem 1rem 3rem; }
+  table { width: 100%; border-collapse: collapse; }
+  th, td { text-align: left; vertical-align: top; border-bottom: 1px solid #cbd5e1; padding: 0.6rem; }
+  th { color: #003366; }
+</style>

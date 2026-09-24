@@ -9,6 +9,7 @@ export const ROW_PRESETS = [
   'halves',
   'thirds',
   'two-one',
+  'one-two',
   'quality-split',
   'three-one',
   'waterjet-split',
@@ -48,6 +49,11 @@ export interface PictureItem {
   alt: string
   href: string
   wrap: PictureWrap
+  /**
+   * Fixed icon size from the live HTML width attribute (16–80px).
+   * Larger pictures stay fluid. This is not a free-form CSS field.
+   */
+  displayPx?: number
 }
 
 export interface ButtonItem {
@@ -91,6 +97,7 @@ export interface SourceOnlyRegion {
 export interface Provenance {
   sourceUrl: string
   sourceHash: string
+  converterVersion: string
   converterFamily: string
   families: string[]
   convertedAt: string

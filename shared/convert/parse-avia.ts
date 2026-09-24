@@ -14,6 +14,9 @@ import type {
   TextBlock,
 } from '../page-model/types'
 
+/** Bump when the converter output changes so unedited drafts rebuild. */
+export const CONVERTER_VERSION = '2'
+
 const FRACTION_CLASS: Record<string, { key: string }> = {
   av_one_full: { key: '1' },
   av_one_half: { key: '1/2' },
@@ -61,7 +64,9 @@ export function parseAviaHtml(html: string, ids: IdFactory): ParsedPage {
   const bundle = parse(`<div class="entry-content">${columns.map((column) => column.toString()).join('')}</div>`)
   const entry = bundle.querySelector('.entry-content')
   if (!entry) throw new Error('No entry content on this page')
-  const sourceHash = hashSource(`${columns.map((column) => column.toString()).join('\n')}\n${waterjet ? 'waterjet-40-55-15-20' : ''}`)
+  const sourceHash = hashSource(
+    `${columns.map((column) => column.toString()).join('\n')}\n${waterjet ? 'waterjet-40-55-15-20' : ''}\nconverter-${CONVERTER_VERSION}`,
+  )
   const families = familiesFor(rows, sourceOnly)
   const facts = collectFacts(entry)
   const imageUrls = facts.images
@@ -95,6 +100,7 @@ export function toPageDocument(parsed: ParsedPage, now: string): PageDocument {
     provenance: {
       sourceUrl: parsed.seo.canonical || '',
       sourceHash: parsed.sourceHash,
+      converterVersion: CONVERTER_VERSION,
       converterFamily: parsed.converterFamily,
       families: parsed.families,
       convertedAt: now,
@@ -233,6 +239,7 @@ function presetForKeys(keys: string[]): RowPreset {
     '1/2+1/2': 'halves',
     '1/3+1/3+1/3': 'thirds',
     '2/3+1/3': 'two-one',
+    '1/3+2/3': 'one-two',
     '2/5+3/5': 'quality-split',
     '3/4+1/4': 'three-one',
     '2/3': 'lead-two-thirds',
@@ -250,6 +257,7 @@ interface Piece {
   alt?: string
   href?: string
   wrap?: PictureWrap
+  displayPx?: number
   label?: string
   reason?: string
 }
@@ -286,7 +294,7 @@ function walk(node: Node, pieces: Piece[], ids: IdFactory, sourceOnly: SourceOnl
     if (picture) pieces.push(picture)
     return
   }
-  if (tag === 'a' && (cls.includes('avia-button') || isLineCardLink(node))) {
+  if (tag === 'a' && (cls.includes('avia-button') || isLineCardLink(node) || node.querySelector('img'))) {
     pushAnchor(node, pieces)
     return
   }
@@ -324,7 +332,9 @@ function pictureFrom(node: HTMLElement, href: string): Piece | null {
   const alt = cleanText(node.getAttribute('alt') || node.getAttribute('title') || '')
   const tokens = (node.getAttribute('class') ?? '').split(/\s+/)
   const wrap: PictureWrap = tokens.includes('left') ? 'left' : tokens.includes('right') ? 'right' : 'none'
-  return { kind: 'picture', src, alt, href, wrap }
+  const width = Number(node.getAttribute('width'))
+  const displayPx = Number.isInteger(width) && width >= 16 && width <= 80 ? width : undefined
+  return { kind: 'picture', src, alt, href, wrap, ...(displayPx ? { displayPx } : {}) }
 }
 
 function isLineCardLink(node: HTMLElement): boolean {
@@ -389,6 +399,7 @@ function piecesToItems(pieces: Piece[], ids: IdFactory): ColumnItem[] {
         alt: piece.alt ?? '',
         href: piece.href ?? '',
         wrap: piece.wrap ?? 'none',
+        ...(piece.displayPx ? { displayPx: piece.displayPx } : {}),
       })
     } else if (piece.kind === 'button' && piece.text) {
       items.push({

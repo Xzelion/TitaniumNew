@@ -184,6 +184,57 @@ export function removeItem(page: PageDocument, focus: EditorFocus): PageDocument
   return next
 }
 
+export function duplicateItem(
+  page: PageDocument,
+  focus: EditorFocus,
+  ids: IdFactory,
+): { page: PageDocument; focus: EditorFocus } {
+  const next = touch(page)
+  const column = columnIn(next, focus.rowId, focus.columnId)
+  const index = column.items.findIndex((item) => item.id === focus.itemId)
+  if (index < 0) return { page, focus }
+  const copy = clone(column.items[index])
+  copy.id = ids.next(copy.kind)
+  column.items.splice(index + 1, 0, copy)
+  return { page: next, focus: { rowId: focus.rowId, columnId: focus.columnId, itemId: copy.id } }
+}
+
+export function duplicateRow(page: PageDocument, rowId: string, ids: IdFactory): PageDocument {
+  const next = touch(page)
+  const index = next.rows.findIndex((row) => row.id === rowId)
+  if (index < 0) return page
+  const copy = clone(next.rows[index])
+  copy.id = ids.next('row')
+  copy.columns = copy.columns.map((column) => ({
+    id: ids.next('column'),
+    items: column.items.map((item) => ({ ...clone(item), id: ids.next(item.kind) })),
+  }))
+  next.rows.splice(index + 1, 0, copy)
+  return next
+}
+
+export function placeItem(
+  page: PageDocument,
+  from: EditorFocus,
+  toRowId: string,
+  toColumnId: string,
+  beforeItemId?: string,
+): PageDocument {
+  if (from.rowId === toRowId && from.columnId === toColumnId && (!beforeItemId || beforeItemId === from.itemId)) {
+    return page
+  }
+  const next = touch(page)
+  const source = columnIn(next, from.rowId, from.columnId)
+  const index = source.items.findIndex((item) => item.id === from.itemId)
+  if (index < 0) return page
+  const [item] = source.items.splice(index, 1)
+  const target = columnIn(next, toRowId, toColumnId)
+  const before = beforeItemId ? target.items.findIndex((entry) => entry.id === beforeItemId) : -1
+  if (before >= 0) target.items.splice(before, 0, item)
+  else target.items.push(item)
+  return next
+}
+
 export function moveItem(page: PageDocument, focus: EditorFocus, direction: -1 | 1): PageDocument {
   const next = touch(page)
   const column = columnIn(next, focus.rowId, focus.columnId)

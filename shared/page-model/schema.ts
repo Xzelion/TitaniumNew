@@ -80,6 +80,13 @@ function parseItem(value: unknown): ColumnItem {
       href: expectString(value.href, 'Picture link'),
       wrap: oneOf(value.wrap, PICTURE_WRAPS, 'Picture wrap') as PictureWrap,
     }
+    if (value.displayPx !== undefined) {
+      const size = value.displayPx
+      if (typeof size !== 'number' || !Number.isInteger(size) || size < 16 || size > 80) {
+        throw new PageSchemaError('Picture size is not a live icon size')
+      }
+      item.displayPx = size
+    }
     if ('body' in value || 'blocks' in value) {
       throw new PageSchemaError('A picture cannot contain body text')
     }
@@ -154,6 +161,7 @@ function parseProvenance(value: unknown): Provenance {
   return {
     sourceUrl: expectString(value.sourceUrl, 'Source address'),
     sourceHash: expectString(value.sourceHash, 'Source hash'),
+    converterVersion: expectString(value.converterVersion, 'Converter version'),
     converterFamily: expectString(value.converterFamily, 'Converter family'),
     families: value.families,
     convertedAt: expectString(value.convertedAt, 'Converted at'),

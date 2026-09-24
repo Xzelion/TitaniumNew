@@ -145,40 +145,45 @@
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
               "alt": "Titanium Industries | Instagram",
-              "href": "",
-              "wrap": "none"
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
             },
             {
               "id": "picture-18",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
               "alt": "Titanium Industries | LinkedIn",
-              "href": "",
-              "wrap": "none"
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
             },
             {
               "id": "picture-19",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
               "alt": "Titanium Industries | Twitter",
-              "href": "",
-              "wrap": "none"
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
             },
             {
               "id": "picture-20",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
               "alt": "Titanium Industries | Facebook",
-              "href": "",
-              "wrap": "none"
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
             },
             {
               "id": "picture-21",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
               "alt": "Titanium Industries | Youtube",
-              "href": "",
-              "wrap": "none"
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
             }
           ]
         },
@@ -242,13 +247,14 @@
   "publishedVersion": null,
   "provenance": {
     "sourceUrl": "https://titanium.com/oil-gas/",
-    "sourceHash": "2eb0e754cd58dac73a1829f3d0252d098ea8e01296b0225837fb60180884f2f7",
+    "sourceHash": "3e4af5590147b2dd8dcd81349cc36fcd0dbbd79967e8faa2b6370b74c925589a",
+    "converterVersion": "2",
     "converterFamily": "intro-two-one-linecard",
     "families": [
       "equal-3-cta",
       "intro-two-one-linecard"
     ],
-    "convertedAt": "2026-09-24T19:32:40.930Z",
+    "convertedAt": "2026-09-24T19:53:51.383Z",
     "grid": "lead-three-fifths | thirds | two-one | full",
     "remainingSourceOnly": [
       {

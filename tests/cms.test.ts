@@ -5,7 +5,9 @@ import { gateConversion } from '../shared/page-model/hash-gate'
 import { setReadiness } from '../shared/page-model/readiness'
 import { roundTripPageDocument } from '../shared/page-model/schema'
 import { blockingSeoFailures, seoChecks } from '../shared/page-model/seo'
-import { addItem, createIdFactory, setRowPreset } from '../shared/page-model/workspace'
+import { ledgerForDocument, planningEntries } from '../shared/page-model/ledger'
+import { nestedReviewMisses } from '../shared/page-model/review'
+import { addItem, createIdFactory, duplicateItem, placeItem, setRowPreset } from '../shared/page-model/workspace'
 import { renderColumnsHtml } from '../shared/render/columns'
 import { renderWorkspace } from '../shared/editor/render-workspace'
 
@@ -24,7 +26,7 @@ const qualityHtml = `<!doctype html><html><head>
 <div class="flex_column av_one_third flex_column_div"><a class="avia-button" href="https://titanium.com/shop">Shop Now</a></div>
 <div class="flex_column av_two_fifth flex_column_div first column-top-margin"><h2>Quality Approvals</h2><p>AS9100D with ISO 9001.</p></div>
 <div class="flex_column av_three_fifth flex_column_div column-top-margin"><p>Guaranteed reliability for every shipment.</p></div>
-<div class="flex_column av_two_third flex_column_div first"><h2>Intro</h2><p>Follow us [LinkedIn](https://www.linkedin.com/company/titanium-industries).</p><img data-src="https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png" alt="LinkedIn"></div>
+<div class="flex_column av_two_third flex_column_div first"><h2>Intro</h2><p>Follow us <a href="https://www.linkedin.com/company/titanium-industries">LinkedIn</a>.</p><a href="https://www.instagram.com/titaniumindustries/"><img data-src="https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png" width="59" alt="Instagram" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></a></div>
 <div class="flex_column av_one_third flex_column_div"><a href="https://titanium.com/line-card.pdf">Oil Line Card | Download Now</a></div>
 </div></body></html>`
 
@@ -185,7 +187,12 @@ describe('column workspace', () => {
     expect(html).toContain('Description of the picture')
     expect(html).not.toContain('data-field="body"')
     expect(html).toContain('Three equal columns')
-    expect(html).toContain('Quality split')
+    expect(html).toContain('Quality: narrow left / wide right')
+    expect(html).toContain('Full width')
+    expect(html).toContain('Two equal columns')
+    expect(html).toContain('Wide left / narrow right')
+    expect(html).toContain('Narrow left / wide right')
+    expect(html).toContain('Planned / awaiting integration')
     expect(html).toContain('ti-bars')
     expect(html).toContain('Rows and columns')
   })
@@ -200,5 +207,41 @@ describe('column workspace', () => {
     expect(split.columns).toHaveLength(2)
     const text = JSON.stringify(split)
     expect(text).toContain('Precise cutting tolerances')
+  })
+
+  it('keeps a linked icon at its live pixel size and can move or duplicate it', () => {
+    const { page } = convert(qualityHtml)
+    const row = page.rows.find((item) => item.columns.some((column) => column.items.some((entry) => entry.kind === 'picture')))
+    if (!row) throw new Error('missing picture row')
+    const sourceColumn = row.columns.find((column) => column.items.some((entry) => entry.kind === 'picture'))
+    const target = row.columns.find((column) => column !== sourceColumn)
+    const picture = sourceColumn?.items.find((entry) => entry.kind === 'picture')
+    if (!sourceColumn || !target || !picture || picture.kind !== 'picture') throw new Error('missing columns')
+    expect(picture.displayPx).toBe(59)
+    expect(picture.href).toContain('instagram.com')
+    expect(renderColumnsHtml([row])).toContain('width:59px')
+    const moved = placeItem(page, { rowId: row.id, columnId: sourceColumn.id, itemId: picture.id }, row.id, target.id)
+    expect(moved.rows.find((item) => item.id === row.id)?.columns.find((column) => column.id === target.id)?.items.some((entry) => entry.id === picture.id)).toBe(true)
+    const copied = duplicateItem(moved, { rowId: row.id, columnId: target.id, itemId: picture.id }, createIdFactory(90))
+    const ids = copied.page.rows.flatMap((item) => item.columns.flatMap((column) => column.items.map((entry) => entry.id)))
+    expect(new Set(ids).size).toBe(ids.length)
+    expect(copied.focus.itemId).not.toBe(picture.id)
+  })
+
+  it('still finds approval numbers after they move inside a column', () => {
+    const { page } = convert(qualityHtml)
+    expect(nestedReviewMisses(['AS9100D', 'https://titanium.com/line-card.pdf'], page)).toEqual([])
+  })
+
+  it('does not call a local candidate ready or hosted', () => {
+    const { page } = convert(qualityHtml)
+    const entry = ledgerForDocument(page)
+    expect(entry.layoutEditing).toBe('Planned / awaiting integration')
+    expect(entry.visualCheck).toBe('Not yet verified')
+    expect(entry.publishedVersion).toBe('No published version')
+    expect(planningEntries().map((item) => item.layoutEditing)).toEqual(['Not yet verified', 'Not yet verified'])
+    const edited = structuredClone(page)
+    edited.editedByHuman = true
+    expect(ledgerForDocument(edited).visualCheck).toBe('Needs recheck')
   })
 })

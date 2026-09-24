@@ -254,13 +254,14 @@
   "publishedVersion": null,
   "provenance": {
     "sourceUrl": "https://titanium.com/quality-systems/",
-    "sourceHash": "ef4ccce58ecf91e4497eea78d932bbdb45df8431cbec610cff13a4794d715f18",
+    "sourceHash": "b3a34f26c059baa44e5281d768580a69f72a682068e91747469d5cb6d7ba8701",
+    "converterVersion": "2",
     "converterFamily": "quality-split",
     "families": [
       "equal-3-cta",
       "quality-split"
     ],
-    "convertedAt": "2026-09-24T19:32:40.930Z",
+    "convertedAt": "2026-09-24T19:53:51.383Z",
     "grid": "lead-two-thirds | thirds | quality-split",
     "remainingSourceOnly": [],
     "verify": "Open /preview/quality-systems/ (private, noindex) beside https://titanium.com/quality-systems/. Check the grid (lead-two-thirds, thirds, quality-split), pictures, buttons, and the search title. Saving in Payload does not change the public site."

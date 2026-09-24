@@ -40,7 +40,7 @@ export const PRESETS: Record<RowPreset, PresetDefinition> = {
   },
   halves: {
     id: 'halves',
-    label: 'Half and half',
+    label: 'Two equal columns',
     description: 'Two equal columns with the live site gap.',
     bars: [1, 1],
     columns: [
@@ -61,7 +61,7 @@ export const PRESETS: Record<RowPreset, PresetDefinition> = {
   },
   'two-one': {
     id: 'two-one',
-    label: 'Wide left, narrow right',
+    label: 'Wide left / narrow right',
     description: 'Main story on the left (two thirds) and a side card on the right (one third).',
     bars: [2, 1],
     columns: [
@@ -69,10 +69,20 @@ export const PRESETS: Record<RowPreset, PresetDefinition> = {
       { label: 'Side column', widthPercent: third, marginLeftPercent: 6 },
     ],
   },
+  'one-two': {
+    id: 'one-two',
+    label: 'Narrow left / wide right',
+    description: 'A narrow column on the left (one third) and the main story on the right (two thirds).',
+    bars: [1, 2],
+    columns: [
+      { label: 'Narrow column', widthPercent: third, marginLeftPercent: 0 },
+      { label: 'Wide column', widthPercent: twoThird, marginLeftPercent: 6 },
+    ],
+  },
   'quality-split': {
     id: 'quality-split',
-    label: 'Quality split',
-    description: 'Narrow list on the left (two fifths) and the main write-up on the right (three fifths).',
+    label: 'Quality: narrow left / wide right',
+    description: 'Quality System documents on the left (two fifths) and the write-up on the right (three fifths).',
     bars: [2, 3],
     columns: [
       { label: 'List column', widthPercent: twoFifth, marginLeftPercent: 0 },
@@ -133,14 +143,18 @@ export const PRESETS: Record<RowPreset, PresetDefinition> = {
 
 export const PRESET_LIST: PresetDefinition[] = ROW_PRESET_ORDER()
 
+/** Choices a new row offers first. Measured layouts stay available beside them. */
+export const COMMON_PRESET_IDS: RowPreset[] = ['full', 'halves', 'thirds', 'two-one', 'one-two']
+
 function ROW_PRESET_ORDER(): PresetDefinition[] {
   return [
     PRESETS.full,
+    PRESETS.halves,
     PRESETS.thirds,
     PRESETS['two-one'],
+    PRESETS['one-two'],
     PRESETS['quality-split'],
     PRESETS['three-one'],
-    PRESETS.halves,
     PRESETS['waterjet-split'],
     PRESETS['float-wrap'],
     PRESETS['lead-two-thirds'],

@@ -204,40 +204,45 @@
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
               "alt": "Titanium Industries | Instagram",
-              "href": "",
-              "wrap": "none"
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
             },
             {
               "id": "picture-17",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
               "alt": "Titanium Industries | LinkedIn",
-              "href": "",
-              "wrap": "none"
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
             },
             {
               "id": "picture-18",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
               "alt": "Titanium Industries | Twitter",
-              "href": "",
-              "wrap": "none"
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
             },
             {
               "id": "picture-19",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
               "alt": "Titanium Industries | Facebook",
-              "href": "",
-              "wrap": "none"
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
             },
             {
               "id": "picture-20",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
               "alt": "Titanium Industries | Youtube",
-              "href": "",
-              "wrap": "none"
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
             }
           ]
         },
@@ -260,13 +265,14 @@
   "publishedVersion": null,
   "provenance": {
     "sourceUrl": "https://titanium.com/processing/water-jet-cutting/",
-    "sourceHash": "87310d9d390bceb4f0628c5612e7447c730228eb66b42863c9b50eee5e6bc055",
+    "sourceHash": "bb9290371da05361300664a1974b90ee0735350be4d57d0dfa86e33196a686c5",
+    "converterVersion": "2",
     "converterFamily": "waterjet-measured",
     "families": [
       "equal-3-cta",
       "waterjet-measured"
     ],
-    "convertedAt": "2026-09-24T19:32:40.930Z",
+    "convertedAt": "2026-09-24T19:53:51.383Z",
     "grid": "full | thirds | waterjet-split",
     "remainingSourceOnly": [],
     "verify": "Open /preview/processing/water-jet-cutting/ (private, noindex) beside https://titanium.com/processing/water-jet-cutting/. Check the grid (full, thirds, waterjet-split), pictures, buttons, and the search title. Saving in Payload does not change the public site."

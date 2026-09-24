@@ -2,6 +2,18 @@
 
 These items stopped because they need WordPress admin, a Cloudflare allow, or a decision only a person should make. Everything else in this branch continued.
 
+Hosted conversions of existing pages: **0**. The seven drafts in this repository are candidate dry-runs. The readiness screen says **Planned / awaiting integration**, not Ready and not Partly converted on the hosted CMS.
+
+## Handoff notes that this repository cannot confirm
+
+1. **Quality source slice hash** `96850dd25a3d1d4175637bd26b24007253ed58404b8600704d1bd6a1835457e9` (30 blocks, 20 links, zero images) is not in this repository. The candidate uses the public HTML, which includes the title row, the three buttons, and the two-fifths / three-fifths documents row. It is a different hash. Do not treat it as that work-copy slice.
+2. **The 419-page register** (`published-pages.json`, SHA-256 `5afd9a32731af2b58824a893917e817dab1740e9c9e8822faefb02d90f428873`) is not in this repository. The readiness screen keeps those pages at **Not yet verified**.
+3. **Social icon size.** Local notes say 44px. The public HTML `width` and `data-sizes` on the icon images are **59px**. This candidate uses 59px. It does not invent 44px.
+4. **Oil & Gas Create Quote.** Local notes say the words have no link. The public HTML is a button to the quote URL. This candidate keeps that button.
+5. **Interconnect width.** Local notes say two-thirds / one-third. The public HTML is three-quarters / one-quarter. This candidate keeps three-quarters / one-quarter.
+6. **Firearms whole intro.** Local notes describe three buttons, five social images, and a line card. The public URL is still Cloudflare 403 here, so that grid is not converted.
+7. **Fastener and Oil & Gas photos.** Local notes say the fastener photo is stacked in the column and is not floated in the paragraph. The public HTML gives that photo `class="left"` and the page CSS `.left { float: left; margin: 8px 16px 0 0 }`. This candidate floats the photo inside the wide column. It does not turn that row into the Medical full-width wrap.
+
 ## Need from WordPress admin
 
 1. **Firearms layout** — `https://titanium.com/markets/firearms/` returns Cloudflare 403 from this environment (the block page names `wpewaf.com`). The public text is visible through a reader view, but the column classes are not. Do not guess the grid. Please export the page HTML from WordPress, or allow this host, and re-run `npm run convert` after placing the file at `migration/raw/firearms.html`.
