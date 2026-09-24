@@ -1,0 +1,354 @@
+{
+  "generatedAt": "2026-09-24T19:32:40.930Z",
+  "pages": [
+    {
+      "path": "/quality-systems/",
+      "id": "quality-systems",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Quality System - Titanium Industries"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "T.I.’s Industry Leading Quality System delivers guaranteed reliability with a full range of internationally accredited regulatory, OEM and s"
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/quality-systems/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Quality System - Titanium Industries"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "T.I.’s Industry Leading Quality System delivers guaranteed reliability with a full range of internationally accredited regulatory, OEM and s"
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "18 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "0 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Titanium Industries’ Quality Systems"
+        }
+      ]
+    },
+    {
+      "path": "/oil-gas/",
+      "id": "oil-gas",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Discover Titanium Industries | Specialty Metals | Oil & Gas Market | Excellent Quality"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "Titanium Industries | Specialty Metals | Oil & Gas Market T.I. Oil & Gas concentrates Titanium Industries' key resources and capabilities fo"
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/oil-gas/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Discover Titanium Industries | Specialty Metals | Oil & Gas Market | Excellent Quality"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "Titanium Industries | Specialty Metals | Oil & Gas Market T.I. Oil & Gas concentrates Titanium Industries' key resources and capabilities fo"
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "5 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "7 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: T.I. Oil and Gas | Specialty Metals"
+        }
+      ]
+    },
+    {
+      "path": "/markets/fastener-alloys/",
+      "id": "markets--fastener-alloys",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Fastener Alloys | Engineered Fasteners | Titanium Industries | Excellent Service | Contact Us Today"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "Holding the world’s most complete inventory of Pierce Spafford Fastener Alloys across a global service center network."
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/markets/fastener-alloys/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Fastener Alloys | Engineered Fasteners | Titanium Industries | Excellent Service | Contact Us Today"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "Holding the world’s most complete inventory of Pierce Spafford Fastener Alloys across a global service center network."
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "5 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "7 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Pierce Spafford Fastener Alloys"
+        }
+      ]
+    },
+    {
+      "path": "/interconnect-alloys/",
+      "id": "interconnect-alloys",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Discover Interconnect Alloys | Titanium Industries | Contact us for excellent quality"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "T.I. is the global leader in Interconnect Alloys solutions for the Aerospace, Medical, Industrial and Oil & Gas markets."
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/interconnect-alloys/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Discover Interconnect Alloys | Titanium Industries | Contact us for excellent quality"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "T.I. is the global leader in Interconnect Alloys solutions for the Aerospace, Medical, Industrial and Oil & Gas markets."
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "5 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "6 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "No heading to compare."
+        }
+      ]
+    },
+    {
+      "path": "/markets/medical/",
+      "id": "markets--medical",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Discover Titanium Industries | Medical Alloys | Titanium ELI, 1537 Cobalt Chrome, Stainless Steel"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "T.I. provides performance metals like Titanium Grade 5 ELI, Cobalt Chrome, Stainless Steels and more for critical applications with the Medi"
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/markets/medical/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Discover Titanium Industries | Medical Alloys | Titanium ELI, 1537 Cobalt Chrome, Stainless Steel"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "T.I. provides performance metals like Titanium Grade 5 ELI, Cobalt Chrome, Stainless Steels and more for critical applications with the Medi"
+        },
+        {
+          "name": "Medical float wrap",
+          "pass": true,
+          "detail": "5 pictures tuck beside the words."
+        },
+        {
+          "name": "Medical body is not equal columns",
+          "pass": true,
+          "detail": "Wrapped sections stay one column."
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "5 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "11 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Medical"
+        }
+      ]
+    },
+    {
+      "path": "/processing/water-jet-cutting/",
+      "id": "processing--water-jet-cutting",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "5 Advantages of Precision Water Jet Cutting Services | Titanium Industries | Specialty Metals"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "Titanium Industries, Inc. offers Specialty Metals & Services including Precision, Waterjet Metal Cutting - click here to learn more about th"
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/processing/water-jet-cutting/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "5 Advantages of Precision Water Jet Cutting Services | Titanium Industries | Specialty Metals"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "Titanium Industries, Inc. offers Specialty Metals & Services including Precision, Waterjet Metal Cutting - click here to learn more about th"
+        },
+        {
+          "name": "Water jet measured split",
+          "pass": true,
+          "detail": "40% picture, 55% words, 15px gap, 20px offset."
+        },
+        {
+          "name": "Water jet is not equal columns",
+          "pass": true,
+          "detail": "The cutting photo stays in the measured split."
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "3 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "6 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Precision Waterjet Specialty Metal Cutting Services"
+        }
+      ]
+    },
+    {
+      "path": "/markets/additive-manufacturing-build-plates/",
+      "id": "markets--additive-manufacturing-build-plates",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Additive Manufacturing Build Plates | Titanium Industries"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "Discover Titanium Industries' superior metal additive manufacturing build plates. Tailored thicknesses and optimized surface attributes ensu"
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/markets/additive-manufacturing-build-plates/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Additive Manufacturing Build Plates | Titanium Industries"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "Discover Titanium Industries' superior metal additive manufacturing build plates. Tailored thicknesses and optimized surface attributes ensu"
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "5 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "8 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Titanium Industries | Build Plates for Additive Manufacturing"
+        }
+      ]
+    }
+  ]
+}

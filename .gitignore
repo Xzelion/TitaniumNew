@@ -16,6 +16,13 @@ pnpm-debug.log*
 # environment variables
 .env
 .env.production
+cms/.env
+cms/titanium.db
+cms/titanium.db-*
+cms/.next
+
+# live HTML captures include third-party scripts and are not committed
+migration/raw/
 
 # macOS-specific files
 .DS_Store

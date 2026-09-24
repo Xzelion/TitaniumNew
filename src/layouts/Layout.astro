@@ -7,15 +7,29 @@ interface Props {
   title: string;
   description?: string;
   ogImage?: string;
+  ogTitle?: string;
+  ogDescription?: string;
+  /** Use the title and canonical exactly, for pages matched to titanium.com. */
+  exactTitle?: boolean;
+  canonical?: string;
+  robots?: string;
 }
 
 const {
   title,
   description = 'Titanium Industries — The world\'s most trusted source for specialty metals. Distributor of titanium, nickel, stainless steel, aluminum, carbon steel, and cobalt chrome with 20+ global service centers.',
-  ogImage = '/og-default.jpg'
+  ogImage = '/og-default.jpg',
+  ogTitle,
+  ogDescription,
+  exactTitle = false,
+  canonical,
+  robots,
 } = Astro.props;
 
-const canonicalURL = new URL(Astro.url.pathname, Astro.site ?? 'https://titaniumind.com');
+const canonicalURL = canonical ?? new URL(Astro.url.pathname, Astro.site ?? 'https://titaniumind.com').toString();
+const pageTitle = exactTitle ? title : `${title} | Titanium Industries, Inc.`;
+const socialTitle = ogTitle ?? pageTitle;
+const socialDescription = ogDescription ?? description;
 
 const organizationSchema = {
   "@context": "https://schema.org",
@@ -53,22 +67,23 @@ const organizationSchema = {
   <meta name="generator" content={Astro.generator} />
 
   <!-- Primary Meta -->
-  <title>{title} | Titanium Industries, Inc.</title>
+  <title>{pageTitle}</title>
   <meta name="description" content={description} />
   <link rel="canonical" href={canonicalURL} />
+  {robots && <meta name="robots" content={robots} />}
 
   <!-- Open Graph -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content={canonicalURL} />
-  <meta property="og:title" content={`${title} | Titanium Industries, Inc.`} />
-  <meta property="og:description" content={description} />
+  <meta property="og:title" content={socialTitle} />
+  <meta property="og:description" content={socialDescription} />
   <meta property="og:image" content={ogImage} />
   <meta property="og:site_name" content="Titanium Industries, Inc." />
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content={`${title} | Titanium Industries`} />
-  <meta name="twitter:description" content={description} />
+  <meta name="twitter:title" content={socialTitle} />
+  <meta name="twitter:description" content={socialDescription} />
   <meta name="twitter:image" content={ogImage} />
 
   <!-- Favicon -->

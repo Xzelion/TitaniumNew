@@ -1,0 +1,270 @@
+{
+  "id": "quality-systems",
+  "path": "/quality-systems/",
+  "title": "Quality System - Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Quality System - Titanium Industries",
+    "description": "T.I.’s Industry Leading Quality System delivers guaranteed reliability with a full range of internationally accredited regulatory, OEM and subcontractor quality approvals.",
+    "canonical": "https://titanium.com/quality-systems/",
+    "ogTitle": "Quality System - Titanium Industries",
+    "ogDescription": "T.I.’s Industry Leading Quality System delivers guaranteed reliability with a full range of internationally accredited regulatory, OEM and subcontractor quality approvals.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "lead-two-thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Titanium Industries | Quality Systems"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "http://www.titanium.com/shop",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "quality-split",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Titanium Industries’ Quality Systems"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Quality Approvals"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AS9100D with ISO 9001:2015](https://titanium.com/wp-content/uploads/2026/07/AS9100-ISO-Cert-Expiring-4-6-2029.pdf)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AS9120 Transfer Letter 2024](https://titanium.com/wp-content/uploads/2024/03/Titanium-Industries-AS9120-Special-Transfer-Letter-Feb-2024.docx)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AS9120B with ISO 9001:2015 | Rockaway, NJ, UK & Europe](https://titanium.com/wp-content/uploads/2025/07/71172467-271712-titanium-industries-as9120-certificate-rev-2-mar-2025.pdf)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AS9100D with ISO 9001: 2015 | Taiwan](https://titanium.com/wp-content/uploads/2025/12/322413231213-31261323122025-titanium-industries-asia-inc.-taiwan-branch-certificate-267741-rc-2026.pdf)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AS9100D China](https://titanium.com/wp-content/uploads/2025/07/42329477-certif-EN.pdf)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ISO 9001 China](https://titanium.com/wp-content/uploads/2024/01/42329477-certif-ISO.pdf)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Gulfstream Aerospace Approved](https://titanium.com/wp-content/uploads/2018/12/Gulfstream.pdf)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Pratt & Whitney Laboratory Control at Source (LCS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Defense Logistics Agency Approved (DLA)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "NACE & NORSOK Approved"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Supporting a full range of OEM Approvals and Accreditation’s"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Policy Statements"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Health and Safety Statement"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Quality Assurance Statement](https://titanium.com/wp-content/uploads/2019/06/QA105-Rev.-1-Quality-Statement.pdf)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Conflict Minerals Statement](https://titanium.com/wp-content/uploads/2023/01/Conflict-Minerals-Statement.pdf)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[CMRT Conflict Compliance](https://titanium.com/wp-content/uploads/2026/05/RMI-CMRT-6.6-May-72026.xlsx)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[REACH (SVHC)](https://titanium.com/wp-content/uploads/2023/08/REACH-7-1-2023.pdf)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[RoHS3](https://titanium.com/wp-content/uploads/2023/01/TI-RoHS-3-Statement.pdf)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Prop 65](https://titanium.com/wp-content/uploads/2023/01/Prop-65.pdf)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Raw Material Quality Clause Requirements (QA #285)](https://titanium.com/wp-content/uploads/2022/06/QA285-Rev.7-Raw-Material-Quality-Requirements.pdf)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[DFARS Clauses](https://www.acquisition.gov/dfars/part-252-solicitation-provisions-and-contract-clauses)"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Safety Data Sheets"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[SDS CP Titanium-English Version](https://titanium.com/wp-content/uploads/2021/10/SDS-CP-Titanium.doc)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[SDS CP Titanium-French Version](https://titanium.com/wp-content/uploads/2019/06/SDS-CP-Titanium-French-Version-20-06-2019.pdf)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[SDS Titanium Alloys-English Version](https://titanium.com/wp-content/uploads/2021/10/SDS-Titanium-Alloys.doc)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[SDS Titanium Alloys-French Version](https://titanium.com/wp-content/uploads/2019/06/SDS-Titanium-Alloys-French-Version-20-06-2019.pdf)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "T.I.’s Industry Leading Quality System delivers guaranteed reliability with a full range of internationally accredited regulatory, OEM and subcontractor quality approvals."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "At Titanium Industries (T.I.), our customers demand the most sophisticated quality systems and T.I. performs. That is why we are recognized globally for our world class quality. Our full range of internationally accredited regulatory and OEM/sub-tier quality approvals proves that quality is paramount at T.I. Our experienced staff, state of the art ERP system, training policy, internal/external audit programs, and continuous improvement and preventive action systems guarantee that your product meets the highest quality standards every time."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "T.I. has maintained third party registration AS9100 and ISO 9001 since March 2016. Presently TI’s quality system is registered to AS9100 Rev D and ISO 9001-2015."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "We offer 100% positive material identification services to our customers. With highly qualified dedicated personnel at all global locations and products 100% traceable to an approved melt source, T.I. provides immediate quality and technical support to our Aerospace, Medical, Industrial, and Oil & Gas customer needs, 24/7, worldwide."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "T.I. provides on-going training for all personnel to ensure every level of the organization understands, implements, and is compliant with all quality procedures and customer requirements."
+                }
+              ]
+            },
+            {
+              "id": "button-16",
+              "kind": "button",
+              "label": "Customer Satisfaction Survey",
+              "href": "https://titanium.com/customer-satisfaction-survey/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/quality-systems/",
+    "sourceHash": "ef4ccce58ecf91e4497eea78d932bbdb45df8431cbec610cff13a4794d715f18",
+    "converterFamily": "quality-split",
+    "families": [
+      "equal-3-cta",
+      "quality-split"
+    ],
+    "convertedAt": "2026-09-24T19:32:40.930Z",
+    "grid": "lead-two-thirds | thirds | quality-split",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/quality-systems/ (private, noindex) beside https://titanium.com/quality-systems/. Check the grid (lead-two-thirds, thirds, quality-split), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

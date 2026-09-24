@@ -1,0 +1,127 @@
+{
+  "generatedAt": "2026-09-24T19:32:40.930Z",
+  "sitemap": {
+    "capturedInRepoBeforeThisChange": 0,
+    "publicSitemapUrls": 404
+  },
+  "pages": [
+    {
+      "path": "/quality-systems/",
+      "id": "quality-systems",
+      "action": "write",
+      "reason": "New private draft.",
+      "grid": "lead-two-thirds | thirds | quality-split",
+      "families": [
+        "equal-3-cta",
+        "quality-split"
+      ],
+      "converterFamily": "quality-split",
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/quality-systems/ (private, noindex) beside https://titanium.com/quality-systems/. Check the grid (lead-two-thirds, thirds, quality-split), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "ef4ccce58ecf91e4497eea78d932bbdb45df8431cbec610cff13a4794d715f18"
+    },
+    {
+      "path": "/oil-gas/",
+      "id": "oil-gas",
+      "action": "write",
+      "reason": "New private draft.",
+      "grid": "lead-three-fifths | thirds | two-one | full",
+      "families": [
+        "equal-3-cta",
+        "intro-two-one-linecard"
+      ],
+      "converterFamily": "intro-two-one-linecard",
+      "remainingSourceOnly": [
+        {
+          "id": "source-27",
+          "label": "Product grid",
+          "reason": "This product grid is a WordPress query, not a fixed column layout."
+        }
+      ],
+      "verify": "Open /preview/oil-gas/ (private, noindex) beside https://titanium.com/oil-gas/. Check the grid (lead-three-fifths, thirds, two-one, full), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "2eb0e754cd58dac73a1829f3d0252d098ea8e01296b0225837fb60180884f2f7"
+    },
+    {
+      "path": "/markets/fastener-alloys/",
+      "id": "markets--fastener-alloys",
+      "action": "write",
+      "reason": "New private draft.",
+      "grid": "lead-three-quarters | thirds | two-one",
+      "families": [
+        "equal-3-cta",
+        "intro-two-one-linecard"
+      ],
+      "converterFamily": "intro-two-one-linecard",
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/markets/fastener-alloys/ (private, noindex) beside https://titanium.com/markets/fastener-alloys/. Check the grid (lead-three-quarters, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "0b94634daeac56ce2af48808d2a9fcffc15da43704d704dafc44c286e3dae220"
+    },
+    {
+      "path": "/interconnect-alloys/",
+      "id": "interconnect-alloys",
+      "action": "write",
+      "reason": "New private draft.",
+      "grid": "thirds | three-one",
+      "families": [
+        "equal-3-cta",
+        "intro-three-one-linecard"
+      ],
+      "converterFamily": "intro-three-one-linecard",
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/interconnect-alloys/ (private, noindex) beside https://titanium.com/interconnect-alloys/. Check the grid (thirds, three-one), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "df148d662b5754e987f1cc568236ec371d40276b74c1bfb0f6d993569fffad09"
+    },
+    {
+      "path": "/markets/medical/",
+      "id": "markets--medical",
+      "action": "write",
+      "reason": "New private draft.",
+      "grid": "full | thirds | two-one | halves | float-wrap | float-wrap | float-wrap | float-wrap | float-wrap",
+      "families": [
+        "equal-3-cta",
+        "intro-two-one-linecard",
+        "medical-float"
+      ],
+      "converterFamily": "medical-float",
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/markets/medical/ (private, noindex) beside https://titanium.com/markets/medical/. Check the grid (full, thirds, two-one, halves, float-wrap, float-wrap, float-wrap, float-wrap, float-wrap), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "91c7ae1902102c360214c82dea979061d403c98ce78f9d9ff9d6c0b0db414aaa"
+    },
+    {
+      "path": "/processing/water-jet-cutting/",
+      "id": "processing--water-jet-cutting",
+      "action": "write",
+      "reason": "New private draft.",
+      "grid": "full | thirds | waterjet-split",
+      "families": [
+        "equal-3-cta",
+        "waterjet-measured"
+      ],
+      "converterFamily": "waterjet-measured",
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/processing/water-jet-cutting/ (private, noindex) beside https://titanium.com/processing/water-jet-cutting/. Check the grid (full, thirds, waterjet-split), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "87310d9d390bceb4f0628c5612e7447c730228eb66b42863c9b50eee5e6bc055"
+    },
+    {
+      "path": "/markets/additive-manufacturing-build-plates/",
+      "id": "markets--additive-manufacturing-build-plates",
+      "action": "write",
+      "reason": "New private draft.",
+      "grid": "lead-three-fifths | thirds | two-one",
+      "families": [
+        "equal-3-cta",
+        "intro-two-one-linecard"
+      ],
+      "converterFamily": "intro-two-one-linecard",
+      "remainingSourceOnly": [
+        {
+          "id": "source-25",
+          "label": "Gravity Form",
+          "reason": "Form fields, notifications, and captcha live in WordPress. This draft does not submit the form."
+        }
+      ],
+      "verify": "Open /preview/markets/additive-manufacturing-build-plates/ (private, noindex) beside https://titanium.com/markets/additive-manufacturing-build-plates/. Check the grid (lead-three-fifths, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "4eebdf7542c22313799bb4d4969be698cc4867a3d6d8a8a7f89729d82dd8354a"
+    }
+  ]
+}

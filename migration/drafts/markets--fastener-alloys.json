@@ -1,0 +1,226 @@
+{
+  "id": "markets--fastener-alloys",
+  "path": "/markets/fastener-alloys/",
+  "title": "Fastener Alloys | Engineered Fasteners | Titanium Industries | Excellent Service | Contact Us Today",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Fastener Alloys | Engineered Fasteners | Titanium Industries | Excellent Service | Contact Us Today",
+    "description": "Holding the world’s most complete inventory of Pierce Spafford Fastener Alloys across a global service center network.",
+    "canonical": "https://titanium.com/markets/fastener-alloys/",
+    "ogTitle": "Fastener Alloys | Engineered Fasteners | Titanium Industries | Excellent Service | Contact Us Today",
+    "ogDescription": "Holding the world’s most complete inventory of Pierce Spafford Fastener Alloys across a global service center network.",
+    "ogImage": "https://titanium.com/wp-content/uploads/2019/11/fastener-alloys-600.jpg"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Pierce Spafford Fastener Alloys"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://qqa.titanium.com/product?type=mill-product",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Engineered Fastener Alloys"
+                }
+              ]
+            },
+            {
+              "id": "picture-15",
+              "kind": "picture",
+              "src": "https://titanium.com/s/img/wp-content/uploads/2019/11/fastener-alloys-600.jpg",
+              "alt": "Fastener Alloys",
+              "href": "",
+              "wrap": "left"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "T.I. is the global leader in bar and alloy solutions for various markets. Holding the world’s most complete inventory of Pierce Spafford Fastener Alloys across a global service center network, T.I. is perfectly positioned to customize a supply solution for your company."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "With a globally experienced, award winning, and technically driven team, T.I. has been providing dependable, quality driven fastener material solutions to customers for over 40 years with our full line of Pierce Spafford fastener alloys. T.I. delivers supply chain solutions at all levels of sophistication and complexity. T.I. is the global leader in performance fastener metal solutions for the aerospace, medical, industrial and oil & gas markets."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "To gain further insights into Titanium Industries and the diverse markets we cater to with our specialty metals, we invite you to explore our range of other markets:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Additive Manufacturing Build Plates](https://titanium.com/markets/additive-manufacturing-build-plates/) [Aerospace](https://titanium.com/markets/aerospace/) [Industrial](https://titanium.com/markets/industrial/) [Medical](https://titanium.com/markets/medical/) [Defense](https://titanium.com/markets/defense/) [Engineered Fastener Alloys](https://titanium.com/markets/engineered-fasteners/) [Consumer Products](https://titanium.com/markets/consumer-products/) [Interconnect](https://titanium.com/interconnect-alloys/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Follow us on Social Media:"
+                }
+              ]
+            },
+            {
+              "id": "picture-17",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
+              "alt": "Titanium Industries | Instagram",
+              "href": "",
+              "wrap": "none"
+            },
+            {
+              "id": "picture-18",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
+              "alt": "Titanium Industries | LinkedIn",
+              "href": "",
+              "wrap": "none"
+            },
+            {
+              "id": "picture-19",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
+              "alt": "Titanium Industries | Twitter",
+              "href": "",
+              "wrap": "none"
+            },
+            {
+              "id": "picture-20",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
+              "alt": "Titanium Industries | Facebook",
+              "href": "",
+              "wrap": "none"
+            },
+            {
+              "id": "picture-21",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
+              "alt": "Titanium Industries | Youtube",
+              "href": "",
+              "wrap": "none"
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-22",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "[Fastener Line Card | Download Now](https://titanium.com/wp-content/uploads/2021/10/Fastener-Line-Card-Titanium-Industries.pdf)"
+                }
+              ]
+            },
+            {
+              "id": "picture-23",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2022/02/Fastener-Line-Card-Titanium-Industries-pdf-232x300.jpg",
+              "alt": "",
+              "href": "https://titanium.com/wp-content/uploads/2021/10/Fastener-Line-Card-Titanium-Industries.pdf",
+              "wrap": "none"
+            },
+            {
+              "id": "button-24",
+              "kind": "button",
+              "label": "Engineered Fastener Line Card | Titanium Industries",
+              "href": "https://titanium.com/wp-content/uploads/2021/10/Fastener-Line-Card-Titanium-Industries.pdf",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/markets/fastener-alloys/",
+    "sourceHash": "0b94634daeac56ce2af48808d2a9fcffc15da43704d704dafc44c286e3dae220",
+    "converterFamily": "intro-two-one-linecard",
+    "families": [
+      "equal-3-cta",
+      "intro-two-one-linecard"
+    ],
+    "convertedAt": "2026-09-24T19:32:40.930Z",
+    "grid": "lead-three-quarters | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/markets/fastener-alloys/ (private, noindex) beside https://titanium.com/markets/fastener-alloys/. Check the grid (lead-three-quarters, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}
