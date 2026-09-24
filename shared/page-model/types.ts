@@ -27,9 +27,38 @@ export const ROW_PRESETS = [
   'fifths',
   'sixths',
   'near-halves',
+  'custom',
 ] as const
 
 export type RowPreset = (typeof ROW_PRESETS)[number]
+
+/** Live Enfold column widths. Marketing picks one of these. The numbers are not free-form CSS. */
+export const COLUMN_WIDTH_IDS = [
+  'full',
+  'half',
+  'third',
+  'two-thirds',
+  'quarter',
+  'three-quarters',
+  'fifth',
+  'two-fifths',
+  'three-fifths',
+  'four-fifths',
+  'sixth',
+  'flush-half',
+  'flush-third',
+  'flush-two-thirds',
+  'flush-quarter',
+  'flush-three-quarters',
+  'flush-fifth',
+  'flush-two-fifths',
+  'flush-three-fifths',
+  'flush-four-fifths',
+  'flush-sixth',
+  'flush-near-half',
+] as const
+
+export type ColumnWidthId = (typeof COLUMN_WIDTH_IDS)[number]
 
 export const PICTURE_WRAPS = ['none', 'left', 'right'] as const
 
@@ -79,6 +108,8 @@ export type ColumnItem = TextItem | PictureItem | ButtonItem
 export interface Column {
   id: string
   items: ColumnItem[]
+  /** Live Enfold width. Present when the row layout is custom. */
+  width?: ColumnWidthId
 }
 
 export interface Row {

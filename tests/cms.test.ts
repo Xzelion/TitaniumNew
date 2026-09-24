@@ -224,8 +224,8 @@ describe('family converters', () => {
 <link rel="canonical" href="https://titanium.com/markets/industrial/">
 <meta property="og:title" content="Industrial"><meta property="og:description" content="Industrial markets at Titanium Industries.">
 </head><body>
-<div class="flex_column av_one_sixth flex_column_div first"><p>Round bar</p></div>
-<div class="flex_column av_one_sixth flex_column_div"><p>Plate</p></div>
+<div class="flex_column av_one_seventh flex_column_div first"><p>Round bar</p></div>
+<div class="flex_column av_one_seventh flex_column_div"><p>Plate</p></div>
 </body></html>`
     const { parsed, page } = convert(html)
     expect(page.rows).toEqual([])

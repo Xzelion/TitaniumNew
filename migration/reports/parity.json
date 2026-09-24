@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T20:55:29.737Z",
+  "generatedAt": "2026-09-24T21:04:52.498Z",
   "pages": [
     {
       "path": "/quality-systems/",
@@ -1761,6 +1761,194 @@
           "name": "Links",
           "pass": true,
           "detail": "2 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "0 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "No heading to compare."
+        }
+      ]
+    },
+    {
+      "path": "/alloys/alloy-steels/",
+      "id": "alloys--alloy-steels",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Alloy Steel Round Bar | 4130, 4140, 4340, 52100 | Titanium Industries"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "Please find Titanium Industries selection of Alloy Steel Round Bar. T.I. offers many AISI Grades, 4130, 4140, 4340, 8740, E9310, and more."
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/alloys/alloy-steels/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Alloy Steel Round Bar | 4130, 4140, 4340, 52100 | Titanium Industries"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "Please find Titanium Industries selection of Alloy Steel Round Bar. T.I. offers many AISI Grades, 4130, 4140, 4340, 8740, E9310, and more."
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "4 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "1 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Please find T.I.’s selection of Alloy Steel Round Bar, offered at our world wide"
+        }
+      ]
+    },
+    {
+      "path": "/alloys/nickel-alloys/",
+      "id": "alloys--nickel-alloys",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Nickel Alloys Round & Hollow Bar, Titanium Industries Nickel Alloy Supplier"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "Titanium Industries selection of Nickel Alloys Round Bar and Hollow Bar - Suitable for many demanding aerospace, oil & gas, and industrial a"
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/alloys/nickel-alloys/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Nickel Alloys Round & Hollow Bar, Titanium Industries Nickel Alloy Supplier"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "Titanium Industries selection of Nickel Alloys Round Bar and Hollow Bar - Suitable for many demanding aerospace, oil & gas, and industrial a"
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "4 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "2 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Please find our selection of Nickel Alloy Round Bar and Hollow Bar, below."
+        }
+      ]
+    },
+    {
+      "path": "/alloys/titanium-and-titanium-alloys/",
+      "id": "alloys--titanium-and-titanium-alloys",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Titanium Round Bar, Sheet, Plate, Pipe, Pipe Fittings | Titanium Industries"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "Titanium Industries supplies Titanium Round Bar, Rec Bar, Hollow & Hex Bar, Titanium Plate, Sheet, Block, Wire, Titanium Pipe & Fittings"
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/alloys/titanium-and-titanium-alloys/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Titanium Round Bar, Sheet, Plate, Pipe, Pipe Fittings | Titanium Industries"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "Titanium Industries supplies Titanium Round Bar, Rec Bar, Hollow & Hex Bar, Titanium Plate, Sheet, Block, Wire, Titanium Pipe & Fittings"
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "19 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "24 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Please find our selection of Titanium Round Bar, Titanium Plate & Sheet, Titaniu"
+        }
+      ]
+    },
+    {
+      "path": "/alloys/titanium-and-titanium-alloys/ti-grade-2-cp-3/",
+      "id": "alloys--titanium-and-titanium-alloys--ti-grade-2-cp-3",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Titanium Grade 2 CP 3 | Round Bar, Pipe, Tube, Fittings | UNS# R50400"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "Titanium Grade 2 CP 3 | UNS# R50400 Round Bar, Grade 2 Pipe, Tube, Titanium Pipe Fittings, Titanium Grade 2 Plate, Sheet & More stocked | Ti"
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/alloys/titanium-and-titanium-alloys/ti-grade-2-cp-3/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Titanium Grade 2 CP 3 | Round Bar, Pipe, Tube, Fittings | UNS# R50400"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "Titanium Grade 2 CP 3 | UNS# R50400 Round Bar, Grade 2 Pipe, Tube, Titanium Pipe Fittings, Titanium Grade 2 Plate, Sheet & More stocked | Ti"
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "3 links kept."
         },
         {
           "name": "Media",

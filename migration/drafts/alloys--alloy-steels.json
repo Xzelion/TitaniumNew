@@ -1,0 +1,300 @@
+{
+  "id": "alloys--alloy-steels",
+  "path": "/alloys/alloy-steels/",
+  "title": "Alloy Steel Round Bar | 4130, 4140, 4340, 52100 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Alloy Steel Round Bar | 4130, 4140, 4340, 52100 | Titanium Industries",
+    "description": "Please find Titanium Industries selection of Alloy Steel Round Bar. T.I. offers many AISI Grades, 4130, 4140, 4340, 8740, E9310, and more.",
+    "canonical": "https://titanium.com/alloys/alloy-steels/",
+    "ogTitle": "Alloy Steel Round Bar | 4130, 4140, 4340, 52100 | Titanium Industries",
+    "ogDescription": "Please find Titanium Industries selection of Alloy Steel Round Bar. T.I. offers many AISI Grades, 4130, 4140, 4340, 8740, E9310, and more.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Please find T.I.’s selection of Alloy Steel Round Bar, offered at our world wide locations."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Industries’ selection of [Alloy Steel Round Bar](https://titanium.com/shop/products/mill-products-alloy-steel-round-bar) . With quick turnarounds on quotes and an exceptional selection of specialty metal processing and service capabilities, Titanium Industries is ready to deliver. If you have not located products that you are looking for on our site please do not hesitate to [contact us here or contact your local T. I. Sales Representative.](https://titanium.com/contact-us/)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Buy Now",
+              "href": "https://titanium.com/shop/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "one-three",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "[Alloy Steel Round Bar](https://titanium.com/shop/products/mill-products-alloy-steel-round-bar)"
+                }
+              ]
+            },
+            {
+              "id": "picture-15",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Round_Bar_Hi-300x200.jpg",
+              "alt": "round bar",
+              "href": "https://titanium.com/products/round-bar/",
+              "wrap": "none"
+            },
+            {
+              "id": "button-16",
+              "kind": "button",
+              "label": "Buy Now",
+              "href": "https://titanium.com/shop/products/mill-products-alloy-steel-round-bar",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-17",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel Round Bar Size Range:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum diameter: 0.780″/1.00 mm | Maximum diameter: 14.000″/400.00 mm"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel Round Bar"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AISI 4130 | UNS G41300"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AISI 4140 | UNS G41400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AISI 4340 | UNS G43400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 4340 MOD 300M"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2301](https://titanium.com/ams-2301-specification/) , [AMS 6346](https://titanium.com/ams-6346-specification/) , [AMS 6348](https://titanium.com/ams-6348-specification/) , [AMS 6370](https://titanium.com/ams-6370-specification/) , [AMS-S-6758](https://titanium.com/ams-s-6758-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM A331](https://titanium.com/astm-a331-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2301](https://titanium.com/ams-2301-specification/) , [AMS-S-5626](https://titanium.com/ams-s-5626-specification/) , [AMS 6349](https://titanium.com/ams-6349-specification/) , [AMS 6382](https://titanium.com/ams-6382-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2300](https://titanium.com/ams-2300-specification/) , [AMS 2301](https://titanium.com/ams-2301-specification/) , [AMS 6322](https://titanium.com/ams-6322-specification/) , [AMS 6409](https://titanium.com/ams-6409-specification/) , [AMS 6414](https://titanium.com/ams-6414-specification/) , [AMS 6415](https://titanium.com/ams-6414-specification/) , [AMS 6417](https://titanium.com/ams-6414-specification/) , [AMS 6419](https://titanium.com/ams-6419-specification/) , [AMS 6484](https://titanium.com/ams-6484-specification/) , [AMS-S-6049](https://titanium.com/ams-s-6049-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM A331](https://titanium.com/astm-a331-specification/) , [ASTM A322](https://titanium.com/astm-a322-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2300](https://titanium.com/ams-2300-specification/) , [AMS 6257](https://titanium.com/ams-6257-specification/) , [AMS 6417](https://titanium.com/ams-6417-specification/) , [AMS 6419](https://titanium.com/ams-6419-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "SAE 434M"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM A646](https://titanium.com/astm-a646-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel Round Bar (continued)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6304 (17-22A) | UNS K14675"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AISI 8740 | UNS G87400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AISI E9310 | UNS G93106"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AISI 52100 | UNS G52986"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2301](https://titanium.com/ams-2301-specification/) , [AMS 6304](https://titanium.com/ams-6304-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM A193 (CHEMISTRY ONLY)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2301](https://titanium.com/ams-2301-specification/) , [AMS 6322](https://titanium.com/ams-6322-specification/) , [AMS-S-6049](https://titanium.com/ams-s-6049-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM A331](https://titanium.com/astm-a331-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2301](https://titanium.com/ams-2301-specification/) , [AMS 6260](https://titanium.com/ams-6260-specification-2/) , [AMS 6265](https://titanium.com/ams-6265-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM A322](https://titanium.com/astm-a322-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2301](https://titanium.com/ams-2301-specification/) , [AMS 6440](https://titanium.com/ams-6440-specification/) , [AMS 6444](https://titanium.com/ams-6444-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM A295](https://titanium.com/astm-a295-specification/) , [ASTM A331](https://titanium.com/astm-a331-specification/)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-18",
+      "preset": "custom",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-19",
+          "items": [],
+          "width": "quarter"
+        },
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel Round Bar (continued)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel SAE AISI H-11 | UNS# T20811"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 6485](https://titanium.com/ams-6485-specification/) , [AMS 6487](https://titanium.com/ams-6487-specification/) , [AMS 6488](https://titanium.com/ams-6488-specification/)"
+                }
+              ]
+            }
+          ],
+          "width": "third"
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/alloy-steels/",
+    "sourceHash": "fe5d35aaec491e9c46833e25ac83d4e0697cc96ee89af99a490f8047232c5e40",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta",
+      "custom-column-widths"
+    ],
+    "convertedAt": "2026-09-24T21:04:52.498Z",
+    "grid": "full | thirds | one-three | custom(quarter+third)",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/alloy-steels/ (private, noindex) beside https://titanium.com/alloys/alloy-steels/. Check the grid (full, thirds, one-three, custom(quarter+third)), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

@@ -1,4 +1,4 @@
-import type { RowPreset } from './types'
+import type { ColumnWidthId, Row, RowPreset } from './types'
 
 /**
  * Column geometry taken from the live Enfold stylesheet on titanium.com
@@ -243,6 +243,13 @@ export const PRESETS: Record<RowPreset, PresetDefinition> = {
       { label: 'Second card', widthPercent: nearHalf, marginLeftPercent: 0 },
     ],
   },
+  custom: {
+    id: 'custom',
+    label: 'Custom column widths',
+    description: 'Each column uses a live Enfold width. The row does not have to fill the page.',
+    bars: [1, 2, 1],
+    columns: [],
+  },
 }
 
 export const PRESET_LIST: PresetDefinition[] = ROW_PRESET_ORDER()
@@ -274,6 +281,7 @@ function ROW_PRESET_ORDER(): PresetDefinition[] {
     PRESETS.fifths,
     PRESETS.sixths,
     PRESETS['near-halves'],
+    PRESETS.custom,
   ]
 }
 
@@ -296,3 +304,85 @@ export const FLOAT_WRAP_MEASUREMENT = {
 } as const
 
 export const ENFOLD_ROW_SPACE_PX = 50
+
+export interface ColumnWidthDefinition {
+  id: ColumnWidthId
+  label: string
+  widthPercent: number
+  /** Live `#top .no_margin` width. Margin stays 0. */
+  flush: boolean
+}
+
+const sixthFlush = 16.666666666666668
+
+export const COLUMN_WIDTHS: Record<ColumnWidthId, ColumnWidthDefinition> = {
+  full: { id: 'full', label: 'Full width', widthPercent: 100, flush: false },
+  half: { id: 'half', label: 'Half', widthPercent: half, flush: false },
+  third: { id: 'third', label: 'Third', widthPercent: third, flush: false },
+  'two-thirds': { id: 'two-thirds', label: 'Two thirds', widthPercent: twoThird, flush: false },
+  quarter: { id: 'quarter', label: 'Quarter', widthPercent: quarter, flush: false },
+  'three-quarters': { id: 'three-quarters', label: 'Three quarters', widthPercent: threeQuarter, flush: false },
+  fifth: { id: 'fifth', label: 'Fifth', widthPercent: fifth, flush: false },
+  'two-fifths': { id: 'two-fifths', label: 'Two fifths', widthPercent: twoFifth, flush: false },
+  'three-fifths': { id: 'three-fifths', label: 'Three fifths', widthPercent: threeFifth, flush: false },
+  'four-fifths': { id: 'four-fifths', label: 'Four fifths', widthPercent: fourFifth, flush: false },
+  sixth: { id: 'sixth', label: 'Sixth', widthPercent: sixth, flush: false },
+  'flush-half': { id: 'flush-half', label: 'Half, no gap', widthPercent: 50, flush: true },
+  'flush-third': { id: 'flush-third', label: 'Third, no gap', widthPercent: 33.3, flush: true },
+  'flush-two-thirds': { id: 'flush-two-thirds', label: 'Two thirds, no gap', widthPercent: 66.6, flush: true },
+  'flush-quarter': { id: 'flush-quarter', label: 'Quarter, no gap', widthPercent: 24.9, flush: true },
+  'flush-three-quarters': { id: 'flush-three-quarters', label: 'Three quarters, no gap', widthPercent: 75, flush: true },
+  'flush-fifth': { id: 'flush-fifth', label: 'Fifth, no gap', widthPercent: 20, flush: true },
+  'flush-two-fifths': { id: 'flush-two-fifths', label: 'Two fifths, no gap', widthPercent: 40, flush: true },
+  'flush-three-fifths': { id: 'flush-three-fifths', label: 'Three fifths, no gap', widthPercent: 60, flush: true },
+  'flush-four-fifths': { id: 'flush-four-fifths', label: 'Four fifths, no gap', widthPercent: 80, flush: true },
+  'flush-sixth': { id: 'flush-sixth', label: 'Sixth, no gap', widthPercent: sixthFlush, flush: true },
+  'flush-near-half': { id: 'flush-near-half', label: 'Near half, no gap', widthPercent: nearHalf, flush: true },
+}
+
+export const COLUMN_WIDTH_LIST: ColumnWidthDefinition[] = Object.values(COLUMN_WIDTHS)
+
+const FRACTION_WIDTH: Record<string, { gapped: ColumnWidthId | null; flush: ColumnWidthId | null }> = {
+  '1': { gapped: 'full', flush: 'full' },
+  '1/2': { gapped: 'half', flush: 'flush-half' },
+  '1/3': { gapped: 'third', flush: 'flush-third' },
+  '2/3': { gapped: 'two-thirds', flush: 'flush-two-thirds' },
+  '1/4': { gapped: 'quarter', flush: 'flush-quarter' },
+  '3/4': { gapped: 'three-quarters', flush: 'flush-three-quarters' },
+  '1/5': { gapped: 'fifth', flush: 'flush-fifth' },
+  '2/5': { gapped: 'two-fifths', flush: 'flush-two-fifths' },
+  '3/5': { gapped: 'three-fifths', flush: 'flush-three-fifths' },
+  '4/5': { gapped: 'four-fifths', flush: 'flush-four-fifths' },
+  '1/6': { gapped: 'sixth', flush: 'flush-sixth' },
+  second: { gapped: null, flush: 'flush-near-half' },
+}
+
+export function widthIdForFraction(key: string, flush: boolean): ColumnWidthId | null {
+  const pair = FRACTION_WIDTH[key]
+  if (!pair) return null
+  return flush ? pair.flush : pair.gapped
+}
+
+export function widthIdMatchingSlot(slot: ColumnSlot): ColumnWidthId {
+  const match = COLUMN_WIDTH_LIST.find((width) => width.widthPercent === slot.widthPercent)
+  return match?.id ?? 'quarter'
+}
+
+/** Column geometry for a row. Custom rows use the width stored on each column. */
+export function slotsFor(row: Row): ColumnSlot[] {
+  if (row.preset !== 'custom') return PRESETS[row.preset].columns
+  return row.columns.map((column, index) => {
+    const width = COLUMN_WIDTHS[column.width ?? 'quarter']
+    return {
+      label: width.label,
+      widthPercent: width.widthPercent,
+      marginLeftPercent: width.flush || index === 0 ? 0 : 6,
+    }
+  })
+}
+
+export function rowGridLabel(row: Row): string {
+  if (row.preset !== 'custom') return row.preset
+  const widths = row.columns.map((column) => column.width ?? 'quarter')
+  return `custom(${widths.join('+')})`
+}

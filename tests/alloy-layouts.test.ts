@@ -27,7 +27,7 @@ describe('alloy column presets', () => {
     expect(text).toContain('Al 5.50 – 6.75%')
   })
 
-  it('keeps a lone two-fifths heading and leaves a no-margin quarter pair unmapped', () => {
+  it('keeps a lone two-fifths heading and a no-margin quarter pair at the live no-gap widths', () => {
     expect(PRESETS['lead-two-fifths'].columns[0]).toMatchObject({ widthPercent: 36.4, marginLeftPercent: 0 })
     const lead = parseAviaHtml(
       page(`<div class="flex_column av_two_fifth flex_column_div first"><h3>weight calculator</h3></div>`),
@@ -40,18 +40,20 @@ describe('alloy column presets', () => {
       ),
       createIdFactory(),
     )
-    expect(flush.rows).toEqual([])
-    expect(flush.sourceOnly.some((region) => region.label === 'Unmapped columns')).toBe(true)
+    expect(flush.rows[0]?.preset).toBe('custom')
+    expect(flush.rows[0]?.columns.map((column) => column.width)).toEqual(['flush-quarter', 'flush-three-quarters'])
+    expect(flush.sourceOnly.some((region) => region.label === 'Unmapped columns')).toBe(false)
   })
 
-  it('does not stretch a quarter plus a third into a named row', () => {
+  it('keeps a quarter plus a third as custom widths instead of stretching them', () => {
     const parsed = parseAviaHtml(
       page(
         `<div class="flex_column av_one_fourth flex_column_div first"><p>Continued</p></div><div class="flex_column av_one_third flex_column_div"><p>H-11</p></div>`,
       ),
       createIdFactory(),
     )
-    expect(parsed.rows).toEqual([])
-    expect(parsed.sourceOnly.some((region) => region.reason.includes('1/4 + 1/3'))).toBe(true)
+    expect(parsed.rows[0]?.preset).toBe('custom')
+    expect(parsed.rows[0]?.columns.map((column) => column.width)).toEqual(['quarter', 'third'])
+    expect(parsed.rows.some((row) => row.preset === 'thirds' || row.preset === 'one-three')).toBe(false)
   })
 })

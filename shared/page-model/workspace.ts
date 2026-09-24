@@ -1,4 +1,4 @@
-import { PRESETS } from './presets'
+import { COLUMN_WIDTHS, PRESETS, widthIdMatchingSlot } from './presets'
 import { setReadiness } from './readiness'
 import { markdownToBlocks } from './text-format'
 import type {
@@ -11,6 +11,7 @@ import type {
   Row,
   RowPreset,
   SeoFields,
+  ColumnWidthId,
 } from './types'
 
 export interface IdFactory {
@@ -53,6 +54,14 @@ export function addRow(page: PageDocument, ids: IdFactory, preset: RowPreset = '
 }
 
 export function createRow(ids: IdFactory, preset: RowPreset, spaceAbove = false): Row {
+  if (preset === 'custom') {
+    return {
+      id: ids.next('row'),
+      preset,
+      spaceAbove,
+      columns: [{ id: ids.next('column'), items: [], width: 'full' }],
+    }
+  }
   return {
     id: ids.next('row'),
     preset,
@@ -81,6 +90,17 @@ export function setRowPreset(page: PageDocument, rowId: string, preset: RowPrese
   const next = touch(page)
   const row = next.rows.find((item) => item.id === rowId)
   if (!row || row.preset === preset) return page
+  if (preset === 'custom') {
+    const previous = row.preset === 'custom' ? null : PRESETS[row.preset]
+    row.columns = row.columns.map((column, index) => {
+      const slot = previous?.columns[index]
+      const width = slot ? widthIdMatchingSlot(slot) : column.width ?? 'quarter'
+      return { id: column.id, items: clone(column.items), width }
+    })
+    if (row.columns.length === 0) row.columns.push({ id: ids.next('column'), items: [], width: 'full' })
+    row.preset = 'custom'
+    return next
+  }
   const wanted = PRESETS[preset].columns.length
   const columns = row.columns.map((column) => clone(column))
   if (columns.length > wanted) {
@@ -92,7 +112,36 @@ export function setRowPreset(page: PageDocument, rowId: string, preset: RowPrese
     columns.push({ id: ids.next('column'), items: [] })
   }
   row.preset = preset
-  row.columns = columns
+  row.columns = columns.map((column) => ({ id: column.id, items: column.items }))
+  return next
+}
+
+export function setColumnWidth(page: PageDocument, rowId: string, columnId: string, width: ColumnWidthId): PageDocument {
+  const next = touch(page)
+  const row = next.rows.find((item) => item.id === rowId)
+  const column = row?.columns.find((item) => item.id === columnId)
+  if (!row || row.preset !== 'custom' || !column || !COLUMN_WIDTHS[width]) return page
+  column.width = width
+  return next
+}
+
+export function addCustomColumn(page: PageDocument, rowId: string, ids: IdFactory): PageDocument {
+  const next = touch(page)
+  const row = next.rows.find((item) => item.id === rowId)
+  if (!row || row.preset !== 'custom' || row.columns.length >= 12) return page
+  row.columns.push({ id: ids.next('column'), items: [], width: 'quarter' })
+  return next
+}
+
+export function removeCustomColumn(page: PageDocument, rowId: string, columnId: string): PageDocument {
+  const next = touch(page)
+  const row = next.rows.find((item) => item.id === rowId)
+  if (!row || row.preset !== 'custom' || row.columns.length <= 1) return page
+  const index = row.columns.findIndex((column) => column.id === columnId)
+  if (index < 0) return page
+  const [removed] = row.columns.splice(index, 1)
+  const neighbor = row.columns[Math.max(0, index - 1)]
+  if (removed && neighbor) neighbor.items.push(...removed.items)
   return next
 }
 
@@ -207,6 +256,7 @@ export function duplicateRow(page: PageDocument, rowId: string, ids: IdFactory):
   copy.id = ids.next('row')
   copy.columns = copy.columns.map((column) => ({
     id: ids.next('column'),
+    ...(column.width ? { width: column.width } : {}),
     items: column.items.map((item) => ({ ...clone(item), id: ids.next(item.kind) })),
   }))
   next.rows.splice(index + 1, 0, copy)

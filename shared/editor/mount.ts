@@ -1,7 +1,8 @@
 import { setReadiness } from '../page-model/readiness'
-import type { EditorFocus, PageDocument, PictureWrap, RowPreset, SeoFields } from '../page-model/types'
-import { ROW_PRESETS } from '../page-model/types'
+import type { ColumnWidthId, EditorFocus, PageDocument, PictureWrap, RowPreset, SeoFields } from '../page-model/types'
+import { COLUMN_WIDTH_IDS, ROW_PRESETS } from '../page-model/types'
 import {
+  addCustomColumn,
   addItem,
   addRow,
   createIdFactory,
@@ -11,8 +12,10 @@ import {
   moveItem,
   moveRow,
   placeItem,
+  removeCustomColumn,
   removeItem,
   removeRow,
+  setColumnWidth,
   setRowPreset,
   setSpaceAbove,
   updateButtonVariant,
@@ -62,6 +65,14 @@ export function mountWorkspace(
       commit(false)
       return
     }
+    if (target.dataset.action === 'column-width') {
+      const rowId = target.dataset.row
+      const columnId = target.dataset.column
+      if (!rowId || !columnId || !isColumnWidth(target.value)) return
+      page = setColumnWidth(page, rowId, columnId, target.value)
+      commit(false)
+      return
+    }
     if (target.dataset.scope === 'seo') {
       const field = target.dataset.field
       if (!field) return
@@ -95,6 +106,11 @@ export function mountWorkspace(
       message = 'Duplicated the row.'
     } else if (action === 'set-preset' && rowId && isPreset(control.dataset.preset)) {
       page = setRowPreset(page, rowId, control.dataset.preset, ids)
+      focus = null
+    } else if (action === 'add-column' && rowId) {
+      page = addCustomColumn(page, rowId, ids)
+    } else if (action === 'remove-column' && rowId && columnId) {
+      page = removeCustomColumn(page, rowId, columnId)
       focus = null
     } else if (action === 'move-column' && rowId && columnId) {
       page = moveColumn(page, rowId, columnId, control.dataset.direction === '-1' ? -1 : 1)
@@ -245,6 +261,10 @@ export function mountWorkspace(
 
 function isPreset(value: string | undefined): value is RowPreset {
   return ROW_PRESETS.some((preset) => preset === value)
+}
+
+function isColumnWidth(value: string | undefined): value is ColumnWidthId {
+  return COLUMN_WIDTH_IDS.some((width) => width === value)
 }
 
 function isReadiness(value: string | undefined): value is PageDocument['readiness'] {

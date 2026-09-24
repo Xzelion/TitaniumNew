@@ -1,12 +1,13 @@
 import { parse, type HTMLElement, type Node } from 'node-html-parser'
 import type { KnownFormNote } from '../forms/gravity-form'
 import { hashSource } from '../page-model/hash-gate'
-import { PRESETS } from '../page-model/presets'
+import { PRESETS, rowGridLabel, widthIdForFraction } from '../page-model/presets'
 import type { IdFactory } from '../page-model/workspace'
 import { createRow } from '../page-model/workspace'
 import type { PortfolioCard } from './portfolio-wxr'
 import type {
   ColumnItem,
+  ColumnWidthId,
   PageDocument,
   PictureWrap,
   Row,
@@ -233,7 +234,7 @@ export function toPageDocument(parsed: ParsedPage, now: string): PageDocument {
       converterFamily: parsed.converterFamily,
       families: parsed.families,
       convertedAt: now,
-      grid: parsed.rows.map((row) => row.preset).join(' | ') || 'none',
+      grid: parsed.rows.map((row) => rowGridLabel(row)).join(' | ') || 'none',
       remainingSourceOnly: parsed.sourceOnly,
       verify: verifyNote(path, parsed),
     },
@@ -245,7 +246,7 @@ export function toPageDocument(parsed: ParsedPage, now: string): PageDocument {
 function verifyNote(path: string, parsed: ParsedPage): string {
   const preview = `/preview${path}`
   const live = parsed.seo.canonical || `https://titanium.com${path}`
-  return `Open ${preview} (private, noindex) beside ${live}. Check the grid (${parsed.rows.map((row) => row.preset).join(', ')}), pictures, buttons, and the search title. Saving in Payload does not change the public site.`
+  return `Open ${preview} (private, noindex) beside ${live}. Check the grid (${parsed.rows.map((row) => rowGridLabel(row)).join(', ')}), pictures, buttons, and the search title. Saving in Payload does not change the public site.`
 }
 
 function pathFromCanonical(canonical: string): string {
@@ -386,18 +387,28 @@ function rowFromColumns(
     )
     return null
   }
-  const flush = columns.every((column) => (column.getAttribute('class') ?? '').split(/\s+/).includes('no_margin'))
-  const preset = presetForKeys(keys, flush)
-  if (!preset) {
+  const flushFlags = columns.map(isNoMargin)
+  const anyFlush = flushFlags.some(Boolean)
+  const knownKeys = keys.filter((key): key is string => key !== null)
+  const preset = anyFlush ? null : presetForKeys(knownKeys)
+  const widths = keys.map((key, index) => (key ? widthIdForFraction(key, flushFlags[index] ?? false) : null))
+  if (!preset && widths.some((width) => width === null)) {
     const shown = keys.join(' + ')
-    const reason = flush
-      ? `This row uses no-margin column widths (${shown}). A no-margin quarter is 24.9% and a no-margin three-quarter is 75%, with no 6% gap. A no-margin fifth is 20% and a no-margin four-fifth is 80%. It was not forced into the gapped preset.`
-      : `This row uses column widths (${shown}) that are not a named preset. It was not forced into a full-width row.`
+    const reason = anyFlush
+      ? `This row uses no-margin column widths (${shown}) that are not live Enfold widths. It was not forced into a gapped preset.`
+      : `This row uses column widths (${shown}) that are not live Enfold widths. It was not forced into a full-width row.`
     pushSource(sourceOnly, ids, 'Unmapped columns', reason)
     return null
   }
   const spaceAbove = columns.some((column) => (column.getAttribute('class') ?? '').includes('column-top-margin'))
-  const row = createRow(ids, preset, spaceAbove)
+  const row = preset
+    ? createRow(ids, preset, spaceAbove)
+    : {
+        id: ids.next('row'),
+        preset: 'custom' as const,
+        spaceAbove,
+        columns: (widths as ColumnWidthId[]).map((width) => ({ id: ids.next('column'), items: [], width })),
+      }
   columns.forEach((column, index) => {
     const target = row.columns[index]
     if (!target) return
@@ -415,20 +426,24 @@ function rowFromColumns(
   return row
 }
 
-const WIDTH_TOKEN = /^av_(?:one|two|three|four|five|six)_(?:full|half|third|fourth|fifth|sixth|second)$/
+const WIDTH_TOKEN = /^av_(?:one|two|three|four|five|six|seven|eight|nine|ten)_/
+
+function isNoMargin(column: HTMLElement): boolean {
+  return (column.getAttribute('class') ?? '').split(/\s+/).includes('no_margin')
+}
 
 function widthKey(column: HTMLElement): string | null {
   const tokens = (column.getAttribute('class') ?? '').split(/\s+/)
   const known = tokens.find((token) => token in FRACTION_CLASS)
   if (known) return FRACTION_CLASS[known].key
+  if (tokens.includes('av_one_sixth')) return '1/6'
+  if (tokens.includes('av_one_second')) return 'second'
   if (tokens.some((token) => WIDTH_TOKEN.test(token))) return null
   return '1'
 }
 
-function presetForKeys(keys: string[], flush = false): RowPreset | null {
+function presetForKeys(keys: string[]): RowPreset | null {
   const joined = keys.join('+')
-  // no_margin drops the 6% gap and uses a different width (24.9% / 75%, or 40% for two fifths).
-  if (flush && (joined === '1/4+3/4' || joined === '2/5' || joined === '1/5+4/5')) return null
   const map: Record<string, RowPreset> = {
     '1': 'full',
     '1/2': 'halves',
@@ -806,6 +821,7 @@ function familiesFor(rows: Row[], sourceOnly: SourceOnlyRegion[], portfolioAppli
   if (sourceOnly.some((region) => region.label === 'News slider')) families.add('news-slider-blocked')
   if (sourceOnly.some((region) => region.label === 'Card grid')) families.add('custom-card-grid-blocked')
   if (sourceOnly.some((region) => region.label === 'Text width inside the column')) families.add('inner-width-not-split')
+  if (rows.some((row) => row.preset === 'custom')) families.add('custom-column-widths')
   if (sourceOnly.some((region) => region.label === 'Unmapped columns')) families.add('unmapped-columns')
   if (families.size === 0) families.add('unclassified')
   return [...families]
@@ -826,6 +842,7 @@ function primaryFamily(families: string[]): string {
     'news-slider-blocked',
     'custom-card-grid-blocked',
     'inner-width-not-split',
+    'custom-column-widths',
     'unmapped-columns',
     'unclassified',
   ]

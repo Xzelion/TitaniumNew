@@ -1,5 +1,5 @@
 import { ledgerForDocument } from '../page-model/ledger'
-import { COMMON_PRESET_IDS, PRESET_LIST, WATERJET_MEASUREMENT, type PresetDefinition } from '../page-model/presets'
+import { COLUMN_WIDTH_LIST, COMMON_PRESET_IDS, PRESET_LIST, slotsFor, WATERJET_MEASUREMENT, type PresetDefinition } from '../page-model/presets'
 import { publishedVersionLabel, READINESS_LABELS } from '../page-model/readiness'
 import { seoChecks } from '../page-model/seo'
 import { blocksToMarkdown } from '../page-model/text-format'
@@ -88,24 +88,35 @@ function renderSeo(page: PageDocument): string {
 }
 
 function renderRow(row: Row, focus: EditorFocus | null): string {
-  const definition = PRESET_LIST.find((preset) => preset.id === row.preset)
+  const slots = slotsFor(row)
   const measured =
     row.preset === 'waterjet-split'
       ? `<p class="ti-measure">Words ${WATERJET_MEASUREMENT.textPercent}%, picture ${WATERJET_MEASUREMENT.imagePercent}%, gap ${WATERJET_MEASUREMENT.gapPx}px, picture ${WATERJET_MEASUREMENT.imageOffsetPx}px lower.</p>`
       : row.preset === 'float-wrap'
         ? '<p class="ti-measure">Pictures tuck to the side and the words wrap around them. This row is not equal columns.</p>'
-        : ''
+        : row.preset === 'custom'
+          ? '<p class="ti-measure">Each column uses a live Enfold width. Columns after the first keep the 6% gap unless you pick a no-gap width. The row does not have to fill the page.</p>'
+          : ''
   const columns = row.columns
     .map((column, index) => {
-      const slot = definition?.columns[index]
+      const slot = slots[index]
       const weight = slot ? slot.widthPercent : 1
       const cards = column.items.map((item) => renderCard(row, column.id, item, focus)).join('')
       const empty = column.items.length === 0 ? '<p class="ti-empty-col">Empty column. Add text, a picture, or a button.</p>' : ''
+      const widthControl =
+        row.preset === 'custom'
+          ? `<label class="ti-column-label">Column width${renderWidthSelect(row.id, column.id, column.width)}</label>`
+          : `<div class="ti-column-label">${escapeHtml(slot?.label ?? 'Column')}</div>`
+      const remove =
+        row.preset === 'custom' && row.columns.length > 1
+          ? `<button type="button" data-action="remove-column" data-row="${row.id}" data-column="${column.id}">Remove column</button>`
+          : ''
       return `<div class="ti-column" style="flex:${weight}" data-row="${row.id}" data-column="${column.id}">
-        <div class="ti-column-label">${escapeHtml(slot?.label ?? 'Column')}</div>
+        ${widthControl}
         <div class="ti-column-tools">
           <button type="button" data-action="move-column" data-row="${row.id}" data-column="${column.id}" data-direction="-1">Move left</button>
           <button type="button" data-action="move-column" data-row="${row.id}" data-column="${column.id}" data-direction="1">Move right</button>
+          ${remove}
         </div>
         <div class="ti-cards">${cards}${empty}</div>
         <div class="ti-add">
@@ -122,6 +133,7 @@ function renderRow(row: Row, focus: EditorFocus | null): string {
       <button type="button" data-action="move-row" data-row="${row.id}" data-direction="1">Move row down</button>
       <button type="button" data-action="duplicate-row" data-row="${row.id}">Duplicate row</button>
       <button type="button" data-action="remove-row" data-row="${row.id}">Remove row</button>
+      ${row.preset === 'custom' ? `<button type="button" data-action="add-column" data-row="${row.id}">Add column</button>` : ''}
       <label class="ti-space"><input type="checkbox" data-action="space-above" data-row="${row.id}" ${row.spaceAbove ? 'checked' : ''} /> Extra space above this row</label>
     </div>
     ${renderPresetPicker(row)}
@@ -174,10 +186,23 @@ function renderCard(row: Row, columnId: string, item: ColumnItem, focus: EditorF
   </div>`
 }
 
+function renderWidthSelect(rowId: string, columnId: string, selected: string | undefined): string {
+  const gapped = COLUMN_WIDTH_LIST.filter((width) => !width.flush)
+  const flush = COLUMN_WIDTH_LIST.filter((width) => width.flush)
+  const option = (width: (typeof COLUMN_WIDTH_LIST)[number]) => {
+    const picked = width.id === selected ? ' selected' : ''
+    return `<option value="${width.id}"${picked}>${escapeHtml(width.label)} · ${width.widthPercent}%</option>`
+  }
+  return `<select data-action="column-width" data-row="${rowId}" data-column="${columnId}" aria-label="Column width">
+    <optgroup label="With the 6% gap">${gapped.map(option).join('')}</optgroup>
+    <optgroup label="No gap">${flush.map(option).join('')}</optgroup>
+  </select>`
+}
+
 function otherColumns(row: Row, columnId: string): { id: string; label: string }[] {
-  const definition = PRESET_LIST.find((preset) => preset.id === row.preset)
+  const slots = slotsFor(row)
   return row.columns
-    .map((column, index) => ({ id: column.id, label: definition?.columns[index]?.label ?? `Column ${index + 1}` }))
+    .map((column, index) => ({ id: column.id, label: slots[index]?.label ?? `Column ${index + 1}` }))
     .filter((column) => column.id !== columnId)
 }
 

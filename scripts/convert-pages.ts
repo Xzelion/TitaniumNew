@@ -54,6 +54,10 @@ const pages = [
   { file: 'global-locations.html', name: 'global-locations' },
   { file: 'scrap-reclamation-2.html', name: 'scrap-reclamation-2' },
   // Alloy listings, grade pages, and technical-data / specification pages.
+  { file: 'alloys--alloy-steels.html', name: 'alloys--alloy-steels' },
+  { file: 'alloys--nickel-alloys.html', name: 'alloys--nickel-alloys' },
+  { file: 'alloys--titanium-and-titanium-alloys.html', name: 'alloys--titanium-and-titanium-alloys' },
+  { file: 'alloys--titanium-and-titanium-alloys--ti-grade-2-cp-3.html', name: 'alloys--titanium-and-titanium-alloys--ti-grade-2-cp-3' },
   { file: 'alloys--alloy-steels--alloy-steel-135m-nitralloy.html', name: 'alloys--alloy-steels--alloy-steel-135m-nitralloy' },
   { file: 'alloys--alloy-steels--alloy-steel-4130.html', name: 'alloys--alloy-steels--alloy-steel-4130' },
   { file: 'alloys--alloy-steels--alloy-steel-4140.html', name: 'alloys--alloy-steels--alloy-steel-4140' },

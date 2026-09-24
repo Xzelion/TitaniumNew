@@ -1,11 +1,13 @@
 import {
   BUTTON_VARIANTS,
+  COLUMN_WIDTH_IDS,
   PICTURE_WRAPS,
   READINESS_VALUES,
   ROW_PRESETS,
   type ButtonItem,
   type ButtonVariant,
   type Column,
+  type ColumnWidthId,
   type ColumnItem,
   type PageDocument,
   type PictureItem,
@@ -105,23 +107,31 @@ function parseItem(value: unknown): ColumnItem {
   throw new PageSchemaError('Unknown column item')
 }
 
-function parseColumn(value: unknown): Column {
+function parseColumn(value: unknown, custom: boolean): Column {
   if (!isRecord(value)) throw new PageSchemaError('Column is invalid')
   if (!Array.isArray(value.items)) throw new PageSchemaError('Column items are invalid')
-  return {
+  const column: Column = {
     id: expectString(value.id, 'Column id'),
     items: value.items.map(parseItem),
   }
+  if (custom) {
+    column.width = oneOf(value.width, COLUMN_WIDTH_IDS, 'Column width') as ColumnWidthId
+  }
+  return column
 }
 
 function parseRow(value: unknown): Row {
   if (!isRecord(value)) throw new PageSchemaError('Row is invalid')
   const preset = oneOf(value.preset, ROW_PRESETS, 'Row layout') as RowPreset
   if (!Array.isArray(value.columns)) throw new PageSchemaError('Row columns are invalid')
-  const columns = value.columns.map(parseColumn)
-  const expected = PRESETS[preset].columns.length
-  if (columns.length !== expected) {
-    throw new PageSchemaError(`${PRESETS[preset].label} needs ${expected} columns`)
+  const custom = preset === 'custom'
+  const columns = value.columns.map((column) => parseColumn(column, custom))
+  if (custom) {
+    if (columns.length < 1 || columns.length > 12) {
+      throw new PageSchemaError('Custom column widths need between 1 and 12 columns')
+    }
+  } else if (columns.length !== PRESETS[preset].columns.length) {
+    throw new PageSchemaError(`${PRESETS[preset].label} needs ${PRESETS[preset].columns.length} columns`)
   }
   return {
     id: expectString(value.id, 'Row id'),

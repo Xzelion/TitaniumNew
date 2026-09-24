@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T20:55:29.737Z",
+  "generatedAt": "2026-09-24T21:04:52.498Z",
   "sitemap": {
     "capturedInRepoBeforeThisChange": 0,
     "publicSitemapUrls": 404
@@ -568,10 +568,70 @@
       "sourceHash": "8231f081d5906c5a3ef62d18b73f63b058d2b99dc17b159239f2d485486442eb"
     },
     {
-      "path": "/alloys/alloy-steels/alloy-steel-135m-nitralloy/",
-      "id": "alloys--alloy-steels--alloy-steel-135m-nitralloy",
+      "path": "/alloys/alloy-steels/",
+      "id": "alloys--alloy-steels",
       "action": "write",
       "reason": "New private draft.",
+      "grid": "full | thirds | one-three | custom(quarter+third)",
+      "families": [
+        "equal-3-cta",
+        "custom-column-widths"
+      ],
+      "converterFamily": "equal-3-cta",
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/alloys/alloy-steels/ (private, noindex) beside https://titanium.com/alloys/alloy-steels/. Check the grid (full, thirds, one-three, custom(quarter+third)), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "fe5d35aaec491e9c46833e25ac83d4e0697cc96ee89af99a490f8047232c5e40"
+    },
+    {
+      "path": "/alloys/nickel-alloys/",
+      "id": "alloys--nickel-alloys",
+      "action": "write",
+      "reason": "New private draft.",
+      "grid": "full | thirds | one-three | custom(quarter+half)",
+      "families": [
+        "equal-3-cta",
+        "custom-column-widths"
+      ],
+      "converterFamily": "equal-3-cta",
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/alloys/nickel-alloys/ (private, noindex) beside https://titanium.com/alloys/nickel-alloys/. Check the grid (full, thirds, one-three, custom(quarter+half)), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "dc55e8328420b392277098cb4eaea000b9c400e887100693c604a78212453647"
+    },
+    {
+      "path": "/alloys/titanium-and-titanium-alloys/",
+      "id": "alloys--titanium-and-titanium-alloys",
+      "action": "write",
+      "reason": "New private draft.",
+      "grid": "full | thirds | full | custom(flush-quarter+flush-three-quarters) | custom(flush-quarter+flush-three-quarters) | custom(flush-quarter+flush-three-quarters) | one-three | one-three | custom(quarter+two-fifths) | one-three | custom(flush-fifth+flush-four-fifths) | thirds | full | halves | halves | halves | halves | halves | full",
+      "families": [
+        "equal-3-cta",
+        "custom-column-widths"
+      ],
+      "converterFamily": "equal-3-cta",
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/alloys/titanium-and-titanium-alloys/ (private, noindex) beside https://titanium.com/alloys/titanium-and-titanium-alloys/. Check the grid (full, thirds, full, custom(flush-quarter+flush-three-quarters), custom(flush-quarter+flush-three-quarters), custom(flush-quarter+flush-three-quarters), one-three, one-three, custom(quarter+two-fifths), one-three, custom(flush-fifth+flush-four-fifths), thirds, full, halves, halves, halves, halves, halves, full), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "003af08b190a08148df7435e36ddc9ac6d5dfdb963403ed9e113e6ca8831616b"
+    },
+    {
+      "path": "/alloys/titanium-and-titanium-alloys/ti-grade-2-cp-3/",
+      "id": "alloys--titanium-and-titanium-alloys--ti-grade-2-cp-3",
+      "action": "write",
+      "reason": "New private draft.",
+      "grid": "full | thirds | two-one | custom(third+quarter+third) | lead-three-fifths | lead-four-fifths | lead-three-quarters",
+      "families": [
+        "equal-3-cta",
+        "custom-column-widths"
+      ],
+      "converterFamily": "equal-3-cta",
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/alloys/titanium-and-titanium-alloys/ti-grade-2-cp-3/ (private, noindex) beside https://titanium.com/alloys/titanium-and-titanium-alloys/ti-grade-2-cp-3/. Check the grid (full, thirds, two-one, custom(third+quarter+third), lead-three-fifths, lead-four-fifths, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "b84325a6ed75ee0f5998d00f2b4be62e43827984932471663058caaa47eb24be"
+    },
+    {
+      "path": "/alloys/alloy-steels/alloy-steel-135m-nitralloy/",
+      "id": "alloys--alloy-steels--alloy-steel-135m-nitralloy",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -584,8 +644,8 @@
     {
       "path": "/alloys/alloy-steels/alloy-steel-4130/",
       "id": "alloys--alloy-steels--alloy-steel-4130",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -598,8 +658,8 @@
     {
       "path": "/alloys/alloy-steels/alloy-steel-4140/",
       "id": "alloys--alloy-steels--alloy-steel-4140",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -612,8 +672,8 @@
     {
       "path": "/alloys/alloy-steels/alloy-steel-52100/",
       "id": "alloys--alloy-steels--alloy-steel-52100",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -626,8 +686,8 @@
     {
       "path": "/alloys/alloy-steels/alloy-steel-6304-17-22a/",
       "id": "alloys--alloy-steels--alloy-steel-6304-17-22a",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths",
       "families": [
         "equal-3-cta"
@@ -640,8 +700,8 @@
     {
       "path": "/alloys/alloy-steels/alloy-steel-aisi-4330/",
       "id": "alloys--alloy-steels--alloy-steel-aisi-4330",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -654,8 +714,8 @@
     {
       "path": "/alloys/alloy-steels/alloy-steel-aisi-4340-mod-300m/",
       "id": "alloys--alloy-steels--alloy-steel-aisi-4340-mod-300m",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -668,8 +728,8 @@
     {
       "path": "/alloys/alloy-steels/alloy-steel-aisi-4815/",
       "id": "alloys--alloy-steels--alloy-steel-aisi-4815",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | lead-two-thirds | lead-three-fifths | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -682,8 +742,8 @@
     {
       "path": "/alloys/alloy-steels/alloy-steel-aisi-6150/",
       "id": "alloys--alloy-steels--alloy-steel-aisi-6150",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -696,8 +756,8 @@
     {
       "path": "/alloys/alloy-steels/alloy-steel-aisi-8740/",
       "id": "alloys--alloy-steels--alloy-steel-aisi-8740",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-fifths",
       "families": [
         "equal-3-cta"
@@ -710,8 +770,8 @@
     {
       "path": "/alloys/alloy-steels/alloy-steel-aisi-e9310-2/",
       "id": "alloys--alloy-steels--alloy-steel-aisi-e9310-2",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-fifths",
       "families": [
         "equal-3-cta"
@@ -724,8 +784,8 @@
     {
       "path": "/alloys/alloy-steels/alloy-steel-aisi-hp-9-4-30/",
       "id": "alloys--alloy-steels--alloy-steel-aisi-hp-9-4-30",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -738,8 +798,8 @@
     {
       "path": "/alloys/alloy-steels/alloy-steel-aisi-sae-h-11/",
       "id": "alloys--alloy-steels--alloy-steel-aisi-sae-h-11",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -752,8 +812,8 @@
     {
       "path": "/alloys/alloy-steels/alloy-steel-grade-4340/",
       "id": "alloys--alloy-steels--alloy-steel-grade-4340",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -766,8 +826,8 @@
     {
       "path": "/alloys/aluminum-alloys/aluminum-alloy-2014/",
       "id": "alloys--aluminum-alloys--aluminum-alloy-2014",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -780,8 +840,8 @@
     {
       "path": "/alloys/aluminum-alloys/aluminum-alloy-2017/",
       "id": "alloys--aluminum-alloys--aluminum-alloy-2017",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths",
       "families": [
         "equal-3-cta"
@@ -794,8 +854,8 @@
     {
       "path": "/alloys/aluminum-alloys/aluminum-alloy-2024/",
       "id": "alloys--aluminum-alloys--aluminum-alloy-2024",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -808,8 +868,8 @@
     {
       "path": "/alloys/aluminum-alloys/aluminum-alloy-6061/",
       "id": "alloys--aluminum-alloys--aluminum-alloy-6061",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -822,8 +882,8 @@
     {
       "path": "/alloys/aluminum-alloys/aluminum-alloy-7050/",
       "id": "alloys--aluminum-alloys--aluminum-alloy-7050",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -836,8 +896,8 @@
     {
       "path": "/alloys/aluminum-alloys/aluminum-alloy-7075/",
       "id": "alloys--aluminum-alloys--aluminum-alloy-7075",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -850,8 +910,8 @@
     {
       "path": "/alloys/aluminum-alloys/",
       "id": "alloys--aluminum-alloys",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | one-two | one-two | one-two",
       "families": [
         "equal-3-cta"
@@ -864,8 +924,8 @@
     {
       "path": "/alloys/carbon-steels/carbon-steel-aisi-1137/",
       "id": "alloys--carbon-steels--carbon-steel-aisi-1137",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -878,8 +938,8 @@
     {
       "path": "/alloys/carbon-steels/carbon-steel-aisi-1215/",
       "id": "alloys--carbon-steels--carbon-steel-aisi-1215",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -892,8 +952,8 @@
     {
       "path": "/alloys/carbon-steels/carbon-steel-aisi-12l14/",
       "id": "alloys--carbon-steels--carbon-steel-aisi-12l14",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -906,8 +966,8 @@
     {
       "path": "/alloys/carbon-steels/carbon-steel-h-11/",
       "id": "alloys--carbon-steels--carbon-steel-h-11",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -920,8 +980,8 @@
     {
       "path": "/alloys/carbon-steels/carbon-steel-sae-aisi-1018/",
       "id": "alloys--carbon-steels--carbon-steel-sae-aisi-1018",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -934,8 +994,8 @@
     {
       "path": "/alloys/carbon-steels/",
       "id": "alloys--carbon-steels",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | one-three",
       "families": [
         "equal-3-cta"
@@ -948,8 +1008,8 @@
     {
       "path": "/alloys/cobalt-chrome/",
       "id": "alloys--cobalt-chrome",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | one-three",
       "families": [
         "equal-3-cta"
@@ -962,8 +1022,8 @@
     {
       "path": "/alloys/copper-alloys/",
       "id": "alloys--copper-alloys",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | thirds",
       "families": [
         "equal-3-cta"
@@ -976,8 +1036,8 @@
     {
       "path": "/alloys/nickel-alloys/alloy_718/",
       "id": "alloys--nickel-alloys--alloy_718",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-four-fifths | full",
       "families": [
         "equal-3-cta"
@@ -990,8 +1050,8 @@
     {
       "path": "/alloys/nickel-alloys/nickel-alloy-625/",
       "id": "alloys--nickel-alloys--nickel-alloy-625",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1004,8 +1064,8 @@
     {
       "path": "/alloys/nickel-alloys/nickel-alloy-750/",
       "id": "alloys--nickel-alloys--nickel-alloy-750",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | quarters | two-one | lead-three-fifths | lead-two-thirds | lead-three-quarters",
       "families": [
         "unclassified"
@@ -1018,8 +1078,8 @@
     {
       "path": "/alloys/nickel-alloys/nickel-alloy-mondel-k500/",
       "id": "alloys--nickel-alloys--nickel-alloy-mondel-k500",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | quarters | two-one | lead-three-fifths | lead-two-thirds",
       "families": [
         "unclassified"
@@ -1032,8 +1092,8 @@
     {
       "path": "/alloys/nickel-alloys/nickel-alloy-mp35n/",
       "id": "alloys--nickel-alloys--nickel-alloy-mp35n",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | quarters | two-one | lead-three-fifths | lead-two-thirds | lead-three-quarters",
       "families": [
         "unclassified"
@@ -1046,8 +1106,8 @@
     {
       "path": "/alloys/nickel-alloys/nickel-alloy-waspaloy/",
       "id": "alloys--nickel-alloys--nickel-alloy-waspaloy",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1060,8 +1120,8 @@
     {
       "path": "/alloys/nickel-alloys/nickel-inconel-600/",
       "id": "alloys--nickel-alloys--nickel-inconel-600",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1074,8 +1134,8 @@
     {
       "path": "/alloys/stainless-steel/aermet-100/",
       "id": "alloys--stainless-steel--aermet-100",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1088,8 +1148,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-13-8ph/",
       "id": "alloys--stainless-steel--stainless-steel-13-8ph",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1102,8 +1162,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-15-5ph/",
       "id": "alloys--stainless-steel--stainless-steel-15-5ph",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1116,8 +1176,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-17-4-ph/",
       "id": "alloys--stainless-steel--stainless-steel-17-4-ph",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1130,8 +1190,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-321/",
       "id": "alloys--stainless-steel--stainless-steel-321",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1144,8 +1204,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-alloy-303se-round-bar/",
       "id": "alloys--stainless-steel--stainless-steel-alloy-303se-round-bar",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | full",
       "families": [
         "equal-3-cta"
@@ -1158,8 +1218,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-alloy-403/",
       "id": "alloys--stainless-steel--stainless-steel-alloy-403",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1172,8 +1232,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-alloy-410/",
       "id": "alloys--stainless-steel--stainless-steel-alloy-410",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1186,8 +1246,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-alloy-416ht/",
       "id": "alloys--stainless-steel--stainless-steel-alloy-416ht",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1200,8 +1260,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-alloy-418/",
       "id": "alloys--stainless-steel--stainless-steel-alloy-418",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1214,8 +1274,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-alloy-420/",
       "id": "alloys--stainless-steel--stainless-steel-alloy-420",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1228,8 +1288,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-alloy-422/",
       "id": "alloys--stainless-steel--stainless-steel-alloy-422",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1242,8 +1302,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-alloy-430/",
       "id": "alloys--stainless-steel--stainless-steel-alloy-430",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1256,8 +1316,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-alloy-430f/",
       "id": "alloys--stainless-steel--stainless-steel-alloy-430f",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1270,8 +1330,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-alloy-431-uns-s43100/",
       "id": "alloys--stainless-steel--stainless-steel-alloy-431-uns-s43100",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1284,8 +1344,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-alloy-440a-2/",
       "id": "alloys--stainless-steel--stainless-steel-alloy-440a-2",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1298,8 +1358,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-custom-455/",
       "id": "alloys--stainless-steel--stainless-steel-custom-455",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1312,8 +1372,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-custom-465/",
       "id": "alloys--stainless-steel--stainless-steel-custom-465",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1326,8 +1386,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-grade-108/",
       "id": "alloys--stainless-steel--stainless-steel-grade-108",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths",
       "families": [
         "equal-3-cta"
@@ -1340,8 +1400,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-grade-17-7ph/",
       "id": "alloys--stainless-steel--stainless-steel-grade-17-7ph",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1354,8 +1414,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-grade-301/",
       "id": "alloys--stainless-steel--stainless-steel-grade-301",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1368,8 +1428,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-grade-302/",
       "id": "alloys--stainless-steel--stainless-steel-grade-302",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1382,8 +1442,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-grade-303/",
       "id": "alloys--stainless-steel--stainless-steel-grade-303",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1396,8 +1456,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-grade-304/",
       "id": "alloys--stainless-steel--stainless-steel-grade-304",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1410,8 +1470,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-grade-304l/",
       "id": "alloys--stainless-steel--stainless-steel-grade-304l",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1424,8 +1484,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-grade-310/",
       "id": "alloys--stainless-steel--stainless-steel-grade-310",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1438,8 +1498,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-grade-316/",
       "id": "alloys--stainless-steel--stainless-steel-grade-316",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1452,8 +1512,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-grade-316l/",
       "id": "alloys--stainless-steel--stainless-steel-grade-316l",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1466,8 +1526,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-grade-347/",
       "id": "alloys--stainless-steel--stainless-steel-grade-347",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1480,8 +1540,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-grade-355/",
       "id": "alloys--stainless-steel--stainless-steel-grade-355",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1494,8 +1554,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-grade-440c/",
       "id": "alloys--stainless-steel--stainless-steel-grade-440c",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1508,8 +1568,8 @@
     {
       "path": "/alloys/stainless-steel/stainless-steel-incoloy-a286/",
       "id": "alloys--stainless-steel--stainless-steel-incoloy-a286",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1522,8 +1582,8 @@
     {
       "path": "/alloys/stainless-steel/",
       "id": "alloys--stainless-steel",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "thirds | full | one-three | one-three | one-three | one-three",
       "families": [
         "equal-3-cta"
@@ -1536,8 +1596,8 @@
     {
       "path": "/alloys/titanium-and-titanium-alloys/15v-3cr-3al-3sn/",
       "id": "alloys--titanium-and-titanium-alloys--15v-3cr-3al-3sn",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1550,8 +1610,8 @@
     {
       "path": "/alloys/titanium-and-titanium-alloys/6al-2sn-4zr-6mo/",
       "id": "alloys--titanium-and-titanium-alloys--6al-2sn-4zr-6mo",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1564,8 +1624,8 @@
     {
       "path": "/alloys/titanium-and-titanium-alloys/7al-4mo/",
       "id": "alloys--titanium-and-titanium-alloys--7al-4mo",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1578,8 +1638,8 @@
     {
       "path": "/alloys/titanium-and-titanium-alloys/grade-1-cp-4/",
       "id": "alloys--titanium-and-titanium-alloys--grade-1-cp-4",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | full",
       "families": [
         "equal-3-cta"
@@ -1592,8 +1652,8 @@
     {
       "path": "/alloys/titanium-and-titanium-alloys/grade-12/",
       "id": "alloys--titanium-and-titanium-alloys--grade-12",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1606,8 +1666,8 @@
     {
       "path": "/alloys/titanium-and-titanium-alloys/ti-6al-2sn-4zr-2mo/",
       "id": "alloys--titanium-and-titanium-alloys--ti-6al-2sn-4zr-2mo",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1620,8 +1680,8 @@
     {
       "path": "/alloys/titanium-and-titanium-alloys/ti-6al-6v-2sn/",
       "id": "alloys--titanium-and-titanium-alloys--ti-6al-6v-2sn",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1634,8 +1694,8 @@
     {
       "path": "/alloys/titanium-and-titanium-alloys/ti-beta-c-grade-19/",
       "id": "alloys--titanium-and-titanium-alloys--ti-beta-c-grade-19",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1648,8 +1708,8 @@
     {
       "path": "/alloys/titanium-and-titanium-alloys/ti-grade-3-cp-2/",
       "id": "alloys--titanium-and-titanium-alloys--ti-grade-3-cp-2",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-four-fifths | lead-three-quarters | full",
       "families": [
         "equal-3-cta"
@@ -1662,8 +1722,8 @@
     {
       "path": "/alloys/titanium-and-titanium-alloys/ti-grade-4-cp-1/",
       "id": "alloys--titanium-and-titanium-alloys--ti-grade-4-cp-1",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1676,8 +1736,8 @@
     {
       "path": "/alloys/titanium-and-titanium-alloys/ti-grade-5-6al-4v/",
       "id": "alloys--titanium-and-titanium-alloys--ti-grade-5-6al-4v",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | full",
       "families": [
         "equal-3-cta"
@@ -1690,8 +1750,8 @@
     {
       "path": "/alloys/titanium-and-titanium-alloys/ti-grade-6al-4v-eli-grade-23-2/",
       "id": "alloys--titanium-and-titanium-alloys--ti-grade-6al-4v-eli-grade-23-2",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
       "families": [
         "unclassified"
@@ -1704,8 +1764,8 @@
     {
       "path": "/alloys/titanium-and-titanium-alloys/ti-grade-6al-4v-eli-grade-23/",
       "id": "alloys--titanium-and-titanium-alloys--ti-grade-6al-4v-eli-grade-23",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1718,8 +1778,8 @@
     {
       "path": "/alloys/titanium-and-titanium-alloys/ti-grade-7/",
       "id": "alloys--titanium-and-titanium-alloys--ti-grade-7",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
       "families": [
         "equal-3-cta"
@@ -1732,8 +1792,8 @@
     {
       "path": "/alloys/",
       "id": "alloys",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | three-one | thirds | full | full | full | full | full | full | full",
       "families": [
         "equal-3-cta"
@@ -1746,8 +1806,8 @@
     {
       "path": "/ams-2241/",
       "id": "ams-2241",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | lead-two-thirds",
       "families": [
         "equal-3-cta"
@@ -1760,8 +1820,8 @@
     {
       "path": "/ams-2261-specification/",
       "id": "ams-2261-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | lead-two-thirds",
       "families": [
         "equal-3-cta"
@@ -1774,8 +1834,8 @@
     {
       "path": "/ams-2300-specification/",
       "id": "ams-2300-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | lead-four-fifths",
       "families": [
         "equal-3-cta"
@@ -1788,8 +1848,8 @@
     {
       "path": "/ams-2301-specification/",
       "id": "ams-2301-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -1802,8 +1862,8 @@
     {
       "path": "/ams-2630-specification/",
       "id": "ams-2630-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -1816,8 +1876,8 @@
     {
       "path": "/ams-2631-specification/",
       "id": "ams-2631-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -1830,8 +1890,8 @@
     {
       "path": "/ams-4117-specification/",
       "id": "ams-4117-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -1844,8 +1904,8 @@
     {
       "path": "/ams-4120-specification/",
       "id": "ams-4120-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -1858,8 +1918,8 @@
     {
       "path": "/ams-4123-specification/",
       "id": "ams-4123-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -1872,8 +1932,8 @@
     {
       "path": "/ams-4124-specification/",
       "id": "ams-4124-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -1886,8 +1946,8 @@
     {
       "path": "/ams-4339-specification/",
       "id": "ams-4339-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -1900,8 +1960,8 @@
     {
       "path": "/ams-4900-titanium-grade-3/",
       "id": "ams-4900-titanium-grade-3",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -1914,8 +1974,8 @@
     {
       "path": "/ams-4901-specification/",
       "id": "ams-4901-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -1928,8 +1988,8 @@
     {
       "path": "/ams-4902-specification/",
       "id": "ams-4902-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | full | lead-three-fifths | full",
       "families": [
         "equal-3-cta"
@@ -1942,8 +2002,8 @@
     {
       "path": "/ams-4907-specification/",
       "id": "ams-4907-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -1956,8 +2016,8 @@
     {
       "path": "/ams-4911/",
       "id": "ams-4911",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -1970,8 +2030,8 @@
     {
       "path": "/ams-4921-specification/",
       "id": "ams-4921-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -1984,8 +2044,8 @@
     {
       "path": "/ams-4928-specification/",
       "id": "ams-4928-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -1998,8 +2058,8 @@
     {
       "path": "/ams-4930-specification/",
       "id": "ams-4930-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2012,8 +2072,8 @@
     {
       "path": "/ams-4951-specification/",
       "id": "ams-4951-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2026,8 +2086,8 @@
     {
       "path": "/ams-4965-specification/",
       "id": "ams-4965-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2040,8 +2100,8 @@
     {
       "path": "/ams-4981-specification/",
       "id": "ams-4981-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2054,8 +2114,8 @@
     {
       "path": "/ams-5617-specification/",
       "id": "ams-5617-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2068,8 +2128,8 @@
     {
       "path": "/ams-5629-specification/",
       "id": "ams-5629-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2082,8 +2142,8 @@
     {
       "path": "/ams-5630-specification/",
       "id": "ams-5630-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2096,8 +2156,8 @@
     {
       "path": "/ams-5640-specification-2/",
       "id": "ams-5640-specification-2",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2110,8 +2170,8 @@
     {
       "path": "/ams-5641-specification/",
       "id": "ams-5641-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2124,8 +2184,8 @@
     {
       "path": "/ams-5643-specification/",
       "id": "ams-5643-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2138,8 +2198,8 @@
     {
       "path": "/ams-5645-specification/",
       "id": "ams-5645-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2152,8 +2212,8 @@
     {
       "path": "/ams-5646-specification/",
       "id": "ams-5646-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2166,8 +2226,8 @@
     {
       "path": "/ams-5647-specification/",
       "id": "ams-5647-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2180,8 +2240,8 @@
     {
       "path": "/ams-5653-specification/",
       "id": "ams-5653-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2194,8 +2254,8 @@
     {
       "path": "/ams-5659-specification/",
       "id": "ams-5659-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2208,8 +2268,8 @@
     {
       "path": "/ams-5662-specification/",
       "id": "ams-5662-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | quarters | two-one",
       "families": [
         "unclassified"
@@ -2222,8 +2282,8 @@
     {
       "path": "/ams-5663-specification/",
       "id": "ams-5663-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | quarters | two-one",
       "families": [
         "unclassified"
@@ -2236,8 +2296,8 @@
     {
       "path": "/ams-5664-specification/",
       "id": "ams-5664-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2250,8 +2310,8 @@
     {
       "path": "/ams-5666-specification/",
       "id": "ams-5666-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2264,8 +2324,8 @@
     {
       "path": "/ams-5708-specification-2/",
       "id": "ams-5708-specification-2",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2278,8 +2338,8 @@
     {
       "path": "/ams-5731-specification/",
       "id": "ams-5731-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2292,8 +2352,8 @@
     {
       "path": "/ams-5737-specification/",
       "id": "ams-5737-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2306,8 +2366,8 @@
     {
       "path": "/ams-5844-specification/",
       "id": "ams-5844-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2320,8 +2380,8 @@
     {
       "path": "/ams-5853-specification/",
       "id": "ams-5853-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2334,8 +2394,8 @@
     {
       "path": "/ams-5880-specification/",
       "id": "ams-5880-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2348,8 +2408,8 @@
     {
       "path": "/ams-5936-specification/",
       "id": "ams-5936-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2362,8 +2422,8 @@
     {
       "path": "/ams-5962-specification/",
       "id": "ams-5962-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2376,8 +2436,8 @@
     {
       "path": "/ams-6257-specification/",
       "id": "ams-6257-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2390,8 +2450,8 @@
     {
       "path": "/ams-6260-specification/",
       "id": "ams-6260-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2404,8 +2464,8 @@
     {
       "path": "/ams-6265-specification/",
       "id": "ams-6265-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2418,8 +2478,8 @@
     {
       "path": "/ams-6279-specification/",
       "id": "ams-6279-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2432,8 +2492,8 @@
     {
       "path": "/ams-6304-specification/",
       "id": "ams-6304-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2446,8 +2506,8 @@
     {
       "path": "/ams-6322-specification/",
       "id": "ams-6322-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2460,8 +2520,8 @@
     {
       "path": "/ams-6346-specification/",
       "id": "ams-6346-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2474,8 +2534,8 @@
     {
       "path": "/ams-6348-specification/",
       "id": "ams-6348-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2488,8 +2548,8 @@
     {
       "path": "/ams-6349-specification/",
       "id": "ams-6349-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2502,8 +2562,8 @@
     {
       "path": "/ams-6370-specification/",
       "id": "ams-6370-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2516,8 +2576,8 @@
     {
       "path": "/ams-6382-specification/",
       "id": "ams-6382-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2530,8 +2590,8 @@
     {
       "path": "/ams-6409-specification/",
       "id": "ams-6409-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2544,8 +2604,8 @@
     {
       "path": "/ams-6414-specification/",
       "id": "ams-6414-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2558,8 +2618,8 @@
     {
       "path": "/ams-6415-specification/",
       "id": "ams-6415-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2572,8 +2632,8 @@
     {
       "path": "/ams-6417-specification/",
       "id": "ams-6417-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2586,8 +2646,8 @@
     {
       "path": "/ams-6419-specification/",
       "id": "ams-6419-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2600,8 +2660,8 @@
     {
       "path": "/ams-6440-specification/",
       "id": "ams-6440-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2614,8 +2674,8 @@
     {
       "path": "/ams-6444-specification/",
       "id": "ams-6444-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2628,8 +2688,8 @@
     {
       "path": "/ams-6484-specification/",
       "id": "ams-6484-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2642,8 +2702,8 @@
     {
       "path": "/ams-6485-specification/",
       "id": "ams-6485-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2656,8 +2716,8 @@
     {
       "path": "/ams-6487-specification/",
       "id": "ams-6487-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2670,8 +2730,8 @@
     {
       "path": "/ams-6488-specification/",
       "id": "ams-6488-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2684,8 +2744,8 @@
     {
       "path": "/ams-6875-specification/",
       "id": "ams-6875-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | lead-two-thirds",
       "families": [
         "equal-3-cta"
@@ -2698,8 +2758,8 @@
     {
       "path": "/ams-6930-specification/",
       "id": "ams-6930-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2712,8 +2772,8 @@
     {
       "path": "/ams-6931-specification/",
       "id": "ams-6931-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2726,8 +2786,8 @@
     {
       "path": "/ams-6932-specification/",
       "id": "ams-6932-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2740,8 +2800,8 @@
     {
       "path": "/ams-qq-s-763-specification/",
       "id": "ams-qq-s-763-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | lead-two-thirds",
       "families": [
         "equal-3-cta"
@@ -2754,8 +2814,8 @@
     {
       "path": "/ams-s-5626-specification/",
       "id": "ams-s-5626-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2768,8 +2828,8 @@
     {
       "path": "/ams-s-6049-specification/",
       "id": "ams-s-6049-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2782,8 +2842,8 @@
     {
       "path": "/ams-s-6758-specification/",
       "id": "ams-s-6758-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2796,8 +2856,8 @@
     {
       "path": "/ams-s-7720-specification/",
       "id": "ams-s-7720-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2810,8 +2870,8 @@
     {
       "path": "/ams-specifications-specialty-metals/",
       "id": "ams-specifications-specialty-metals",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | full",
       "families": [
         "equal-3-cta"
@@ -2824,8 +2884,8 @@
     {
       "path": "/ams-t-9046-specification/",
       "id": "ams-t-9046-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2838,8 +2898,8 @@
     {
       "path": "/ams-t-9047-specification/",
       "id": "ams-t-9047-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -2852,8 +2912,8 @@
     {
       "path": "/asme-sb-637/",
       "id": "asme-sb-637",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | full",
       "families": [
         "equal-3-cta"
@@ -2866,8 +2926,8 @@
     {
       "path": "/asme-sb265-specification/",
       "id": "asme-sb265-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | full",
       "families": [
         "equal-3-cta"
@@ -2880,8 +2940,8 @@
     {
       "path": "/asme-sb338-specification/",
       "id": "asme-sb338-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | full",
       "families": [
         "equal-3-cta"
@@ -2894,8 +2954,8 @@
     {
       "path": "/asme-sb348-specification/",
       "id": "asme-sb348-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | full",
       "families": [
         "equal-3-cta"
@@ -2908,8 +2968,8 @@
     {
       "path": "/asme-sb3481-specification/",
       "id": "asme-sb3481-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | quarters | two-one | full",
       "families": [
         "unclassified"
@@ -2922,8 +2982,8 @@
     {
       "path": "/asme-sb363-specification/",
       "id": "asme-sb363-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | full",
       "families": [
         "equal-3-cta"
@@ -2936,8 +2996,8 @@
     {
       "path": "/asme-sb446-specification/",
       "id": "asme-sb446-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | full",
       "families": [
         "equal-3-cta"
@@ -2950,8 +3010,8 @@
     {
       "path": "/asme-sb861-specification/",
       "id": "asme-sb861-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | full",
       "families": [
         "equal-3-cta"
@@ -2964,8 +3024,8 @@
     {
       "path": "/asme-sb862-specification/",
       "id": "asme-sb862-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | full",
       "families": [
         "equal-3-cta"
@@ -2978,8 +3038,8 @@
     {
       "path": "/asme-specifications/",
       "id": "asme-specifications",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | full | lead-four-fifths",
       "families": [
         "equal-3-cta"
@@ -2992,8 +3052,8 @@
     {
       "path": "/astm-a276-specification/",
       "id": "astm-a276-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -3006,8 +3066,8 @@
     {
       "path": "/astm-a295-specification/",
       "id": "astm-a295-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -3020,8 +3080,8 @@
     {
       "path": "/astm-a320-specification/",
       "id": "astm-a320-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -3034,8 +3094,8 @@
     {
       "path": "/astm-a322-specification/",
       "id": "astm-a322-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -3048,8 +3108,8 @@
     {
       "path": "/astm-a331-specification/",
       "id": "astm-a331-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -3062,8 +3122,8 @@
     {
       "path": "/astm-a479-specification/",
       "id": "astm-a479-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -3076,8 +3136,8 @@
     {
       "path": "/astm-a484-specification/",
       "id": "astm-a484-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -3090,8 +3150,8 @@
     {
       "path": "/astm-a564-specification/",
       "id": "astm-a564-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -3104,8 +3164,8 @@
     {
       "path": "/astm-a582-specification/",
       "id": "astm-a582-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -3118,8 +3178,8 @@
     {
       "path": "/astm-a638-specification/",
       "id": "astm-a638-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -3132,8 +3192,8 @@
     {
       "path": "/astm-a646-specification/",
       "id": "astm-a646-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | full",
       "families": [
         "equal-3-cta"
@@ -3146,8 +3206,8 @@
     {
       "path": "/astm-b211-specification/",
       "id": "astm-b211-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -3160,8 +3220,8 @@
     {
       "path": "/astm-b265-specification/",
       "id": "astm-b265-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -3174,8 +3234,8 @@
     {
       "path": "/astm-b338-specification/",
       "id": "astm-b338-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -3188,8 +3248,8 @@
     {
       "path": "/astm-b348-specification/",
       "id": "astm-b348-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -3202,8 +3262,8 @@
     {
       "path": "/astm-b363-specification/",
       "id": "astm-b363-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -3216,8 +3276,8 @@
     {
       "path": "/astm-b381-specification/",
       "id": "astm-b381-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -3230,8 +3290,8 @@
     {
       "path": "/astm-b446-specification/",
       "id": "astm-b446-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | quarters | two-one",
       "families": [
         "unclassified"
@@ -3244,8 +3304,8 @@
     {
       "path": "/astm-b637-specification/",
       "id": "astm-b637-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -3258,8 +3318,8 @@
     {
       "path": "/astm-b861-specification/",
       "id": "astm-b861-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -3272,8 +3332,8 @@
     {
       "path": "/astm-b862-specification/",
       "id": "astm-b862-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -3286,8 +3346,8 @@
     {
       "path": "/astm-f136-specification/",
       "id": "astm-f136-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -3300,8 +3360,8 @@
     {
       "path": "/astm-f1472-specification/",
       "id": "astm-f1472-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -3314,8 +3374,8 @@
     {
       "path": "/astm-f1537-specification/",
       "id": "astm-f1537-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -3328,8 +3388,8 @@
     {
       "path": "/astm-f67-specification/",
       "id": "astm-f67-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -3342,8 +3402,8 @@
     {
       "path": "/astm-f799-specification/",
       "id": "astm-f799-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -3356,8 +3416,8 @@
     {
       "path": "/astm-f899-specification/",
       "id": "astm-f899-specification",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one",
       "families": [
         "equal-3-cta"
@@ -3370,8 +3430,8 @@
     {
       "path": "/astm-specifications/",
       "id": "astm-specifications",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | full | lead-four-fifths",
       "families": [
         "equal-3-cta"
@@ -3384,8 +3444,8 @@
     {
       "path": "/metal-alloy-technical-data-titanium-nickel-steel-specs/alloy-steel-international-cross-reference/",
       "id": "metal-alloy-technical-data-titanium-nickel-steel-specs--alloy-steel-international-cross-reference",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | full",
       "families": [
         "equal-3-cta"
@@ -3398,8 +3458,8 @@
     {
       "path": "/metal-alloy-technical-data-titanium-nickel-steel-specs/aluminum-alloys-cross-reference/",
       "id": "metal-alloy-technical-data-titanium-nickel-steel-specs--aluminum-alloys-cross-reference",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | full",
       "families": [
         "equal-3-cta"
@@ -3412,8 +3472,8 @@
     {
       "path": "/metal-alloy-technical-data-titanium-nickel-steel-specs/carbon-steel-cross-reference/",
       "id": "metal-alloy-technical-data-titanium-nickel-steel-specs--carbon-steel-cross-reference",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | full",
       "families": [
         "equal-3-cta"
@@ -3426,8 +3486,8 @@
     {
       "path": "/metal-alloy-technical-data-titanium-nickel-steel-specs/charters-of-freedom-project/",
       "id": "metal-alloy-technical-data-titanium-nickel-steel-specs--charters-of-freedom-project",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | two-one",
       "families": [
         "unclassified"
@@ -3440,8 +3500,8 @@
     {
       "path": "/metal-alloy-technical-data-titanium-nickel-steel-specs/history-of-titanium/",
       "id": "metal-alloy-technical-data-titanium-nickel-steel-specs--history-of-titanium",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "lead-four-fifths | two-one",
       "families": [
         "unclassified"
@@ -3454,8 +3514,8 @@
     {
       "path": "/metal-alloy-technical-data-titanium-nickel-steel-specs/nickel-international-cross-reference/",
       "id": "metal-alloy-technical-data-titanium-nickel-steel-specs--nickel-international-cross-reference",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | full",
       "families": [
         "equal-3-cta"
@@ -3468,8 +3528,8 @@
     {
       "path": "/metal-alloy-technical-data-titanium-nickel-steel-specs/stainless-steel-cross-reference/",
       "id": "metal-alloy-technical-data-titanium-nickel-steel-specs--stainless-steel-cross-reference",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | full",
       "families": [
         "equal-3-cta"
@@ -3482,8 +3542,8 @@
     {
       "path": "/metal-alloy-technical-data-titanium-nickel-steel-specs/titanium-international-cross-reference/",
       "id": "metal-alloy-technical-data-titanium-nickel-steel-specs--titanium-international-cross-reference",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | full",
       "families": [
         "equal-3-cta"
@@ -3496,8 +3556,8 @@
     {
       "path": "/metal-alloy-technical-data-titanium-nickel-steel-specs/titanium-seawater-applications/",
       "id": "metal-alloy-technical-data-titanium-nickel-steel-specs--titanium-seawater-applications",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "lead-four-fifths | two-one",
       "families": [
         "unclassified"
@@ -3510,8 +3570,8 @@
     {
       "path": "/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
       "id": "metal-alloy-technical-data-titanium-nickel-steel-specs--weight-calculator",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | lead-two-fifths | two-one",
       "families": [
         "unclassified"
@@ -3524,8 +3584,8 @@
     {
       "path": "/metal-alloy-technical-data-titanium-nickel-steel-specs/what-is-titanium/",
       "id": "metal-alloy-technical-data-titanium-nickel-steel-specs--what-is-titanium",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "lead-four-fifths | two-one",
       "families": [
         "unclassified"
@@ -3538,8 +3598,8 @@
     {
       "path": "/metal-alloy-technical-data-titanium-nickel-steel-specs/",
       "id": "metal-alloy-technical-data-titanium-nickel-steel-specs",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | two-one | halves",
       "families": [
         "equal-3-cta",
@@ -3553,8 +3613,8 @@
     {
       "path": "/quick-quote-alloy-steel-round-bar/",
       "id": "quick-quote-alloy-steel-round-bar",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | quality-split | full | halves | full",
       "families": [
         "quality-split"

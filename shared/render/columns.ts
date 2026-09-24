@@ -1,4 +1,4 @@
-import { ENFOLD_ROW_SPACE_PX, FLOAT_WRAP_MEASUREMENT, PRESETS, WATERJET_MEASUREMENT } from '../page-model/presets'
+import { ENFOLD_ROW_SPACE_PX, FLOAT_WRAP_MEASUREMENT, PRESETS, slotsFor, WATERJET_MEASUREMENT } from '../page-model/presets'
 import type { ColumnItem, PageDocument, Row, TextBlock } from '../page-model/types'
 import { escapeHtml, renderInline } from './escape'
 
@@ -27,9 +27,10 @@ function renderRow(row: Row): string {
       <div class="ti-float-column">${renderItems(row.columns[0]?.items ?? [])}</div>
     </section>`
   }
+  const slots = slotsFor(row)
   const columns = row.columns
     .map((column, index) => {
-      const slot = preset.columns[index]
+      const slot = slots[index]
       const style = slot
         ? `style="width:${slot.widthPercent}%;margin-left:${slot.marginLeftPercent}%"`
         : ''
