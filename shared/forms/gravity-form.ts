@@ -7,7 +7,12 @@ export const FORM_WIRING = {
   fileUpload: 'not_wired',
 } as const
 
-export type FormWiring = typeof FORM_WIRING
+export type FormWiring = {
+  publicSubmit: false
+  hcaptcha: 'needs_keys' | 'not_in_export'
+  notifications: 'needs_keys'
+  fileUpload: 'not_wired' | 'not_in_export'
+}
 
 export interface GravityChoice {
   text: string
@@ -89,15 +94,21 @@ export function modelGravityFormExport(data: unknown, formId = 20): GravityFormM
   const confirmations = asArray(form.confirmations)
   const confirmation = confirmations[0]
   if (!confirmation) throw new Error(`Form ${formId} has no confirmation`)
-  const hcaptcha = fields.find((field) => field.type === 'hcaptcha')
-  if (!hcaptcha) throw new Error(`Form ${formId} has no hCaptcha field`)
+  const hasCaptcha = fields.some((field) => field.type === 'hcaptcha')
+  const hasUpload = fields.some((field) => field.type === 'fileupload')
+  const wiring: FormWiring = {
+    publicSubmit: false,
+    hcaptcha: hasCaptcha ? 'needs_keys' : 'not_in_export',
+    notifications: 'needs_keys',
+    fileUpload: hasUpload ? 'not_wired' : 'not_in_export',
+  }
   return {
     id: asNumber(form.id),
     title: asString(form.title),
     version: asString(form.version),
     submitLabel: buttonLabel(form.button),
     publicSubmit: false,
-    wiring: FORM_WIRING,
+    wiring,
     fields,
     confirmation: {
       id: asString(confirmation.id),
@@ -110,11 +121,16 @@ export function modelGravityFormExport(data: unknown, formId = 20): GravityFormM
 }
 
 export function formNoteFromModel(model: GravityFormModel): KnownFormNote {
+  const captcha =
+    model.wiring.hcaptcha === 'needs_keys'
+      ? 'hCaptcha and notification delivery need keys before anyone can send it.'
+      : 'The export has no hCaptcha field. Notification delivery needs keys before anyone can send it.'
+  const upload = model.wiring.fileUpload === 'not_wired' ? ' The file upload is not wired.' : ''
   return {
     formId: model.id,
     hashToken: `gf${model.id}-nosubmit`,
     label: `Gravity Form ${model.id}`,
-    reason: `Form ${model.id}, ${model.title}, is modeled from the WordPress export (${model.fields.length} fields, ${model.notifications.length} notifications, 1 confirmation). Public submit is off. hCaptcha and notification delivery need keys before anyone can send it. The file upload is not wired.`,
+    reason: `Form ${model.id}, ${model.title}, is modeled from the WordPress export (${model.fields.length} fields, ${model.notifications.length} notifications, 1 confirmation). Public submit is off. ${captcha}${upload}`,
   }
 }
 

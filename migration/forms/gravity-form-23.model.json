@@ -1,0 +1,623 @@
+{
+  "id": 23,
+  "title": "Customer Satisfaction Questionnaire",
+  "version": "2.9.14",
+  "submitLabel": "Submit",
+  "publicSubmit": false,
+  "wiring": {
+    "publicSubmit": false,
+    "hcaptcha": "not_in_export",
+    "notifications": "needs_keys",
+    "fileUpload": "not_in_export"
+  },
+  "fields": [
+    {
+      "id": 15,
+      "type": "section",
+      "label": "Introduction",
+      "required": false,
+      "choices": [],
+      "conditionalLogic": null,
+      "multipleFiles": false
+    },
+    {
+      "id": 7,
+      "type": "section",
+      "label": "About You",
+      "required": false,
+      "choices": [],
+      "conditionalLogic": null,
+      "multipleFiles": false
+    },
+    {
+      "id": 1,
+      "type": "name",
+      "label": "Your Name",
+      "required": true,
+      "choices": [],
+      "conditionalLogic": null,
+      "multipleFiles": false
+    },
+    {
+      "id": 10,
+      "type": "section",
+      "label": "How Can We Reach You?",
+      "required": false,
+      "choices": [],
+      "conditionalLogic": null,
+      "multipleFiles": false
+    },
+    {
+      "id": 11,
+      "type": "select",
+      "label": "Preferred Method of Contact",
+      "required": false,
+      "choices": [
+        {
+          "text": "Email",
+          "value": "Email"
+        },
+        {
+          "text": "Phone",
+          "value": "Phone"
+        }
+      ],
+      "conditionalLogic": null,
+      "multipleFiles": false
+    },
+    {
+      "id": 2,
+      "type": "email",
+      "label": "Your Email Address",
+      "required": true,
+      "choices": [],
+      "conditionalLogic": null,
+      "multipleFiles": false
+    },
+    {
+      "id": 5,
+      "type": "phone",
+      "label": "Your Phone",
+      "required": true,
+      "choices": [],
+      "conditionalLogic": {
+        "actionType": "show",
+        "logicType": "all",
+        "rules": [
+          {
+            "fieldId": 11,
+            "operator": "is",
+            "value": "Phone"
+          }
+        ]
+      },
+      "multipleFiles": false
+    },
+    {
+      "id": 12,
+      "type": "select",
+      "label": "Best Time to Call You",
+      "required": true,
+      "choices": [
+        {
+          "text": "Select A Time",
+          "value": ""
+        },
+        {
+          "text": "12:00 am",
+          "value": "12:00 am"
+        },
+        {
+          "text": "12:30 am",
+          "value": "12:30 am"
+        },
+        {
+          "text": "1:00 am",
+          "value": "1:00 am"
+        },
+        {
+          "text": "1:30 am",
+          "value": "1:30 am"
+        },
+        {
+          "text": "2:00 am",
+          "value": "2:00 am"
+        },
+        {
+          "text": "2:30 am",
+          "value": "2:30 am"
+        },
+        {
+          "text": "3:00 am",
+          "value": "3:00 am"
+        },
+        {
+          "text": "3:30 am",
+          "value": "3:30 am"
+        },
+        {
+          "text": "4:00 am",
+          "value": "4:00 am"
+        },
+        {
+          "text": "4:30 am",
+          "value": "4:30 am"
+        },
+        {
+          "text": "5:00 am",
+          "value": "5:00 am"
+        },
+        {
+          "text": "5:30 am",
+          "value": "5:30 am"
+        },
+        {
+          "text": "6:00 am",
+          "value": "6:00 am"
+        },
+        {
+          "text": "6:30 am",
+          "value": "6:30 am"
+        },
+        {
+          "text": "7:00 am",
+          "value": "7:00 am"
+        },
+        {
+          "text": "7:30 am",
+          "value": "7:30 am"
+        },
+        {
+          "text": "8:00 am",
+          "value": "8:00 am"
+        },
+        {
+          "text": "8:30 am",
+          "value": "8:30 am"
+        },
+        {
+          "text": "9:00 am",
+          "value": "9:00 am"
+        },
+        {
+          "text": "9:30 am",
+          "value": "9:30 am"
+        },
+        {
+          "text": "10:00 am",
+          "value": "10:00 am"
+        },
+        {
+          "text": "10:30 am",
+          "value": "10:30 am"
+        },
+        {
+          "text": "11:00 am",
+          "value": "11:00 am"
+        },
+        {
+          "text": "11:30 am",
+          "value": "11:30 am"
+        },
+        {
+          "text": "12:00 pm",
+          "value": "12:00 pm"
+        },
+        {
+          "text": "12:30 pm",
+          "value": "12:30 pm"
+        },
+        {
+          "text": "1:00 pm",
+          "value": "1:00 pm"
+        },
+        {
+          "text": "1:30 pm",
+          "value": "1:30 pm"
+        },
+        {
+          "text": "2:00 pm",
+          "value": "2:00 pm"
+        },
+        {
+          "text": "2:30 pm",
+          "value": "2:30 pm"
+        },
+        {
+          "text": "3:00 pm",
+          "value": "3:00 pm"
+        },
+        {
+          "text": "3:30 pm",
+          "value": "3:30 pm"
+        },
+        {
+          "text": "4:00 pm",
+          "value": "4:00 pm"
+        },
+        {
+          "text": "4:30 pm",
+          "value": "4:30 pm"
+        },
+        {
+          "text": "5:00 pm",
+          "value": "5:00 pm"
+        },
+        {
+          "text": "5:30 pm",
+          "value": "5:30 pm"
+        },
+        {
+          "text": "6:00 pm",
+          "value": "6:00 pm"
+        },
+        {
+          "text": "6:30 pm",
+          "value": "6:30 pm"
+        },
+        {
+          "text": "7:00 pm",
+          "value": "7:00 pm"
+        },
+        {
+          "text": "7:30 pm",
+          "value": "7:30 pm"
+        },
+        {
+          "text": "8:00 pm",
+          "value": "8:00 pm"
+        },
+        {
+          "text": "8:30 pm",
+          "value": "8:30 pm"
+        },
+        {
+          "text": "9:00 pm",
+          "value": "9:00 pm"
+        },
+        {
+          "text": "9:30 pm",
+          "value": "9:30 pm"
+        },
+        {
+          "text": "10:00 pm",
+          "value": "10:00 pm"
+        },
+        {
+          "text": "10:30 pm",
+          "value": "10:30 pm"
+        },
+        {
+          "text": "11:00 pm",
+          "value": "11:00 pm"
+        },
+        {
+          "text": "11:30 pm",
+          "value": "11:30 pm"
+        }
+      ],
+      "conditionalLogic": {
+        "actionType": "show",
+        "logicType": "all",
+        "rules": [
+          {
+            "fieldId": 11,
+            "operator": "is",
+            "value": "Phone"
+          }
+        ]
+      },
+      "multipleFiles": false
+    },
+    {
+      "id": 27,
+      "type": "section",
+      "label": "General Feedback:",
+      "required": false,
+      "choices": [],
+      "conditionalLogic": null,
+      "multipleFiles": false
+    },
+    {
+      "id": 16,
+      "type": "multi_choice",
+      "label": "1.\tHow would you rate your overall experience with T.I.? (1 = Poor, 5 = Excellent)",
+      "required": false,
+      "choices": [
+        {
+          "text": "1",
+          "value": "1"
+        },
+        {
+          "text": "2",
+          "value": "2"
+        },
+        {
+          "text": "3",
+          "value": "3"
+        },
+        {
+          "text": "4",
+          "value": "4"
+        },
+        {
+          "text": "5",
+          "value": "5"
+        }
+      ],
+      "conditionalLogic": null,
+      "multipleFiles": false
+    },
+    {
+      "id": 8,
+      "type": "section",
+      "label": "2.\tHow can we better serve your needs?",
+      "required": false,
+      "choices": [],
+      "conditionalLogic": null,
+      "multipleFiles": false
+    },
+    {
+      "id": 3,
+      "type": "textarea",
+      "label": "Your Comments",
+      "required": true,
+      "choices": [],
+      "conditionalLogic": null,
+      "multipleFiles": false
+    },
+    {
+      "id": 17,
+      "type": "radio",
+      "label": "3.\tDo you find our pricing competitive?",
+      "required": false,
+      "choices": [
+        {
+          "text": "Always",
+          "value": "Always"
+        },
+        {
+          "text": "Sometimes",
+          "value": "Sometimes"
+        },
+        {
+          "text": "Rarely",
+          "value": "Rarely"
+        },
+        {
+          "text": "Never",
+          "value": "Never"
+        }
+      ],
+      "conditionalLogic": null,
+      "multipleFiles": false
+    },
+    {
+      "id": 18,
+      "type": "radio",
+      "label": "4.\tWas your order delivered on time and adequately packaged?",
+      "required": false,
+      "choices": [
+        {
+          "text": "Yes",
+          "value": "Yes"
+        },
+        {
+          "text": "No",
+          "value": "No"
+        }
+      ],
+      "conditionalLogic": null,
+      "multipleFiles": false
+    },
+    {
+      "id": 21,
+      "type": "post_custom_field",
+      "label": "Post Custom Field",
+      "required": false,
+      "choices": [],
+      "conditionalLogic": null,
+      "multipleFiles": false
+    },
+    {
+      "id": 22,
+      "type": "radio",
+      "label": "5.\tWere there any quality-related issues with the product?",
+      "required": false,
+      "choices": [
+        {
+          "text": "Yes",
+          "value": "Yes"
+        },
+        {
+          "text": "No",
+          "value": "No"
+        }
+      ],
+      "conditionalLogic": null,
+      "multipleFiles": false
+    },
+    {
+      "id": 23,
+      "type": "post_custom_field",
+      "label": "Type here",
+      "required": false,
+      "choices": [],
+      "conditionalLogic": null,
+      "multipleFiles": false
+    },
+    {
+      "id": 24,
+      "type": "post_custom_field",
+      "label": "6.\tAre there additional products or value-added services you’d like us to offer?",
+      "required": false,
+      "choices": [],
+      "conditionalLogic": null,
+      "multipleFiles": false
+    },
+    {
+      "id": 28,
+      "type": "section",
+      "label": "Quick Quote System Feedback:",
+      "required": false,
+      "choices": [],
+      "conditionalLogic": null,
+      "multipleFiles": false
+    },
+    {
+      "id": 29,
+      "type": "radio",
+      "label": "7. Have you used our Quick Quote system?",
+      "required": true,
+      "choices": [
+        {
+          "text": "Yes",
+          "value": "Yes"
+        },
+        {
+          "text": "No",
+          "value": "No"
+        }
+      ],
+      "conditionalLogic": null,
+      "multipleFiles": false
+    },
+    {
+      "id": 31,
+      "type": "radio",
+      "label": "8.\tIf yes, how would you rate your experience with the Quick Quote system? (1 = Poor, 5 = Excellent)",
+      "required": false,
+      "choices": [
+        {
+          "text": "1",
+          "value": "1"
+        },
+        {
+          "text": "2",
+          "value": "2"
+        },
+        {
+          "text": "3",
+          "value": "3"
+        },
+        {
+          "text": "4",
+          "value": "4"
+        },
+        {
+          "text": "5",
+          "value": "5"
+        }
+      ],
+      "conditionalLogic": null,
+      "multipleFiles": false
+    },
+    {
+      "id": 34,
+      "type": "radio",
+      "label": "9.\tWas the Quick Quote system easy to navigate? (If no, please explain below)",
+      "required": true,
+      "choices": [
+        {
+          "text": "Yes",
+          "value": "Yes"
+        },
+        {
+          "text": "No",
+          "value": "No"
+        }
+      ],
+      "conditionalLogic": null,
+      "multipleFiles": false
+    },
+    {
+      "id": 32,
+      "type": "post_custom_field",
+      "label": "",
+      "required": false,
+      "choices": [],
+      "conditionalLogic": null,
+      "multipleFiles": false
+    },
+    {
+      "id": 35,
+      "type": "radio",
+      "label": "10.\tWere you satisfied with the response time from the Quick Quote system?",
+      "required": false,
+      "choices": [
+        {
+          "text": "Yes",
+          "value": "Yes"
+        },
+        {
+          "text": "No",
+          "value": "No"
+        }
+      ],
+      "conditionalLogic": null,
+      "multipleFiles": false
+    },
+    {
+      "id": 36,
+      "type": "post_custom_field",
+      "label": "",
+      "required": false,
+      "choices": [],
+      "conditionalLogic": null,
+      "multipleFiles": false
+    },
+    {
+      "id": 38,
+      "type": "post_custom_field",
+      "label": "11.\tHow can we improve the Quick Quote system?",
+      "required": false,
+      "choices": [],
+      "conditionalLogic": null,
+      "multipleFiles": false
+    }
+  ],
+  "confirmation": {
+    "id": "51794abf1ee7a",
+    "name": "Default Confirmation",
+    "type": "message",
+    "message": "Thank you for contacting us! We will get in touch with you shortly."
+  },
+  "notifications": [
+    {
+      "id": "51794abf1f0d1",
+      "name": "User Notification",
+      "active": true,
+      "toType": "field",
+      "to": "2",
+      "from": "{admin_email}",
+      "subject": "We have received your inquiry",
+      "routing": [],
+      "send": false,
+      "delivery": "needs_keys"
+    },
+    {
+      "id": "51794abf1f0d2",
+      "name": "Admin Notification",
+      "active": true,
+      "toType": "email",
+      "to": "{admin_email}",
+      "from": "{admin_email}",
+      "subject": "New submission from {form_title}",
+      "routing": [],
+      "send": false,
+      "delivery": "needs_keys"
+    },
+    {
+      "id": "674f6291573b2",
+      "name": "Admin Notification - Copy 1",
+      "active": true,
+      "toType": "email",
+      "to": "gkarelas@titanium.com",
+      "from": "{admin_email}",
+      "subject": "New submission from {form_title}",
+      "routing": [],
+      "send": false,
+      "delivery": "needs_keys"
+    }
+  ]
+}

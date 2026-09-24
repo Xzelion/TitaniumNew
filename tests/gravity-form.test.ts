@@ -56,6 +56,38 @@ describe('Gravity Form 20 model', () => {
   })
 })
 
+describe('Gravity Form 23 model', () => {
+  const model = modelGravityFormExport(
+    JSON.parse(readFileSync(path.join(process.cwd(), 'migration/raw/gravity-form-23.json'), 'utf8')),
+    23,
+  )
+
+  it('models the customer survey with submit left off', () => {
+    expect(model.id).toBe(23)
+    expect(model.title).toBe('Customer Satisfaction Questionnaire')
+    expect(model.publicSubmit).toBe(false)
+    expect(model.fields).toHaveLength(26)
+    expect(model.notifications).toHaveLength(3)
+    expect(model.confirmation.name).toBe('Default Confirmation')
+    expect(model.submitLabel).toBe('Submit')
+    expect(model.wiring).toEqual({
+      publicSubmit: false,
+      hcaptcha: 'not_in_export',
+      notifications: 'needs_keys',
+      fileUpload: 'not_in_export',
+    })
+    expect(model.notifications.every((note) => note.send === false && note.delivery === 'needs_keys')).toBe(true)
+    const phone = model.fields.find((field) => field.label === 'Your Phone')
+    expect(phone?.conditionalLogic?.rules[0]).toEqual({ fieldId: 11, operator: 'is', value: 'Phone' })
+    expect(model.fields.some((field) => field.type === 'hcaptcha' || field.type === 'fileupload')).toBe(false)
+    const note = formNoteFromModel(model)
+    expect(note.reason).toMatch(/Public submit is off/)
+    expect(note.reason).toMatch(/no hCaptcha field/)
+    expect(note.reason).not.toMatch(/file upload/)
+    expect(note.hashToken).toBe('gf23-nosubmit')
+  })
+})
+
 describe('Enfold fifths and quarter rows', () => {
   it('uses the live widths for four fifths, wide fifths, and half plus quarters', () => {
     expect(PRESETS['lead-four-fifths'].columns[0]?.widthPercent).toBe(78.8)

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T21:10:43.998Z",
+  "generatedAt": "2026-09-24T21:17:44.847Z",
   "pages": [
     {
       "path": "/quality-systems/",
@@ -45,6 +45,58 @@
           "name": "Text",
           "pass": true,
           "detail": "Heading kept: Titanium Industries’ Quality Systems"
+        }
+      ]
+    },
+    {
+      "path": "/customer-satisfaction-survey/",
+      "id": "customer-satisfaction-survey",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Enhance Customer Satisfaction with Your#1 Trusted Multi-Alloy Supplier"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "Share your feedback in our survey to improve customer satisfaction and service as a multi-alloy metal supplier."
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/customer-satisfaction-survey/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Enhance Customer Satisfaction with Your#1 Trusted Multi-Alloy Supplier"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "Share your feedback in our survey to improve customer satisfaction and service as a multi-alloy metal supplier."
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "0 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "5 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Customer Satisfaction Survey"
+        },
+        {
+          "name": "Protected form locked",
+          "pass": true,
+          "detail": "Form 23, Customer Satisfaction Questionnaire, is modeled from the WordPress export (26 fields, 3 notifications, 1 confirmation). Public submit is off. The export has no hCaptcha field. Notification delivery needs keys before anyone can send it."
         }
       ]
     },
@@ -2052,7 +2104,7 @@
         {
           "name": "Text",
           "pass": true,
-          "detail": "No heading to compare."
+          "detail": "Heading kept: Titanium Grade 2 CP 3 | UNS #R50400"
         }
       ]
     },
@@ -7457,7 +7509,7 @@
         {
           "name": "Text",
           "pass": true,
-          "detail": "No heading to compare."
+          "detail": "Heading kept: AMS 5647 | Steel, Corrosion-Resistant, Bars, Wire, Forgings, Mechanical Tubing, "
         }
       ]
     },

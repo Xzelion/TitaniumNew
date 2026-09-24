@@ -1,0 +1,215 @@
+{
+  "id": "customer-satisfaction-survey",
+  "path": "/customer-satisfaction-survey/",
+  "title": "Enhance Customer Satisfaction with Your#1 Trusted Multi-Alloy Supplier",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Enhance Customer Satisfaction with Your#1 Trusted Multi-Alloy Supplier",
+    "description": "Share your feedback in our survey to improve customer satisfaction and service as a multi-alloy metal supplier.",
+    "canonical": "https://titanium.com/customer-satisfaction-survey/",
+    "ogTitle": "Enhance Customer Satisfaction with Your#1 Trusted Multi-Alloy Supplier",
+    "ogDescription": "Share your feedback in our survey to improve customer satisfaction and service as a multi-alloy metal supplier.",
+    "ogImage": "https://titanium.com/wp-content/uploads/2024/05/50plusyears_ti-e1715177897643.png"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Customer Satisfaction Survey"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "At Titanium Industries, we view customer feedback as more than a formality — it’s a critical part of how we grow as a multi-alloy metal supplier . With decades of experience serving the [aerospace](https://titanium.com/markets/aerospace/) , [medical](https://titanium.com/markets/medical/) , [defense](https://titanium.com/markets/defense/) , [industrial](https://titanium.com/markets/industrial/) & [oil and gas](https://titanium.com/oil-gas/) markets, we’ve learned that consistent customer input is essential to staying responsive and competitive."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "We understand that the quality of your experience goes beyond the material we deliver. It includes communication, lead time accuracy, documentation, packaging, and after-sale support. Our goal is to provide you not only with the highest-grade metals but also with a seamless and dependable service experience at every stage of the process."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "full",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "row-7",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-8",
+          "items": [
+            {
+              "id": "text-9",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Why Your Feedback Matters"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "As a global distributor, we support a wide range of customers — from OEMs and machine shops to procurement professionals and engineers. By completing our Customer Satisfaction Survey, you’re helping us:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Identify opportunities to improve service and communication"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ensure our technical support aligns with your needs"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maintain quality assurance standards across all locations"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Benchmark performance across departments and regions"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Refine our inventory and stocking strategies based on real usage patterns"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "How We Use the Feedback"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Every response is reviewed by our quality and customer success teams. Common themes are flagged for discussion during performance reviews and strategy meetings. Issues that require immediate attention are escalated and tracked until resolved."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "We use this information to:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Train and coach our global team"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Improve our digital tools like the Quick Quote App"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Guide future service enhancements and material offerings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Strengthen our internal standards as a multi-alloy distributor committed to continuous improvement"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Help Us Improve as Your Trusted Multi-Alloy Metal Supplier"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "At Titanium Industries, your feedback helps us strengthen our position as a leading multi-alloy metal supplier serving the aerospace, medical, defense, and industrial markets. We’re committed to delivering high-quality materials, responsive service, and global support — and your input ensures we continue to meet and exceed those standards. Please take a moment to complete our Customer Satisfaction Survey so we can better serve your needs and continuously improve your experience."
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Stay Connected with Your Global Multi-Alloy Metal Supplier"
+                }
+              ]
+            },
+            {
+              "id": "picture-10",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
+              "alt": "Titanium Industries | Instagram",
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-11",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
+              "alt": "Titanium Industries | LinkedIn",
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-12",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
+              "alt": "Titanium Industries | Twitter",
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-13",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
+              "alt": "Titanium Industries | Facebook",
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-14",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
+              "alt": "Titanium Industries | Youtube",
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/customer-satisfaction-survey/",
+    "sourceHash": "62681f4ef2b2df88fc9911a7757634171906fb4ac443c99104bba5a5431504c4",
+    "converterVersion": "2",
+    "converterFamily": "protected-form-blocked",
+    "families": [
+      "protected-form-blocked"
+    ],
+    "convertedAt": "2026-09-24T21:17:14.765Z",
+    "grid": "full | full | full",
+    "remainingSourceOnly": [
+      {
+        "id": "source-6",
+        "label": "Gravity Form 23",
+        "reason": "Form 23, Customer Satisfaction Questionnaire, is modeled from the WordPress export (26 fields, 3 notifications, 1 confirmation). Public submit is off. The export has no hCaptcha field. Notification delivery needs keys before anyone can send it."
+      }
+    ],
+    "verify": "Open /preview/customer-satisfaction-survey/ (private, noindex) beside https://titanium.com/customer-satisfaction-survey/. Check the grid (full, full, full), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

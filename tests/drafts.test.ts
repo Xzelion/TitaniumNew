@@ -20,6 +20,15 @@ describe('committed private drafts', () => {
     expect(survey?.href).toBe('https://titanium.com/customer-satisfaction-survey/')
     expect(quality.provenance.grid).toBe('lead-two-thirds | thirds | quality-split')
     expect(quality.provenance.verify).toContain('Customer Satisfaction Survey')
+    const surveyPage = JSON.parse(readFileSync(path.join(dir, 'customer-satisfaction-survey.json'), 'utf8')) as {
+      siteVisibility: string
+      publishedVersion: null
+      provenance: { remainingSourceOnly: Array<{ label: string; reason: string }> }
+    }
+    expect(surveyPage.siteVisibility).toBe('private_draft')
+    expect(surveyPage.publishedVersion).toBeNull()
+    const formLock = surveyPage.provenance.remainingSourceOnly.find((region) => region.label === 'Gravity Form 23')
+    expect(formLock?.reason).toMatch(/Public submit is off/)
     for (const file of ['careers.json', 'titanium-about-us--terms-conditions.json']) {
       const page = JSON.parse(readFileSync(path.join(dir, file), 'utf8')) as {
         provenance: { grid: string }
@@ -31,7 +40,7 @@ describe('committed private drafts', () => {
   })
 
   it('round-trips every converted page', () => {
-    expect(files.length).toBeGreaterThanOrEqual(254)
+    expect(files.length).toBeGreaterThanOrEqual(255)
     for (const file of files) {
       const page = JSON.parse(readFileSync(path.join(dir, file), 'utf8'))
       expect(roundTripPageDocument(page).id).toBe(page.id)

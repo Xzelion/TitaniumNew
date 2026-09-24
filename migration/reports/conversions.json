@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T21:10:43.998Z",
+  "generatedAt": "2026-09-24T21:17:44.847Z",
   "sitemap": {
     "capturedInRepoBeforeThisChange": 0,
     "publicSitemapUrls": 404
@@ -19,6 +19,26 @@
       "remainingSourceOnly": [],
       "verify": "Open /preview/quality-systems/ (private, noindex) beside https://titanium.com/quality-systems/. Check the grid (lead-two-thirds, thirds, quality-split), pictures, buttons, and the search title. The Customer Satisfaction Survey button sits in the three-fifths column (36.4% / 6% / 57.6%) and links to https://titanium.com/customer-satisfaction-survey/. Saving in Payload does not change the public site.",
       "sourceHash": "b3a34f26c059baa44e5281d768580a69f72a682068e91747469d5cb6d7ba8701"
+    },
+    {
+      "path": "/customer-satisfaction-survey/",
+      "id": "customer-satisfaction-survey",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
+      "grid": "full | full | full",
+      "families": [
+        "protected-form-blocked"
+      ],
+      "converterFamily": "protected-form-blocked",
+      "remainingSourceOnly": [
+        {
+          "id": "source-6",
+          "label": "Gravity Form 23",
+          "reason": "Form 23, Customer Satisfaction Questionnaire, is modeled from the WordPress export (26 fields, 3 notifications, 1 confirmation). Public submit is off. The export has no hCaptcha field. Notification delivery needs keys before anyone can send it."
+        }
+      ],
+      "verify": "Open /preview/customer-satisfaction-survey/ (private, noindex) beside https://titanium.com/customer-satisfaction-survey/. Check the grid (full, full, full), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "62681f4ef2b2df88fc9911a7757634171906fb4ac443c99104bba5a5431504c4"
     },
     {
       "path": "/oil-gas/",
@@ -570,8 +590,8 @@
     {
       "path": "/careers/",
       "id": "careers",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | custom(two-fifths+half) | full",
       "families": [
         "custom-column-widths"
@@ -584,8 +604,8 @@
     {
       "path": "/titanium-about-us/terms-conditions/",
       "id": "titanium-about-us--terms-conditions",
-      "action": "write",
-      "reason": "New private draft.",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
       "grid": "full | thirds | full | custom(two-fifths+half) | full",
       "families": [
         "equal-3-cta",

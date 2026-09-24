@@ -66,6 +66,7 @@ interface ConvertState {
   portfolioApplied: boolean
   htmlCardGroups: HtmlCardGroup[]
   capturedHtmlCards: HtmlPictureCard[]
+  knownForms: KnownFormNote[]
 }
 
 export function parseAviaHtml(
@@ -85,6 +86,7 @@ export function parseAviaHtml(
     portfolioApplied: false,
     htmlCardGroups: [],
     capturedHtmlCards: [],
+    knownForms,
   }
   const columns = root.querySelectorAll('.flex_column_div').filter((node) => {
     const cls = node.getAttribute('class') ?? ''
@@ -137,14 +139,10 @@ export function parseAviaHtml(
   const contentForm = [...root.querySelectorAll('.gform_wrapper'), ...root.querySelectorAll('[id^="gform_wrapper"]')].find(
     (node) => !inChrome(node),
   )
-  const knownForm = contentForm ? knownForms.find((note) => note.formId === formIdFrom(contentForm)) : undefined
+  const knownForm = contentForm ? state.knownForms.find((note) => note.formId === formIdFrom(contentForm)) : undefined
   if (contentForm) {
-    pushSource(
-      sourceOnly,
-      ids,
-      knownForm?.label ?? 'Gravity Form',
-      knownForm?.reason ?? 'Form fields, notifications, and captcha live in WordPress. This draft does not submit the form.',
-    )
+    const lock = formLock(contentForm, state)
+    pushSource(sourceOnly, ids, lock.label, lock.reason)
   }
   const newsSlider = [...root.querySelectorAll('.avia-content-slider'), ...root.querySelectorAll('.slide-entry')].find(
     (node) => !inChrome(node),
@@ -299,6 +297,16 @@ function decode(value: string): string {
     .replace(/&gt;/g, '>')
     .replace(/\s+/g, ' ')
     .trim()
+}
+
+function formLock(node: HTMLElement, state: ConvertState): { label: string; reason: string } {
+  const formId = formIdFrom(node)
+  const known = formId == null ? undefined : state.knownForms.find((note) => note.formId === formId)
+  if (known) return { label: known.label, reason: known.reason }
+  return {
+    label: 'Gravity Form',
+    reason: 'Form fields, notifications, and captcha live in WordPress. This draft does not submit the form.',
+  }
 }
 
 function formIdFrom(node: HTMLElement): number | null {
@@ -588,9 +596,9 @@ function walk(node: Node, pieces: Piece[], ids: IdFactory, sourceOnly: SourceOnl
   const cls = node.getAttribute('class') ?? ''
   if (tag === 'script' || tag === 'style') return
   if (cls.includes('gform_wrapper') || (node.getAttribute('id') ?? '').startsWith('gform_wrapper')) {
-    const reason = 'Form fields, notifications, and captcha live in WordPress. This draft does not submit the form.'
-    pieces.push({ kind: 'source', label: 'Gravity Form', reason })
-    pushSource(sourceOnly, ids, 'Gravity Form', reason)
+    const lock = formLock(node, state)
+    pieces.push({ kind: 'source', label: lock.label, reason: lock.reason })
+    pushSource(sourceOnly, ids, lock.label, lock.reason)
     return
   }
   if (tag === 'table' && node.querySelector('.grid-entry')) {
@@ -930,7 +938,12 @@ function collectFacts(entry: HTMLElement): { images: string[]; links: string[]; 
     if (!href) continue
     if (cls.includes('avia-button') || href.toLowerCase().includes('.pdf')) links.push(href)
   }
-  const heading = cleanText(entry.querySelector('h1, h2')?.text ?? '')
+  let heading = ''
+  for (const node of entry.querySelectorAll('h1, h2')) {
+    if (insideSkipped(node)) continue
+    heading = cleanText(node.text)
+    if (heading) break
+  }
   return { images, links, heading }
 }
 

@@ -24,6 +24,8 @@ cms/.next
 # live HTML captures include third-party scripts and are not committed
 migration/raw/*
 !migration/raw/gravity-form-20.json
+!migration/raw/gravity-form-23.json
+!migration/raw/gravity-form-23-notes.md
 !migration/raw/oil-gas-portfolio.xml
 !migration/raw/oil-gas-notes.md
 

@@ -20,6 +20,7 @@ const reportDir = path.join(root, 'migration/reports')
 
 const pages = [
   { file: 'quality-systems.html', name: 'quality-systems' },
+  { file: 'customer-satisfaction-survey.html', name: 'customer-satisfaction-survey' },
   { file: 'oil-gas.html', name: 'oil-gas' },
   { file: 'fastener-alloys.html', name: 'fastener-alloys' },
   { file: 'interconnect-alloys.html', name: 'interconnect-alloys' },
@@ -291,11 +292,17 @@ if (existsSync(portfolioPath)) {
   mkdirSync(portfolioDir, { recursive: true })
   writeFileSync(path.join(portfolioDir, 'oil-gas-cards.json'), `${JSON.stringify(portfolioCards, null, 2)}\n`)
 }
-const formExportPath = path.join(rawDir, 'gravity-form-20.json')
-if (existsSync(formExportPath)) {
-  const model = modelGravityFormExport(JSON.parse(readFileSync(formExportPath, 'utf8')), 20)
-  if (model.publicSubmit !== false) throw new Error('Form 20 public submit must stay off')
-  writeFileSync(path.join(formDir, 'gravity-form-20.model.json'), `${JSON.stringify(model, null, 2)}\n`)
+const formExports = [
+  { file: 'gravity-form-20.json', formId: 20 },
+  { file: 'gravity-form-23.json', formId: 23 },
+]
+for (const entry of formExports) {
+  const formExportPath = path.join(rawDir, entry.file)
+  if (!existsSync(formExportPath)) continue
+  const model = modelGravityFormExport(JSON.parse(readFileSync(formExportPath, 'utf8')), entry.formId)
+  if (model.publicSubmit !== false) throw new Error(`Form ${entry.formId} public submit must stay off`)
+  if (model.id !== entry.formId) throw new Error(`Form export ${entry.file} is not form ${entry.formId}`)
+  writeFileSync(path.join(formDir, `gravity-form-${entry.formId}.model.json`), `${JSON.stringify(model, null, 2)}\n`)
   knownForms.push(formNoteFromModel(model))
 }
 
