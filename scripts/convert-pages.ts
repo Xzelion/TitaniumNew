@@ -24,6 +24,19 @@ const pages = [
   { file: 'medical.html', name: 'medical' },
   { file: 'water-jet-cutting.html', name: 'water-jet-cutting' },
   { file: 'additive-manufacturing-build-plates.html', name: 'additive-manufacturing-build-plates' },
+  { file: 'processing--chamfering.html', name: 'chamfering' },
+  { file: 'processing--grinding.html', name: 'grinding' },
+  { file: 'processing--saw-cutting.html', name: 'saw-cutting' },
+  { file: 'processing--shearing.html', name: 'shearing' },
+  { file: 'processing--torch-cutting.html', name: 'torch-cutting' },
+  { file: 'processing--trepanning.html', name: 'trepanning' },
+  { file: 'processing--coil-slitting.html', name: 'coil-slitting' },
+  { file: 'processing--heat-treating.html', name: 'heat-treating' },
+  { file: 'processing--pvc-coating.html', name: 'pvc-coating' },
+  { file: 'processing.html', name: 'processing' },
+  { file: 'markets.html', name: 'markets' },
+  { file: 'services.html', name: 'services' },
+  { file: 'markets--aerospace.html', name: 'aerospace' },
 ]
 
 mkdirSync(draftDir, { recursive: true })
@@ -83,6 +96,9 @@ for (const page of pages) {
   if (page.name === 'medical') {
     writeFileSync(path.join(reportDir, 'medical-columns.html'), `<!doctype html><html><head><meta charset="utf-8"><title>Medical columns</title></head><body>${renderColumnsHtml(gated.draft.rows)}</body></html>`)
   }
+  if (page.name === 'saw-cutting') {
+    writeFileSync(path.join(reportDir, 'saw-columns.html'), `<!doctype html><html><head><meta charset="utf-8"><title>Saw cutting columns</title></head><body>${renderColumnsHtml(gated.draft.rows)}</body></html>`)
+  }
 }
 
 const sitemapNote = {
@@ -110,12 +126,12 @@ function escapeReport(value: string): string {
 console.log(JSON.stringify({ conversions: conversions.map((item) => ({ id: item.id, action: item.action, grid: item.grid, families: item.families })), parity: parity.map((item) => ({ id: item.id, pass: item.pass, failed: item.checks.filter((check) => !check.pass).map((check) => check.name) })) }, null, 2))
 
 function countSitemap(): number | null {
-  const file = '/tmp/ti-pages/nw-page-sitemap1.xml'
-  if (!existsSync(file)) return null
-  const texts = ['nw-page-sitemap1.xml', 'nw-page-sitemap2.xml', 'nw-post-sitemap.xml', 'portfolio-sitemap.xml', 'category-sitemap.xml', 'local-sitemap.xml']
+  const dir = '/tmp/ti-pages'
+  const texts = ['page-sitemap1.xml', 'page-sitemap2.xml', 'post-sitemap.xml', 'portfolio-sitemap.xml', 'category-sitemap.xml', 'local-sitemap.xml']
+  if (!texts.some((name) => existsSync(path.join(dir, name)))) return null
   let total = 0
   for (const name of texts) {
-    const full = path.join('/tmp/ti-pages', name)
+    const full = path.join(dir, name)
     if (!existsSync(full)) continue
     const matches = readFileSync(full, 'utf8').match(/<loc>/g)
     total += matches?.length ?? 0

@@ -119,6 +119,121 @@ describe('family converters', () => {
     expect(renderColumnsHtml(page.rows)).not.toContain('data-preset="thirds"')
   })
 
+  it('keeps a measured processing page on the 55/40 split and leaves social icons with the words', () => {
+    const html = `<!doctype html><html><head>
+<title>Saw Cutting</title>
+<meta name="description" content="Saw cutting services for specialty metals at Titanium Industries.">
+<link rel="canonical" href="https://titanium.com/processing/saw-cutting/">
+<meta property="og:title" content="Saw Cutting"><meta property="og:description" content="Saw cutting services for specialty metals at Titanium Industries.">
+<style>
+@media all and (min-width: 768px) {
+.avia-image-container { display: inline; width: 40%; margin-top: 20px !important; }
+.av_textblock_section { float: left; width: 55%; }
+}
+</style>
+</head><body><div class="entry-content">
+<div class="flex_column av_one_third flex_column_div first"><a class="avia-button" href="https://titanium.com/contact-us/">Contact Us</a></div>
+<div class="flex_column av_one_third flex_column_div"><a class="avia-button" href="https://qqa.titanium.com/">Create Quote</a></div>
+<div class="flex_column av_one_third flex_column_div"><a class="avia-button" href="https://qqa.titanium.com/product">Shop Now</a></div>
+<div class="flex_column av_one_full flex_column_div first">
+  <div class="avia-image-container avia-align-left"><img data-src="/wp-content/uploads/2019/11/saw-cutting-600.jpg" alt="Saw Cutting"></div>
+  <section class="av_textblock_section"><h1>Saw Cutting Services for Metal</h1><p>Band saw cutting.</p>
+    <a href="https://www.instagram.com/titaniumindustries/"><img data-src="https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png" width="59" alt="Instagram"></a>
+  </section>
+</div>
+</div></body></html>`
+    const { page } = convert(html)
+    expect(page.provenance.families).toEqual(expect.arrayContaining(['equal-3-cta', 'waterjet-measured']))
+    const row = page.rows.find((item) => item.preset === 'waterjet-split')
+    expect(row?.columns[1].items.some((item) => item.kind === 'picture' && item.alt === 'Saw Cutting')).toBe(true)
+    const words = row?.columns[0].items ?? []
+    const icon = words.find((item) => item.kind === 'picture')
+    expect(icon && icon.kind === 'picture' ? icon.displayPx : 0).toBe(59)
+    expect(page.rows.some((item) => item.preset === 'thirds')).toBe(true)
+    expect(parityChecks(convert(html).parsed, page).every((check) => check.pass)).toBe(true)
+  })
+
+  it('does not copy the water-jet split onto a column that only borrowed the CSS', () => {
+    const html = `<!doctype html><html><head>
+<title>Heat Treating</title>
+<meta name="description" content="Heat treating for specialty metals at Titanium Industries.">
+<link rel="canonical" href="https://titanium.com/processing/heat-treating/">
+<meta property="og:title" content="Heat Treating"><meta property="og:description" content="Heat treating for specialty metals at Titanium Industries.">
+<style>@media all and (min-width: 768px) {
+.avia-image-container { width: 40%; margin-top: 20px !important; }
+.av_textblock_section { float: left; width: 55%; }
+}</style>
+</head><body>
+<div class="flex_column av_three_fourth flex_column_div first">
+  <section class="av_textblock_section"><h1>Heat Treating Metal</h1><p>Hardening and tempering.</p></section>
+</div>
+</body></html>`
+    const { parsed, page } = convert(html)
+    expect(page.rows.map((row) => row.preset)).toEqual(['lead-three-quarters'])
+    expect(page.provenance.families).toContain('inner-width-not-split')
+    expect(page.provenance.remainingSourceOnly.map((region) => region.label)).toContain('Text width inside the column')
+    expect(parityChecks(parsed, page).find((check) => check.name === 'Inner text width')?.pass).toBe(true)
+  })
+
+  it('keeps a two-fifths picture column when the same CSS is present', () => {
+    const html = `<!doctype html><html><head>
+<title>Coil Slitting</title>
+<meta name="description" content="Coil slitting for specialty metals at Titanium Industries.">
+<link rel="canonical" href="https://titanium.com/processing/coil-slitting/">
+<meta property="og:title" content="Coil Slitting"><meta property="og:description" content="Coil slitting for specialty metals at Titanium Industries.">
+<style>.av_textblock_section{float:left;width:55%}.avia-image-container{width:40%;margin-top:20px}</style>
+</head><body>
+<div class="flex_column av_two_fifth flex_column_div first"><div class="avia-image-container"><img data-src="/wp-content/uploads/2019/11/coil-600.jpg" alt="Coil"></div></div>
+<div class="flex_column av_three_fifth flex_column_div"><section class="av_textblock_section"><h2>Custom Metal Coil Slitting</h2></section></div>
+</body></html>`
+    const { page } = convert(html)
+    expect(page.rows.map((row) => row.preset)).toEqual(['quality-split'])
+    expect(page.provenance.families).toContain('quality-split')
+    expect(page.provenance.families).not.toContain('waterjet-measured')
+  })
+
+  it('locks a 24% card grid instead of stacking the pictures', () => {
+    const html = `<!doctype html><html><head>
+<title>Markets</title>
+<meta name="description" content="Markets served by Titanium Industries.">
+<link rel="canonical" href="https://titanium.com/markets/">
+<meta property="og:title" content="Markets"><meta property="og:description" content="Markets served by Titanium Industries.">
+</head><body>
+<div class="flex_column av_one_full flex_column_div first">
+  <h1>Markets for Global Specialty Metal Supply</h1>
+</div>
+<section class="avia_codeblock_section"><div class="avia_codeblock"><div class="home-markets"><div class="home-markets-items"><div>
+  <img data-src="https://titanium.com/wp-content/uploads/2019/10/aerospace-v1.png" alt="Aerospace">
+  <h4>Aerospace</h4>
+  <a href="https://titanium.com/markets/aerospace/">Aerospace</a>
+</div></div></div></div></section>
+</body></html>`
+    const { parsed, page } = convert(html)
+    expect(page.provenance.families).toContain('custom-card-grid-blocked')
+    const pictures = page.rows.flatMap((row) => row.columns.flatMap((column) => column.items.filter((item) => item.kind === 'picture')))
+    expect(pictures).toEqual([])
+    expect(JSON.stringify(page.rows)).toContain('Markets for Global Specialty Metal Supply')
+    expect(parsed.imageUrls).not.toContain('https://titanium.com/wp-content/uploads/2019/10/aerospace-v1.png')
+    expect(parityChecks(parsed, page).find((check) => check.name === 'Card grid locked')?.pass).toBe(true)
+  })
+
+  it('refuses to turn an unmapped width into a full-width row', () => {
+    const html = `<!doctype html><html><head>
+<title>Industrial</title>
+<meta name="description" content="Industrial markets at Titanium Industries.">
+<link rel="canonical" href="https://titanium.com/markets/industrial/">
+<meta property="og:title" content="Industrial"><meta property="og:description" content="Industrial markets at Titanium Industries.">
+</head><body>
+<div class="flex_column av_one_sixth flex_column_div first"><p>Round bar</p></div>
+<div class="flex_column av_one_sixth flex_column_div"><p>Plate</p></div>
+</body></html>`
+    const { parsed, page } = convert(html)
+    expect(page.rows).toEqual([])
+    expect(page.provenance.remainingSourceOnly[0]?.label).toBe('Unmapped columns')
+    expect(JSON.stringify(page)).not.toContain('Round bar')
+    expect(parityChecks(parsed, page).find((check) => check.name === 'Unmapped columns')?.pass).toBe(false)
+  })
+
   it('does not overwrite a draft a person has edited', () => {
     const { page } = convert(qualityHtml)
     const edited = structuredClone(page)

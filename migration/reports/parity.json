@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T19:56:09.839Z",
+  "generatedAt": "2026-09-24T20:11:14.266Z",
   "pages": [
     {
       "path": "/quality-systems/",
@@ -92,6 +92,11 @@
           "name": "Text",
           "pass": true,
           "detail": "Heading kept: T.I. Oil and Gas | Specialty Metals"
+        },
+        {
+          "name": "Product grid locked",
+          "pass": true,
+          "detail": "This product grid is a WordPress query, not a fixed column layout."
         }
       ]
     },
@@ -347,6 +352,717 @@
           "name": "Text",
           "pass": true,
           "detail": "Heading kept: Titanium Industries | Build Plates for Additive Manufacturing"
+        },
+        {
+          "name": "Protected form locked",
+          "pass": true,
+          "detail": "Form fields, notifications, and captcha live in WordPress. This draft does not submit the form."
+        }
+      ]
+    },
+    {
+      "path": "/processing/chamfering/",
+      "id": "processing--chamfering",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Expert Chamfering Services: Titanium Industries | Maximize Efficiency |Stainless Steel / Aluminum Rods"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "Chamfered Edges done by the Professionals here at Titanium Industries, Inc. Contact us for Stainless Steel / Aluminum Rod Chamfering Service"
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/processing/chamfering/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Expert Chamfering Services: Titanium Industries | Maximize Efficiency |Stainless Steel / Aluminum Rods"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "Chamfered Edges done by the Professionals here at Titanium Industries, Inc. Contact us for Stainless Steel / Aluminum Rod Chamfering Service"
+        },
+        {
+          "name": "Water jet measured split",
+          "pass": true,
+          "detail": "40% picture, 55% words, 15px gap, 20px offset."
+        },
+        {
+          "name": "Water jet is not equal columns",
+          "pass": true,
+          "detail": "The cutting photo stays in the measured split."
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "3 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "6 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Specialty Metal Chamfering Capabilities"
+        }
+      ]
+    },
+    {
+      "path": "/processing/grinding/",
+      "id": "processing--grinding",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Discover Centerless Grinding Metal Cutting Services | Titanium Industries | Quality Processing"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "Titanium Industries, Inc. offers Centerless Grinding Metal Cutting Services for Specialty Metals - Contact us today!"
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/processing/grinding/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Discover Centerless Grinding Metal Cutting Services | Titanium Industries | Quality Processing"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "Titanium Industries, Inc. offers Centerless Grinding Metal Cutting Services for Specialty Metals - Contact us today!"
+        },
+        {
+          "name": "Water jet measured split",
+          "pass": true,
+          "detail": "40% picture, 55% words, 15px gap, 20px offset."
+        },
+        {
+          "name": "Water jet is not equal columns",
+          "pass": true,
+          "detail": "The cutting photo stays in the measured split."
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "3 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "6 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Centerless Grinding Metal Cutting Services"
+        }
+      ]
+    },
+    {
+      "path": "/processing/saw-cutting/",
+      "id": "processing--saw-cutting",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Saw Cutting Services for Metal - Industrial | Precision and Efficiency at Titanium Industries"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "Saw Cutting Services for Industrial Strength Metals are available here Titanium Industries, Inc. - click for Competitive Pricing Since 1972!"
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/processing/saw-cutting/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Saw Cutting Services for Metal - Industrial | Precision and Efficiency at Titanium Industries"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "Saw Cutting Services for Industrial Strength Metals are available here Titanium Industries, Inc. - click for Competitive Pricing Since 1972!"
+        },
+        {
+          "name": "Water jet measured split",
+          "pass": true,
+          "detail": "40% picture, 55% words, 15px gap, 20px offset."
+        },
+        {
+          "name": "Water jet is not equal columns",
+          "pass": true,
+          "detail": "The cutting photo stays in the measured split."
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "3 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "6 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Saw Cutting Services for Metal"
+        }
+      ]
+    },
+    {
+      "path": "/processing/shearing/",
+      "id": "processing--shearing",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Discover Custom Sheet Metal Shearing & Fabrication | Titanium Industries"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "Reduce Costs & Cycle Time with Custom Metal Shearing & Fabrication from Titanium Industries - Click Here for more on Shearing to specific to"
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/processing/shearing/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Discover Custom Sheet Metal Shearing & Fabrication | Titanium Industries"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "Reduce Costs & Cycle Time with Custom Metal Shearing & Fabrication from Titanium Industries - Click Here for more on Shearing to specific to"
+        },
+        {
+          "name": "Water jet measured split",
+          "pass": true,
+          "detail": "40% picture, 55% words, 15px gap, 20px offset."
+        },
+        {
+          "name": "Water jet is not equal columns",
+          "pass": true,
+          "detail": "The cutting photo stays in the measured split."
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "3 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "6 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Custom Specialty Metal Sheet Shearing"
+        }
+      ]
+    },
+    {
+      "path": "/processing/torch-cutting/",
+      "id": "processing--torch-cutting",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Discover Amazing Metal Torch Cutting Services: Metal Cutting Services by Flame / Torch / Oxy Fuel | Titanium Industries | 5 Advantages"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "Torch Cutting |Titanium Industries, Inc. offers Metal Cutting Services by Flame (Torch / Oxy Fuel) - Contact our team today for Excellence i"
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/processing/torch-cutting/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Discover Amazing Metal Torch Cutting Services: Metal Cutting Services by Flame / Torch / Oxy Fuel | Titanium Industries | 5 Advantages"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "Torch Cutting |Titanium Industries, Inc. offers Metal Cutting Services by Flame (Torch / Oxy Fuel) - Contact our team today for Excellence i"
+        },
+        {
+          "name": "Water jet measured split",
+          "pass": true,
+          "detail": "40% picture, 55% words, 15px gap, 20px offset."
+        },
+        {
+          "name": "Water jet is not equal columns",
+          "pass": true,
+          "detail": "The cutting photo stays in the measured split."
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "3 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "6 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Specialty Metal Torch Cutting Services"
+        }
+      ]
+    },
+    {
+      "path": "/processing/trepanning/",
+      "id": "processing--trepanning",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Discover Trepanning Metal: Boring & Coring Metal | Titanium Industries"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "Titanium Industries, Inc. offers Trepanning Boring & Coring Metal - click here for more information on our Specialty Metal Products & Servic"
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/processing/trepanning/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Discover Trepanning Metal: Boring & Coring Metal | Titanium Industries"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "Titanium Industries, Inc. offers Trepanning Boring & Coring Metal - click here for more information on our Specialty Metal Products & Servic"
+        },
+        {
+          "name": "Water jet measured split",
+          "pass": true,
+          "detail": "40% picture, 55% words, 15px gap, 20px offset."
+        },
+        {
+          "name": "Water jet is not equal columns",
+          "pass": true,
+          "detail": "The cutting photo stays in the measured split."
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "3 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "6 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Specialty Metal Trepanning & Boring"
+        }
+      ]
+    },
+    {
+      "path": "/processing/coil-slitting/",
+      "id": "processing--coil-slitting",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Special Custom Metal Coil Slitting - Metal for Medical Use | Titanium Industries | 6 Advantages"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "For Custom Metal Coil Slitting, Contact Titanium Industries, Inc. - have Coils Slit to Size & get the most out of your Industrial & Medical "
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/processing/coil-slitting/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Special Custom Metal Coil Slitting - Metal for Medical Use | Titanium Industries | 6 Advantages"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "For Custom Metal Coil Slitting, Contact Titanium Industries, Inc. - have Coils Slit to Size & get the most out of your Industrial & Medical "
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "3 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "6 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Custom Metal Coil Slitting: Titanium & Specialty Metal"
+        },
+        {
+          "name": "Inner text width",
+          "pass": true,
+          "detail": "This page includes the processing CSS that floats a text block to 55% and a picture to 40% (20px lower). No full-width row is that pair, so the draft keeps the named columns and does not invent the water-jet split."
+        }
+      ]
+    },
+    {
+      "path": "/processing/heat-treating/",
+      "id": "processing--heat-treating",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Efficient Heat Treating Metal: Hardening, Tempering, Aging | Titanium Industries"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "Titanium Industries, Inc. specializes in Heat Treating Metal, including the Hardening, Aging & Tempering of Specialty Metals - contact us he"
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/processing/heat-treating/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Efficient Heat Treating Metal: Hardening, Tempering, Aging | Titanium Industries"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "Titanium Industries, Inc. specializes in Heat Treating Metal, including the Hardening, Aging & Tempering of Specialty Metals - contact us he"
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "3 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "5 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Heat Treating Metal: Hardening, Tempering, Aging & More"
+        },
+        {
+          "name": "Inner text width",
+          "pass": true,
+          "detail": "This page includes the processing CSS that floats a text block to 55% and a picture to 40% (20px lower). No full-width row is that pair, so the draft keeps the named columns and does not invent the water-jet split."
+        }
+      ]
+    },
+    {
+      "path": "/processing/pvc-coating/",
+      "id": "processing--pvc-coating",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Dynamic PVC Coating Sheet Metal & Coils| Titanium Industries"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "For PVC Coating Sheet Metal & Coils services, contact Titanium Industries, Inc. Get your Metals & Coils PVC Coated by the Global Leaders in "
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/processing/pvc-coating/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Dynamic PVC Coating Sheet Metal & Coils| Titanium Industries"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "For PVC Coating Sheet Metal & Coils services, contact Titanium Industries, Inc. Get your Metals & Coils PVC Coated by the Global Leaders in "
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "3 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "5 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: PVC Coating Sheet Metal & Coils"
+        }
+      ]
+    },
+    {
+      "path": "/processing/",
+      "id": "processing",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Processing | Custom Fabrication, Cutting, Grinding & More | Titanium Industries"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "Processing | Custom Fabrication, Cutting, Grinding & More | Reduce Costs with Titanium Industries - View the Services that Make Us A Leading"
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/processing/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Processing | Custom Fabrication, Cutting, Grinding & More | Titanium Industries"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "Processing | Custom Fabrication, Cutting, Grinding & More | Reduce Costs with Titanium Industries - View the Services that Make Us A Leading"
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "3 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "0 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Titanium Industries Processing Capabilities"
+        },
+        {
+          "name": "Card grid locked",
+          "pass": true,
+          "detail": "These cards are custom HTML at 24% width (four across on a desktop, full width on a phone). They are not a named column preset, so they were not stacked into one column."
+        }
+      ]
+    },
+    {
+      "path": "/markets/",
+      "id": "markets",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Markets for Global Specialty Metal Supply | Titanium Industries"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "Markets for Global Specialty Metal Supply | Titanium Industries Click Here to See the Markets served by Titanium Industries Inc. - a Global "
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/markets/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Markets for Global Specialty Metal Supply | Titanium Industries"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "Markets for Global Specialty Metal Supply | Titanium Industries Click Here to See the Markets served by Titanium Industries Inc. - a Global "
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "3 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "0 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Markets for Global Specialty Metal Supply"
+        },
+        {
+          "name": "Card grid locked",
+          "pass": true,
+          "detail": "These cards are custom HTML at 24% width (four across on a desktop, full width on a phone). They are not a named column preset, so they were not stacked into one column."
+        }
+      ]
+    },
+    {
+      "path": "/services/",
+      "id": "services",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Industrial Use Specialty Metals & Services | Titanium Industries"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "Titanium Industries, Inc. offers a variety of Industrial Use Specialty Metals & Services including Kanban Programs & Kitting Services - Get "
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/services/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Industrial Use Specialty Metals & Services | Titanium Industries"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "Titanium Industries, Inc. offers a variety of Industrial Use Specialty Metals & Services including Kanban Programs & Kitting Services - Get "
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "3 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "6 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Why is Titanium Industries the world’s leading specialty metals distributor?"
+        }
+      ]
+    },
+    {
+      "path": "/markets/aerospace/",
+      "id": "markets--aerospace",
+      "pass": true,
+      "checks": [
+        {
+          "name": "SEO title",
+          "pass": true,
+          "detail": "Discover Specialty Metals in the Aerospace Market | Titanium Industries | Contact Us Today"
+        },
+        {
+          "name": "SEO description",
+          "pass": true,
+          "detail": "At T.I., we provide high performance specialty metals for critical applications in the aerospace market. Contact us today!"
+        },
+        {
+          "name": "Canonical",
+          "pass": true,
+          "detail": "https://titanium.com/markets/aerospace/"
+        },
+        {
+          "name": "Open Graph title",
+          "pass": true,
+          "detail": "Discover Specialty Metals in the Aerospace Market | Titanium Industries | Contact Us Today"
+        },
+        {
+          "name": "Open Graph description",
+          "pass": true,
+          "detail": "At T.I., we provide high performance specialty metals for critical applications in the aerospace market. Contact us today!"
+        },
+        {
+          "name": "Medical float wrap",
+          "pass": true,
+          "detail": "6 pictures tuck beside the words."
+        },
+        {
+          "name": "Medical body is not equal columns",
+          "pass": true,
+          "detail": "Wrapped sections stay one column."
+        },
+        {
+          "name": "Links",
+          "pass": true,
+          "detail": "5 links kept."
+        },
+        {
+          "name": "Media",
+          "pass": true,
+          "detail": "12 pictures kept."
+        },
+        {
+          "name": "Text",
+          "pass": true,
+          "detail": "Heading kept: Aerospace"
+        },
+        {
+          "name": "Product grid locked",
+          "pass": true,
+          "detail": "This product grid is a WordPress query, not a fixed column layout."
         }
       ]
     }

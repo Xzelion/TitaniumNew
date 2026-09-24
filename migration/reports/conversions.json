@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T19:56:09.839Z",
+  "generatedAt": "2026-09-24T20:11:14.266Z",
   "sitemap": {
     "capturedInRepoBeforeThisChange": 0,
     "publicSitemapUrls": 404
@@ -28,7 +28,8 @@
       "grid": "lead-three-fifths | thirds | two-one | full",
       "families": [
         "equal-3-cta",
-        "intro-two-one-linecard"
+        "intro-two-one-linecard",
+        "portfolio-grid-blocked"
       ],
       "converterFamily": "intro-two-one-linecard",
       "remainingSourceOnly": [
@@ -39,7 +40,7 @@
         }
       ],
       "verify": "Open /preview/oil-gas/ (private, noindex) beside https://titanium.com/oil-gas/. Check the grid (lead-three-fifths, thirds, two-one, full), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
-      "sourceHash": "3e4af5590147b2dd8dcd81349cc36fcd0dbbd79967e8faa2b6370b74c925589a"
+      "sourceHash": "7745e563ae703b10faa363e68ffd8402416a1451f49eaeaf563d70b87c98d3fd"
     },
     {
       "path": "/markets/fastener-alloys/",
@@ -110,7 +111,8 @@
       "grid": "lead-three-fifths | thirds | two-one",
       "families": [
         "equal-3-cta",
-        "intro-two-one-linecard"
+        "intro-two-one-linecard",
+        "protected-form-blocked"
       ],
       "converterFamily": "intro-two-one-linecard",
       "remainingSourceOnly": [
@@ -121,7 +123,233 @@
         }
       ],
       "verify": "Open /preview/markets/additive-manufacturing-build-plates/ (private, noindex) beside https://titanium.com/markets/additive-manufacturing-build-plates/. Check the grid (lead-three-fifths, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
-      "sourceHash": "3638de7227129981d72fefda998012d8699d2db172754051e415f6bafd5276a4"
+      "sourceHash": "b2ac28c469f3e70898e0abdd4db0ca0acab86449382d204e2c41a33b7883285d"
+    },
+    {
+      "path": "/processing/chamfering/",
+      "id": "processing--chamfering",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
+      "grid": "full | thirds | waterjet-split",
+      "families": [
+        "equal-3-cta",
+        "waterjet-measured"
+      ],
+      "converterFamily": "waterjet-measured",
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/processing/chamfering/ (private, noindex) beside https://titanium.com/processing/chamfering/. Check the grid (full, thirds, waterjet-split), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "adea0d49cf596cd52680391fa6857144e5eef1fd97fdd411cd96a2b18a6fb070"
+    },
+    {
+      "path": "/processing/grinding/",
+      "id": "processing--grinding",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
+      "grid": "full | thirds | waterjet-split",
+      "families": [
+        "equal-3-cta",
+        "waterjet-measured"
+      ],
+      "converterFamily": "waterjet-measured",
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/processing/grinding/ (private, noindex) beside https://titanium.com/processing/grinding/. Check the grid (full, thirds, waterjet-split), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "55cf17f08d79b9c75589ea76d9e03a0ae26e474aac98c706fddc6ad62c4dcd4f"
+    },
+    {
+      "path": "/processing/saw-cutting/",
+      "id": "processing--saw-cutting",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
+      "grid": "full | thirds | waterjet-split | full | halves",
+      "families": [
+        "equal-3-cta",
+        "waterjet-measured"
+      ],
+      "converterFamily": "waterjet-measured",
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/processing/saw-cutting/ (private, noindex) beside https://titanium.com/processing/saw-cutting/. Check the grid (full, thirds, waterjet-split, full, halves), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "12e78b1a9cfcf29741b2b2f53888956c93d6e41d6196d71b2a3a3f1fa3af13cf"
+    },
+    {
+      "path": "/processing/shearing/",
+      "id": "processing--shearing",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
+      "grid": "full | thirds | waterjet-split",
+      "families": [
+        "equal-3-cta",
+        "waterjet-measured"
+      ],
+      "converterFamily": "waterjet-measured",
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/processing/shearing/ (private, noindex) beside https://titanium.com/processing/shearing/. Check the grid (full, thirds, waterjet-split), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "fe27fce4848ef45a9835305cb9306df04cb40cb7fec529b2ac69a78087ebfe04"
+    },
+    {
+      "path": "/processing/torch-cutting/",
+      "id": "processing--torch-cutting",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
+      "grid": "full | thirds | waterjet-split",
+      "families": [
+        "equal-3-cta",
+        "waterjet-measured"
+      ],
+      "converterFamily": "waterjet-measured",
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/processing/torch-cutting/ (private, noindex) beside https://titanium.com/processing/torch-cutting/. Check the grid (full, thirds, waterjet-split), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "2c2a1c26d1812364deed8ee223bf2e358230872b65a1dc730634c03c7260a4db"
+    },
+    {
+      "path": "/processing/trepanning/",
+      "id": "processing--trepanning",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
+      "grid": "full | thirds | waterjet-split",
+      "families": [
+        "equal-3-cta",
+        "waterjet-measured"
+      ],
+      "converterFamily": "waterjet-measured",
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/processing/trepanning/ (private, noindex) beside https://titanium.com/processing/trepanning/. Check the grid (full, thirds, waterjet-split), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "3137e640cf87ba573931a8c964c577b7aaeeaedb3d2f779bf1dc1a69e75fccc9"
+    },
+    {
+      "path": "/processing/coil-slitting/",
+      "id": "processing--coil-slitting",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
+      "grid": "full | thirds | full | quality-split",
+      "families": [
+        "equal-3-cta",
+        "quality-split",
+        "inner-width-not-split"
+      ],
+      "converterFamily": "quality-split",
+      "remainingSourceOnly": [
+        {
+          "id": "source-24",
+          "label": "Text width inside the column",
+          "reason": "This page includes the processing CSS that floats a text block to 55% and a picture to 40% (20px lower). No full-width row is that pair, so the draft keeps the named columns and does not invent the water-jet split."
+        }
+      ],
+      "verify": "Open /preview/processing/coil-slitting/ (private, noindex) beside https://titanium.com/processing/coil-slitting/. Check the grid (full, thirds, full, quality-split), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "3a5f94163a0c0d3f0d4499c5dfb7ae43652bbad6347bd06e019181b92c6273d6"
+    },
+    {
+      "path": "/processing/heat-treating/",
+      "id": "processing--heat-treating",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
+      "grid": "full | thirds | lead-three-quarters",
+      "families": [
+        "equal-3-cta",
+        "inner-width-not-split"
+      ],
+      "converterFamily": "equal-3-cta",
+      "remainingSourceOnly": [
+        {
+          "id": "source-19",
+          "label": "Text width inside the column",
+          "reason": "This page includes the processing CSS that floats a text block to 55% and a picture to 40% (20px lower). No full-width row is that pair, so the draft keeps the named columns and does not invent the water-jet split."
+        }
+      ],
+      "verify": "Open /preview/processing/heat-treating/ (private, noindex) beside https://titanium.com/processing/heat-treating/. Check the grid (full, thirds, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "a46aba4be6285541091034efb948dcd0eb772ad77e35ff3a4e391c1c5b5a439f"
+    },
+    {
+      "path": "/processing/pvc-coating/",
+      "id": "processing--pvc-coating",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
+      "grid": "full | thirds | full",
+      "families": [
+        "equal-3-cta"
+      ],
+      "converterFamily": "equal-3-cta",
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/processing/pvc-coating/ (private, noindex) beside https://titanium.com/processing/pvc-coating/. Check the grid (full, thirds, full), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "656502c28a5ca384d762adb7593749bdab1ede0dac0d1e0a2a09afe7b2c62e3a"
+    },
+    {
+      "path": "/processing/",
+      "id": "processing",
+      "action": "write",
+      "reason": "Source changed and nobody has edited the draft, so it was rebuilt.",
+      "grid": "lead-three-fifths | thirds | full",
+      "families": [
+        "equal-3-cta",
+        "custom-card-grid-blocked"
+      ],
+      "converterFamily": "equal-3-cta",
+      "remainingSourceOnly": [
+        {
+          "id": "source-13",
+          "label": "Card grid",
+          "reason": "These cards are custom HTML at 24% width (four across on a desktop, full width on a phone). They are not a named column preset, so they were not stacked into one column."
+        }
+      ],
+      "verify": "Open /preview/processing/ (private, noindex) beside https://titanium.com/processing/. Check the grid (lead-three-fifths, thirds, full), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "dd3dabb2eee3c56d524c4a3af9eeb364cfca23e9043eb1b72907b3b6e4c6f329"
+    },
+    {
+      "path": "/markets/",
+      "id": "markets",
+      "action": "write",
+      "reason": "Source changed and nobody has edited the draft, so it was rebuilt.",
+      "grid": "lead-two-thirds | thirds | full",
+      "families": [
+        "equal-3-cta",
+        "custom-card-grid-blocked"
+      ],
+      "converterFamily": "equal-3-cta",
+      "remainingSourceOnly": [
+        {
+          "id": "source-14",
+          "label": "Card grid",
+          "reason": "These cards are custom HTML at 24% width (four across on a desktop, full width on a phone). They are not a named column preset, so they were not stacked into one column."
+        }
+      ],
+      "verify": "Open /preview/markets/ (private, noindex) beside https://titanium.com/markets/. Check the grid (lead-two-thirds, thirds, full), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "2337bdeffd16e8937761d2a2af168055abbb4ecaa4e5675728e773a22e6825c8"
+    },
+    {
+      "path": "/services/",
+      "id": "services",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
+      "grid": "full | full | thirds | halves",
+      "families": [
+        "equal-3-cta"
+      ],
+      "converterFamily": "equal-3-cta",
+      "remainingSourceOnly": [],
+      "verify": "Open /preview/services/ (private, noindex) beside https://titanium.com/services/. Check the grid (full, full, thirds, halves), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "f5b92dbc910c481e205a3552324d6a536015ec2dfac1b05dee43e869dc0b684f"
+    },
+    {
+      "path": "/markets/aerospace/",
+      "id": "markets--aerospace",
+      "action": "skip",
+      "reason": "Source hash is unchanged.",
+      "grid": "lead-three-fifths | thirds | two-one | float-wrap | float-wrap | float-wrap | float-wrap | float-wrap | float-wrap",
+      "families": [
+        "equal-3-cta",
+        "intro-two-one-linecard",
+        "medical-float",
+        "portfolio-grid-blocked"
+      ],
+      "converterFamily": "medical-float",
+      "remainingSourceOnly": [
+        {
+          "id": "source-20",
+          "label": "Product grid",
+          "reason": "This product grid is a WordPress query, not a fixed column layout."
+        }
+      ],
+      "verify": "Open /preview/markets/aerospace/ (private, noindex) beside https://titanium.com/markets/aerospace/. Check the grid (lead-three-fifths, thirds, two-one, float-wrap, float-wrap, float-wrap, float-wrap, float-wrap, float-wrap), pictures, buttons, and the search title. Saving in Payload does not change the public site.",
+      "sourceHash": "0b91e8be5c1969e07a799bab0e6a202540969c391783b91122647a1276c70a96"
     }
   ]
 }

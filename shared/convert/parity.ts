@@ -65,6 +65,31 @@ export function parityChecks(parsed: ParsedPage, page: PageDocument): ParityChec
     pass: liveText === '' || draftText.includes(liveText),
     detail: liveText ? `Heading kept: ${liveText.slice(0, 80)}` : 'No heading to compare.',
   })
+  const locked = page.provenance.remainingSourceOnly
+  const productGrid = locked.find((region) => region.label === 'Product grid')
+  if (productGrid) {
+    checks.push({ name: 'Product grid locked', pass: true, detail: productGrid.reason })
+  }
+  const cardGrid = locked.find((region) => region.label === 'Card grid')
+  if (cardGrid) {
+    checks.push({ name: 'Card grid locked', pass: true, detail: cardGrid.reason })
+  }
+  const form = locked.find((region) => region.label === 'Protected form' || region.label === 'Gravity Form')
+  if (form) {
+    checks.push({ name: 'Protected form locked', pass: true, detail: form.reason })
+  }
+  const innerWidth = locked.find((region) => region.label === 'Text width inside the column')
+  if (innerWidth) {
+    checks.push({
+      name: 'Inner text width',
+      pass: !page.rows.some((row) => row.preset === 'waterjet-split'),
+      detail: innerWidth.reason,
+    })
+  }
+  const unmapped = locked.find((region) => region.label === 'Unmapped columns')
+  if (unmapped) {
+    checks.push({ name: 'Unmapped columns', pass: false, detail: unmapped.reason })
+  }
   return checks
 }
 

@@ -146,7 +146,7 @@
             {
               "id": "picture-15",
               "kind": "picture",
-              "src": "https://titanium.com/s/img/wp-content/uploads/2023/06/Copy-of-additive-manufacturing-IG-post-2-300x300.jpg.webp",
+              "src": "https://titanium.com/wp-content/uploads/2023/06/Copy-of-additive-manufacturing-IG-post-2-300x300.jpg",
               "alt": "Additive Manufacturing Build Plates",
               "href": "",
               "wrap": "none"
@@ -258,14 +258,15 @@
   "publishedVersion": null,
   "provenance": {
     "sourceUrl": "https://titanium.com/markets/additive-manufacturing-build-plates/",
-    "sourceHash": "3638de7227129981d72fefda998012d8699d2db172754051e415f6bafd5276a4",
+    "sourceHash": "b2ac28c469f3e70898e0abdd4db0ca0acab86449382d204e2c41a33b7883285d",
     "converterVersion": "2",
     "converterFamily": "intro-two-one-linecard",
     "families": [
       "equal-3-cta",
-      "intro-two-one-linecard"
+      "intro-two-one-linecard",
+      "protected-form-blocked"
     ],
-    "convertedAt": "2026-09-24T19:53:51.383Z",
+    "convertedAt": "2026-09-24T20:09:34.873Z",
     "grid": "lead-three-fifths | thirds | two-one",
     "remainingSourceOnly": [
       {

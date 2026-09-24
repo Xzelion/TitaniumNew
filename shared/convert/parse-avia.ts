@@ -46,7 +46,7 @@ export function parseAviaHtml(html: string, ids: IdFactory): ParsedPage {
   const root = parse(html)
   const seo = readSeo(root, html)
   const styleText = root.querySelectorAll('style').map((node) => node.text).join('\n')
-  const waterjet = isWaterjetCss(styleText)
+  const waterjetCss = isWaterjetCss(styleText)
   const sourceOnly: SourceOnlyRegion[] = []
   const columns = root.querySelectorAll('.flex_column_div').filter((node) => {
     const cls = node.getAttribute('class') ?? ''
@@ -54,18 +54,43 @@ export function parseAviaHtml(html: string, ids: IdFactory): ParsedPage {
   })
   if (columns.length === 0) throw new Error('No entry content on this page')
   const groups = groupRows(columns)
-  let rows = groups.map((group) => rowFromColumns(group, ids, sourceOnly))
-  if (waterjet) rows = rows.map((row) => applyWaterjet(row, ids))
+  let rows = groups
+    .map((group) => rowFromColumns(group, ids, sourceOnly))
+    .filter((row): row is Row => row !== null)
+  if (waterjetCss) rows = rows.map((row) => applyWaterjet(row, ids))
   rows = rows.map((row) => applyMedical(row))
+  const waterjet = rows.some((row) => row.preset === 'waterjet-split')
+  if (waterjetCss && !waterjet) {
+    pushSource(
+      sourceOnly,
+      ids,
+      'Text width inside the column',
+      'This page includes the processing CSS that floats a text block to 55% and a picture to 40% (20px lower). No full-width row is that pair, so the draft keeps the named columns and does not invent the water-jet split.',
+    )
+  }
   const medicalFloat = rows.some((row) => row.preset === 'float-wrap')
-  if (root.querySelector('.gform_wrapper') || root.querySelector('[id^="gform_wrapper"]')) {
+  const contentForm = [...root.querySelectorAll('.gform_wrapper'), ...root.querySelectorAll('[id^="gform_wrapper"]')].find(
+    (node) => !inChrome(node),
+  )
+  if (contentForm) {
     pushSource(sourceOnly, ids, 'Gravity Form', 'Form fields, notifications, and captcha live in WordPress. This draft does not submit the form.')
+  }
+  const cardGrid = [...root.querySelectorAll('.home-markets'), ...root.querySelectorAll('.home-processing')].find(
+    (node) => !inChrome(node),
+  )
+  if (cardGrid) {
+    pushSource(
+      sourceOnly,
+      ids,
+      'Card grid',
+      'These cards are custom HTML at 24% width (four across on a desktop, full width on a phone). They are not a named column preset, so they were not stacked into one column.',
+    )
   }
   const bundle = parse(`<div class="entry-content">${columns.map((column) => column.toString()).join('')}</div>`)
   const entry = bundle.querySelector('.entry-content')
   if (!entry) throw new Error('No entry content on this page')
   const sourceHash = hashSource(
-    `${columns.map((column) => column.toString()).join('\n')}\n${waterjet ? 'waterjet-40-55-15-20' : ''}\nconverter-${CONVERTER_VERSION}`,
+    `${columns.map((column) => column.toString()).join('\n')}\n${waterjet ? 'waterjet-40-55-15-20' : ''}${cardGrid ? '\ncard-grid-24' : ''}\nconverter-${CONVERTER_VERSION}`,
   )
   const families = familiesFor(rows, sourceOnly)
   const facts = collectFacts(entry)
@@ -203,9 +228,28 @@ function groupRows(columns: HTMLElement[]): HTMLElement[][] {
   return groups
 }
 
-function rowFromColumns(columns: HTMLElement[], ids: IdFactory, sourceOnly: SourceOnlyRegion[]): Row {
+function rowFromColumns(columns: HTMLElement[], ids: IdFactory, sourceOnly: SourceOnlyRegion[]): Row | null {
   const keys = columns.map(widthKey)
+  if (keys.some((key) => key === null)) {
+    const shown = keys.map((key) => key ?? 'unmapped').join(' + ')
+    pushSource(
+      sourceOnly,
+      ids,
+      'Unmapped columns',
+      `This row uses column widths (${shown}) that are not a named preset. It was not forced into a full-width row.`,
+    )
+    return null
+  }
   const preset = presetForKeys(keys)
+  if (!preset) {
+    pushSource(
+      sourceOnly,
+      ids,
+      'Unmapped columns',
+      `This row uses column widths (${keys.join(' + ')}) that are not a named preset. It was not forced into a full-width row.`,
+    )
+    return null
+  }
   const spaceAbove = columns.some((column) => (column.getAttribute('class') ?? '').includes('column-top-margin'))
   const row = createRow(ids, preset, spaceAbove)
   columns.forEach((column, index) => {
@@ -225,13 +269,17 @@ function rowFromColumns(columns: HTMLElement[], ids: IdFactory, sourceOnly: Sour
   return row
 }
 
-function widthKey(column: HTMLElement): string {
-  const cls = column.getAttribute('class') ?? ''
-  const match = cls.split(/\s+/).find((token) => token in FRACTION_CLASS)
-  return match ? FRACTION_CLASS[match].key : '1'
+const WIDTH_TOKEN = /^av_(?:one|two|three|four|five|six)_(?:full|half|third|fourth|fifth|sixth|second)$/
+
+function widthKey(column: HTMLElement): string | null {
+  const tokens = (column.getAttribute('class') ?? '').split(/\s+/)
+  const known = tokens.find((token) => token in FRACTION_CLASS)
+  if (known) return FRACTION_CLASS[known].key
+  if (tokens.some((token) => WIDTH_TOKEN.test(token))) return null
+  return '1'
 }
 
-function presetForKeys(keys: string[]): RowPreset {
+function presetForKeys(keys: string[]): RowPreset | null {
   const joined = keys.join('+')
   const map: Record<string, RowPreset> = {
     '1': 'full',
@@ -246,7 +294,7 @@ function presetForKeys(keys: string[]): RowPreset {
     '3/5': 'lead-three-fifths',
     '3/4': 'lead-three-quarters',
   }
-  return map[joined] ?? 'full'
+  return map[joined] ?? null
 }
 
 interface Piece {
@@ -287,6 +335,13 @@ function walk(node: Node, pieces: Piece[], ids: IdFactory, sourceOnly: SourceOnl
     const reason = 'This product grid is a WordPress query, not a fixed column layout.'
     pieces.push({ kind: 'source', label: 'Product grid', reason })
     pushSource(sourceOnly, ids, 'Product grid', reason)
+    return
+  }
+  if (cls.split(/\s+/).includes('home-markets') || cls.split(/\s+/).includes('home-processing')) {
+    const reason =
+      'These cards are custom HTML at 24% width (four across on a desktop, full width on a phone). They are not a named column preset, so they were not stacked into one column.'
+    pieces.push({ kind: 'source', label: 'Card grid', reason })
+    pushSource(sourceOnly, ids, 'Card grid', reason)
     return
   }
   if (tag === 'img') {
@@ -446,7 +501,13 @@ function familiesFor(rows: Row[], sourceOnly: SourceOnlyRegion[]): string[] {
   if (rows.some((row) => row.preset === 'quality-split')) families.add('quality-split')
   if (rows.some((row) => row.preset === 'waterjet-split')) families.add('waterjet-measured')
   if (rows.some((row) => row.preset === 'float-wrap')) families.add('medical-float')
-  if (sourceOnly.some((region) => region.label === 'Protected form')) families.add('protected-form-blocked')
+  if (sourceOnly.some((region) => region.label === 'Protected form' || region.label === 'Gravity Form')) {
+    families.add('protected-form-blocked')
+  }
+  if (sourceOnly.some((region) => region.label === 'Product grid')) families.add('portfolio-grid-blocked')
+  if (sourceOnly.some((region) => region.label === 'Card grid')) families.add('custom-card-grid-blocked')
+  if (sourceOnly.some((region) => region.label === 'Text width inside the column')) families.add('inner-width-not-split')
+  if (sourceOnly.some((region) => region.label === 'Unmapped columns')) families.add('unmapped-columns')
   if (families.size === 0) families.add('unclassified')
   return [...families]
 }
@@ -460,6 +521,10 @@ function primaryFamily(families: string[]): string {
     'intro-three-one-linecard',
     'equal-3-cta',
     'protected-form-blocked',
+    'portfolio-grid-blocked',
+    'custom-card-grid-blocked',
+    'inner-width-not-split',
+    'unmapped-columns',
     'unclassified',
   ]
   return order.find((family) => families.includes(family)) ?? families[0] ?? 'unclassified'
@@ -473,7 +538,9 @@ function isCtaRow(row: Row): boolean {
       .join(' '),
   )
   const joined = labels.join(' | ')
-  return /contact/.test(joined) && /quote/.test(joined) && /shop/.test(joined)
+  if (/contact/.test(joined) && /quote/.test(joined) && /shop/.test(joined)) return true
+  const counts = row.columns.map((column) => column.items.filter((item) => item.kind === 'button').length)
+  return row.preset === 'thirds' && counts.length === 3 && counts.every((count) => count === 1)
 }
 
 function hasLineCard(row: Row): boolean {
@@ -542,10 +609,13 @@ function insideSkipped(node: HTMLElement): boolean {
   while (current) {
     const cls = current.getAttribute('class') ?? ''
     const id = current.getAttribute('id') ?? ''
+    const tokens = cls.split(/\s+/)
     if (
       cls.includes('isotope-item') ||
       cls.includes('grid-entry') ||
       cls.includes('gform_wrapper') ||
+      tokens.includes('home-markets') ||
+      tokens.includes('home-processing') ||
       id.startsWith('gform_wrapper')
     ) {
       return true

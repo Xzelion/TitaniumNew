@@ -1,0 +1,304 @@
+{
+  "id": "services",
+  "path": "/services/",
+  "title": "Industrial Use Specialty Metals & Services | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Industrial Use Specialty Metals & Services | Titanium Industries",
+    "description": "Titanium Industries, Inc. offers a variety of Industrial Use Specialty Metals & Services including Kanban Programs & Kitting Services - Get Started Here!",
+    "canonical": "https://titanium.com/services/",
+    "ogTitle": "Industrial Use Specialty Metals & Services | Titanium Industries",
+    "ogDescription": "Titanium Industries, Inc. offers a variety of Industrial Use Specialty Metals & Services including Kanban Programs & Kitting Services - Get Started Here!",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Titanium Industries | Our Services"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "text-6",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Why is Titanium Industries the world’s leading specialty metals distributor?"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "At Titanium Industries, we believe in partnering with our clients through the power of personalized, one-on-one interactions. Our highly trained representatives collaborate with our customers on an individual level to produce customized solutions tailored to your specific business needs and requirements. In addition to offering raw material and value added processing capabilities, Titanium Industries also provides specialty metal services to remove obstacles and concerns that you face on a daily basis. Our goals are to reduce costs, reduce lead times, and receive quality products."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-7",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-8",
+          "items": [
+            {
+              "id": "button-11",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-9",
+          "items": [
+            {
+              "id": "button-12",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-10",
+          "items": [
+            {
+              "id": "button-13",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://qqa.titanium.com/product?type=mill-product",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-14",
+      "preset": "halves",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-15",
+          "items": [
+            {
+              "id": "text-17",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Stocking Programs"
+                }
+              ]
+            },
+            {
+              "id": "picture-18",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/01/FOTO_Inventory07-clr01a_PG2-1030x687.png",
+              "alt": "Specialty metals inventory",
+              "href": "",
+              "wrap": "none"
+            },
+            {
+              "id": "text-19",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Industries offers a wide variety of services with the objective of reducing costs and cycle time for our customers. For more information regarding stocking programs and other services please contact us today."
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Just-In-Time & Kanban Programs"
+                }
+              ]
+            },
+            {
+              "id": "picture-20",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/10/shipping-mark-2-1-1030x591.jpg",
+              "alt": "Titanium Industries Quality",
+              "href": "",
+              "wrap": "none"
+            },
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "We deliver product Just-In-Time at the place and times as required from our global warehouse."
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Toll Processing"
+                }
+              ]
+            },
+            {
+              "id": "picture-22",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/01/shutterstock_529475002-1-1030x687.jpg",
+              "alt": "shutterstock_529475002",
+              "href": "",
+              "wrap": "none"
+            },
+            {
+              "id": "text-23",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "As a manufacturing producer and global distributor of many products, Titanium Industries has maximized the value of vendor relationships and internal expertise into a conversion program that offers low cost materials produced to many standard specifications for various industries including aerospace and industrial."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Turn your segregated bulk weldables and other scrap materials into a reusable assets like forged rectangular bar. Maximize the value of your material purchases, and increase your organization’s overall profitability and competitive position."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-16",
+          "items": [
+            {
+              "id": "text-24",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Kitting Services"
+                }
+              ]
+            },
+            {
+              "id": "picture-25",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2020/02/20190822_135411-1030x579.jpg",
+              "alt": "20190822_135411",
+              "href": "",
+              "wrap": "none"
+            },
+            {
+              "id": "text-26",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Industries provides kitting services where individually separate but related items are grouped, packed, and shipped together as one package. Ordering kitted parts to meet a work package, statement of work, or ship-set requirement helps save money by aggregating demand and by reducing transaction costs and freight charges. For specific service information please contact us today!"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Bonded Warehouse"
+                }
+              ]
+            },
+            {
+              "id": "picture-27",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/01/DSC02331_PG2-DUO-1030x683.jpg",
+              "alt": "Titanium Industries Titanium Round Bar",
+              "href": "",
+              "wrap": "none"
+            },
+            {
+              "id": "text-28",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Our bonded warehouse is an effective cost saving strategy and provides supply chain flexibility. Providing supply chain optimization in a secure heated premises complete with storage racking, export packaging, export compliance services, and an inventory system that conforms to U.S. Customs 19 CFR 19.12 for inventory control and record keeping."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Industries offers this warehousing service for the of most metals, as well as other durable goods. Strategically located to service the global marketplace."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "For information about using our T.I. bonded warehouse space, please contact us today!"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Scrap Reclamation"
+                }
+              ]
+            },
+            {
+              "id": "picture-29",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2015/11/PLATE-PIECES15171806.jpg",
+              "alt": "PLATE-PIECES",
+              "href": "",
+              "wrap": "none"
+            },
+            {
+              "id": "text-30",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Industries can offer a competitive return on investment for segregated scrap materials. As a distributor of titanium and specialty metals, Titanium Industries is designed to scrap your materials and yield competitive offers for segregated scrap materials."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/services/",
+    "sourceHash": "f5b92dbc910c481e205a3552324d6a536015ec2dfac1b05dee43e869dc0b684f",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:09:34.873Z",
+    "grid": "full | full | thirds | halves",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/services/ (private, noindex) beside https://titanium.com/services/. Check the grid (full, full, thirds, halves), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

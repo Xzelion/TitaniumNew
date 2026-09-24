@@ -1,0 +1,298 @@
+{
+  "id": "processing--chamfering",
+  "path": "/processing/chamfering/",
+  "title": "Expert Chamfering Services: Titanium Industries | Maximize Efficiency |Stainless Steel / Aluminum Rods",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Expert Chamfering Services: Titanium Industries | Maximize Efficiency |Stainless Steel / Aluminum Rods",
+    "description": "Chamfered Edges done by the Professionals here at Titanium Industries, Inc. Contact us for Stainless Steel / Aluminum Rod Chamfering Services & more.",
+    "canonical": "https://titanium.com/processing/chamfering/",
+    "ogTitle": "Expert Chamfering Services: Titanium Industries | Maximize Efficiency |Stainless Steel / Aluminum Rods",
+    "ogDescription": "Chamfered Edges done by the Professionals here at Titanium Industries, Inc. Contact us for Stainless Steel / Aluminum Rod Chamfering Services & more.",
+    "ogImage": "https://titanium.com/wp-content/uploads/2019/11/chamfered-600.jpg"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Specialty Metal Chamfering | Titanium Industries"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://qqa.titanium.com/product?type=mill-product",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-21",
+      "preset": "waterjet-split",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-22",
+          "items": [
+            {
+              "id": "text-13",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Specialty Metal Chamfering Capabilities"
+                }
+              ]
+            },
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Maximize Efficiency and Cost Savings with Expert Chamfering Services"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "At Titanium Industries, we take pride in providing a comprehensive range of processing services designed to optimize your manufacturing processes and reduce both costs and cycle times. One of our key offerings is expert chamfering services, a machining process that offers manifold benefits for your specialty metal products. Whether you’re in the aerospace, medical, automotive, or any other industry, chamfered products can significantly enhance your manufacturing efficiencies and lead to substantial cost savings."
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Unleashing the Power of Chamfering"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chamfering is a vital machining technique that involves beveling or rounding the edges of a metal workpiece. While this might seem like a subtle modification, the impact it can have on your manufacturing processes is immense. By creating a smooth and angled edge on the metal bar or rod stock, chamfering enables seamless and precise feeding into high-speed Swiss screw machines. The result? Streamlined operations, reduced production times, and ultimately, cost savings that can give your business a competitive edge."
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Unmatched Chamfering Capabilities"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "At Titanium Industries, we are equipped with state-of-the-art machinery and cutting-edge technology to deliver unparalleled chamfering services. Our capabilities cover a wide range of round bar and rod stock sizes, starting from ø 0.125″ (3.175 mm) up to ø 2.75″ (69.85 mm), with a chamfer depth of 0.500″ (12.7 mm). This means that regardless of the complexity or scale of your project, our expert technicians can handle it with precision and efficiency."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The Perfect Fit for Your Industry"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chamfering is a versatile process that finds application in various industries. In aerospace, for instance, where precision and quality are paramount, chamfered edges ensure smooth assembly and optimal performance of components. In the medical field, where safety is critical, chamfered products minimize the risk of injury by eliminating sharp edges. Similarly, in automotive and industrial applications, chamfering enhances the fit and functionality of components, driving superior performance and reliability."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Customized Solutions for Your Needs"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "At Titanium Industries, we understand that each project is unique, with its own set of requirements and challenges. That’s why our chamfering services are fully customizable to suit your specific needs. Whether you need a particular chamfer depth, angle, or size, our expert team will work closely with you to deliver solutions that perfectly align with your objectives."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Quality Assurance at Every Step"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Quality is at the core of everything we do at Titanium Industries. From the moment your metal stock enters our facility to the final chamfering process, we adhere to rigorous quality control standards to ensure precision and excellence. Our inspection processes, coupled with cutting-edge technology, guarantee that every chamfer meets the highest standards of accuracy and consistency."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elevate Your Efficiency with Titanium Industries"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "With our expert chamfering services, you can transform your manufacturing processes, drive efficiency, and enjoy significant cost savings. Whether you require chamfering for titanium, nickel, stainless steel, or other specialty metals, Titanium Industries is your trusted partner for top-notch results."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Contact us today](https://titanium.com/contact-us/) to explore how our chamfering services can optimize your operations and lead to unmatched manufacturing efficiencies."
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Chamfering & More Processing Services Available"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Water Jet Cutting](https://titanium.com/processing/water-jet-cutting/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Saw Cutting](https://titanium.com/processing/saw-cutting/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Chamfering](https://titanium.com/processing/chamfering/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Torch Cutting](https://titanium.com/processing/torch-cutting/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Heat Treating](https://titanium.com/processing/heat-treating/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[PVC Coating](https://titanium.com/processing/pvc-coating/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Precision Grinding](https://titanium.com/processing/grinding/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Trepanning & Boring](https://titanium.com/processing/trepanning/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Coil Slitting](https://titanium.com/processing/coil-slitting/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Metal Sheet Shearing](https://titanium.com/processing/shearing/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Follow us on Social Media:"
+                }
+              ]
+            },
+            {
+              "id": "picture-16",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
+              "alt": "Titanium Industries | Instagram",
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-17",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
+              "alt": "Titanium Industries | LinkedIn",
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-18",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
+              "alt": "Titanium Industries | Twitter",
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-19",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
+              "alt": "Titanium Industries | Facebook",
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-20",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
+              "alt": "Titanium Industries | Youtube",
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
+            }
+          ]
+        },
+        {
+          "id": "column-23",
+          "items": [
+            {
+              "id": "picture-14",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/chamfered-600-300x205.jpg",
+              "alt": "chamfering",
+              "href": "",
+              "wrap": "none"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/processing/chamfering/",
+    "sourceHash": "adea0d49cf596cd52680391fa6857144e5eef1fd97fdd411cd96a2b18a6fb070",
+    "converterVersion": "2",
+    "converterFamily": "waterjet-measured",
+    "families": [
+      "equal-3-cta",
+      "waterjet-measured"
+    ],
+    "convertedAt": "2026-09-24T20:09:34.873Z",
+    "grid": "full | thirds | waterjet-split",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/processing/chamfering/ (private, noindex) beside https://titanium.com/processing/chamfering/. Check the grid (full, thirds, waterjet-split), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

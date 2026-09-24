@@ -105,7 +105,7 @@
             {
               "id": "picture-15",
               "kind": "picture",
-              "src": "https://titanium.com/s/img/wp-content/uploads/2019/11/oil-gas-600.jpg.webp",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/oil-gas-600.jpg",
               "alt": "Titanium Industries | Specialty Metals | Oil & Gas Market",
               "href": "",
               "wrap": "left"
@@ -247,14 +247,15 @@
   "publishedVersion": null,
   "provenance": {
     "sourceUrl": "https://titanium.com/oil-gas/",
-    "sourceHash": "3e4af5590147b2dd8dcd81349cc36fcd0dbbd79967e8faa2b6370b74c925589a",
+    "sourceHash": "7745e563ae703b10faa363e68ffd8402416a1451f49eaeaf563d70b87c98d3fd",
     "converterVersion": "2",
     "converterFamily": "intro-two-one-linecard",
     "families": [
       "equal-3-cta",
-      "intro-two-one-linecard"
+      "intro-two-one-linecard",
+      "portfolio-grid-blocked"
     ],
-    "convertedAt": "2026-09-24T19:53:51.383Z",
+    "convertedAt": "2026-09-24T20:10:41.852Z",
     "grid": "lead-three-fifths | thirds | two-one | full",
     "remainingSourceOnly": [
       {

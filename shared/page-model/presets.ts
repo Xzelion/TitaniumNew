@@ -102,7 +102,7 @@ export const PRESETS: Record<RowPreset, PresetDefinition> = {
   'waterjet-split': {
     id: 'waterjet-split',
     label: 'Picture beside the words',
-    description: 'Words 55% on the left, picture 40% with a 15px gap, picture 20px lower. Matches the water jet page.',
+    description: 'Words 55% on the left, picture 40% with a 15px gap, picture 20px lower. Measured from processing pages that include this custom CSS, including water jet.',
     bars: [55, 40],
     columns: [
       { label: 'Words · 55%', widthPercent: 55, marginLeftPercent: 0 },

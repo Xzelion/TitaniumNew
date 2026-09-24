@@ -61,7 +61,7 @@ function renderLocked(page: PageDocument): string {
   const cards = regions
     .map(
       (region) =>
-        `<article class="ti-locked-card"><h3>${escapeHtml(region.label)}</h3><p>${escapeHtml(region.reason)}</p><p>This part is not an editable column. It stays source-only until WordPress admin provides it.</p></article>`,
+        `<article class="ti-locked-card"><h3>${escapeHtml(region.label)}</h3><p>${escapeHtml(region.reason)}</p><p>This part is not an editable column. It stays locked until it can be represented as a named layout.</p></article>`,
     )
     .join('')
   return `<section class="ti-locked" data-locked="true"><h2>Locked sections</h2><p>The rows above are editable. These parts are not.</p>${cards}</section>`
