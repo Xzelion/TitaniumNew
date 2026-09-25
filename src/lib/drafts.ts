@@ -12,5 +12,6 @@ export function loadDrafts(): PageDocument[] {
 }
 
 export function draftSlug(page: PageDocument): string {
-  return page.path.replace(/^\/|\/$/g, '');
+  const slug = page.path.replace(/^\/|\/$/g, '');
+  return slug || 'home';
 }

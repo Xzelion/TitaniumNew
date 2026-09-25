@@ -123,11 +123,19 @@ Parity against the live HTML (title, description, canonical, Open Graph title an
 
 ## Site chrome
 
-The live header, mega menu, footer, and homepage hero are one private document: `migration/chrome/site-chrome.json`. Payload global **Site chrome** uses the same fields (logo, phone, email, utility links, menu items with column groups, footer columns, approval logos, social links, legal line, and hero slides). `npm run cms:seed` saves that global as a draft. `publishedToSite` is forced off. Hosted conversions stay **0**. Page drafts stay **255**.
+The live header, mega menu, footer, and homepage hero are one private document: `migration/chrome/site-chrome.json`. Payload global **Site chrome** uses the same fields (logo, phone, email, utility links, menu items with column groups, footer columns, approval logos, social links, legal line, and hero slides). `npm run cms:seed` saves that global as a draft. `publishedToSite` is forced off. Hosted conversions stay **0**. Page drafts stay **256**.
 
 Astro pages that use the shared layout read `migration/chrome/site-chrome.json` (the same document the Payload global is seeded from). On `astro dev`, and on `/preview/` and `/editor/` even in a production build, the header, mega menu, and footer come from that document. The homepage rotator uses the six Site chrome slides. `/preview/chrome/` (noindex) uses that same header, menu, footer, and hero.
 
-`publishedToSite` stays **false**. A production build of public pages (`/`, `/about`, and the rest) keeps the static header, footer, and homepage hero so hosting does not ship unpublished chrome. If the file is missing or invalid, those pages fall back to the static header and footer instead of crashing. Hosted conversions stay **0**. Page drafts stay **255**.
+`publishedToSite` stays **false**. A production build of public pages (`/`, `/about`, and the rest) keeps the static header, footer, and homepage hero so hosting does not ship unpublished chrome. If the file is missing or invalid, those pages fall back to the static header and footer instead of crashing. Hosted conversions stay **0**. Page drafts stay **256**.
+
+## Homepage under the slider
+
+The private page draft `migration/drafts/home.json` (path `/`) is the live homepage under the rotator. Marketing edits it in the column workspace (`/editor/home/`) and checks it at `/preview/home/`. On `astro dev`, the public homepage route renders those rows under the Site chrome hero. A production build of `/` keeps the static below-slider markup, the same gate as unpublished chrome. If the draft file is missing or invalid, the homepage keeps that static markup.
+
+The draft rows are: welcome copy and the 50-year mark, Create Quote / Learn More / Submit RFQ, twenty product cards (five rows of no-gap quarters), Shop / Create Quote / Submit RFQ, Processing plus eight process cards, Our Markets plus eight market cards, the global-supplier paragraph, the location map picture, nineteen location write-ups, and View All Locations.
+
+Payload admin saves stay in the database. Astro reads the JSON file. Seed copies the file into the Pages collection.
 
 Payload admin saves the global in the local database. They do not rewrite `migration/chrome/site-chrome.json`. Astro reads the file. `npm run cms:seed` copies the file into the global, not the other way around.
 
@@ -139,11 +147,12 @@ The footer keeps the product lists, the four link groups (WordPress labels them 
 
 ## Families still open
 
-- Homepage sections under the slider (welcome copy, product grid, markets, locations) stay static. The six rotator slides are wired.
+- Homepage card motion, welcome text colors, and the location-map pins. The words, pictures, and links are in the homepage draft. Pin positions, pulse animation, and hover tooltips are not. The map has two Hillsboro pins; the draft keeps one. Live processing and market cards are about 24% wide and stack on a phone; the draft uses no-gap quarters (24.9%).
+- Our Markets is an h5 on the live page. The draft stores it as a level-4 heading.
 - LayerSlider motion and delays. The wired hero is a simple 7 second rotator, not LayerSlider.
 - Words painted into slide background images. Editing a headline does not repaint those files.
 - Payload admin edits to Site chrome stay in the database until `migration/chrome/site-chrome.json` is updated. Seed overwrites the global from that file.
-- A production build of public pages still uses the static header, footer, and homepage hero while `publishedToSite` is off.
+- A production build of public pages still uses the static header, footer, homepage hero, and the static below-slider markup while `publishedToSite` is off.
 - Color sections and headline rotators on interior pages (text is kept; background, overlay, and rotation are not editor blocks).
 - The 24% card grids on `/markets/` and `/processing/`.
 - The weight calculator draft does not run `calculator.js`.
