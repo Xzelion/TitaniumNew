@@ -1,0 +1,160 @@
+{
+  "id": "astm-b446-specification",
+  "path": "/astm-b446-specification/",
+  "title": "ASTM B446 | Standard Specification for Nickel Alloy 625 (UNS N06625)",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASTM B446 | Standard Specification for Nickel Alloy 625 (UNS N06625)",
+    "description": "ASTM B446 specification covers nickel-chromium-molybdenum-columbium (UNS N06625) in the form of hot-worked rod and bar and cold-worked rod.",
+    "canonical": "https://titanium.com/astm-b446-specification/",
+    "ogTitle": "ASTM B446 | Standard Specification for Nickel Alloy 625 (UNS N06625)",
+    "ogDescription": "ASTM B446 specification covers nickel-chromium-molybdenum-columbium (UNS N06625) in the form of hot-worked rod and bar and cold-worked rod.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASTM B446 | Standard Specification for Nickel-Chromium-Molybdenum-Columbium Alloy (UNS N06625)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-11",
+              "kind": "button",
+              "label": "Shop Discounted Ni Alloy Products",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Nickel+Alloy",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-8",
+          "items": [
+            {
+              "id": "button-12",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-13",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-14",
+          "items": [
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Specification: ASTM B446"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM B446 Scope: This specification covers nickel-chromium-molybdenum-columbium (UNS N06625), nickel-chromium-molybdenum-silicon alloy (UNS N06219), and nickel-chromium-molybdenum-tungsten alloy (UNS N06650) in the form of hot-worked rod and bar and cold-worked rod. The matreial shall conform to the required chemical composition for carbon, manganese, silicon, phosphorus, sulfur, chromium, columbium, tantalum, cobalt, molybdenum, iorn, aluminum, titanium, copper, nickel, tungsten, and nitrogen. The materials shall conform to the the heat treatment and room temperature tensile properties such as tensile strength, yield strength, and elongation. Dimensions of the alloys such as diameter, thickness, or width, length and straightness shall also be determined."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for ASTM specifications."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-15",
+          "items": [
+            {
+              "id": "text-17",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Nickel Alloy 625 Round Bar](https://qqa.titanium.com/product/mill-product-nickel-alloy-round-bar)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/astm-b446-specification/",
+    "sourceHash": "9cf8c16d1b25c01d1f2b2e470d833b4c2d7e18c44c0f0d57a29ca939ac0ba8d8",
+    "converterVersion": "2",
+    "converterFamily": "unclassified",
+    "families": [
+      "unclassified"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | quarters | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/astm-b446-specification/ (private, noindex) beside https://titanium.com/astm-b446-specification/. Check the grid (full, quarters, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

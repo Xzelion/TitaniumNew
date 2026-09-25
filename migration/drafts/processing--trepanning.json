@@ -1,0 +1,295 @@
+{
+  "id": "processing--trepanning",
+  "path": "/processing/trepanning/",
+  "title": "Discover Trepanning Metal: Boring & Coring Metal | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Discover Trepanning Metal: Boring & Coring Metal | Titanium Industries",
+    "description": "Titanium Industries, Inc. offers Trepanning Boring & Coring Metal - click here for more information on our Specialty Metal Products & Services. Trepanning Metal: Boring & Coring Metal",
+    "canonical": "https://titanium.com/processing/trepanning/",
+    "ogTitle": "Discover Trepanning Metal: Boring & Coring Metal | Titanium Industries",
+    "ogDescription": "Titanium Industries, Inc. offers Trepanning Boring & Coring Metal - click here for more information on our Specialty Metal Products & Services. Trepanning Metal: Boring & Coring Metal",
+    "ogImage": "https://titanium.com/wp-content/uploads/2019/11/trepanning-600.jpg"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Trepanning & Boring | Titanium Industries"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-21",
+      "preset": "waterjet-split",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-22",
+          "items": [
+            {
+              "id": "text-13",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Specialty Metal Trepanning & Boring"
+                }
+              ]
+            },
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Unleashing Precision: Trepanning Metal for Boring & Coring Excellence"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "At Titanium Industries, we excel in providing cutting-edge solutions for metal trepanning, ensuring exceptional results and precision engineering. The trepanning process involves skillfully boring and coring metal, generating a valuable “core” that can be utilized for various applications or factored into the overall cost, optimizing the value of the metal piece."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Beginning with a solid product, the material is trepanned or bored to the customers wall thickness specification. The trepanning process generates a “core” that is available to be returned back to the customer, or recalculated back into the price, reducing the cost of the tube/pipe."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "There are a wide variety of size combinations, OD’s and ID’s, available via the trepanning/boring process."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The trepanning/boring option for a tubular/pipe product is an excellent solution to the problem of nonstandard dimensions that T.I. is able to offers its customer base."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Versatility and Precision Combined:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "With our trepanning metal services, customers gain access to unparalleled versatility, allowing us to cater to a wide array of size combinations, outer diameters (ODs), and inner diameters (IDs). This precision engineering ensures that each metal piece meets exact specifications, offering superior performance and seamless integration into your projects."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Customized Solutions for Optimal Efficiency:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nonstandard dimensions and challenging metal specifications are effortlessly addressed with Titanium Industries’ trepanning metal services. Our state-of-the-art techniques enable us to deliver customized solutions, tailored to your specific requirements, to achieve optimal efficiency and productivity."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cost-Effective Solutions, Maximizing Value:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "We understand the importance of cost optimization in metalworking projects. By offering the option to utilize the trepanning “core” or adjusting the price accordingly, we are committed to delivering value-driven solutions that align with your budgetary goals."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Industry-Leading Expertise and Commitment:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "With decades of experience in the metal industry, Titanium Industries has established itself as a trusted partner, renowned for its expertise and unwavering commitment to customer satisfaction. Our skilled professionals ensure every trepanning metal project is executed to perfection, delivering top-tier results."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elevate Your Metalworking Endeavors:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Experience the power of precision and customization with Titanium Industries’ trepanning metal services. Elevate your metalworking endeavors with our state-of-the-art techniques, delivering superior quality, efficiency, and value. Contact us today"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Trepanning Metal: Boring & Coring Metal More Processing Services Available"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Water Jet Cutting](https://titanium.com/processing/water-jet-cutting/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Saw Cutting](https://titanium.com/processing/saw-cutting/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Chamfering](https://titanium.com/processing/chamfering/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Torch Cutting](https://titanium.com/processing/torch-cutting/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Heat Treating](https://titanium.com/processing/heat-treating/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[PVC Coating](https://titanium.com/processing/pvc-coating/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Precision Grinding](https://titanium.com/processing/grinding/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Trepanning & Boring](https://titanium.com/processing/trepanning/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Coil Slitting](https://titanium.com/processing/coil-slitting/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Metal Sheet Shearing](https://titanium.com/processing/shearing/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Follow us on Social Media:"
+                }
+              ]
+            },
+            {
+              "id": "picture-16",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
+              "alt": "Titanium Industries | Instagram",
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-17",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
+              "alt": "Titanium Industries | LinkedIn",
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-18",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
+              "alt": "Titanium Industries | Twitter",
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-19",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
+              "alt": "Titanium Industries | Facebook",
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-20",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
+              "alt": "Titanium Industries | Youtube",
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
+            }
+          ]
+        },
+        {
+          "id": "column-23",
+          "items": [
+            {
+              "id": "picture-14",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/trepanning-600.jpg",
+              "alt": "Trepanning",
+              "href": "",
+              "wrap": "none"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/processing/trepanning/",
+    "sourceHash": "3137e640cf87ba573931a8c964c577b7aaeeaedb3d2f779bf1dc1a69e75fccc9",
+    "converterVersion": "2",
+    "converterFamily": "waterjet-measured",
+    "families": [
+      "equal-3-cta",
+      "waterjet-measured"
+    ],
+    "convertedAt": "2026-09-24T20:09:34.873Z",
+    "grid": "full | thirds | waterjet-split",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/processing/trepanning/ (private, noindex) beside https://titanium.com/processing/trepanning/. Check the grid (full, thirds, waterjet-split), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

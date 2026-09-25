@@ -1,0 +1,232 @@
+{
+  "id": "asme-sb446-specification",
+  "path": "/asme-sb446-specification/",
+  "title": "Revealing Benefits of ASME SB-446: Specifications for Nickel Alloy (UNS N06625)",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Revealing Benefits of ASME SB-446: Specifications for Nickel Alloy (UNS N06625)",
+    "description": "ASME SB-446 | Specification for Nickel Alloy (UNS N06625) Rod and Bar",
+    "canonical": "https://titanium.com/asme-sb446-specification/",
+    "ogTitle": "Revealing Benefits of ASME SB-446: Specifications for Nickel Alloy (UNS N06625)",
+    "ogDescription": "ASME SB-446 | Specification for Nickel Alloy (UNS N06625) Rod and Bar",
+    "ogImage": "https://titanium.com/wp-content/uploads/2025/08/August-2025-Beyond-the-metal-10.jpg"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASME SB-446 | Specification for Nickel Alloy (UNS N06625) Rod and Bar"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "ASME SB-446"
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "ASME SB-446"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The ASME SB-446 specification covers nickel-chromium-molybdenum- columbium (UNS N06625), nickel-chromium-molybdenum-silicon alloy (UNS N0621 9), and Nickel- Chromium-Molybdenum-Tungsten Alloy (UNS N06650) in the form of hot-worked rod and bar and cold-worked rod in the conditions shown in Table 2."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "UNS N06625 (Nickel Alloy 625) products are furnished in two grades of different heat-treated conditions:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade 1 (Annealed)—Material is normally employed in service temperatures up to 1100°F (593°C)."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade 2 (Solution Annealed)—Material is normally employed in service temperatures above 1100°F (593°C) when resistance to creep and rupture is required."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloys UNS N06219 and UNS N06650 are supplied in solution annealed condition only."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Relevant Products:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Nickel Alloy 625 Round Bar](https://titanium.com/shop/products/mill-products-nickel-alloy-round-bar)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Follow us on Social Media:"
+                }
+              ]
+            },
+            {
+              "id": "picture-19",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
+              "alt": "Titanium Industries | Instagram",
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-20",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
+              "alt": "Titanium Industries | LinkedIn",
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-21",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
+              "alt": "Titanium Industries | Twitter",
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-22",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
+              "alt": "Titanium Industries | Facebook",
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-23",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
+              "alt": "Titanium Industries | Youtube",
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/asme-sb446-specification/",
+    "sourceHash": "4bb94d5be37f29a361cb0592c7281a3c80d7e0e1ea74415ce781d74c6ded0e52",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | full",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/asme-sb446-specification/ (private, noindex) beside https://titanium.com/asme-sb446-specification/. Check the grid (full, thirds, two-one, full), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

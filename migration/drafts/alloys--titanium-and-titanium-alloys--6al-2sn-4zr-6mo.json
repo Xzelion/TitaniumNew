@@ -1,0 +1,385 @@
+{
+  "id": "alloys--titanium-and-titanium-alloys--6al-2sn-4zr-6mo",
+  "path": "/alloys/titanium-and-titanium-alloys/6al-2sn-4zr-6mo/",
+  "title": "Titanium 6Al-2Sn-4Zr-6Mo | R56260 - Titanium Industries | Titanium Bar",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Titanium 6Al-2Sn-4Zr-6Mo | R56260 - Titanium Industries | Titanium Bar",
+    "description": "Titanium 6Al-2Sn-4Zr-6Mo. Titanium 6-2-4-6 is an alpha-beta alloy, is heat treatable to achieve higher strength and demonstrates excellent corrosion resistance.",
+    "canonical": "https://titanium.com/alloys/titanium-and-titanium-alloys/6al-2sn-4zr-6mo/",
+    "ogTitle": "Titanium 6Al-2Sn-4Zr-6Mo | R56260 - Titanium Industries | Titanium Bar",
+    "ogDescription": "Titanium 6Al-2Sn-4Zr-6Mo. Titanium 6-2-4-6 is an alpha-beta alloy, is heat treatable to achieve higher strength and demonstrates excellent corrosion resistance.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Titanium 6Al-2Sn-4Zr-6Mo | R56260"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 6Al-2Sn-4Zr-6Mo (6246 or 6-2-4-6) is an alpha-beta alloy that is heat treatable to achieve higher strength in greater section sizes than Titanium 6Al-4V Grade 5 and demonstrates excellent corrosion resistance. This material is frequently found in applications where high strength, light weight, and good corrosion resistance are required. As with other Titanium alloys, 6Al-2Sn-4Zr-6Mo has high level of corrosion resistance due to the existence of the oxidation layer formed upon exposure to oxygen. Additionally, because of this metals roughly 6% molybdenum content, 6Al-2Sn-4Zr-6Mo also has excellent corrosion resistance in environments with higher levels of hydrogen sulfide (H2S) and also demonstrates excellent corrosion resistance in seawater making it an optimal material for offshore and subsea oil & gas applications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 6Al-2Sn-4Zr-6Mo products offered at Titanium Industries’ locations:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium 6Al-2Sn-4Zr-6Mo Round Bar](https://qqa.titanium.com/product/mill-product-titanium-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 6Al-2Sn-4Zr-6Mo Round Bar Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2631](https://titanium.com/ams-2631-specification/) , [AMS 4981](https://titanium.com/ams-4981-specification/)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 6Al-2Sn-4Zr-6Mo Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Shafts and housings for oil & gas drilling tools"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Subsea wellheads"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Riser components"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Well sampling equipment"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Pressure housings"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti Balance"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 6%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Al 6%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Zr 4%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Sn 2%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-19",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU-in/hr-ft²-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (1/°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.168"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "53.4"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.00000478"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "3047"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-22",
+      "preset": "lead-three-quarters",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-23",
+          "items": [
+            {
+              "id": "text-24",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2 Offset"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "162"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (R"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "m"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "175"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (AL=5 x Ø)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "13.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Brinell Hardness (H)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "360"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): 165000"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: –"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/titanium-and-titanium-alloys/6al-2sn-4zr-6mo/",
+    "sourceHash": "32d3992d7f584f96df1a7c85116107a45abce8e3af9f5fd62e2a97ae9bff9967",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/titanium-and-titanium-alloys/6al-2sn-4zr-6mo/ (private, noindex) beside https://titanium.com/alloys/titanium-and-titanium-alloys/6al-2sn-4zr-6mo/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-quarters, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

@@ -1,0 +1,141 @@
+{
+  "id": "processing",
+  "path": "/processing/",
+  "title": "Processing | Custom Fabrication, Cutting, Grinding & More | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Processing | Custom Fabrication, Cutting, Grinding & More | Titanium Industries",
+    "description": "Processing | Custom Fabrication, Cutting, Grinding & More | Reduce Costs with Titanium Industries - View the Services that Make Us A Leading Global Distributer of Titanium Mill Products & High Performance Metals",
+    "canonical": "https://titanium.com/processing/",
+    "ogTitle": "Processing | Custom Fabrication, Cutting, Grinding & More | Titanium Industries",
+    "ogDescription": "Processing | Custom Fabrication, Cutting, Grinding & More | Reduce Costs with Titanium Industries - View the Services that Make Us A Leading Global Distributer of Titanium Mill Products & High Performance Metals",
+    "ogImage": "https://titanium.com/wp-content/uploads/2019/10/water-jet-300-3.jpg"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Specialty Metal Processing"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://titanium.com/shop/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "full",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Titanium Industries Processing Capabilities"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Industries offers a wide variety of specialty metal processing capabilities with the objective of reducing costs and cycle times. Uniquely positioned as a privately owned, financially sound and nimble partner with strategically placed service centers, Titanium Industries is prepared to invest in value producing infrastructure with our clients needs at the forefront. With the most comprehensive value added services in the industry, Titanium Industries services customer of all sizes. From machine shops to large enterprise buyers. T.I. has achieved a wide range of OEM and subcontractor approvals in partnership with a strong portfolio of service provider LTA’s, ISO 9001, AS9100:D, LCS certified."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "*As9120 applicable to Birmingham, UK facility"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Titanium Industries processing capabilities include:"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/processing/",
+    "sourceHash": "dd3dabb2eee3c56d524c4a3af9eeb364cfca23e9043eb1b72907b3b6e4c6f329",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta",
+      "custom-card-grid-blocked"
+    ],
+    "convertedAt": "2026-09-24T20:11:14.266Z",
+    "grid": "lead-three-fifths | thirds | full",
+    "remainingSourceOnly": [
+      {
+        "id": "source-13",
+        "label": "Card grid",
+        "reason": "These cards are custom HTML at 24% width (four across on a desktop, full width on a phone). They are not a named column preset, so they were not stacked into one column."
+      }
+    ],
+    "verify": "Open /preview/processing/ (private, noindex) beside https://titanium.com/processing/. Check the grid (lead-three-fifths, thirds, full), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

@@ -1,0 +1,208 @@
+{
+  "id": "giving-back",
+  "path": "/giving-back/",
+  "title": "Titanium Industries | Giving Back TO OUR COMMUNITIES - Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Titanium Industries | Giving Back TO OUR COMMUNITIES - Titanium Industries",
+    "description": "TO OUR COMMUNITIES we will act as responsible and environmentally conscious corporate citizens and offer enthusiastic support and participation.",
+    "canonical": "https://titanium.com/giving-back/",
+    "ogTitle": "Titanium Industries | Giving Back TO OUR COMMUNITIES - Titanium Industries",
+    "ogDescription": "TO OUR COMMUNITIES we will act as responsible and environmentally conscious corporate citizens and offer enthusiastic support and participation.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Titanium Industries | Giving Back"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "TO OUR COMMUNITIES we will act as responsible and environmentally conscious corporate citizens and offer enthusiastic support and participation."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "At Titanium Industries , (T.I.) we’re commited to supporting the communities in which we operate. Being able to make a positive impact is a core element of our mission statement and social responsibility. Below, please find our ‘Giving Back’ moments of civic and philanthropic engagement."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "wide-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "text-7",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "T.I. has been proud to support the Rutgers Student Formula Racing team. Donating materials and processing services to the team bolsters our commitment to helping local communities and provides support to an always impressive team of students and instructors."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "picture-8",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2020/03/RRT.png",
+              "alt": "RRT",
+              "href": "",
+              "wrap": "none"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-9",
+      "preset": "quality-split",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-10",
+          "items": [
+            {
+              "id": "picture-12",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2020/03/CPR-3-902x1030.png",
+              "alt": "TITANIUM INDUSTRIES AMERICAN HEART ASSOCIATION",
+              "href": "",
+              "wrap": "none"
+            }
+          ]
+        },
+        {
+          "id": "column-11",
+          "items": [
+            {
+              "id": "text-13",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "As part of our continuing partnership with the American Heart association, T.I. donated 10 CPR training kits to the Briarcliff Middle School in Mountain lakes, NJ. Another example of T.I.’s dedication to community support and an oppurtunity to assist with CPR and First Aid training to future students.."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-14",
+      "preset": "wide-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-15",
+          "items": [
+            {
+              "id": "text-17",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "The Charters of Freedom are now encased in a gold-plated titanium frame to complement the Rotunda’s bronze features. The Titanium was donated from Titanium Industries’ (T.I.) headquarters, located in Rockaway, New Jersey, in the form of Grade 2 plate and provided to the NIST for fabrication."
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "[Read More Here…](https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/charters-of-freedom-project/)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-16",
+          "items": [
+            {
+              "id": "picture-18",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2020/03/National-Archives-2-1030x682.png",
+              "alt": "TITANIUM INDUSTRIES | CHARTERS OF FREEDOM",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/charters-of-freedom-project/",
+              "wrap": "none"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-19",
+      "preset": "quality-split",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "picture-22",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2020/03/aha-1-1030x503.png",
+              "alt": "COR VITAE SOCIETY AMERICAN HEART ASSOCIATION",
+              "href": "",
+              "wrap": "none"
+            }
+          ]
+        },
+        {
+          "id": "column-21",
+          "items": [
+            {
+              "id": "text-23",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Practice What You Preach. At T.I., we take the commitment to our community to heart. Brett Paddock, our CEO and President, was recently recognized in honor of Titanium Industries’ contributions to the American Heart Association (AHA). The AHA’s Cor Vitae Society; Latin for “Heart of Life”, celebrates individuals making a lifesaving impact in communities across the country and beyond. Community involvement is the power to bring positive change to the communities in which we operate, the customers we serve, and the overall health of our colleagues. T.I. is proud and honored to receive this recognition."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/giving-back/",
+    "sourceHash": "98a6b07bb87649e872a78c82454b1427e977e75b0eeab5bc34aa2c1f35c4d407",
+    "converterVersion": "2",
+    "converterFamily": "quality-split",
+    "families": [
+      "quality-split"
+    ],
+    "convertedAt": "2026-09-24T20:16:48.815Z",
+    "grid": "full | wide-fifths | quality-split | wide-fifths | quality-split",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/giving-back/ (private, noindex) beside https://titanium.com/giving-back/. Check the grid (full, wide-fifths, quality-split, wide-fifths, quality-split), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

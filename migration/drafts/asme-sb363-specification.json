@@ -1,0 +1,240 @@
+{
+  "id": "asme-sb363-specification",
+  "path": "/asme-sb363-specification/",
+  "title": "ASME SB-363 | Standard Specification for Seamless and Welded Unalloyed Titanium and Titanium Alloy Welding Fittings",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASME SB-363 | Standard Specification for Seamless and Welded Unalloyed Titanium and Titanium Alloy Welding Fittings",
+    "description": "ASME SB-363 | Standard Specification for Seamless and Welded Unalloyed Titanium and Titanium Alloy Welding Fittings",
+    "canonical": "https://titanium.com/asme-sb363-specification/",
+    "ogTitle": "ASME SB-363 | Standard Specification for Seamless and Welded Unalloyed Titanium and Titanium Alloy Welding Fittings",
+    "ogDescription": "ASME SB-363 | Standard Specification for Seamless and Welded Unalloyed Titanium and Titanium Alloy Welding Fittings",
+    "ogImage": "https://titanium.com/s/img/s/img/s/img/s/img/s/img/wp-content/uploads/2023/07/Instagram-300x300.png.webp"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASME SB-363 | Standard Specification for Seamless and Welded Unalloyed Titanium and Titanium Alloy Welding Fittings"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "ASME SB-363"
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "ASME SB-363"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Identical with ASTM B363, ASME SB-363 is the standard specification for seamless and welded unalloyed Titanium and Titanium alloy welding fittings. The fittings are intended for general corrosion-resisting and elevated-temperature services."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The Titanium fittings covered in this standard refers to butt welding parts like the 45° and 90° elbows, straight tees, concentric and eccentric reducers, stub ends, and others. These products must be manufactured in conformance with ASME B16.9, ASME B36.19, MSS-SP 25, MSS-SP 43, or ASME BPVC Sections VIII and IX. The weld fittings must be manufactured from Titanium and Titanium alloy pipe, tube, plate, bar and rod, billet, casting, or forgings. The manufacturing process includes forging, forming, shaping, pressing, piercing, extruding, upsetting, rolling, bending, fusion welding or a combination of two or more of these operations."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The standard specification also covers chemical composition, tensile properties, workmanship, finish, appearance, hydrostatic test, inspection and certification, product marking and packaging of the titanium welding fittings."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Relevant Products:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grade 2 45° Elbows](https://titanium.com/shop/products/pipe-and-fittings-titanium-45-elbow)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grade 2 90° Elbows](https://titanium.com/shop/products/pipe-and-fittings-titanium-90-elbow)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grade 2 Flange](https://titanium.com/shop/products/pipe-and-fittings-titanium-flange)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grade 2 Stub Ends](https://titanium.com/shop/products/pipe-and-fittings-titanium-stub-ends)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grade 2 Tees](https://titanium.com/shop/products/pipe-and-fittings-titanium-tee)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Follow us on Social Media:"
+                }
+              ]
+            },
+            {
+              "id": "picture-19",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
+              "alt": "Titanium Industries | Instagram",
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-20",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
+              "alt": "Titanium Industries | LinkedIn",
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-21",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
+              "alt": "Titanium Industries | Twitter",
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-22",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
+              "alt": "Titanium Industries | Facebook",
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-23",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
+              "alt": "Titanium Industries | Youtube",
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/asme-sb363-specification/",
+    "sourceHash": "acd19b88856784576d00b936db51133fe8f74b2358c1f8de3670cc2e103110bd",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | full",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/asme-sb363-specification/ (private, noindex) beside https://titanium.com/asme-sb363-specification/. Check the grid (full, thirds, two-one, full), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

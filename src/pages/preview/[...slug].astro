@@ -1,0 +1,47 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { draftSlug, loadDrafts } from '../../lib/drafts';
+import { renderColumnsHtml } from '../../../shared/render/columns';
+import type { PageDocument } from '../../../shared/page-model/types';
+
+export function getStaticPaths() {
+  return loadDrafts().map((page) => ({
+    params: { slug: draftSlug(page) },
+    props: { page },
+  }));
+}
+
+interface Props {
+  page: PageDocument;
+}
+
+const { page } = Astro.props;
+const body = renderColumnsHtml(page.rows);
+---
+
+<Layout
+  title={page.seo.title}
+  description={page.seo.description}
+  exactTitle
+  canonical={page.seo.canonical}
+  ogTitle={page.seo.ogTitle}
+  ogDescription={page.seo.ogDescription}
+  ogImage={page.seo.ogImage || '/og-default.jpg'}
+  robots="noindex, nofollow"
+>
+  <article class="cms-preview">
+    <p class="cms-banner">Private visual check. This page is not on the public site. Readiness: {page.readiness.replaceAll('_', ' ')}.</p>
+    <Fragment set:html={body} />
+  </article>
+</Layout>
+
+<style>
+  .cms-preview { padding-top: 88px; }
+  .cms-banner {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0.75rem 1rem 0;
+    color: #003366;
+    font-weight: 700;
+  }
+</style>

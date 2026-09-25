@@ -1,0 +1,391 @@
+{
+  "id": "alloys--alloy-steels--alloy-steel-aisi-4330",
+  "path": "/alloys/alloy-steels/alloy-steel-aisi-4330/",
+  "title": "Alloy Steel AISI 4330 | UNS# K23080 Round Bar | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Alloy Steel AISI 4330 | UNS# K23080 Round Bar | Titanium Industries",
+    "description": "Alloy Steel AISI 4330 | UNS# K23080 Round Bar offered at Titanium Industries' locations. Quick turnarounds and complete quality control.",
+    "canonical": "https://titanium.com/alloys/alloy-steels/alloy-steel-aisi-4330/",
+    "ogTitle": "Alloy Steel AISI 4330 | UNS# K23080 Round Bar | Titanium Industries",
+    "ogDescription": "Alloy Steel AISI 4330 | UNS# K23080 Round Bar offered at Titanium Industries' locations. Quick turnarounds and complete quality control.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Alloy Steel AISI 4330 | UNS# K23080"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Alloy E4330 MOD VAR is a double melted, extremely clean steel that demonstrates greater usable strength, superior transverse properties, higher fatigue strength, improved notch toughness and improved resistance to cracking. This alloy has good ductility and impact strength and the non-metallic properties make it ideal for applications needing magnetic particle inspection. These properties make Alloy 4330 an excellent material for demanding aerospace applications similar to 4340 and 300M like landing gear, shafts, gears, and similar parts."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Alloy Steel Round Bar offered at all Titanium Industries locations can be found here.](https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Buy Alloy Steel Round Bar",
+              "href": "https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar",
+              "variant": "primary"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 4330 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aircraft landing gear"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Shafts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Axels for power transmission"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Gears"
+                }
+              ]
+            },
+            {
+              "id": "button-17",
+              "kind": "button",
+              "label": "Discounted Alloy Steel",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Alloy+Steel",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-18",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-19",
+          "items": [
+            {
+              "id": "text-20",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 95.3 – 98.1%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 1.0 – 1.50%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn ≤ 1.00%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si ≤ 0.80%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 0.40 – 0.60%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 0.30 – 0.50%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.20 – 0.30%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-21",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-22",
+          "items": [
+            {
+              "id": "text-23",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density (g/cm"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "3"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ")"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (W/m °C)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity (cal/g/°C)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (1/°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "7.84"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.16"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-24",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-25",
+          "items": [
+            {
+              "id": "text-26",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Mpa)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "690"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (Mpa)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "860"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (In 50 mm)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "15%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Brinell Hardness (H)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "285"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): –"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: –"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/alloy-steels/alloy-steel-aisi-4330/",
+    "sourceHash": "600aa2c4955a7a97744922ad4abbe10c4c9ad1e1d1849d80c7c73ee6f1b13ed0",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-fifths | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/alloy-steels/alloy-steel-aisi-4330/ (private, noindex) beside https://titanium.com/alloys/alloy-steels/alloy-steel-aisi-4330/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-fifths, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

@@ -1,0 +1,1402 @@
+{
+  "id": "markets--aerospace",
+  "path": "/markets/aerospace/",
+  "title": "Discover Specialty Metals in the Aerospace Market | Titanium Industries | Contact Us Today",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Discover Specialty Metals in the Aerospace Market | Titanium Industries | Contact Us Today",
+    "description": "At T.I., we provide high performance specialty metals for critical applications in the aerospace market. Contact us today!",
+    "canonical": "https://titanium.com/markets/aerospace/",
+    "ogTitle": "Discover Specialty Metals in the Aerospace Market | Titanium Industries | Contact Us Today",
+    "ogDescription": "At T.I., we provide high performance specialty metals for critical applications in the aerospace market. Contact us today!",
+    "ogImage": "https://titanium.com/wp-content/uploads/2023/06/TI-Aerospace-Originial.jpg"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "T.I. Aerospace"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://qqa.titanium.com/product",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "T.I. | Specialty Metals for Aerospace Industry"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "We provide high performance specialty metals for critical applications in the aerospace market including commercial airframes, engines, internal and external systems, military and defense, rotary wings, space, and many other applications. Titanium Industries has achieved a wide range of OEM and subcontractor approvals, supports a strong portfolio of service provider LTA’s, and maintains ISO 9001:2015, AS9100 Revision D and is DOD registered. T.I. Aerospace provides global service center inventories at competitive prices, guaranteed quality and the best delivery available to all levels of the aerospace supply chain. We are a privately held business with a long-term growth plan and a quick decision making process. T.I. stands ready to partner with you and to support aerospace programs around the world."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "[Aerospace Line Card | Download Now](https://titanium.com/wp-content/uploads/2021/10/Aerospace-Line-Card-Titanium-Industries.pdf)"
+                }
+              ]
+            },
+            {
+              "id": "picture-16",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2026/03/Aerospace_LineCard_85x11_NEW_7.14.2025-796x1030.jpg",
+              "alt": "Aerospace_LineCard_85x11_NEW_7.14.2025",
+              "href": "https://titanium.com/wp-content/uploads/2026/03/Aerospace_LineCard_85x11_NEW_7.14.2025.pdf",
+              "wrap": "none"
+            },
+            {
+              "id": "button-17",
+              "kind": "button",
+              "label": "Titanium Industries | Aerospace Line Card",
+              "href": "https://titanium.com/wp-content/uploads/2026/03/Aerospace_LineCard_85x11_NEW_7.14.2025.pdf",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-18",
+      "preset": "float-wrap",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-19",
+          "items": [
+            {
+              "id": "text-20",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Structural Airframe Applications"
+                }
+              ]
+            },
+            {
+              "id": "picture-21",
+              "kind": "picture",
+              "src": "https://titanium.com/s/img/wp-content/uploads/2019/11/structural.jpg",
+              "alt": "Aerospace",
+              "href": "",
+              "wrap": "left"
+            },
+            {
+              "id": "text-22",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Structural airframe applications include wing structures, landing gear components, critical fasteners, springs, and hydraulic tubing. Titanium is selected in this application due to its basic characteristics; specifically its strength to weight ratio."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The use of Titanium in airframes has continued to grow since the 1960’s where it had it’s beginnings in military programs and ultimately moved into commercial aircraft. Titanium alloys effectively compete with Aluminum, Nickel and ferrous alloys in both commercial and military airframes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Applications run the gamut of airframe structural members; from massive highly stressed, forged wing structures, and landing gear components, to small critical fasteners, springs and hydraulic tubing."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "As new Titanium products, alloys and manufacturing methods are employed by the aircraft industry, the use of titanium will expand in this application."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The selection of titanium in this application is a result of the specific properties associated with the metal including:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "strength to weight ratio"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "reliability"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "corrosion resistance"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "mechanical properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "thermal expansion"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "location on the galvanic series"
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Products used in this airframe applications include:"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-23",
+      "preset": "fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-24",
+          "items": [
+            {
+              "id": "picture-29",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Round_Bar_Hi-260x185.jpg",
+              "alt": "Round Bar",
+              "href": "https://titanium.com/metalproducts/round-bar/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-30",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Round Bar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-25",
+          "items": [
+            {
+              "id": "picture-31",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Billet_Low-1-260x185.jpg",
+              "alt": "Billet",
+              "href": "https://titanium.com/metalproducts/billet/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-32",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Billet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-26",
+          "items": [
+            {
+              "id": "picture-33",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Block_Low-260x185.jpg",
+              "alt": "Block",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-block",
+              "wrap": "none"
+            },
+            {
+              "id": "text-34",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Block"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-27",
+          "items": [
+            {
+              "id": "picture-35",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Plate_Low-260x185.jpg",
+              "alt": "Plate",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-plate",
+              "wrap": "none"
+            },
+            {
+              "id": "text-36",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Plate"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-28",
+          "items": [
+            {
+              "id": "picture-37",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Sheet_Metal_Low-260x185.jpg",
+              "alt": "Sheet",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-sheet",
+              "wrap": "none"
+            },
+            {
+              "id": "text-38",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Sheet"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-39",
+      "preset": "float-wrap",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-40",
+          "items": [
+            {
+              "id": "text-41",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Commercial Rotorcraft"
+                }
+              ]
+            },
+            {
+              "id": "picture-42",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/military-2.jpg",
+              "alt": "Aerospace, Specialty Metals",
+              "href": "",
+              "wrap": "right"
+            },
+            {
+              "id": "text-43",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "The selection of Titanium in this application is based on Titanium’s strength-to-weight ratio, combined with it reliability in service."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium can be found in both military and commercial helicopters. The design criteria for titanium in this application include titanium’s reliability of service, as well as Titanium’s strength to weight ratio. Titanium has been designed into every major helicopter program, whether it be commercial or military."
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Products used in this airframe applications include:"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-44",
+      "preset": "fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-45",
+          "items": [
+            {
+              "id": "picture-50",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Round_Bar_Hi-260x185.jpg",
+              "alt": "Round Bar",
+              "href": "https://titanium.com/metalproducts/round-bar/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-51",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Round Bar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-46",
+          "items": [
+            {
+              "id": "picture-52",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Billet_Low-1-260x185.jpg",
+              "alt": "Billet",
+              "href": "https://titanium.com/metalproducts/billet/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-53",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Billet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-47",
+          "items": [
+            {
+              "id": "picture-54",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Block_Low-260x185.jpg",
+              "alt": "Block",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-block",
+              "wrap": "none"
+            },
+            {
+              "id": "text-55",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Block"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-48",
+          "items": [
+            {
+              "id": "picture-56",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Plate_Low-260x185.jpg",
+              "alt": "Plate",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-plate",
+              "wrap": "none"
+            },
+            {
+              "id": "text-57",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Plate"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-49",
+          "items": [
+            {
+              "id": "picture-58",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Sheet_Metal_Low-260x185.jpg",
+              "alt": "Sheet",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-sheet",
+              "wrap": "none"
+            },
+            {
+              "id": "text-59",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Sheet"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-60",
+      "preset": "float-wrap",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-61",
+          "items": [
+            {
+              "id": "text-62",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Aerospace Systems"
+                }
+              ]
+            },
+            {
+              "id": "picture-63",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/aerospace.jpg",
+              "alt": "Aerospace Metal Supplier",
+              "href": "",
+              "wrap": "left"
+            },
+            {
+              "id": "text-64",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "T.I. currently supplies many advanced specialty alloys. These alloys support just as many Aerospace applications, such as airframe, landing gear, jet engines, APU’s, and fasteners. Creativity with program design to support specific location and/or system, like a family of alloys and products to support a production run."
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Products used in this airframe applications include:"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-65",
+      "preset": "fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-66",
+          "items": [
+            {
+              "id": "picture-71",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Round_Bar_Hi-260x185.jpg",
+              "alt": "Round Bar",
+              "href": "https://titanium.com/metalproducts/round-bar/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-72",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Round Bar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-67",
+          "items": [
+            {
+              "id": "picture-73",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Billet_Low-1-260x185.jpg",
+              "alt": "Billet",
+              "href": "https://titanium.com/metalproducts/billet/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-74",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Billet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-68",
+          "items": [
+            {
+              "id": "picture-75",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Block_Low-260x185.jpg",
+              "alt": "Block",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-block",
+              "wrap": "none"
+            },
+            {
+              "id": "text-76",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Block"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-69",
+          "items": [
+            {
+              "id": "picture-77",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Plate_Low-260x185.jpg",
+              "alt": "Plate",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-plate",
+              "wrap": "none"
+            },
+            {
+              "id": "text-78",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Plate"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-70",
+          "items": [
+            {
+              "id": "picture-79",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Sheet_Metal_Low-260x185.jpg",
+              "alt": "Sheet",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-sheet",
+              "wrap": "none"
+            },
+            {
+              "id": "text-80",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Sheet"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-81",
+      "preset": "float-wrap",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-82",
+          "items": [
+            {
+              "id": "text-83",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Aircraft Engines"
+                }
+              ]
+            },
+            {
+              "id": "picture-84",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/aircraft.jpg",
+              "alt": "wire",
+              "href": "",
+              "wrap": "right"
+            },
+            {
+              "id": "text-85",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Industries provides material that meets the stringent requirements demanded in aircraft engines including high temperature and strength characteristics."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Today, the largest single application of Titanium is its use in gas turbine aircraft engines."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium’s strength-to-weight ratio, excellent high temperature characteristics and corrosion resistance naturally lend this metal to aircraft engine applications. Titanium is most commonly the material of choice for engine parts that operate up to 1100 degrees F (593 degrees C)."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium-based alloys make up 20-30% of the dry weight of an engine primarily in the compressor. Specific Titanium components designed in an engine include blades, disc, hubs, inlet guide vanes and cases."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Distribution does not offer material for rotating engine parts such as discs and blades."
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Products used in this airframe applications include:"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-86",
+      "preset": "sixths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-87",
+          "items": [
+            {
+              "id": "picture-93",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Round_Bar_Hi-260x185.jpg",
+              "alt": "Round Bar",
+              "href": "https://titanium.com/metalproducts/round-bar/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-94",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Round Bar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-88",
+          "items": [
+            {
+              "id": "picture-95",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Billet_Low-1-260x185.jpg",
+              "alt": "Billet",
+              "href": "https://titanium.com/metalproducts/billet/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-96",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Billet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-89",
+          "items": [
+            {
+              "id": "picture-97",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Block_Low-260x185.jpg",
+              "alt": "Block",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-block",
+              "wrap": "none"
+            },
+            {
+              "id": "text-98",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Block"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-90",
+          "items": [
+            {
+              "id": "picture-99",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Plate_Low-260x185.jpg",
+              "alt": "Plate",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-plate",
+              "wrap": "none"
+            },
+            {
+              "id": "text-100",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Plate"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-91",
+          "items": [
+            {
+              "id": "picture-101",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Sheet_Metal_Low-260x185.jpg",
+              "alt": "Sheet",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-sheet",
+              "wrap": "none"
+            },
+            {
+              "id": "text-102",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Sheet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-92",
+          "items": [
+            {
+              "id": "picture-103",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Tube_Low-1-260x185.jpg",
+              "alt": "Seamless Tube",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-seamless-tube",
+              "wrap": "none"
+            },
+            {
+              "id": "text-104",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Seamless Tube"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-105",
+      "preset": "float-wrap",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-106",
+          "items": [
+            {
+              "id": "text-107",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Military Applications"
+                }
+              ]
+            },
+            {
+              "id": "picture-108",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/military.jpg",
+              "alt": "wire",
+              "href": "",
+              "wrap": "left"
+            },
+            {
+              "id": "text-109",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "The evolution of the Titanium industry as we know it today was a function of military aircraft applications. Today, Titanium has also been designed into ballistic applications on a global basis."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The US Department of Defense early on recognized Titanium as a material that would satisfy the requirements necessary for aircraft applications. Use of Titanium in military applications began in the 1950’s when titanium was first designed into the Douglas X-3 Stiletto."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "In it’s infancy, Titanium accounted for approximately 9% of the weight of a military aircraft, the Phantom F-4 specifically. As the Titanium industry has evolved and the benefits of Titanium’s material characteristics were successfully tested over time, Titanium represented a higher percentage of the weight of a military aircraft. The F-22 aircraft was comprised of more that 39% Titanium. The aircraft program that utilized the highest percentage of Titanium, although no longer in production, was the SR-71 which was 90% Titanium."
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Products used in this airframe applications include:"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-110",
+      "preset": "sixths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-111",
+          "items": [
+            {
+              "id": "picture-117",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Round_Bar_Hi-260x185.jpg",
+              "alt": "Round Bar",
+              "href": "https://titanium.com/metalproducts/round-bar/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-118",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Round Bar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-112",
+          "items": [
+            {
+              "id": "picture-119",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Billet_Low-1-260x185.jpg",
+              "alt": "Billet",
+              "href": "https://titanium.com/metalproducts/billet/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-120",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Billet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-113",
+          "items": [
+            {
+              "id": "picture-121",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Block_Low-260x185.jpg",
+              "alt": "Block",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-block",
+              "wrap": "none"
+            },
+            {
+              "id": "text-122",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Block"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-114",
+          "items": [
+            {
+              "id": "picture-123",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Plate_Low-260x185.jpg",
+              "alt": "Plate",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-plate",
+              "wrap": "none"
+            },
+            {
+              "id": "text-124",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Plate"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-115",
+          "items": [
+            {
+              "id": "picture-125",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Sheet_Metal_Low-260x185.jpg",
+              "alt": "Sheet",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-sheet",
+              "wrap": "none"
+            },
+            {
+              "id": "text-126",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Sheet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-116",
+          "items": [
+            {
+              "id": "picture-127",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Tube_Low-1-260x185.jpg",
+              "alt": "Seamless Tube",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-seamless-tube",
+              "wrap": "none"
+            },
+            {
+              "id": "text-128",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Seamless Tube"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-129",
+      "preset": "float-wrap",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-130",
+          "items": [
+            {
+              "id": "text-131",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Space Structure Applications"
+                }
+              ]
+            },
+            {
+              "id": "picture-132",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/space.jpg",
+              "alt": "wire",
+              "href": "",
+              "wrap": "right"
+            },
+            {
+              "id": "text-133",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "In addition to airframe, engine, helicopter and military applications, Titanium is also used in space structure applications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The characteristics of Titanium recognized by the Aerospace industry for the application of Titanium, are the same reasons Titanium has been used in military and space applications. Selection of Titanium in space structures is based on strength, weight, and reliability, temperature resistance and high temperature endurance."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium was used extensively in the early Mercury and Apollo programs and continues to be designed into manned spacecraft, solid rocket booster cases, guidance control pressure vessels and currently the space station is an end use for Titanium."
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Products used in this airframe applications include:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "To gain further insights into Titanium Industries and the diverse markets we cater to with our specialty metals, we invite you to explore our range of other markets:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Additive Manufacturing Build Plates](https://titanium.com/markets/additive-manufacturing-build-plates/) [Aerospace](https://titanium.com/markets/aerospace/) [Industrial](https://titanium.com/markets/industrial/) [Medical](https://titanium.com/markets/medical/) [Defense](https://titanium.com/markets/defense/) [Engineered Fastener Alloys](https://titanium.com/markets/engineered-fasteners/) [Consumer Products](https://titanium.com/markets/consumer-products/) [Interconnect](https://titanium.com/interconnect-alloys/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Follow us on Social Media:"
+                }
+              ]
+            },
+            {
+              "id": "picture-134",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
+              "alt": "Titanium Industries | Instagram",
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-135",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
+              "alt": "Titanium Industries | LinkedIn",
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-136",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
+              "alt": "Titanium Industries | Twitter",
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-137",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
+              "alt": "Titanium Industries | Facebook",
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-138",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
+              "alt": "Titanium Industries | Youtube",
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-139",
+      "preset": "sixths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-140",
+          "items": [
+            {
+              "id": "picture-146",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Round_Bar_Hi-260x185.jpg",
+              "alt": "Round Bar",
+              "href": "https://titanium.com/metalproducts/round-bar/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-147",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Round Bar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-141",
+          "items": [
+            {
+              "id": "picture-148",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Billet_Low-1-260x185.jpg",
+              "alt": "Billet",
+              "href": "https://titanium.com/metalproducts/billet/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-149",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Billet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-142",
+          "items": [
+            {
+              "id": "picture-150",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Block_Low-260x185.jpg",
+              "alt": "Block",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-block",
+              "wrap": "none"
+            },
+            {
+              "id": "text-151",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Block"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-143",
+          "items": [
+            {
+              "id": "picture-152",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Plate_Low-260x185.jpg",
+              "alt": "Plate",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-plate",
+              "wrap": "none"
+            },
+            {
+              "id": "text-153",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Plate"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-144",
+          "items": [
+            {
+              "id": "picture-154",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Sheet_Metal_Low-260x185.jpg",
+              "alt": "Sheet",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-sheet",
+              "wrap": "none"
+            },
+            {
+              "id": "text-155",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Sheet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-145",
+          "items": [
+            {
+              "id": "picture-156",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Tube_Low-1-260x185.jpg",
+              "alt": "Seamless Tube",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-seamless-tube",
+              "wrap": "none"
+            },
+            {
+              "id": "text-157",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Seamless Tube"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/markets/aerospace/",
+    "sourceHash": "7b968b833ceec3f39d9ca41e7bf64ba6080e4128b69f75ea0b2f14894d5a91b3",
+    "converterVersion": "2",
+    "converterFamily": "medical-float",
+    "families": [
+      "equal-3-cta",
+      "intro-two-one-linecard",
+      "medical-float",
+      "html-picture-cards"
+    ],
+    "convertedAt": "2026-09-24T20:36:34.039Z",
+    "grid": "lead-three-fifths | thirds | two-one | float-wrap | fifths | float-wrap | fifths | float-wrap | fifths | float-wrap | sixths | float-wrap | sixths | float-wrap | sixths",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/markets/aerospace/ (private, noindex) beside https://titanium.com/markets/aerospace/. Check the grid (lead-three-fifths, thirds, two-one, float-wrap, fifths, float-wrap, fifths, float-wrap, fifths, float-wrap, sixths, float-wrap, sixths, float-wrap, sixths), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

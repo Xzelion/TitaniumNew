@@ -1,0 +1,244 @@
+{
+  "id": "ams-4981-specification",
+  "path": "/ams-4981-specification/",
+  "title": "AMS 4981 | Titanium Alloy Bars and Forgings | Solution & Heat Treated",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS 4981 | Titanium Alloy Bars and Forgings | Solution & Heat Treated",
+    "description": "Please find the chemical and mechanical properties for AMS 4981. Titanium 6Al-2Sn-4Zr-6Mo Round Bar available at Titanium Industries.",
+    "canonical": "https://titanium.com/ams-4981-specification/",
+    "ogTitle": "AMS 4981 | Titanium Alloy Bars and Forgings | Solution & Heat Treated",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS 4981. Titanium 6Al-2Sn-4Zr-6Mo Round Bar available at Titanium Industries.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS 4981 | Titanium Alloy Bars and Forgings | Solution and Precipitation Heat Treated"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS 4981"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Alloy: Titanium 6Al-2Sn-4Zr-6Mo"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product Forms: Titanium Alloy Bars and Forgings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Condition: Solution and Precipitation Heat Treated"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Alloy 6Al-2Sn-4Zr-6Mo Round Bar](https://titanium.com/shop/products/mill-products-titanium-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "CHEMICAL COMPOSITION"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Al 5.50 – 6.50%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Sn 1.75 – 2.25%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 5.50%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Zr 3.5 – 4.5%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "O 0.15% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N 0.0125% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 0.15% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "H 0.0125% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.04%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti Balance"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength: 160 – 170 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength: 150 – 160 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation: 6 – 10%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile properties and associated requirements vary due to orientation, section thickness, and engineering requirements."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Typical Applications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aerospace Components"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Oil and Gas"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "High Performance Automotive"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cross Reference Specifications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2631](https://titanium.com/ams-2631-specification/)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-4981-specification/",
+    "sourceHash": "2902fe0cfd9a18ba64edbfd4d9086c5e2b29150dc5d1b4b0794e839f70ce73b1",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-4981-specification/ (private, noindex) beside https://titanium.com/ams-4981-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

@@ -1,0 +1,282 @@
+{
+  "id": "markets--additive-manufacturing-build-plates",
+  "path": "/markets/additive-manufacturing-build-plates/",
+  "title": "Additive Manufacturing Build Plates | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Additive Manufacturing Build Plates | Titanium Industries",
+    "description": "Discover Titanium Industries' superior metal additive manufacturing build plates. Tailored thicknesses and optimized surface attributes ensure precise adhesion and dimensional fidelity in 3D printing. Achieve top-notch metal parts with exceptional resilience and heat resistance. Trust T.I. for reliability and performance",
+    "canonical": "https://titanium.com/markets/additive-manufacturing-build-plates/",
+    "ogTitle": "Additive Manufacturing Build Plates | Titanium Industries",
+    "ogDescription": "Discover Titanium Industries' superior metal additive manufacturing build plates. Tailored thicknesses and optimized surface attributes ensure precise adhesion and dimensional fidelity in 3D printing. Achieve top-notch metal parts with exceptional resilience and heat resistance. Trust T.I. for reliability and performance",
+    "ogImage": "https://titanium.com/wp-content/uploads/2023/06/Copy-of-additive-manufacturing-IG-post-2.jpg"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "T.I. Additive Manufacturing Build Plates"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://qqa.titanium.com/product?type=mill-product",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Titanium Industries | Build Plates for Additive Manufacturing"
+                },
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Additive Manufacturing Build Plates"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Metal additive manufacturing build plates are essential components in the realm of 3D printing, serving as the fundamental base for the fabrication of intricate and exact metal components. These plates, typically crafted from premium materials such as titanium and nickel, exhibit exceptional resilience and heat resilience. Their ability to be tailored to specific thicknesses and their optimized surface attributes make them ideal for ensuring superior adhesion and precise dimensional fidelity throughout the printing journey. Moreover, these build plates facilitate efficient heat dissipation and effectively mitigate distortion, guaranteeing the production of top-notch, dependable, and economically viable metal parts."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "At Titanium Industries, we pride ourselves on offering a wide range of metal additive manufacturing build plates that meet the highest industry standards. Our build plates are engineered with meticulous attention to detail, ensuring superior performance and reliability. Whether you’re printing small intricate components or large-scale industrial parts, our build plates provide the stability and precision required for exceptional print quality."
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "T.I.´s superior additive manufacturing build plates"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Available in any customized thickness (made to order)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Unique mechanical properties significantly decreasing the risk of distortion of the part from the platform"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal stability of the plate assured"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Less re-machining required"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Perfect overall performance especially when printing bigger parts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Longer lifespan compared to conventionally produced build plates"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Great value performance and pricing"
+                }
+              ]
+            },
+            {
+              "id": "picture-15",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/06/Copy-of-additive-manufacturing-IG-post-2-300x300.jpg",
+              "alt": "Additive Manufacturing Build Plates",
+              "href": "",
+              "wrap": "none"
+            },
+            {
+              "id": "picture-16",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/06/Copy-of-additive-manufacturing-IG-post-3-300x300.jpg",
+              "alt": "Additive Manufacturing Build Plates",
+              "href": "",
+              "wrap": "none"
+            },
+            {
+              "id": "text-17",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "In conclusion, metal additive manufacturing build plates are the foundation for achieving outstanding results in 3D printing. Their exceptional resilience, customized thicknesses, optimized surface attributes, and efficient heat dissipation capabilities ensure superior adhesion, dimensional fidelity, and part quality. With Titanium Industries as your trusted partner, you can leverage the power of metal additive manufacturing to unlock new possibilities in product design, innovation, and manufacturing efficiency. Contact us today to discover how our metal additive manufacturing build plates can elevate your 3D printing capabilities."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "To gain further insights into Titanium Industries and the diverse markets we cater to with our specialty metals, we invite you to explore our range of other markets:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Additive Manufacturing Build Plates](https://titanium.com/markets/additive-manufacturing-build-plates/) [Aerospace](https://titanium.com/markets/aerospace/) [Industrial](https://titanium.com/markets/industrial/) [Medical](https://titanium.com/markets/medical/) [Defense](https://titanium.com/markets/defense/) [Engineered Fastener Alloys](https://titanium.com/markets/engineered-fasteners/) [Consumer Products](https://titanium.com/markets/consumer-products/) [Interconnect](https://titanium.com/interconnect-alloys/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Follow us on Social Media:"
+                }
+              ]
+            },
+            {
+              "id": "picture-18",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
+              "alt": "Titanium Industries | Instagram",
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-19",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
+              "alt": "Titanium Industries | LinkedIn",
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-20",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
+              "alt": "Titanium Industries | Twitter",
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-21",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
+              "alt": "Titanium Industries | Facebook",
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-22",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
+              "alt": "Titanium Industries | Youtube",
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-23",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "[Additive Manufacturing Build Plates Line Card | Download Now](https://titanium.com/wp-content/uploads/2021/10/Aerospace-Line-Card-Titanium-Industries.pdf)"
+                }
+              ]
+            },
+            {
+              "id": "picture-24",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/06/Line-Card-Additive-Manufacturing-1-232x300.png",
+              "alt": "Titanium Industries Additive Manufacturing Build Plates",
+              "href": "https://titanium.com/wp-content/uploads/2023/06/Additive-Manufacturing-Line-Card-2-1.pdf",
+              "wrap": "none"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/markets/additive-manufacturing-build-plates/",
+    "sourceHash": "83909c19c65921898f35041a9b2fd16e10e64f6574520cfb436905656b1b4598",
+    "converterVersion": "2",
+    "converterFamily": "intro-two-one-linecard",
+    "families": [
+      "equal-3-cta",
+      "intro-two-one-linecard",
+      "protected-form-blocked"
+    ],
+    "convertedAt": "2026-09-24T20:16:48.815Z",
+    "grid": "lead-three-fifths | thirds | two-one",
+    "remainingSourceOnly": [
+      {
+        "id": "source-25",
+        "label": "Gravity Form 20",
+        "reason": "Form 20, Additive Build Plates RFQ, is modeled from the WordPress export (39 fields, 19 notifications, 1 confirmation). Public submit is off. hCaptcha and notification delivery need keys before anyone can send it. The file upload is not wired."
+      }
+    ],
+    "verify": "Open /preview/markets/additive-manufacturing-build-plates/ (private, noindex) beside https://titanium.com/markets/additive-manufacturing-build-plates/. Check the grid (lead-three-fifths, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

@@ -1,0 +1,399 @@
+{
+  "id": "alloys--stainless-steel--stainless-steel-alloy-422",
+  "path": "/alloys/stainless-steel/stainless-steel-alloy-422/",
+  "title": "Stainless Steel Alloy 422 | UNS# S42200 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Stainless Steel Alloy 422 | UNS# S42200 | Titanium Industries",
+    "description": "Stainless Steel Alloy AISI 422 is part of the martensitic family of SS and is formulated for use in aircraft and power industries.",
+    "canonical": "https://titanium.com/alloys/stainless-steel/stainless-steel-alloy-422/",
+    "ogTitle": "Stainless Steel Alloy 422 | UNS# S42200 | Titanium Industries",
+    "ogDescription": "Stainless Steel Alloy AISI 422 is part of the martensitic family of SS and is formulated for use in aircraft and power industries.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Stainless Steel Alloy 422 | UNS# S42200"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Alloy AISI 422, also known as Alloy 616, is part of the martensitic family of stainless steels and is formulated for use in aircraft and power industries that require high strength/weight ratios from room temperature to 1200°F. This material has the highest electrical conductivity among wrought martensitic stainless steels, has a moderately high embodied energy and a moderately high base cost."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel product forms offered at all Titanium Industries’ locations:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Hex Bar](https://titanium.com/shop/products/mill-products-stainless-steel-hex-bar)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Alloy 422 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aircraft parts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Steam and gas turbine components"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "High heat components"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Rotors"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 11.0 – 12.5%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 0.9 – 1.30%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "W 0.9 – 1.30%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 0.50 – 1.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 0.50 – 1.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 0.50% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "V 0.20 – 0.30%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.20 – 0.25%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P 0.025% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe Balance"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-19",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "(lb/ft3)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "(% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "(BTU/h-ft-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "(BTU/lb-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "(µm/m-K)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ".2817"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "4.7%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "14"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.11"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "10"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2 Offset"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "97"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "130"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (R"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "m"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "130"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "160"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (AL=5 x Ø)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "15.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "17.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Hardness, Rockwell (C)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "21"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (GPa): 76"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: –"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/stainless-steel/stainless-steel-alloy-422/",
+    "sourceHash": "2eb9c8708d51f0b7cef0f939cc6038f8dad19cf825183531bc5ed0ab60970ee9",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/stainless-steel/stainless-steel-alloy-422/ (private, noindex) beside https://titanium.com/alloys/stainless-steel/stainless-steel-alloy-422/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

@@ -1,0 +1,1306 @@
+{
+  "id": "metal-alloy-technical-data-titanium-nickel-steel-specs",
+  "path": "/metal-alloy-technical-data-titanium-nickel-steel-specs/",
+  "title": "Metal Alloy Technical Data | Titanium, Nickel, Steel Specs",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Metal Alloy Technical Data | Titanium, Nickel, Steel Specs",
+    "description": "Explore essential metal alloy technical data, including titanium, nickel, stainless steel, and more, with UNS numbers and mechanical properties.",
+    "canonical": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/",
+    "ogTitle": "Metal Alloy Technical Data | Titanium, Nickel, Steel Specs",
+    "ogDescription": "Explore essential metal alloy technical data, including titanium, nickel, stainless steel, and more, with UNS numbers and mechanical properties.",
+    "ogImage": "https://titanium.com/wp-content/uploads/2018/09/Alloy-Datasheet-2018.jpg"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Technical References | Titanium Industries"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://qqa.titanium.com/product?type=mill-product",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Titanium Industries can provide technical information and assistance on all products and services offered."
+                },
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Specialty Metals Technical Reference Library"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Welcome to Titanium Industries’ Specialty Metals Technical Reference Library — your source for accurate, up-to-date metal alloy technical data and specifications. This library includes detailed reference information for titanium , nickel alloys , cobalt chrome , stainless steel , alloy steel , carbon steel , and aluminum alloys , covering UNS designations , mechanical properties , and chemical compositions across dozens of grades."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Whether you’re sourcing for aerospace, medical, industrial, or oil and gas applications, these datasheets support engineering review and material comparison."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "⚠️ DISCLAIMER: Alloy data sheets are for reference only and are not intended for design purposes . Please contact us directly for certified data or documentation to support your specific requirements."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "picture-15",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2018/09/Alloy-Datasheet-2018.jpg",
+              "alt": "Titanium Industries Alloy Datasheet Guidebook",
+              "href": "https://titanium.com/wp-content/uploads/2018/09/Alloy-Datasheet-Guidebook-09-20181.pdf",
+              "wrap": "none"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "[Alloy Datasheet Guidebook – 2018](https://titanium.com/wp-content/uploads/2018/09/Alloy-Datasheet-Guidebook-09-20181.pdf)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-17",
+      "preset": "halves",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-18",
+          "items": [
+            {
+              "id": "text-20",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Commercially Pure Titanium"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "UNS#"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Technical Data"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade 1 CP 4"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R50250"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade 1 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade 2 CP 3"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R50400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade 2 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade 3 CP 2"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R50550"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade 3 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade 4 CP 1"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R50700"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade 4 Technical Info"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Titanium Alloys"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "UNS#"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Technical Data"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "6Al-4V Grade 5"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R56400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade 5 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "6Al-4V ELI Grade 23"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R56401"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade 23 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "6Al-6V-2SN"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R56620"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 6Al-6V-2Sn Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "6Al-2Sn-4Zr-2Mo"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R54620"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 6Al-2Sn-4Zr-2Mo Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "6Al-2Sn-4Zr-6Mo"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R56260"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 6Al-2Sn-4Zr-6Mo Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "7Al-4Mo"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R56740"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 7Al-4Mo Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade 7"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R53400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade 7 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade 12 0.8NI-0.3Mo"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R52400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade 12 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade 19 Ti BETA C™"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R56407"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti Beta C Grade 19 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "15V-3Cr-3Sn-3Al"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R58153"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti Grade 15V-3Cr-3Al-3Sn Technical Info"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Nickel Alloys"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "UNS#"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Technical Data"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "600"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N06600"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy 600 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "625"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N06625"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy 625 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "718"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N07718"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy 718 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "750"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N07750"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Inconel® X-750 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Monel® K500"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N05500"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Monel® K500 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "MP35N®"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "R30035"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "MP35N® Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A-286"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S66286"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Incoloy Alloy A286 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Waspaloy™"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N07001"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Waspaloy Technical Info"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Alloy Steels"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "UNS#"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Technical Data"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "135M Nitralloy"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "K24065"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nitralloy 135® Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "4130"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G41300"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 4130 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "4140"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G41400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 4140 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "4330"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "K23080"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 4330 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "4340"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G43400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 4340 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "4340 MOD 300M"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "K44220"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 4340 MOD 300M Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "4340 VM"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "K44220"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 4340 VM Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "4815"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G48150"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 4815 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "6150"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G61500"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI SAE 6150 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "8740"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G87400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 8740 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "E9310"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G93106"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI E9310 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "9313"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G93106"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI E9313 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6304 (17-22A)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "K14675"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6304 (17-22A) Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "HP 9-4-30"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "K91283"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel HP 9-4-30 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "H-11"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "T20811"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI H-11 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "52100"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G52986"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel 52100 Technical Info"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Carbon Steels"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "UNS#"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Technical Data"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AISI 1018"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G10180"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Carbon Steel AISI 1018 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AISI 1137"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G11370"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Carbon Steel AISI 1137 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AISI 1215"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G12150"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Carbon Steel AISI 1215 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AISI 12L14"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G12144"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Carbon Steel AISI 12L14 Technical Info"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-19",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Stainless Steels"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Precipitation Hardenable"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "UNS#"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Technical Data"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "13-8 PH"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S13800"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 13-8 PH Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "15-5 PH"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S15500"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 15-5 PH Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "17-4 PH"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S17400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 17-4 PH Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "17-7 PH"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S17700"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 17-7 PH Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Austenitic alloys | 100, 200, & 300 Series"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "UNS#"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Technical Data"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "108"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S29108"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 108 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "301"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S30100"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 301 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "302"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S30200"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 302 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "303"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S30300"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 303 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "303Se"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S30323"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 303Se Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "304"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S30400"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 304 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "304L"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S30403"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 304L Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "310"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S31000"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel grade 310 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "316"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S31600"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 316 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "316L"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S31603"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 316L Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "321"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S32100"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 321 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "347"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S34700"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 347 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "355"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S35500"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 355 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ferritic & Martensitic alloys | 400 Series"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "UNS#"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Technical Data"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "403"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S40300"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 403 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "410"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "41000"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 410 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "416 HT"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S41600"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 416 HT Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "418"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S41800"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 418 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "420"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S42000"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 420 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "422"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S42200"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 422 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "430"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S43000"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 430 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "430F"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S43020"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 430F Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "431"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S43100"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 431 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "440A"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S44002"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 440A Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "440C"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S44004"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 440C Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Custom 455"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S45500"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Custom 455 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Custom 465"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S46500"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Custom 465 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A286"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S66286"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Incoloy Alloy A286 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AerMet® 100"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "K92580"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AerMet® 100 Technical Info"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Aluminum Alloys"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "UNS#"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Technical Data"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2014"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A92014"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 2014 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2017"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A92017"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 2017 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2024"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A92024"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 2024 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "6061"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A96061"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 6061 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "7050"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A97050"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 7050 Technical Info"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "7075"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A97075"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 7075 Technical Info"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/",
+    "sourceHash": "0699406af7c62b0b8546665f45c4a0afe51b2b248ee3b55113742950e2741927",
+    "converterVersion": "2",
+    "converterFamily": "intro-two-one-linecard",
+    "families": [
+      "equal-3-cta",
+      "intro-two-one-linecard"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | halves",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/metal-alloy-technical-data-titanium-nickel-steel-specs/ (private, noindex) beside https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/. Check the grid (full, thirds, two-one, halves), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

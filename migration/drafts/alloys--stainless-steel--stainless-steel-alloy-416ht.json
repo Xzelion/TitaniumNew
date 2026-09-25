@@ -1,0 +1,375 @@
+{
+  "id": "alloys--stainless-steel--stainless-steel-alloy-416ht",
+  "path": "/alloys/stainless-steel/stainless-steel-alloy-416ht/",
+  "title": "Stainless Steel Alloy 416 HT | UNS# S41600 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Stainless Steel Alloy 416 HT | UNS# S41600 | Titanium Industries",
+    "description": "Stainless Steel Alloy 416 HT is a free-machining stainless steel with a machinability of 85%; the highest of all stainless steels.",
+    "canonical": "https://titanium.com/alloys/stainless-steel/stainless-steel-alloy-416ht/",
+    "ogTitle": "Stainless Steel Alloy 416 HT | UNS# S41600 | Titanium Industries",
+    "ogDescription": "Stainless Steel Alloy 416 HT is a free-machining stainless steel with a machinability of 85%; the highest of all stainless steels.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Stainless Steel Alloy 416 HT | UNS# S41600"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Alloy 416 HT is a free-machining stainless steel with a machinability of 85%; the highest of all stainless steels. As with most of the free-machining stainless steels, machinability can be improved with the addition of Sulphur, which leads to the formation of manganese sulphide inclusions. The addition of Sulphur also reduces formability, weldability and corrosion resistance of the 416 grades to below grade 410. Due to their high machinability and relatively low cost, type 416 are sold in highly tempered, hardened or unhardened forms."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel product forms offered at all Titanium Industries’ locations:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Hex Bar](https://titanium.com/shop/products/mill-products-stainless-steel-hex-bar)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Alloy 416 HT Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Valves, pump shafts and motor shafts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Parts of washing machines"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Gears, bolts, nuts and studs"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Automatic screw-machined components"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.15% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 1.25% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 1.0% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P 0.06% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.15% Min"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 12.0 – 14.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 0.60% Max"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-19",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU/hr/ft2/ft/° F (W/m•K)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity (BTU/lb/° F (kJ/kg•K))"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (µin/in-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.282"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "24.9"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.110 (0.460)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "5.50"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2790"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2 Offset"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "40"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (R"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "m"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "75"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (AL=5 x Ø)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "30.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Brinell Hardness (Hb)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "262"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (MPa): 20600"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: 85%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/stainless-steel/stainless-steel-alloy-416ht/",
+    "sourceHash": "da8785feefec9f49552a8e18b0c3974e0d13d5a376cf6bf996d9ccd435e50c07",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/stainless-steel/stainless-steel-alloy-416ht/ (private, noindex) beside https://titanium.com/alloys/stainless-steel/stainless-steel-alloy-416ht/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

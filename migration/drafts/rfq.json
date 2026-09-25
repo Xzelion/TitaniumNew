@@ -1,0 +1,157 @@
+{
+  "id": "rfq",
+  "path": "/rfq/",
+  "title": "Request for Quote [RFQ] Submission | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Request for Quote [RFQ] Submission | Titanium Industries",
+    "description": "Titanium Industries' RFQ Request for Quote submission tool is quick and easy. Looking for pricing on Titanium Round Bar, Titanium Plate, Pipe, or Fittings?",
+    "canonical": "https://titanium.com/rfq/",
+    "ogTitle": "Request for Quote [RFQ] Submission | Titanium Industries",
+    "ogDescription": "Titanium Industries' RFQ Request for Quote submission tool is quick and easy. Looking for pricing on Titanium Round Bar, Titanium Plate, Pipe, or Fittings?",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "RFQ Submission | Titanium Industries"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "text-6",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Did You Know You Can Create a Quote Online!? [Click Here to Create Your Quote.](https://qqa.titanium.com/)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-7",
+      "preset": "halves",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-8",
+          "items": [
+            {
+              "id": "text-11",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Get instant pricing. Create a quote today!"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fast Checkout | Quick Shipments | Great Prices"
+                }
+              ]
+            },
+            {
+              "id": "button-12",
+              "kind": "button",
+              "label": "Click Here to Create a Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            },
+            {
+              "id": "text-13",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "* indicates a required field"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-9",
+          "items": [
+            {
+              "id": "picture-14",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2015/11/PLATE-SAW115171810-1000x430.jpg",
+              "alt": "PLATE-SAW1",
+              "href": "",
+              "wrap": "none"
+            },
+            {
+              "id": "picture-15",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2015/11/TITANIUM-1600x600_0008_shear-1500x430.jpg",
+              "alt": "TITANIUM-1600x600_0008_shear",
+              "href": "",
+              "wrap": "none"
+            },
+            {
+              "id": "picture-16",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2015/11/TITANIUM-1600x600_0002_inventory-10-1500x430.jpg",
+              "alt": "TITANIUM-1600x600_0002_inventory-10",
+              "href": "",
+              "wrap": "none"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/rfq/",
+    "sourceHash": "d144fffe0585ca65fe53a72453785817add2a980220ff70fcff5a6f528f6ea4a",
+    "converterVersion": "2",
+    "converterFamily": "protected-form-blocked",
+    "families": [
+      "protected-form-blocked"
+    ],
+    "convertedAt": "2026-09-24T20:30:22.163Z",
+    "grid": "full | full | halves",
+    "remainingSourceOnly": [
+      {
+        "id": "source-10",
+        "label": "Gravity Form",
+        "reason": "Form fields, notifications, and captcha live in WordPress. This draft does not submit the form."
+      }
+    ],
+    "verify": "Open /preview/rfq/ (private, noindex) beside https://titanium.com/rfq/. Check the grid (full, full, halves), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

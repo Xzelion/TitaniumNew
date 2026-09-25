@@ -1,0 +1,162 @@
+{
+  "id": "astm-a322-specification",
+  "path": "/astm-a322-specification/",
+  "title": "ASTM A322 | Standard Specification for Steel Bars, Alloy, Standard Grades",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASTM A322 | Standard Specification for Steel Bars, Alloy, Standard Grades",
+    "description": "ASTM A322 specification covers hot-wrought alloy steel bars made by one or more of the following primary processes: open-hearth, basic-oxygen, or electric-furnace.",
+    "canonical": "https://titanium.com/astm-a322-specification/",
+    "ogTitle": "ASTM A322 | Standard Specification for Steel Bars, Alloy, Standard Grades",
+    "ogDescription": "ASTM A322 specification covers hot-wrought alloy steel bars made by one or more of the following primary processes: open-hearth, basic-oxygen, or electric-furnace.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASTM A322 | Standard Specification for Steel Bars, Alloy, Standard Grades"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Specification: ASTM A322"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM A322 Scope: This specification covers hot-wrought alloy steel bars. The steel shall be made by one or more of the following primary processes: open-hearth, basic-oxygen, or electric-furnace. The primary melting may incorporate separate degassing or refining and may be followed by secondary melting using electro-slag remelting or vacuum arc remelting. Where secondary remelting is employed, the heat shall be defined as all of the cast product remelted from a single primary heat. The steel shall be furnished as strand cast or ingot cast. Immediately after hot forming, the bars shall be allowed to cool to a temperature below the critical range under suitable conditions to prevent imperfections caused by too rapid cooling. The bars shall be free of pipe, cracks, and flakes. Within the limits of good manufacturing and inspection practices, the bars shall be free of injurious seams, laps, segregation, or other imperfections which are due to their nature, degree, or extent, will interfere with the use of the material in machining or fabrication of suitable parts."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for ASTM specifications."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Buy Alloy Steel Round Bar",
+              "href": "https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar",
+              "variant": "primary"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Alloy Steel AISI 9310 Round Bar](https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar)"
+                }
+              ]
+            },
+            {
+              "id": "button-17",
+              "kind": "button",
+              "label": "Buy Discounted Alloy Steel",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Alloy+Steel",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/astm-a322-specification/",
+    "sourceHash": "0baddd588e620a330a44e3a8a3ae925c5ae0c58419a6511296ea872b47f5aba9",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/astm-a322-specification/ (private, noindex) beside https://titanium.com/astm-a322-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

@@ -1,0 +1,401 @@
+{
+  "id": "alloys--titanium-and-titanium-alloys--ti-6al-6v-2sn",
+  "path": "/alloys/titanium-and-titanium-alloys/ti-6al-6v-2sn/",
+  "title": "Titanium 6Al-6V-2SN | UNS# R56620 - Titanium Industries | Titanium Plate",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Titanium 6Al-6V-2SN | UNS# R56620 - Titanium Industries | Titanium Plate",
+    "description": "Titanium 6AL-6V-2SN is an alloyed Grade of alpha-beta Titanium, similar to 6AL-4V. Contact Titanium Industries today for your Titanium needs.",
+    "canonical": "https://titanium.com/alloys/titanium-and-titanium-alloys/ti-6al-6v-2sn/",
+    "ogTitle": "Titanium 6Al-6V-2SN | UNS# R56620 - Titanium Industries | Titanium Plate",
+    "ogDescription": "Titanium 6AL-6V-2SN is an alloyed Grade of alpha-beta Titanium, similar to 6AL-4V. Contact Titanium Industries today for your Titanium needs.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Titanium 6Al-6V-2SN | UNS# R56620"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 6AL-6V-2SN is an alloyed Grade of alpha-beta Titanium. Similar to 6AL-4V, 6AL-6V-2SN demonstrates higher strength properties due to the addition of Vanadium, Iron, and Copper. Welding is not typically recommended for this material and 6AL-6V-2SN is often found in the annealed condition or heat treated to the higher strength solution treated & aged condition. 6AL-6V-2SN exhibits good corrosion resistance, medium fabricability, light weight, high strength, and is typically found in aerospace and oil & gas applications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Industries’ offers a wide range of products and services."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Round Bar](https://qqa.titanium.com/product/mill-product-titanium-round-bar) | [Titanium Plate](https://qqa.titanium.com/product/mill-product-titanium-plate) | [Titanium Sheet](https://qqa.titanium.com/product/mill-product-titanium-sheet)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 6AL-6V-2SN Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Forging applications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Rocket cases"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Airframe sections"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ordnance parts"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti 82.89 – 87.8%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Al 5 – 6%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "V 5 – 6%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Sn 1.5 – 2.5%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 0.35 – 1%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cu 0.35 – 1%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "O ≤ 0.20%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C ≤ 0.050%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N ≤ 0.40%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "H ≤ 0.015%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Other, each ≤ 0.10%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Other, total≤ 0.30%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-19",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU-in/hr-ft²-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (1/°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.164"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.97"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "46.8"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.00000478"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "3000"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-22",
+      "preset": "lead-three-quarters",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-23",
+          "items": [
+            {
+              "id": "text-24",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2 Offset"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "186"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (R"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "m"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "175"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (AL=5 x Ø)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "10.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Brinell Hardness (H)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "411"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): 6530"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: –"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/titanium-and-titanium-alloys/ti-6al-6v-2sn/",
+    "sourceHash": "933825e9bdd81989fcef54371ff8e8af7b97e72dd197a41bc9783f997ffe16f1",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/titanium-and-titanium-alloys/ti-6al-6v-2sn/ (private, noindex) beside https://titanium.com/alloys/titanium-and-titanium-alloys/ti-6al-6v-2sn/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-quarters, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

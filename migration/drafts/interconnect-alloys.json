@@ -1,0 +1,219 @@
+{
+  "id": "interconnect-alloys",
+  "path": "/interconnect-alloys/",
+  "title": "Discover Interconnect Alloys | Titanium Industries | Contact us for excellent quality",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Discover Interconnect Alloys | Titanium Industries | Contact us for excellent quality",
+    "description": "T.I. is the global leader in Interconnect Alloys solutions for the Aerospace, Medical, Industrial and Oil & Gas markets.",
+    "canonical": "https://titanium.com/interconnect-alloys/",
+    "ogTitle": "Discover Interconnect Alloys | Titanium Industries | Contact us for excellent quality",
+    "ogDescription": "T.I. is the global leader in Interconnect Alloys solutions for the Aerospace, Medical, Industrial and Oil & Gas markets.",
+    "ogImage": "https://titanium.com/wp-content/uploads/2023/07/Instagram.png"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "button-5",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-3",
+          "items": [
+            {
+              "id": "button-6",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-4",
+          "items": [
+            {
+              "id": "button-7",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://qqa.titanium.com/product?type=mill-product",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-8",
+      "preset": "three-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-9",
+          "items": [
+            {
+              "id": "text-11",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Interconnect Alloys Solutions | Titanium Industries"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "T.I. is the global leader in interconnect alloy solutions for the Aerospace, Medical, Industrial and Oil & Gas markets. Holding the world’s most complete inventory of interconnect alloys across a global service center network, T.I. is perfectly positioned to customize a supply solution for your company."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Applications include:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Circular Mil-Aero Connectors"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "High Power Connectors"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fiber Optic Connectors"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Brush Rack & Panel Connectors"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "EMP Filter Connectors"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "General use housings, shells, interconnect support"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "To gain further insights into Titanium Industries and the diverse markets we cater to with our specialty metals, we invite you to explore our range of other markets:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Additive Manufacturing Build Plates](https://titanium.com/markets/additive-manufacturing-build-plates/) [Aerospace](https://titanium.com/markets/aerospace/) [Industrial](https://titanium.com/markets/industrial/) [Medical](https://titanium.com/markets/medical/) [Defense](https://titanium.com/markets/defense/) [Engineered Fastener Alloys](https://titanium.com/markets/engineered-fasteners/) [Consumer Products](https://titanium.com/markets/consumer-products/) [Interconnect](https://titanium.com/interconnect-alloys/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Follow us on Social Media:"
+                }
+              ]
+            },
+            {
+              "id": "picture-12",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
+              "alt": "Titanium Industries | Instagram",
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-13",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
+              "alt": "Titanium Industries | LinkedIn",
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-14",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
+              "alt": "Titanium Industries | Twitter",
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-15",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
+              "alt": "Titanium Industries | Facebook",
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-16",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
+              "alt": "Titanium Industries | Youtube",
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
+            }
+          ]
+        },
+        {
+          "id": "column-10",
+          "items": [
+            {
+              "id": "text-17",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "[Interconnect Line Card | Download Now](https://titanium.com/wp-content/uploads/2021/10/Interconnect-Alloys-Line-Card-Titanium-Industries.pdf)"
+                }
+              ]
+            },
+            {
+              "id": "picture-18",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2021/02/IC.png",
+              "alt": "TITANIUM INDUSTRIES INTERCONNECT",
+              "href": "https://titanium.com/wp-content/uploads/2021/10/Interconnect-Alloys-Line-Card-Titanium-Industries.pdf",
+              "wrap": "none"
+            },
+            {
+              "id": "button-19",
+              "kind": "button",
+              "label": "Interconnect Line Card | Titanium Industries",
+              "href": "https://titanium.com/wp-content/uploads/2021/10/Interconnect-Alloys-Line-Card-Titanium-Industries.pdf",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/interconnect-alloys/",
+    "sourceHash": "bfdef89a9017bc4dfd3e43d3c1bdf73e378315578ddb04f41ef425e40c156e20",
+    "converterVersion": "2",
+    "converterFamily": "intro-three-one-linecard",
+    "families": [
+      "equal-3-cta",
+      "intro-three-one-linecard"
+    ],
+    "convertedAt": "2026-09-24T19:53:51.383Z",
+    "grid": "thirds | three-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/interconnect-alloys/ (private, noindex) beside https://titanium.com/interconnect-alloys/. Check the grid (thirds, three-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

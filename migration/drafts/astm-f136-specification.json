@@ -1,0 +1,159 @@
+{
+  "id": "astm-f136-specification",
+  "path": "/astm-f136-specification/",
+  "title": "ASTM F136 | Specification for 6Al-4V ELI Grade 23 on Implant Applications",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASTM F136 | Specification for 6Al-4V ELI Grade 23 on Implant Applications",
+    "description": "ASTM F136 covers the chemical, mechanical, and metallurgical requirements for wrought annealed titanium-6aluminum-4vanadium ELI (extra low interstitial) alloy (R56401) to be used in the manufacture of surgical implants.",
+    "canonical": "https://titanium.com/astm-f136-specification/",
+    "ogTitle": "ASTM F136 | Specification for 6Al-4V ELI Grade 23 on Implant Applications",
+    "ogDescription": "ASTM F136 covers the chemical, mechanical, and metallurgical requirements for wrought annealed titanium-6aluminum-4vanadium ELI (extra low interstitial) alloy (R56401) to be used in the manufacture of surgical implants.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASTM F136 | Standard Specification for Wrought Titanium-6Aluminum-4Vanadium ELI (Extra Low Interstitial) Alloy for Surgical Implant Applications (UNS R56401)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Specification: ASTM F136"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM F136 Scope: This specification covers the chemical, mechanical, and metallurgical requirements for wrought annealed titanium-6aluminum-4vanadium ELI (extra low interstitial) alloy (R56401) to be used in the manufacture of surgical implants. The products are classified into: strip, sheet, plate, bar, forging bar, and wire. The heat analysis shall conform to the chemical composition requirements specified. Product analysis tolerances do not broaden the specified heat analysis requirements but cover variations between laboratories in the measurement of chemical content. Tension test and bend test shall be performed to meet the requirements specified."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for ASTM specifications."
+                }
+              ]
+            },
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Discounted T.i. Products",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Titanium",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium 6Al-4V ELI Grade 23 Round Bar](https://qqa.titanium.com/product/mill-product-titanium-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium 6Al-4V ELI Grade 23 Rectangular Bar](https://qqa.titanium.com/product/mill-product-titanium-rectangular-bar)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/astm-f136-specification/",
+    "sourceHash": "957c6e245db071ce3becaa8e12ecf5889cc61d7ec3c32f51f9b4ced1e1683266",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/astm-f136-specification/ (private, noindex) beside https://titanium.com/astm-f136-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

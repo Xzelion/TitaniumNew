@@ -1,0 +1,187 @@
+{
+  "id": "ams-t-9047-specification",
+  "path": "/ams-t-9047-specification/",
+  "title": "AMS-T-9047 | Titanium and Titanium Alloy, Bars (Rolled or Forged) and Reforging Stock, Aircraft Quality",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS-T-9047 | Titanium and Titanium Alloy, Bars (Rolled or Forged) and Reforging Stock, Aircraft Quality",
+    "description": "AMS-T-9047 | Titanium and Titanium Alloy, Bars (Rolled or Forged) and Reforging Stock, Aircraft Quality",
+    "canonical": "https://titanium.com/ams-t-9047-specification/",
+    "ogTitle": "AMS-T-9047 | Titanium and Titanium Alloy, Bars (Rolled or Forged) and Reforging Stock, Aircraft Quality",
+    "ogDescription": "AMS-T-9047 | Titanium and Titanium Alloy, Bars (Rolled or Forged) and Reforging Stock, Aircraft Quality",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS-T-9047 | Titanium and Titanium Alloy, Bars (Rolled or Forged) and Reforging Stock, Aircraft Quality"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS-T-9047"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Alloy: Titanium and Titanium Alloy, Bars (Rolled or Forged) and Reforging Stock, Aircraft Quality"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Scope: This specification covers aircraft quality, commercially pure titanium and alpha, alpha-beta and beta titanium alloy rolled or forged bar and reforging stock products."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grade 4 Round Bar](https://qqa.titanium.com/product/mill-product-titanium-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Alloy 6Al-4V Grade 5 Round Bar](https://qqa.titanium.com/product/mill-product-titanium-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Alloy 6Al-4V ELI Grade 23 Round Bar](https://titanium.com/shop/products/mill-products-titanium-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                }
+              ]
+            },
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Shop Discounted Titanium Products",
+              "href": "https://qqa.titanium.com/customer/discounted-products",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Typical Applications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aerospace Components"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Industrial"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Oil and Gas"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Medical"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-t-9047-specification/",
+    "sourceHash": "0a0b15798921bed7a979b7e76d217ca40e37ae094eea71c6814de3ae31d60dc5",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-t-9047-specification/ (private, noindex) beside https://titanium.com/ams-t-9047-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

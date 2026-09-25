@@ -1,0 +1,297 @@
+{
+  "id": "ams-6932-specification",
+  "path": "/ams-6932-specification/",
+  "title": "AMS 6932 | Titanium Alloy Bars, Forgings and Forging Stock | Extra Low Interstitial | Annealed",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS 6932 | Titanium Alloy Bars, Forgings and Forging Stock | Extra Low Interstitial | Annealed",
+    "description": "Please find the chemical and mechanical properties for AMS 6932. Titanium Grade 23 Bars, Forgings and Forging Stock",
+    "canonical": "https://titanium.com/ams-6932-specification/",
+    "ogTitle": "AMS 6932 | Titanium Alloy Bars, Forgings and Forging Stock | Extra Low Interstitial | Annealed",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS 6932. Titanium Grade 23 Bars, Forgings and Forging Stock",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS 6932 | Titanium Alloy Bars, Forgings and Forging Stock | Extra Low Interstitial | Annealed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS 6932"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade: Titanium 6Al-4V ELI Grade 23"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product Forms: Titanium Alloy Bars, Forgings and Forging Stock | Extra Low Interstitial"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Condition: Annealed"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium 6Al-4V ELI Grade 23 Round Bar](https://qqa.titanium.com/product/mill-product-titanium-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium 6Al-4V ELI Grade 23 Rectangular Bar](https://qqa.titanium.com/product/mill-product-titanium-rectangular-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                }
+              ]
+            },
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Shop Discounted T.I. Products",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Titanium",
+              "variant": "primary"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "CHEMICAL COMPOSITION"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti 88.09 – 91%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Al 5.5 – 6.5%%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "V 3.5 – 4.5%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "H"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Other, each"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Other, total"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength: 125 – 130 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength: 115 – 120 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation: 6 – 10%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile properties and associated requirements vary due to orientation, section thickness, and engineering requirements."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-17",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 6Al-4V ELI Grade 23 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aircraft Applications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Bone Fixation and Similar Devices"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cryogenic and High Pressure Vessels"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ligature Clips"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Marine and Salt Water Applications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Orthopedic Cables, Pins, and Screws"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Orthodontic Appliances"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Surgical Implants, Joint Replacements and Staples"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cross Reference Specifications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 6Al-4V ELI Grade 23 Round Bar"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2631](https://titanium.com/ams-2631-specification/) , [AMS 4930](https://titanium.com/ams-4930-specification/) , EN 10204 3.1, [MIL-T-9047](https://titanium.com/ams-t-9047-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM B348 Gr 23](https://titanium.com/astm-b348-specification/) , [ASTM F136](https://titanium.com/astm-f136-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium 6Al-4V ELI Grade 23 Rectangular Bar"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2631](https://titanium.com/ams-2631-specification/) , [AMS 4930](https://titanium.com/ams-4930-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM F136](https://titanium.com/astm-f136-specification/) , [ASTM B348 Gr 23](https://titanium.com/astm-b348-specification/)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-6932-specification/",
+    "sourceHash": "a7db55ffa27816b4f44be5b611a1c586d402e37c0147dadc791e1abeaee5f9c6",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-6932-specification/ (private, noindex) beside https://titanium.com/ams-6932-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

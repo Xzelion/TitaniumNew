@@ -1,0 +1,248 @@
+{
+  "id": "ams-5630-specification",
+  "path": "/ams-5630-specification/",
+  "title": "AMS 5630 | Steel, Corrosion-Resistant, Bars, Wire, and Forgings",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS 5630 | Steel, Corrosion-Resistant, Bars, Wire, and Forgings",
+    "description": "Please find the chemical and mechanical properties for AMS 5630. Stainless Steel Grade 440C round bar available at Titanium Industries.",
+    "canonical": "https://titanium.com/ams-5630-specification/",
+    "ogTitle": "AMS 5630 | Steel, Corrosion-Resistant, Bars, Wire, and Forgings",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS 5630. Stainless Steel Grade 440C round bar available at Titanium Industries.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS 5630 | Steel, Corrosion-Resistant, Bars, Wire, and Forgings"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS 5630"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade: 440C"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product Forms: Steel, Corrosion-Resistant, Bars, Wire, and Forgings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Application: Typically specified for parts requiring hardness up to 58 HRC and resistance to wear, corrosion, and oxidation."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Grade 440C Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 79.15%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 17.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 1.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 1.10%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 1.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 0.75%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength: 110 – 276 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength: 60.9 – 276 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation: 2.0 – 15.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile properties and associated requirements vary due to orientation, section thickness, and engineering requirements."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 440C Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ball Bearings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Valves"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Measuring Tools and Instruments"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Surgical Blades"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Knife Blades"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cutting Tools"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cross Reference Specifications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 5880](https://titanium.com/ams-5880-specification/) , [AMS-QQ-S-763](https://titanium.com/ams-qq-s-763-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM A276](https://titanium.com/astm-a276-specification/) , [ASTM F899](https://titanium.com/astm-f899-specification/)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-5630-specification/",
+    "sourceHash": "7df9e7b01cf81373892b4de9b07a12ca76c168d89ff46989330deccf4701b365",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-5630-specification/ (private, noindex) beside https://titanium.com/ams-5630-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

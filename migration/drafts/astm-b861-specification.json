@@ -1,0 +1,148 @@
+{
+  "id": "astm-b861-specification",
+  "path": "/astm-b861-specification/",
+  "title": "ASTM B861 | Standard Specification for Titanium and Titanium Alloy Seamless Pipe",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASTM B861 | Standard Specification for Titanium and Titanium Alloy Seamless Pipe",
+    "description": "ASTM B861 covers the requirements for 34 grades of titanium and titanium alloy seamless pipe intended for general corrosion resisting and elevated temperature service.",
+    "canonical": "https://titanium.com/astm-b861-specification/",
+    "ogTitle": "ASTM B861 | Standard Specification for Titanium and Titanium Alloy Seamless Pipe",
+    "ogDescription": "ASTM B861 covers the requirements for 34 grades of titanium and titanium alloy seamless pipe intended for general corrosion resisting and elevated temperature service.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASTM B861 | Standard Specification for Titanium and Titanium Alloy Seamless Pipe"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Specification: ASTM B861"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM B861 Scope: This specification covers the requirements for 34 grades of titanium and titanium alloy seamless pipe intended for general corrosion resisting and elevated temperature service. Alloys may be supplied in the following conditions: Grades 5, 23, 24, 25, 29, 35, or 36 annealed or aged; Grades 9, 18, 28, or 38 cold-worked and stress-relieved or annealed; Grades 9, 18, 23, 28, or 29 transformed-beta condition; and Grades 19, 20, or 21 solution-treated or solution-treated and aged. The grades shall conform to the required chemical composition for nitrogen, carbon, hydrogen, iron, oxygen, aluminum, vanadium, tin, ruthenium, palladium, chromium, nickel, niobium, zirconium, silicon, and titanium. Chemical analysis and product analysis shall be performed. Mechanical requirements shall conform to the required room temperature values for tensile strength, yield strength, and elongation. The following shall also be performed: tension, flattening, bend, and hydrostatic tests."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for ASTM specifications."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grade 2 Seamless Pipe](https://titanium.com/shop/products/mill-products-titanium-seamless-pipe)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/astm-b861-specification/",
+    "sourceHash": "248ceeedf487e5c914e9c4eca479db3b299f5f17701438fc89675f0387ee9064",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/astm-b861-specification/ (private, noindex) beside https://titanium.com/astm-b861-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

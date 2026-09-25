@@ -1,0 +1,598 @@
+{
+  "id": "markets--medical",
+  "path": "/markets/medical/",
+  "title": "Discover Titanium Industries | Medical Alloys | Titanium ELI, 1537 Cobalt Chrome, Stainless Steel",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Discover Titanium Industries | Medical Alloys | Titanium ELI, 1537 Cobalt Chrome, Stainless Steel",
+    "description": "T.I. provides performance metals like Titanium Grade 5 ELI, Cobalt Chrome, Stainless Steels and more for critical applications with the Medical Market.",
+    "canonical": "https://titanium.com/markets/medical/",
+    "ogTitle": "Discover Titanium Industries | Medical Alloys | Titanium ELI, 1537 Cobalt Chrome, Stainless Steel",
+    "ogDescription": "T.I. provides performance metals like Titanium Grade 5 ELI, Cobalt Chrome, Stainless Steels and more for critical applications with the Medical Market.",
+    "ogImage": "https://titanium.com/wp-content/uploads/2023/06/Copy-of-TI-MEDICAL-ENGLISH-1.jpg"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "T.I. Medical"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://qqa.titanium.com/product?type=mill-product",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Titanium Industries | Medical Specialty Metals"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "We provide performance metals for critical applications such as dental and orthopedic implants, spinal fixation, soft tissue repair, bone screws, trauma plates and others. T.I. has achieved a wide range of OEM and subcontractor approvals, a strong portfolio of service provider LTA’s, and is ISO 9001:2015 registered. T.I. Medical provides global service center inventory with guaranteed quality and trace-ability, at competitive prices and the best delivery available to all levels of the medical supply chain. We are a financially stable, privately held business with a long-term growth plan and a quick decision making process. We stand ready to partner with you and to support medical programs around the world."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "[Medical Line Card | Download Now](https://titanium.com/wp-content/uploads/2021/10/Medical-Line-Card-Titanium-Industries.pdf)"
+                }
+              ]
+            },
+            {
+              "id": "picture-16",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2022/02/Medical-Line-Card-Titanium-Industries-pdf-232x300.jpg",
+              "alt": "",
+              "href": "https://titanium.com/wp-content/uploads/2021/10/Medical-Line-Card-Titanium-Industries.pdf",
+              "wrap": "none"
+            },
+            {
+              "id": "button-17",
+              "kind": "button",
+              "label": "Titanium Industries | Medical Line Card",
+              "href": "https://titanium.com/wp-content/uploads/2021/10/Medical-Line-Card-Titanium-Industries.pdf",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-18",
+      "preset": "halves",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-19",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Your medical supply chain optimization partner:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Supply Chain Management solutions."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Single Source of Supply for Multiple Performance Metals"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Custom Pricing Strategies"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Global Logistics Management"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Integrated Quality Control Systems"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "text-22",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Demand Aggregation, Forecast Integration & Yield Optimization"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Uninterrupted Supply"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Scrap Reclamation"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Conversion Programs"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Full Line of Service Capabilities"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-23",
+      "preset": "float-wrap",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-24",
+          "items": [
+            {
+              "id": "text-25",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Joint Reconstruction"
+                }
+              ]
+            },
+            {
+              "id": "picture-26",
+              "kind": "picture",
+              "src": "https://titanium.com/s/img/wp-content/uploads/2019/11/joint.jpg",
+              "alt": "TI | Medical | Specialty Metals | Titanium Medical",
+              "href": "",
+              "wrap": "left"
+            },
+            {
+              "id": "text-27",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Joint Reconstruction involves the replacement of hips, knees, ankles, wrists, elbows and shoulders to restore functionality."
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Metals, grades, and alloys used in this application include:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grades/Alloys: 6Al-4V Grade 5 | 6Al-4V Eli Grade 23](https://titanium.com/alloys/titanium-and-titanium-alloys/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Alloys: 316 | 316LVM](https://titanium.com/alloys/stainless-steel/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Cobalt Chrome Moly: 1537](https://titanium.com/alloys/cobalt-chrome/)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-28",
+      "preset": "float-wrap",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-29",
+          "items": [
+            {
+              "id": "text-30",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Spinal Implants"
+                }
+              ]
+            },
+            {
+              "id": "picture-31",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/spinal.jpg",
+              "alt": "wire",
+              "href": "",
+              "wrap": "right"
+            },
+            {
+              "id": "text-32",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Spinal implants are utilized for procedures involving vertebral compression, fusion, preservation of motion, stabilization etc."
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Metals, grades, and alloys used in this application include:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grades/Alloys: 6AL-4V Grade 5 | 6AL-4V Eli Grade 23 | Grade 2](https://titanium.com/alloys/titanium-and-titanium-alloys/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Alloys: 17-4PH | 316L | 316LVM](https://titanium.com/alloys/stainless-steel/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Cobalt Chrome Moly: 1537](https://titanium.com/alloys/cobalt-chrome/)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-33",
+      "preset": "float-wrap",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-34",
+          "items": [
+            {
+              "id": "text-35",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Dental Implant Application"
+                }
+              ]
+            },
+            {
+              "id": "picture-36",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/dental.jpg",
+              "alt": "TI | Medical | Specialty Metals | Medical Alloys",
+              "href": "",
+              "wrap": "left"
+            },
+            {
+              "id": "text-37",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Titanium is currently the most commonly used material in dental implant application."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A dental implant is an artificial tooth root used in dentistry to support restorations that resemble a tooth or group of teeth."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Virtually all dental implants placed today are root-form endosseous implants. In other words, virtually all dental implants placed in the 21st century appear similar to an actual tooth root (and thus possess a “root-form”) and are placed within the bone (end- being the Greek prefix for “in” and osseous referring to “bone”)."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Prior to the advent of root-form endosseous implants, most implants were either blade endosseous implants, in that the shape of the metal piece placed within the bone resembled a flat blade, or subperiosteal implants, in which a framework was constructed to lie upon and was attached with screws to the exposed bone of the jaws."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Dental implants can be used to support a number of dental prostheses, including crowns, implant-supported bridges or dentures."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium was actually first used in dentistry in the 1940’s. Today titanium is routinely utilized in the dental industry for implants and orthodontic braces."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The titanium implant acts as an artificial root for a tooth and is securely implanted into bone to provide a solid base for a tooth. Compared to traditional orthodontic braces made of steel, titanium braces are stronger, lighter, and more compatible to body fluids and bone density."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium has been selected a metal of choice in the dental market due to its total resistance to attack by body fluids, high strength and low modulus."
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Metals, grades, and alloys used in this application include:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grades/Alloys: 6Al-4V Grade 5 | Grade 1 | Grade 2 | Grade 3 | Grade 4](https://titanium.com/alloys/titanium-and-titanium-alloys/)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-38",
+      "preset": "float-wrap",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-39",
+          "items": [
+            {
+              "id": "text-40",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Trauma Applications"
+                }
+              ]
+            },
+            {
+              "id": "picture-41",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/trauma.jpg",
+              "alt": "TI | Medical | Specialty Metals | Medical Grade",
+              "href": "",
+              "wrap": "right"
+            },
+            {
+              "id": "text-42",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Trauma applications includes the repair and/or alignment of a damaged or fractured bone."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium is a metal of choice in the trauma segment of the market for a number of reasons."
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Metals, grades, and alloysused in this application include:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grades/Alloys: 6Al-4V Grade 5 | 6Al-4V Eli Grade 23](https://titanium.com/alloys/titanium-and-titanium-alloys/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Alloys: 316L | 316LVM](https://titanium.com/alloys/stainless-steel/)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-43",
+      "preset": "float-wrap",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-44",
+          "items": [
+            {
+              "id": "text-45",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Medical Instrumentation"
+                }
+              ]
+            },
+            {
+              "id": "picture-46",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/instrumentation.jpg",
+              "alt": "TI | Medical | Specialty Metals",
+              "href": "",
+              "wrap": "left"
+            },
+            {
+              "id": "text-47",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Titanium and its alloys, due to a successful combination of high strength, sufficient technological properties, small density and good corrosion resistance are gaining wider application for medical instruments production, used in general surgery, stomatology, neurosurgery, otorhinolaryngology, ophthalmology etc. The application of titanium alloys for surgical implants, micro instruments and also sets of microsurgical instruments in combination with stainless steels is most expedient."
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Products used in this application include:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium 6Al-4V Grade 5 | 6Al-4V Eli Grade 23 | Grade 2 | Grade 4](https://titanium.com/alloys/titanium-and-titanium-alloys/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Alloys 17-4PH | 316L | 316LVM](https://titanium.com/alloys/stainless-steel/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Cobalt Chrome Moly 1537](https://titanium.com/alloys/cobalt-chrome/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "To gain further insights into Titanium Industries and the diverse markets we cater to with our specialty metals, we invite you to explore our range of other markets:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Additive Manufacturing Build Plates](https://titanium.com/markets/additive-manufacturing-build-plates/) [Aerospace](https://titanium.com/markets/aerospace/) [Industrial](https://titanium.com/markets/industrial/) [Medical](https://titanium.com/markets/medical/) [Defense](https://titanium.com/markets/defense/) [Engineered Fastener Alloys](https://titanium.com/markets/engineered-fasteners/) [Consumer Products](https://titanium.com/markets/consumer-products/) [Interconnect](https://titanium.com/interconnect-alloys/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Follow us on Social Media:"
+                }
+              ]
+            },
+            {
+              "id": "picture-48",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
+              "alt": "Titanium Industries | Instagram",
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-49",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
+              "alt": "Titanium Industries | LinkedIn",
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-50",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
+              "alt": "Titanium Industries | Twitter",
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-51",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
+              "alt": "Titanium Industries | Facebook",
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-52",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
+              "alt": "Titanium Industries | Youtube",
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/markets/medical/",
+    "sourceHash": "b6a17f765330ac54d196fa9d3381cb42fb92813620dff2348098c65354c4d855",
+    "converterVersion": "2",
+    "converterFamily": "medical-float",
+    "families": [
+      "equal-3-cta",
+      "intro-two-one-linecard",
+      "medical-float"
+    ],
+    "convertedAt": "2026-09-24T19:53:51.383Z",
+    "grid": "full | thirds | two-one | halves | float-wrap | float-wrap | float-wrap | float-wrap | float-wrap",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/markets/medical/ (private, noindex) beside https://titanium.com/markets/medical/. Check the grid (full, thirds, two-one, halves, float-wrap, float-wrap, float-wrap, float-wrap, float-wrap), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

@@ -1,0 +1,132 @@
+{
+  "id": "markets",
+  "path": "/markets/",
+  "title": "Markets for Global Specialty Metal Supply | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Markets for Global Specialty Metal Supply | Titanium Industries",
+    "description": "Markets for Global Specialty Metal Supply | Titanium Industries Click Here to See the Markets served by Titanium Industries Inc. - a Global Leader in Titanium Distribution from Aerospace & Medical to Consumer Products",
+    "canonical": "https://titanium.com/markets/",
+    "ogTitle": "Markets for Global Specialty Metal Supply | Titanium Industries",
+    "ogDescription": "Markets for Global Specialty Metal Supply | Titanium Industries Click Here to See the Markets served by Titanium Industries Inc. - a Global Leader in Titanium Distribution from Aerospace & Medical to Consumer Products",
+    "ogImage": "https://titanium.com/wp-content/uploads/2023/06/OilGas-4.jpg"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "lead-two-thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Titanium Industries | Our Markets"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-13",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Markets for Global Specialty Metal Supply"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "T.I. has been providing the world with specialty metals and titanium products since 1972. We maintain a complete inventory of specialty metals and titanium mill products, offering a wide variety of grades and sizes with lead times to satisfy your manufacturing needs. T.I. is the global leader in specialty metals supply for the aerospace, defense, medical, industrial, oil & gas markets. Explore Titanium Industries’ Global Specialty Metal Supply:"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/markets/",
+    "sourceHash": "2337bdeffd16e8937761d2a2af168055abbb4ecaa4e5675728e773a22e6825c8",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta",
+      "custom-card-grid-blocked"
+    ],
+    "convertedAt": "2026-09-24T20:11:14.266Z",
+    "grid": "lead-two-thirds | thirds | full",
+    "remainingSourceOnly": [
+      {
+        "id": "source-14",
+        "label": "Card grid",
+        "reason": "These cards are custom HTML at 24% width (four across on a desktop, full width on a phone). They are not a named column preset, so they were not stacked into one column."
+      }
+    ],
+    "verify": "Open /preview/markets/ (private, noindex) beside https://titanium.com/markets/. Check the grid (lead-two-thirds, thirds, full), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

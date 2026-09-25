@@ -1,0 +1,439 @@
+{
+  "id": "alloys--stainless-steel--stainless-steel-17-4-ph",
+  "path": "/alloys/stainless-steel/stainless-steel-17-4-ph/",
+  "title": "Discover Quality Stainless Steel Grade 17-4 PH Round Bar | UNS# S17400",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Discover Quality Stainless Steel Grade 17-4 PH Round Bar | UNS# S17400",
+    "description": "Stainless Steel Grade 17-4 PH Round Bar | UNS# S17400 offered at Titanium Industries' worldwide locations. Quick turnarounds and complete quality control with T.I.",
+    "canonical": "https://titanium.com/alloys/stainless-steel/stainless-steel-17-4-ph/",
+    "ogTitle": "Discover Quality Stainless Steel Grade 17-4 PH Round Bar | UNS# S17400",
+    "ogDescription": "Stainless Steel Grade 17-4 PH Round Bar | UNS# S17400 offered at Titanium Industries' worldwide locations. Quick turnarounds and complete quality control with T.I.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Stainless Steel Grade 17-4 PH | UNS# S17400"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel grade 17-4 PH is a martensitic precipitation-hardening stainless steel with high strength and exhibits good corrosion resistance. This alloy is the most used of the precipitation-hardening stainless steels due to it’s reliability and desirable mechanical properties. Because of these properties, 17-4 PH is widely used by engineers in the petrochemical and food processing, pulp and paper, aerospace and many other markets."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel 17-4 PH Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 5643](https://titanium.com/ams-5643-specification/) , [AMS 6279](https://titanium.com/ams-6279-specification/) , [AMS 6875](https://titanium.com/ams-6875-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM A484](https://titanium.com/astm-a484-specification/) , [ASTM A564](https://titanium.com/astm-a564-specification/) , [ASTM F899](https://titanium.com/astm-f899-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel 17-4 PH products offered at all Titanium Industries’ locations:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Alloy 17-4 PH Round Bar](https://qqa.titanium.com/product/mill-product-stainless-steel-round-bar)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Buy Stainless Steel Round Bar",
+              "href": "https://qqa.titanium.com/product/mill-product-stainless-steel-round-bar",
+              "variant": "primary"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel 17-4 PH Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aircraft Applications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Processing"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fasteners"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Gears and Valves"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Marine Applications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Surgical Instrumentation"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Food Processing"
+                }
+              ]
+            },
+            {
+              "id": "button-17",
+              "kind": "button",
+              "label": "Discounted Stainless Steel",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Stainless+Steel",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-18",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-19",
+          "items": [
+            {
+              "id": "text-20",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 16.25%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "NI 4%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cu 4%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nb 0.30%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe remainder"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-21",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-22",
+          "items": [
+            {
+              "id": "text-23",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU-in/hr-ft²-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (1/°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.282"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.24"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "124"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.11"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.00000611"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2560"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-24",
+      "preset": "lead-three-quarters",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-25",
+          "items": [
+            {
+              "id": "text-26",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2 Offset"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "75"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "185"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (R"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "m"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "115"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "200"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (AL=5 x Ø)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "5.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "10.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Brinell Hardness (H)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "311"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "421"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): 28600"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: 45%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/stainless-steel/stainless-steel-17-4-ph/",
+    "sourceHash": "77b099bd6b067cfcf5e45abcb312312b1e4505608bdd455f666c02cf974d8ce3",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/stainless-steel/stainless-steel-17-4-ph/ (private, noindex) beside https://titanium.com/alloys/stainless-steel/stainless-steel-17-4-ph/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-quarters, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

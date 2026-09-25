@@ -1,0 +1,260 @@
+{
+  "id": "ams-4124-specification",
+  "path": "/ams-4124-specification/",
+  "title": "AMS 4124 | Aluminum Alloy, Rolled or Cold Finished, Bars, Rods, & Wire",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS 4124 | Aluminum Alloy, Rolled or Cold Finished, Bars, Rods, & Wire",
+    "description": "Please find the chemical and mechanical properties for AMS 4124. Aluminum Alloy 7075-T7351 round bar offered at Titanium Industries.",
+    "canonical": "https://titanium.com/ams-4124-specification/",
+    "ogTitle": "AMS 4124 | Aluminum Alloy, Rolled or Cold Finished, Bars, Rods, & Wire",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS 4124. Aluminum Alloy 7075-T7351 round bar offered at Titanium Industries.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS 4124 | Aluminum Alloy, Rolled or Cold Finished, Bars, Rods, & Wire"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS 4124"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy: 7075-T7351"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product Forms: Aluminum Alloy, Rolled or Cold Finished Bars, Rods, and Wire"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Condition: Solution Heat Treated, Stress Relieved by Stretching, and Overaged"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Scope: This specification covers an aluminum alloy in the form of rolled or cold finished bars, rods, and wire up to 6.000 inches (152.40 mm) in nominal diameter or least nominal dimension."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability: [Aluminum Alloy 7075-T7351 round bar](https://titanium.com/shop/products/mill-products-aluminum-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Al 89.25%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cu 1.6%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mg 2.5%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 0.23%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Zn 5.6%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Other"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength: 63 – 83 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength: 15.2 – 68 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation: 11.0 – 13.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile properties and associated requirements vary due to orientation, section thickness, and engineering requirements."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 7075 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aircraft Structural Parts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Extrusions"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fittings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Irrigation Tubing"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tools"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cross Reference Specifications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 4123](https://titanium.com/ams-4123-specification/) , AMS QQ-A-225/9"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM B211](https://titanium.com/astm-b211-specification/)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-4124-specification/",
+    "sourceHash": "fe84458dc4b85b6db993009d4864027726bc31f624e258a48bca01e569d61463",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-4124-specification/ (private, noindex) beside https://titanium.com/ams-4124-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

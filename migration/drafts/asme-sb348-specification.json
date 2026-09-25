@@ -1,0 +1,235 @@
+{
+  "id": "asme-sb348-specification",
+  "path": "/asme-sb348-specification/",
+  "title": "ASME SB-348 | Quality Standard Specification for Titanium and Titanium Alloy Bars and Billets",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASME SB-348 | Quality Standard Specification for Titanium and Titanium Alloy Bars and Billets",
+    "description": "ASME SB-348 is the standard specification for titanium and titanium alloy bars and billets.",
+    "canonical": "https://titanium.com/asme-sb348-specification/",
+    "ogTitle": "ASME SB-348 | Quality Standard Specification for Titanium and Titanium Alloy Bars and Billets",
+    "ogDescription": "ASME SB-348 is the standard specification for titanium and titanium alloy bars and billets.",
+    "ogImage": "https://titanium.com/s/img/s/img/s/img/s/img/s/img/wp-content/uploads/2023/07/Instagram-300x300.png.webp"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASME SB-348 | Standard Specification for Titanium and Titanium Alloy Bars and Billets"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "ASME SB-348"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "ASME SB-348 | Quality Standard Specification for Titanium and Titanium Alloy Bars and Billets"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Identical with ASTM B348, ASME SB-348 is the standard specification for titanium and titanium alloy bars and billets. This specification covers all annealed grades of titanium and titanium alloy. Titanium bars can be hot rolled, forged, extruded, or cold worked with a cross sectional area of ≤ 16 inch 2. Rectangular bars must be ≤ 10 inch in width and > 4.8 mm in thickness. Titanium billets can be hot worked or forged from an ingot, with a cross sectional area > 16 inch 2 whose width is less than 5 times its thickness."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The standard specification also covers referenced documents, chemical composition, mechanical properties, dimensions, weight, permissible variations, workmanship, finish, appearance, test & inspection, and packing information for titanium and titanium alloy bars and billets."
+                }
+              ]
+            },
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Shop Discounted Products",
+              "href": "https://qqa.titanium.com/customer/discounted-products",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Relevant Products:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grade 1 Round Bar](https://qqa.titanium.com/product/mill-product-titanium-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grade 2 Round Bar](https://qqa.titanium.com/product/mill-product-titanium-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grade 4 Round Bar](https://qqa.titanium.com/product/mill-product-titanium-round-bar)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-17",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-18",
+          "items": [
+            {
+              "id": "text-19",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Follow us on Social Media:"
+                }
+              ]
+            },
+            {
+              "id": "picture-20",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
+              "alt": "Titanium Industries | Instagram",
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-21",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
+              "alt": "Titanium Industries | LinkedIn",
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-22",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
+              "alt": "Titanium Industries | Twitter",
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-23",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
+              "alt": "Titanium Industries | Facebook",
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-24",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
+              "alt": "Titanium Industries | Youtube",
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/asme-sb348-specification/",
+    "sourceHash": "1e28687b61d82fad8e7f7db58c3a3f6ce3eff112821df8f44ad17fc5a92703ce",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | full",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/asme-sb348-specification/ (private, noindex) beside https://titanium.com/asme-sb348-specification/. Check the grid (full, thirds, two-one, full), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

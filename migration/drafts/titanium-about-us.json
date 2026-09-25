@@ -1,0 +1,137 @@
+{
+  "id": "titanium-about-us",
+  "path": "/titanium-about-us/",
+  "title": "Titanium Industries | About Us | Global Specialty Metal Distribution",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Titanium Industries | About Us | Global Specialty Metal Distribution",
+    "description": "About Titanium Industries, Inc. - Global Metal Suppliers| Holding the world's most complete inventory of specialty metals across a global service center network, Titanium Industries delivers. Learn more about us!",
+    "canonical": "https://titanium.com/titanium-about-us/",
+    "ogTitle": "Titanium Industries | About Us | Global Specialty Metal Distribution",
+    "ogDescription": "About Titanium Industries, Inc. - Global Metal Suppliers| Holding the world's most complete inventory of specialty metals across a global service center network, Titanium Industries delivers. Learn more about us!",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "lead-four-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "About Us | Titanium Industries"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://qqa.titanium.com/product",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "full",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-13",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "About Titanium Industries, Inc. – Global Metal Suppliers"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "T.I. is the global leader in specialty metals supply for the aerospace, defense, industrial, medical and oil & gas markets. Holding the world’s most complete inventory of specialty metals across a global service center network, T.I. delivers supply solutions at all levels of sophistication and complexity. With a globally experienced and technically driven team, T.I. has been providing dependable, quality driven service to our customers since 1972."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "We maintain and continue to expand our state of the art processing and near net shape capabilities, such as water jet cutting, saw cutting, and shearing. We provide tailored supply chain solutions through our T.I. Materials Management methodologies and Program Management competencies."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "T.I.’s award winning sales team has been providing dependable quality driven solutions to our customers since 1972. Our people are energetic, customer focused, and experienced. Each person throughout the T.I. organization takes responsibility for reliably providing industry leading quality products and service to our customers. T.I. takes these aspects seriously and is unwilling to compromise on these standards."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "T.I. continuously focuses on lean and process improvements while maintaining AS9100 and ISO9001 certifications at all locations worldwide. The Specialty Metals we supply are used in critical applications such as knee replacements, aircraft components, and off shore oil equipment. Quality is not an option, but an absolute necessity."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/titanium-about-us/",
+    "sourceHash": "d19b94a453c734e62e2103e4f5f88d34d4a4669c4771eee188ee8ece742ad27d",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:16:48.815Z",
+    "grid": "lead-four-fifths | thirds | full",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/titanium-about-us/ (private, noindex) beside https://titanium.com/titanium-about-us/. Check the grid (lead-four-fifths, thirds, full), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

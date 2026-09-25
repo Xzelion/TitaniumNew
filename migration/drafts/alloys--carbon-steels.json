@@ -1,0 +1,208 @@
+{
+  "id": "alloys--carbon-steels",
+  "path": "/alloys/carbon-steels/",
+  "title": "Carbon Steel Product Manufacturing: Round Bar | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Carbon Steel Product Manufacturing: Round Bar | Titanium Industries",
+    "description": "Titanium Industries, Inc. specializes in Carbon Steel Product Manufacturing including Round Bars and other Specialty Metals - click for more information.",
+    "canonical": "https://titanium.com/alloys/carbon-steels/",
+    "ogTitle": "Carbon Steel Product Manufacturing: Round Bar | Titanium Industries",
+    "ogDescription": "Titanium Industries, Inc. specializes in Carbon Steel Product Manufacturing including Round Bars and other Specialty Metals - click for more information.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Please find our selection of Carbon Steel round bar below."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Industries’ selection of [Carbon Steel Round Bar](https://titanium.com/shop/products/mill-products-carbon-steel-round-bar) . With quick turnarounds on quotes and an exceptional selection of specialty metal processing and service capabilities, Titanium Industries is ready to deliver. If the Carbon Steel product form you require is not shown below, please do not hesitate to [contact us here or contact your local T. I. Sales Representative.](https://titanium.com/contact-us/)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://titanium.com/shop/products/mill-products-carbon-steel-round-bar",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "one-three",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "[Carbon Steel Round Bar](https://titanium.com/products/round-bar/)"
+                }
+              ]
+            },
+            {
+              "id": "picture-15",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Round_Bar_Hi-300x200.jpg",
+              "alt": "round bar",
+              "href": "https://titanium.com/products/round-bar/",
+              "wrap": "none"
+            },
+            {
+              "id": "button-16",
+              "kind": "button",
+              "label": "Buy Now",
+              "href": "https://titanium.com/shop/products/mill-products-carbon-steel-round-bar",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-17",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Carbon Steel Round Bar Size Range:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum diameter: 0.780″/1.00 mm | Maximum diameter: 14.000″/400.00 mm"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Carbon Steels"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AISI 1018 | UNS G10180"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AISI 1144 | UNS G11440"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AISI 11L17 | UNS G11170"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "H-11 | UNS T20811"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM 1137 | UNS G11370"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AISI 1215 | UNS G12150"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AISI 12L14 | UNS G12144"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ETD150 | UNS K11542"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Carbon Steel Round Bar Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 6485, AMS 6487, AMS 6488"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/carbon-steels/",
+    "sourceHash": "5725c4014d0f372056626b837d57bc7efb884869ec87b22243d01fb7ebfafe06",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | one-three",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/carbon-steels/ (private, noindex) beside https://titanium.com/alloys/carbon-steels/. Check the grid (full, thirds, one-three), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

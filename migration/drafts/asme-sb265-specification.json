@@ -1,0 +1,232 @@
+{
+  "id": "asme-sb265-specification",
+  "path": "/asme-sb265-specification/",
+  "title": "ASME SB-265 | Quality Standard Specification for Titanium and Titanium Alloy Sheet and Plate",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASME SB-265 | Quality Standard Specification for Titanium and Titanium Alloy Sheet and Plate",
+    "description": "ASME SB-265 | Standard Specification for Titanium and Titanium Alloy Sheet and Plate",
+    "canonical": "https://titanium.com/asme-sb265-specification/",
+    "ogTitle": "ASME SB-265 | Quality Standard Specification for Titanium and Titanium Alloy Sheet and Plate",
+    "ogDescription": "ASME SB-265 | Standard Specification for Titanium and Titanium Alloy Sheet and Plate",
+    "ogImage": "https://titanium.com/s/img/s/img/s/img/s/img/s/img/wp-content/uploads/2023/07/Instagram-300x300.png.webp"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASME SB-265 | Standard Specification for Titanium and Titanium Alloy Sheet and Plate"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "ASME SB-265"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "ASME SB-265 | Standard Specification for Titanium and Titanium Alloy Sheet and Plate"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Identical with ASTM B265, ASME SB-265 is the standard specification for all grades Titanium and Titanium alloy strip, sheet and plate. The strip, sheet, and plate are typically manufactured by hot-rolling or cold-rolling processes furnished in annealed, descaled, sandblasted or ground conditions. Any product 0.187″/4.75 mm and under in thickness and less than 24″/610 mm in width is classified as Titanium strip. Products 0.187″/4.75 mm and under in thickness and 24″/610 mm or more in width are classified as Titanium sheet. Any product over 0.187″4.75 mm in thickness and over 10″/254 mm in width is classified as Titanium plate."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Except for the terminology and grades of Titanium and Titanium alloy, the standard specification also covers referenced inspection and test documents, ordering information, chemical compositions, mechanical properties, permissible variations in dimensions, finish, sampling and methods for chemical analysis, retests, rounding-off procedure, rejection rules, certification, marking and packaging requirements, surface requirement bend tests, special flatness requirements."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Relevant Products:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grade 2 Plate](https://qqa.titanium.com/tools/calculator)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grade 2 Sheet](https://qqa.titanium.com/product/mill-product-titanium-sheet)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade 3 Sheet"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grade 4 Sheet](https://qqa.titanium.com/product/mill-product-titanium-sheet)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Follow us on Social Media:"
+                }
+              ]
+            },
+            {
+              "id": "picture-19",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
+              "alt": "Titanium Industries | Instagram",
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-20",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
+              "alt": "Titanium Industries | LinkedIn",
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-21",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
+              "alt": "Titanium Industries | Twitter",
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-22",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
+              "alt": "Titanium Industries | Facebook",
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-23",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
+              "alt": "Titanium Industries | Youtube",
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/asme-sb265-specification/",
+    "sourceHash": "223f624b85bb7ac2c573dea68fc6ca2230daa4f9e26910afcaba6d6d4e08f156",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | full",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/asme-sb265-specification/ (private, noindex) beside https://titanium.com/asme-sb265-specification/. Check the grid (full, thirds, two-one, full), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

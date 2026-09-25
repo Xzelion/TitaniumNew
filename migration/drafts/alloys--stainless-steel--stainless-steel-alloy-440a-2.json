@@ -1,0 +1,395 @@
+{
+  "id": "alloys--stainless-steel--stainless-steel-alloy-440a-2",
+  "path": "/alloys/stainless-steel/stainless-steel-alloy-440a-2/",
+  "title": "Stainless Steel Alloy 440A | UNS# S44002 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Stainless Steel Alloy 440A | UNS# S44002 | Titanium Industries",
+    "description": "Alloy 431 is a martensitic, heat-treatable grade with excellent corrosion resistance, torque strength, high toughness and tensile properties.",
+    "canonical": "https://titanium.com/alloys/stainless-steel/stainless-steel-alloy-440a-2/",
+    "ogTitle": "Stainless Steel Alloy 440A | UNS# S44002 | Titanium Industries",
+    "ogDescription": "Alloy 431 is a martensitic, heat-treatable grade with excellent corrosion resistance, torque strength, high toughness and tensile properties.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Stainless Steel Alloy 440A | UNS# S44002"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Grade 440A is a chromium martensitic stainless steel that combines superior wear resistance of high carbon alloys with the excellent corrosion resistance of chromium stainless steels. 440A is also magnetic in both the annealed and hardened conditions. Maximum corrosion resistance is attained only in the fully hardened condition."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel product forms offered at all Titanium Industries’ locations:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Hex Bar](https://titanium.com/shop/products/mill-products-stainless-steel-hex-bar)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Alloy 440A Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cutlery"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Bearings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Gage blocks"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Molds and dies"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Valve components"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Turbine components"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Medical instruments"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aircraft structural parts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Knives"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Measuring instruments"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe Balance"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 16.0-18.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 1.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 1.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 0.75%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.60-0.75%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.03%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P 0.04%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-19",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "(lb/ft3)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "(% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "(BTU/h-ft-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "(BTU/lb-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion in/in/° F (µm/m•K"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.28"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.11"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "10.2"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (@strain 0.200 %) (MPa)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "415"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1650"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (MPa)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "725"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1790"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (% in 50mm)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "5.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "20.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Brinell Hardness (B)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "95"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (GPa): 204 – 215"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: –"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/stainless-steel/stainless-steel-alloy-440a-2/",
+    "sourceHash": "6c9e39702b64f73fa9ddc3aba146fca749d4dccbf8521106c76dd24fd8e7fbd0",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/stainless-steel/stainless-steel-alloy-440a-2/ (private, noindex) beside https://titanium.com/alloys/stainless-steel/stainless-steel-alloy-440a-2/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

@@ -1,0 +1,207 @@
+{
+  "id": "ams-2631-specification",
+  "path": "/ams-2631-specification/",
+  "title": "AMS 2631 | Ultrasonic Inspection Titanium Bar, Billet and Plate",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS 2631 | Ultrasonic Inspection Titanium Bar, Billet and Plate",
+    "description": "AMS 2631 covers the procedure for ultrasonic inspection of wrought titanium and titanium alloy Bar, Billet and Plate products",
+    "canonical": "https://titanium.com/ams-2631-specification/",
+    "ogTitle": "AMS 2631 | Ultrasonic Inspection Titanium Bar, Billet and Plate",
+    "ogDescription": "AMS 2631 covers the procedure for ultrasonic inspection of wrought titanium and titanium alloy Bar, Billet and Plate products",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS 2631 | Ultrasonic Inspection Titanium and Titanium Alloy Bar, Billet and Plate"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://qqa.titanium.com/product",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS 2631"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Alloy: Titanium and Titanium Alloys"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product Forms: Ultrasonic Inspection Titanium and Titanium Alloy Bar, Billet and Plate"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Scope: This specification covers the procedure for ultrasonic inspection of wrought titanium and titanium alloy products 0.25 inch (6.4 mm) and over in cross-section (thickness) or diameter."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Alloy 6Al-4V Grade 5 Round Bar](https://qqa.titanium.com/product/mill-product-titanium-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Alloy 6Al-4V Grade 5 Plate](https://qqa.titanium.com/product/mill-product-titanium-plate)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Alloy 6Al-4V ELI Grade 23 Round Bar](https://qqa.titanium.com/product/mill-product-titanium-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Alloy 6Al-4V ELI Grade 23 Rectangle Bar](https://qqa.titanium.com/product/mill-product-titanium-rectangular-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Alloy 6Al-2Sn-4Zr-6Mo Round Bar](https://qqa.titanium.com/product/mill-product-titanium-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "What is Ultrasonic Testing?"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ultrasonic testing (UT) is a form of non-destructive testing (NDT), commonly utilized to detect flaws that might exist in the associated material that are not visible to the naked eye. This form of NDT is accomplished using systems that generate high frequency sound waves, between .5 – 15 Mhz. The machine incorporates a receiver, a group of transducers, and a display device."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                }
+              ]
+            },
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Shop Discounted Titanium Products",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Titanium",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Typical Applications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aerospace Components"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Industrial"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Oil and Gas"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Medical"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-2631-specification/",
+    "sourceHash": "b80dafc687c73fa4a14332a99690f7df1e21587c520ab49dff21c43675f27641",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-2631-specification/ (private, noindex) beside https://titanium.com/ams-2631-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

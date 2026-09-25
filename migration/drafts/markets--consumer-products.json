@@ -1,0 +1,775 @@
+{
+  "id": "markets--consumer-products",
+  "path": "/markets/consumer-products/",
+  "title": "Metal Supplier for Consumer Products | Titanium Industries | Contact Us Today for excellent support",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Metal Supplier for Consumer Products | Titanium Industries | Contact Us Today for excellent support",
+    "description": "T.I. has been providing the world with best value specialty metals and titanium products since 1972. Contact us today! Learn more about how we are a Metal Supplier for Consumer Products",
+    "canonical": "https://titanium.com/markets/consumer-products/",
+    "ogTitle": "Metal Supplier for Consumer Products | Titanium Industries | Contact Us Today for excellent support",
+    "ogDescription": "T.I. has been providing the world with best value specialty metals and titanium products since 1972. Contact us today! Learn more about how we are a Metal Supplier for Consumer Products",
+    "ogImage": "https://titanium.com/wp-content/uploads/2019/10/consumer-1.png"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "lead-four-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Consumer Markets"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://qqa.titanium.com/product?type=mill-product",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "three-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Titanium Industries | Metal Supplier for Consumer Products"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "As a leading Metal Supplier for Consumer Products, T.I. has been delivering best value specialty metals and titanium products to the global market since 1972. With an extensive inventory of specialty metals and titanium mill products, we offer a diverse range of grades and sizes, ensuring quick lead times to meet your manufacturing requirements. Discover below how T.I. continues to be a trusted partner for consumer applications, providing top-quality metal solutions that fuel innovation and excellence in various industries."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "[General Line Card | Download Now](https://titanium.com/wp-content/uploads/2022/02/General-Line-Card-Titanium-Industries.pdf)"
+                }
+              ]
+            },
+            {
+              "id": "picture-16",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2022/02/General-Line-Card-Titanium-Industries-2-pdf-232x300.jpg",
+              "alt": "",
+              "href": "https://titanium.com/wp-content/uploads/2022/02/General-Line-Card-Titanium-Industries.pdf",
+              "wrap": "none"
+            },
+            {
+              "id": "button-17",
+              "kind": "button",
+              "label": "General Line Card | Titanium Industries",
+              "href": "https://titanium.com/wp-content/uploads/2022/02/General-Line-Card-Titanium-Industries.pdf",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-18",
+      "preset": "float-wrap",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-19",
+          "items": [
+            {
+              "id": "text-20",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Marine Applications"
+                }
+              ]
+            },
+            {
+              "id": "picture-21",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/marine.jpg",
+              "alt": "",
+              "href": "",
+              "wrap": "left"
+            },
+            {
+              "id": "text-22",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Titanium is used in consumer marine application for weight reduction and corrosion resistance."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A perfect environment for titanium to perform is in seawater. Titanium it at it’s best in seawater due to the corrosion resistance of the metal. Crevice corrosion, pitting, stress corrosion cracking, or microbiologically influenced corrosion in seawater are not issues when titanium is the material of choice."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Marine applications of titanium include:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ship propellers"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "shipboard heat exchangers"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "piping systems"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ballast systems"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "waste systems"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "tidal zone protection"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "shipboard hardware"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "tie-downs"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium is not just used on major commercial/military ships, but it is found in various applications on fishing boats, deep sea submersibles and submarines. Titanium has been designed into marine applications when engineers are looking for low maintenance costs and reduced fuel consumption (due to weight reduction), to go along with the outstanding metallurgical properties associated with the metal."
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Products used in this application include:"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-23",
+      "preset": "sixths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-24",
+          "items": [
+            {
+              "id": "picture-30",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Round_Bar_Hi-260x185.jpg",
+              "alt": "Round Bar",
+              "href": "https://titanium.com/metalproducts/round-bar/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-31",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Round Bar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-25",
+          "items": [
+            {
+              "id": "picture-32",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Billet_Low-1-260x185.jpg",
+              "alt": "Billet",
+              "href": "https://titanium.com/metalproducts/billet/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-33",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Billet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-26",
+          "items": [
+            {
+              "id": "picture-34",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Pipe_Low-260x185.jpg",
+              "alt": "Seamless Pipe",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-seamless-pipe",
+              "wrap": "none"
+            },
+            {
+              "id": "text-35",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Seamless Pipe"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-27",
+          "items": [
+            {
+              "id": "picture-36",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Plate_Low-260x185.jpg",
+              "alt": "Plate",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-plate",
+              "wrap": "none"
+            },
+            {
+              "id": "text-37",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Plate"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-28",
+          "items": [
+            {
+              "id": "picture-38",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Sheet_Metal_Low-260x185.jpg",
+              "alt": "Sheet",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-sheet",
+              "wrap": "none"
+            },
+            {
+              "id": "text-39",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Sheet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-29",
+          "items": [
+            {
+              "id": "picture-40",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Tube_Low-1-260x185.jpg",
+              "alt": "Seamless Tube",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-welded-tube",
+              "wrap": "none"
+            },
+            {
+              "id": "text-41",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Seamless Tube"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-42",
+      "preset": "float-wrap",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-43",
+          "items": [
+            {
+              "id": "text-44",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Fashion and Apparel"
+                }
+              ]
+            },
+            {
+              "id": "picture-45",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/jewelry.jpg",
+              "alt": "",
+              "href": "",
+              "wrap": "right"
+            },
+            {
+              "id": "text-46",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Eyeglass frames, jewelry and watches are just some of the many fashion applications for titanium."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "As the titanium industry evolved, it was only natural that the features and benefits of titanium would become more evident to the general population. In these applications, titanium has been promoted as a metal that is light weight, durable, and fashionable."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "One of the first products introduced to the consumer fashion marketplace back in the 1980’s was the titanium watch. Another fashion accessories now being offered in titanium include eye glass frames of which the benefits include flexibility, light weight, comfort and are attractive."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Each day it seems that titanium is being designed into new applications in the fashion industry – including jewelry, in which it appears a mini industry is developing. Products here would include wedding bands, earrings, bracelets and necklaces. Generally, any piece of jewelry currently available in gold or silver, is now becoming available in titanium."
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Products used in this application include:"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-47",
+      "preset": "near-halves",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-48",
+          "items": [
+            {
+              "id": "picture-50",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Sheet_Metal_Low-260x185.jpg",
+              "alt": "Sheet",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-sheet",
+              "wrap": "none"
+            },
+            {
+              "id": "text-51",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Sheet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-49",
+          "items": [
+            {
+              "id": "picture-52",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Wire_1-260x185.jpg",
+              "alt": "Wire",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-wire",
+              "wrap": "none"
+            },
+            {
+              "id": "text-53",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Wire"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-54",
+      "preset": "float-wrap",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-55",
+          "items": [
+            {
+              "id": "text-56",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Sport Equipment"
+                }
+              ]
+            },
+            {
+              "id": "picture-57",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/sport.jpg",
+              "alt": "",
+              "href": "",
+              "wrap": "left"
+            },
+            {
+              "id": "text-58",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "For some of the same reasons titanium is used in the aircraft industry, titanium is also utilized in the sporting goods market. The strength to weight ratio of titanium lends itself to products including tennis rackets, lacrosse sticks, golf clubs, bikes, camping gear, and more."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "For the same reasons that titanium is used in the aircraft industry and the industrial marketplace, it has also been identified as a metal of choice for sports equipment."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The strength to weight ratio has made titanium a great material choice in the sporting goods market where weight reduction is beneficial. One of the first sporting goods applications for titanium occurred back in the 1990’s when titanium was used in the manufacturing of golf club heads. Titanium’s light weight allowed for the design of a large head, hence creating a bigger “soft spot” to hit the ball, which results in a more accurate and longer distanced shot."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium’s low modulus of elasticity combined with its strength and weight characteristics, make it a material of choice in the following sporting goods applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "bicycle frames and components"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "tennis rackets"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "lacrosse sticks"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "skis"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "pool cue shafts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "baseball bats"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "camping gear"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "snowshoes"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "hiking equipment"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "camping equipment"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "golf clubs"
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Products used in this application include:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "To gain further insights into Titanium Industries and the diverse markets we cater to with our specialty metals, we invite you to explore our range of other markets:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Additive Manufacturing Build Plates](https://titanium.com/markets/additive-manufacturing-build-plates/) [Aerospace](https://titanium.com/markets/aerospace/) [Industrial](https://titanium.com/markets/industrial/) [Medical](https://titanium.com/markets/medical/) [Defense](https://titanium.com/markets/defense/) [Engineered Fastener Alloys](https://titanium.com/markets/engineered-fasteners/) [Consumer Products](https://titanium.com/markets/consumer-products/) [Interconnect](https://titanium.com/interconnect-alloys/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Follow us on Social Media:"
+                }
+              ]
+            },
+            {
+              "id": "picture-59",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
+              "alt": "Titanium Industries | Instagram",
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-60",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
+              "alt": "Titanium Industries | LinkedIn",
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-61",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
+              "alt": "Titanium Industries | Twitter",
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-62",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
+              "alt": "Titanium Industries | Facebook",
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-63",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
+              "alt": "Titanium Industries | Youtube",
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-64",
+      "preset": "quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-65",
+          "items": [
+            {
+              "id": "picture-69",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Round_Bar_Hi-260x185.jpg",
+              "alt": "Round Bar",
+              "href": "https://titanium.com/metalproducts/round-bar/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-70",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Round Bar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-66",
+          "items": [
+            {
+              "id": "picture-71",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Plate_Low-260x185.jpg",
+              "alt": "Plate",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-plate",
+              "wrap": "none"
+            },
+            {
+              "id": "text-72",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Plate"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-67",
+          "items": [
+            {
+              "id": "picture-73",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Sheet_Metal_Low-260x185.jpg",
+              "alt": "Sheet",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-sheet",
+              "wrap": "none"
+            },
+            {
+              "id": "text-74",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Sheet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-68",
+          "items": [
+            {
+              "id": "picture-75",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Tube_Low-1-260x185.jpg",
+              "alt": "Seamless Tube",
+              "href": "https://titanium.com/products/seamless-tube/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-76",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Seamless Tube"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/markets/consumer-products/",
+    "sourceHash": "9c22f22f006d89983a7d9ad8cb73e1c5f546c4084f0a9f729fa3e376fbeab664",
+    "converterVersion": "2",
+    "converterFamily": "medical-float",
+    "families": [
+      "equal-3-cta",
+      "intro-three-one-linecard",
+      "medical-float",
+      "html-picture-cards"
+    ],
+    "convertedAt": "2026-09-24T20:36:34.039Z",
+    "grid": "lead-four-fifths | thirds | three-one | float-wrap | sixths | float-wrap | near-halves | float-wrap | quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/markets/consumer-products/ (private, noindex) beside https://titanium.com/markets/consumer-products/. Check the grid (lead-four-fifths, thirds, three-one, float-wrap, sixths, float-wrap, near-halves, float-wrap, quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

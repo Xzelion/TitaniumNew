@@ -1,0 +1,260 @@
+{
+  "id": "ams-5666-specification",
+  "path": "/ams-5666-specification/",
+  "title": "AMS 5666 | Nickel Alloy, Corrosion and Heat-Resistant, Bars, Forgings, Extrusions, and Rings",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS 5666 | Nickel Alloy, Corrosion and Heat-Resistant, Bars, Forgings, Extrusions, and Rings",
+    "description": "Please find the chemical and mechanical properties for AMS 5666 Nickel Alloy 625 round bar available at Titanium Industries.",
+    "canonical": "https://titanium.com/ams-5666-specification/",
+    "ogTitle": "AMS 5666 | Nickel Alloy, Corrosion and Heat-Resistant, Bars, Forgings, Extrusions, and Rings",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS 5666 Nickel Alloy 625 round bar available at Titanium Industries.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS 5666 | Nickel Alloy, Corrosion and Heat-Resistant, Bars, Forgings, Extrusions, and Rings | Annealed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS 5666"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy: 625"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product Forms: Nickel Alloy, Corrosion and Heat-Resistant, Bars, Forgings, Extrusions, and Rings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Condition: Annealed"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Scope: This specification covers a corrosion and heat-resistant nickel alloy in the form of bars, forgings, extrusions, flash welded rings, and stock for forging, extruding, or flash welded rings up to 10 inches (254 mm) in diameter or least cross-sectional dimension."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Nickel Alloy 625 Round Bar](https://qqa.titanium.com/product/mill-product-nickel-alloy-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 21.5%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Co"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 9.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 65.05%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nb 3.65%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength: 100 – 136 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength: 42.1 – 66.7 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation: 50 – 55.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile properties and associated requirements vary due to orientation, section thickness, and engineering requirements."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy Inconel® 625 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aircraft Turbines and other Applications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Processing"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Heat Exchangers and Surface Condensers"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Expansion Joints"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Marine Components"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cross Reference Specifications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2261](https://titanium.com/ams-2261-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM B446](https://titanium.com/astm-b446-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASME SB446"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-5666-specification/",
+    "sourceHash": "06e3415832139a335f2b29313d35c68708a033b5b29876931bd02b175b8eafc4",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-5666-specification/ (private, noindex) beside https://titanium.com/ams-5666-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

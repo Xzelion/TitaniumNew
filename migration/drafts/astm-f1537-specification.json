@@ -1,0 +1,148 @@
+{
+  "id": "astm-f1537-specification",
+  "path": "/astm-f1537-specification/",
+  "title": "ASTM F1537 | Specification for CCM 1537 for Surgical Implants",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASTM F1537 | Specification for CCM 1537 for Surgical Implants",
+    "description": "ASTM F1537 covers chemical, mechanical, metallurgical requirements for three wrought CCM alloys used for surgical implants.",
+    "canonical": "https://titanium.com/astm-f1537-specification/",
+    "ogTitle": "ASTM F1537 | Specification for CCM 1537 for Surgical Implants",
+    "ogDescription": "ASTM F1537 covers chemical, mechanical, metallurgical requirements for three wrought CCM alloys used for surgical implants.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASTM F1537 | Standard Specification for Wrought Cobalt-28Chromium-6Molybdenum Alloys for Surgical Implants (UNS R31537, UNS R31538, and UNS R31539)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Specification: ASTM F1537"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM F1537 Scope: This specification covers the chemical, mechanical, and metallurgical requirements for three wrought cobalt-28chromium-6molybdenum alloys used for surgical implants. The properties specified apply specifically to wrought bar, rod, and wire. The alloys shall conform to the prescribed chemical requirements. Two tension and two bend tests shall be performed on each sample lot to determine tensile properties. Bar, rod, and wire conforming to this specification shall have a homogeneous microstructure with an average grain size of ASTM No. 5 or finer when measured."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for ASTM specifications."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Cobalt Chrome Moly Alloy 1537 Round Bar](https://titanium.com/shop/products/mill-products-cobalt-chrome-moly-round-bar)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/astm-f1537-specification/",
+    "sourceHash": "b6bbfe17fd975ded69483a614a4dd688d7b2578d0911584323873f9ac1f941b1",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/astm-f1537-specification/ (private, noindex) beside https://titanium.com/astm-f1537-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

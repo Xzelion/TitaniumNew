@@ -1,0 +1,395 @@
+{
+  "id": "alloys--stainless-steel--stainless-steel-alloy-420",
+  "path": "/alloys/stainless-steel/stainless-steel-alloy-420/",
+  "title": "Stainless Steel Alloy 420 | UNS# S42000 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Stainless Steel Alloy 420 | UNS# S42000 | Titanium Industries",
+    "description": "Stainless Steel Alloy AISI 420 is part of the martensitic family of SS, specifically formulated for primary forming into wrought products.",
+    "canonical": "https://titanium.com/alloys/stainless-steel/stainless-steel-alloy-420/",
+    "ogTitle": "Stainless Steel Alloy 420 | UNS# S42000 | Titanium Industries",
+    "ogDescription": "Stainless Steel Alloy AISI 420 is part of the martensitic family of SS, specifically formulated for primary forming into wrought products.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Stainless Steel Alloy 420 | UNS# S42000"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Alloy AISI 420 is part of the martensitic family of stainless steels, specifically formulated for primary forming into wrought products. This material can have moderately low ductility and demonstrates moderately high electrical conductivity among the wrought martensitic stainless steels. Grade 420 stainless steel is a high-carbon steel that contains a minimum chromium content of 12%. Similar to other stainless steel grades, AISI 420 is hardened through heat treatment. Offering good ductility in the annealed state, excellent corrosion resistance properties when polished, surface grounded or hardened, and has the highest hardness."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel product forms offered at all Titanium Industries’ locations:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Hex Bar](https://titanium.com/shop/products/mill-products-stainless-steel-hex-bar)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Alloy 420 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Shear blades"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Needle valves"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Surgical equipment"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cutlery"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 12.0 – 14.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 1.0% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 1.0% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 0.75% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.15 – 0.4%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 0.50% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P 0.040% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.030% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe Balance"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-19",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "(lb/ft3)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "(% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "(BTU/h-ft-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "(BTU/lb-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "(µm/m-K)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "480"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "3.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "16"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.11"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "10"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2 Offset"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "55"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "190"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (R"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "m"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "100"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "250"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (AL=5 x Ø)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "8.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "15.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Hardness, Brinell"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "190"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (GPa): 10.3"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: –"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/stainless-steel/stainless-steel-alloy-420/",
+    "sourceHash": "da68c1e84d4339e2fdb0725f306c3157eb64791f3088f71f3982eee86f6f62d3",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/stainless-steel/stainless-steel-alloy-420/ (private, noindex) beside https://titanium.com/alloys/stainless-steel/stainless-steel-alloy-420/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

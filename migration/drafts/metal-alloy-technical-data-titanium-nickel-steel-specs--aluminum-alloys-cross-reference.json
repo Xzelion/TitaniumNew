@@ -1,0 +1,404 @@
+{
+  "id": "metal-alloy-technical-data-titanium-nickel-steel-specs--aluminum-alloys-cross-reference",
+  "path": "/metal-alloy-technical-data-titanium-nickel-steel-specs/aluminum-alloys-cross-reference/",
+  "title": "Aluminum Alloys International Cross Reference | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Aluminum Alloys International Cross Reference | Titanium Industries",
+    "description": "Titanium Industries' Aluminum Alloys International Cross Reference can be found here. Numerous cross references for each Aluminum alloy.",
+    "canonical": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/aluminum-alloys-cross-reference/",
+    "ogTitle": "Aluminum Alloys International Cross Reference | Titanium Industries",
+    "ogDescription": "Titanium Industries' Aluminum Alloys International Cross Reference can be found here. Numerous cross references for each Aluminum alloy.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Aluminum Alloys International Cross Reference"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://qqa.titanium.com/product?type=mill-product",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "full",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-13",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Please find Titanium Industries Aluminum cross reference metal equivalency chart below. There are many Aluminum alloys and designation standards that are used depending on countries, engineering practices, and many other standards. A description of each material standard can also be found underneath the Aluminum equivalency chart."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "For questions or inquiries please contact us today: [[email protected]](https://titanium.com/cdn-cgi/l/email-protection#1261737e776152667b66737c7b677f3c717d7f)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "UNS"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ANSI/AA (USA)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "W.-Nr (Germany)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "EN"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AFNOR (France)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "JIS (Japan)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "BS (Great Britain)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A92014"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AA2014"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "3.1255"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "EN AW-2014"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A-U4SG"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A2014"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "H 15"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A92017"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AA2017A"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "3.1325"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "EN AW-2017A"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A-U4G"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A2017"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "H14"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A92024"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AA2024"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "3.1355"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "EN AW-2024"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A-U4G1"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A2024"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "L97/L98"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A96061"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AA6061"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "3.3211"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "EN AW-6061"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A-GSUC"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A6061"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "H20"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A97050"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AA7050"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "3.4144"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "EN AW-3982"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AA 7050-T74"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A97075"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AA7075"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "3.4365"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "EN AW7075"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A-Z5GU"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "A7075"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2L95"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "UNS – International"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "UNS stands for Unified Numbering System and is a unified identification for metals and alloys of metals in the United States. Consisting of a single-letter prefix followed by five digits that represent material composition. Predominantly, the letter is suggestive of the family of metals identified. As an example, aluminum prefix letter is A for aluminum."
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "AA – International"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AA stands for Aluminum Association, is specific to Aluminum, and is the basis for aluminum standards and designations worldwide. Designated by the prefix AA and followed by four numeric digits. Numeric digits represent:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "First digit: principal alloying constituent(s)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Second and third digits: specific alloy designation"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fourth digit: Casting (0) or ingot (1, 2) designation"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "DIN – Germany"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DIN stands for Deutsches Institut für Normung eV (German Institute for Standardization). This standard uses the letters DIN, followed by alphanumeric codes or figures that represent the metals chemical composition, for designation of Aluminum alloys."
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "EN – Europe"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "EN stands for European Norms. This standard was mandated by the European Economic Community with the goal of standardizing common language on the European continent. Also created to replace national standards like BS – Great Britain, UNI – Italy, DIN – German, AFNOR – Frances, etc. These standards are still accepted and used by most countries, however. For aluminum, EN’s standard designation involves the prefix EN AW (wrought alloys) and AC (cast alloys), followed by four digits, with the first digit representing the parent alloying element."
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "ISO"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The International Organization for Standardization (ISO) uses chemical composition for designation of Aluminum alloys. The naming system uses the letters “Al” as the prefix, followed by the alloys chemical composition."
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "AFNOR – France"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AFNOR Stands for Association Française de Normalisation, which translates to “French Standardization”. As the French organization for standardization, Aluminum alloys are named using an alphanumeric system in which the first letter, A, designates the name of the element, and the following letters and numbers designate the alloying elements and their percentages."
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "JIS – Japan"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "JIS stands for Japanese Industrial Standards and are developed by the Japanese Industrial Standards Committee (JISC) in Tokyo. The specifications for designating aluminum alloys are pretty close to the ANSI/AA system. Beginning with the prefix JIS, followed by the letter A which denotes area of division, followed by four digits representing the composition of the material."
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "BS – Great Britain"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "BS stands for British Standards. This set of standards are developed by the British standard institute and uses alphanumeric characters to designate alloys. The letters in the designation represent the main alloying element and the figures represent the weight percent of the main alloying element."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/aluminum-alloys-cross-reference/",
+    "sourceHash": "a8d6265c96ace1b79ae85e7e00b2707fae65609d59908a2cebcfee7696a3b50e",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | full",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/metal-alloy-technical-data-titanium-nickel-steel-specs/aluminum-alloys-cross-reference/ (private, noindex) beside https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/aluminum-alloys-cross-reference/. Check the grid (full, thirds, full), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

@@ -1,0 +1,148 @@
+{
+  "id": "astm-a320-specification",
+  "path": "/astm-a320-specification/",
+  "title": "ASTM A320 | Spec for Alloy and Stainless Steel Bolting for Low-Temperature Service",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASTM A320 | Spec for Alloy and Stainless Steel Bolting for Low-Temperature Service",
+    "description": "ASTM A320 specification covers alloy steel bolting materials for pressure vessels, valves, flanges, and fittings for low-temperature service.",
+    "canonical": "https://titanium.com/astm-a320-specification/",
+    "ogTitle": "ASTM A320 | Spec for Alloy and Stainless Steel Bolting for Low-Temperature Service",
+    "ogDescription": "ASTM A320 specification covers alloy steel bolting materials for pressure vessels, valves, flanges, and fittings for low-temperature service.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASTM A320 | Standard Specification for Alloy-Steel and Stainless Steel Bolting for Low-Temperature Service"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Specification: ASTM A320"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM A320 Scope: This specification covers alloy steel bolting materials for pressure vessels, valves, flanges, and fittings for low-temperature service. Each alloy shall conform to the prescribed chemical composition requirements. The material, as represented by the tension specimens, shall conform to the requirements as to tensile properties such as tensile strength, yield strength, elongation, and hardness. The material shall meet the prescribed impact energy absorption requirements and the recommended test temperature. Mechanical tests shall be conducted on the material, namely: impact testing, tension testing, and hardness testing."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for ASTM specifications."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Grade 347 Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/astm-a320-specification/",
+    "sourceHash": "99eca0b2912386194636684f20ad6bbeac9878e205740d7ec7ceb382f10ffe48",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/astm-a320-specification/ (private, noindex) beside https://titanium.com/astm-a320-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

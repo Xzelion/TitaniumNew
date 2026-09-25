@@ -1,0 +1,275 @@
+{
+  "id": "ams-4911",
+  "path": "/ams-4911/",
+  "title": "AMS 4911 | Titanium Grade 5 Sheet, Strip, and Plate | Annealed",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS 4911 | Titanium Grade 5 Sheet, Strip, and Plate | Annealed",
+    "description": "Please find the chemical and mechanical properties for AMS 4911. Titanium Grade 5 Sheet, Strip, and Plate, Annealed",
+    "canonical": "https://titanium.com/ams-4911/",
+    "ogTitle": "AMS 4911 | Titanium Grade 5 Sheet, Strip, and Plate | Annealed",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS 4911. Titanium Grade 5 Sheet, Strip, and Plate, Annealed",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS 4911 | Titanium Grade 5 Sheet, Strip, and Plate | Annealed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS 4911"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Alloy: Titanium 6Al-4V Grade 5"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product Forms: Titanium Alloy Sheet, Strip, and Plate"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Condition: Annealed"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium 6Al-4V Grade 5 Sheet](https://qqa.titanium.com/product/mill-product-titanium-sheet)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium 6Al-4V Grade 5 Plate](https://qqa.titanium.com/product/mill-product-titanium-plate)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "CHEMICAL COMPOSITION"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Al 6.25%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "V 4.00%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C ≤ 0.8%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N ≤ 0.05%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "O ≤ 0.20%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "H ≤ 0.0125%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe ≤ 0.30%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Y ≤ 0.005%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Other ≤ 0.40%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti Remainder"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength: 130 – 134 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength: 120 – 126 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation: 6 – 10%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile properties and associated requirements vary due to orientation, section thickness, and engineering requirements."
+                }
+              ]
+            },
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Shop Discounted Titanium Products",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Required Acceptance Tests"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Bend Test"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Microstructure"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Surface Contamination"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ultrasonic (where required)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cross Reference Specifications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2631](https://titanium.com/ams-2631-specification/) , [AMS 6932](https://titanium.com/ams-6932-specification/) , [AMS-T-9046](https://titanium.com/ams-t-9047-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM F1472](https://titanium.com/astm-f1472-specification/) , [ASTM B265 Gr 5](https://titanium.com/astm-b265-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "EN 10204.3.1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-4911/",
+    "sourceHash": "bde93c6272161e10f42de8ae4621aebee3d50b9c22662795d4eaa2d69d9d2108",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-4911/ (private, noindex) beside https://titanium.com/ams-4911/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

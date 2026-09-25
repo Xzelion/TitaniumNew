@@ -1,0 +1,371 @@
+{
+  "id": "alloys--alloy-steels--alloy-steel-aisi-e9310-2",
+  "path": "/alloys/alloy-steels/alloy-steel-aisi-e9310-2/",
+  "title": "Alloy Steel AISI E9310 | UNS# G93106 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Alloy Steel AISI E9310 | UNS# G93106 | Titanium Industries",
+    "description": "Alloy Steel AISI E9310",
+    "canonical": "https://titanium.com/alloys/alloy-steels/alloy-steel-aisi-e9310-2/",
+    "ogTitle": "Alloy Steel AISI E9310 | UNS# G93106 | Titanium Industries",
+    "ogDescription": "Alloy Steel AISI E9310",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Alloy Steel AISI E9310 | UNS# G93106"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI E9310 is a vacuum degassed, carburizing steel alloy that is suitable for heavy sectioned components. E9310 demonstrates a high degree of hardenability, fatigue resistance, high core strength and hardness while also offering excellent ductility and toughness. Most applications for this material specify use in the carburized state, which increases wear and abrasion resistance."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI E9310 Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2301](https://titanium.com/ams-2301-specification/) , [AMS 6260](https://titanium.com/ams-6260-specification-2/) , [AMS 6265](https://titanium.com/ams-6265-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM A322](https://titanium.com/astm-a322-specification/)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI E9310 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aircraft structural components"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Rocket motor cases"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Armor plate"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Pressure vessels"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Gears"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 93.77 – 95.19%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 3.0- 3.50%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 1.0 – 1.40%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 0.45 – 0.65%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 0.20 – 0.35%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 0.080 – 0.130%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.080 – 0.130%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S ≤ 0.025%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P ≤ 0.025%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-19",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density (lbs/cubic in)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (W/m-K)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity (BTU/lb-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (µm/m-K)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.284"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Mpa)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "450"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (Mpa)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "820"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "17.3%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Hardness, Brinell"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): –"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: –"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/alloy-steels/alloy-steel-aisi-e9310-2/",
+    "sourceHash": "197eee1a511dc72e4ff3a77c2b3e183b064b2fc9fac9352a5d2cb9a0fabbf2a7",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-fifths",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/alloy-steels/alloy-steel-aisi-e9310-2/ (private, noindex) beside https://titanium.com/alloys/alloy-steels/alloy-steel-aisi-e9310-2/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-fifths), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

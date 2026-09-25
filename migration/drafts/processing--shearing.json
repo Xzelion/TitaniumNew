@@ -1,0 +1,296 @@
+{
+  "id": "processing--shearing",
+  "path": "/processing/shearing/",
+  "title": "Discover Custom Sheet Metal Shearing & Fabrication | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Discover Custom Sheet Metal Shearing & Fabrication | Titanium Industries",
+    "description": "Reduce Costs & Cycle Time with Custom Metal Shearing & Fabrication from Titanium Industries - Click Here for more on Shearing to specific tolerances. Custom Sheet Metal Shearing & Fabrication",
+    "canonical": "https://titanium.com/processing/shearing/",
+    "ogTitle": "Discover Custom Sheet Metal Shearing & Fabrication | Titanium Industries",
+    "ogDescription": "Reduce Costs & Cycle Time with Custom Metal Shearing & Fabrication from Titanium Industries - Click Here for more on Shearing to specific tolerances. Custom Sheet Metal Shearing & Fabrication",
+    "ogImage": "https://titanium.com/wp-content/uploads/2015/11/SHEAR-WORKER.jpg"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Shearing | Titanium Industries"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://qqa.titanium.com/product?type=mill-product",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-21",
+      "preset": "waterjet-split",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-22",
+          "items": [
+            {
+              "id": "text-13",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Custom Specialty Metal Sheet Shearing"
+                }
+              ]
+            },
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Custom Sheet Metal Shearing & Fabrication: Precision Solutions for Your Metal Needs"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "At Titanium Industries (T.I.), we take pride in offering comprehensive custom sheet metal shearing and fabrication services to meet the unique requirements of our customers. With state-of-the-art equipment and a commitment to excellence, we deliver precision solutions that ensure optimal results for every project."
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Precision Custom Sheet Metal Shearing & Fabrication Capability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "T.I. has the capability to shear up to .75″ (19.05 mm) thick and 144″ (3657.6 mm) straight length."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "When purchasing a flat product such as sheet, strip or plate, T.I can supply a sheared piece to a very tight tolerance of customer specified dimensions. Our shears have the capability to cut up to .75″ (19.05 mm) thick Grade 2, and .500”(12.7 mm) for Grade 5 and a straight length as long as 144″ (3567.6 mm)."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "An additional option of “ Gap Shearing ” is available, which can produce cuts of up to 300”. Please talk to your T.I representative should you be interested in this alternative."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "It is not uncommon for T.I to shear metal to dimensions of 1″ (25.4 mm) x 1″ (25.4 mm) squares, or to shear product to 48″ (1219.2 mm) x 144″ (3657.6 mm) dimensions. Provide your dimensions and we will be happy to create your part blanks for you through the shearing process."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Endless Possibilities:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "At T.I., we understand that each project is unique, and our custom sheet metal shearing and fabrication services are designed to cater to diverse needs. It is not uncommon for us to shear metal to dimensions as small as 1″ x 1″ (25.4 mm x 25.4 mm) squares, or as large as 48″ x 144″ (1219.2 mm x 3657.6 mm). Whatever your dimensions may be, our team is ready to create your part blanks through the shearing process, delivering precisely what you need."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Quality and Excellence:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Quality is at the core of everything we do at T.I. From our top-of-the-line equipment to our skilled technicians, we are committed to delivering excellence in every aspect of our custom sheet metal shearing and fabrication services. You can trust us to provide reliable and precise solutions for all your metal cutting needs."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Partner with T.I. for Your Sheet Metal Shearing and Fabrication Needs:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Experience the difference of working with a trusted industry leader. Partner with T.I. for your custom sheet metal shearing and fabrication needs. With our expertise, state-of-the-art equipment, and dedication to customer satisfaction, we are confident in our ability to deliver the highest quality products that meet and exceed your expectations."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Contact us today](https://titanium.com/contact-us/) to discuss your project requirements and discover how T.I.’s custom sheet metal shearing and fabrication services can add value to your operations."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "#CustomSheetMetalShearing #FabricationSolutions #PrecisionEngineering #MetalCutting #ShearingCapability #QualityAssurance #TitaniumIndustries"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "More Processing Services Available"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Water Jet Cutting](https://titanium.com/processing/water-jet-cutting/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Saw Cutting](https://titanium.com/processing/saw-cutting/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Chamfering](https://titanium.com/processing/chamfering/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Torch Cutting](https://titanium.com/processing/torch-cutting/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Heat Treating](https://titanium.com/processing/heat-treating/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[PVC Coating](https://titanium.com/processing/pvc-coating/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Precision Grinding](https://titanium.com/processing/grinding/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Trepanning & Boring](https://titanium.com/processing/trepanning/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Coil Slitting](https://titanium.com/processing/coil-slitting/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Metal Sheet Shearing](https://titanium.com/processing/shearing/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Follow us on Social Media:"
+                }
+              ]
+            },
+            {
+              "id": "picture-16",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
+              "alt": "Titanium Industries | Instagram",
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-17",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
+              "alt": "Titanium Industries | LinkedIn",
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-18",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
+              "alt": "Titanium Industries | Twitter",
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-19",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
+              "alt": "Titanium Industries | Facebook",
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-20",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
+              "alt": "Titanium Industries | Youtube",
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
+            }
+          ]
+        },
+        {
+          "id": "column-23",
+          "items": [
+            {
+              "id": "picture-14",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/shear-600.jpg",
+              "alt": "Titanium.com",
+              "href": "",
+              "wrap": "none"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/processing/shearing/",
+    "sourceHash": "fe27fce4848ef45a9835305cb9306df04cb40cb7fec529b2ac69a78087ebfe04",
+    "converterVersion": "2",
+    "converterFamily": "waterjet-measured",
+    "families": [
+      "equal-3-cta",
+      "waterjet-measured"
+    ],
+    "convertedAt": "2026-09-24T20:09:34.873Z",
+    "grid": "full | thirds | waterjet-split",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/processing/shearing/ (private, noindex) beside https://titanium.com/processing/shearing/. Check the grid (full, thirds, waterjet-split), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

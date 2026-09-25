@@ -1,0 +1,383 @@
+{
+  "id": "alloys--stainless-steel--stainless-steel-grade-304",
+  "path": "/alloys/stainless-steel/stainless-steel-grade-304/",
+  "title": "Stainless Steel Alloy 304 | UNS# S30400 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Stainless Steel Alloy 304 | UNS# S30400 | Titanium Industries",
+    "description": "Stainless Steel Alloy 304 | UNS# S30400 is the most versatile and widely used Stainless Steel grade or alloy available.",
+    "canonical": "https://titanium.com/alloys/stainless-steel/stainless-steel-grade-304/",
+    "ogTitle": "Stainless Steel Alloy 304 | UNS# S30400 | Titanium Industries",
+    "ogDescription": "Stainless Steel Alloy 304 | UNS# S30400 is the most versatile and widely used Stainless Steel grade or alloy available.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Stainless Steel Alloy 304 | UNS# S30400"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Alloy 304 | UNS# S30400 is the most versatile and widely used Stainless Steel grade or alloy available. This metal has excellent formability and welding characteristics that utilizes the austenitic structure of 304 for applications in the architectural, industrial, and other markets. Also exhibiting excellent corrosion resistance and considered to be the most weldable of the high-alloy steels."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar) offered at all Titanium Industries’ locations."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Alloy 304 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Architectural Applications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Surgical Instrumentation"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Appliances"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Food Processing"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Clamps"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fasteners"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.08%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 2.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P 0.040%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.030%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 1.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 18.0 – 20.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 8.0 – 10.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cu 0.75%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 0.75%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-19",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU-in/hr-ft²-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (1/°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.29"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.4"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "112"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.12"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.00000961"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2550"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2 Offset"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "31.2"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "140"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (R"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "m"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "73.2"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "95"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (AL=5 x Ø)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "55.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "70.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Brinell Hardness (H)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "92"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "215"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): 28000"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: 40%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/stainless-steel/stainless-steel-grade-304/",
+    "sourceHash": "d73041cdf224bf60b4c3894535574ec42fe06a9efc3ed8e394d8c39a40315b53",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/stainless-steel/stainless-steel-grade-304/ (private, noindex) beside https://titanium.com/alloys/stainless-steel/stainless-steel-grade-304/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

@@ -1,0 +1,490 @@
+{
+  "id": "astm-specifications",
+  "path": "/astm-specifications/",
+  "title": "ASTM Specifications | Specialty Metals | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASTM Specifications | Specialty Metals | Titanium Industries",
+    "description": "Titanium Industries carries a wide range of specialty metals conforming to ASTM specifications. Please find a full list on this page.",
+    "canonical": "https://titanium.com/astm-specifications/",
+    "ogTitle": "ASTM Specifications | Specialty Metals | Titanium Industries",
+    "ogDescription": "Titanium Industries carries a wide range of specialty metals conforming to ASTM specifications. Please find a full list on this page.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASTM International | American Society for Testing and Materials Specifications"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://qqa.titanium.com/product?type=mill-product",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "full",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-13",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "ASTM International, formerly known as the American Society for Testing and Materials, is a global leader in the development of voluntary consensus standards that are used by companies, individuals, and various global institutions. The American Society for Testing and Materials was founded in 1898 by Charles B. Dudley, a chemist with the Pennsylvania Railroad."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Over 12,000 ASTM standards are used globally to help improve overall quality, enhance public health and safety, strengthen access to markets and trade, and build consumer confidence. Through the contributions of more than 30,000 volunteers, consisting of the world’s top technical experts and business professionals representing over 140 countries, the ASTM is a leader in international standards development. Collaborating in an open and transparent process, members create test methods, specifications, classifications, guides, and best practices that support industries and governments."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM International has no role in enforcing the requirements or compliance with its standards. These standards may become mandatory when referenced by an external contract, corporation, or government body."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Disclaimer The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for ASTM specifications."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-14",
+      "preset": "lead-four-fifths",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-15",
+          "items": [
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "ASTM Specifications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specification"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Metal Type"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Applicable Alloys & Grades"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM A276"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grades: 304L, 316L, 321, 347, 440C"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM A295"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grades: AISI 52100"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM A320"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grades: 347"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM A322"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grades: AISI 9310"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM A331"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloys: 4130, 8740, 52100"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM A479"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grades: 304L, 316L, 321, 347"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM A484"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grades: 17-4, 303, 316L, 321, 347"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM A564"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grades: 13-8, 15-5, 17-4, Custom 455, Custom 465"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM A582"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grades: 303, 303SE"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM A638"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grades: Type A286"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM A646"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grades:4340 MOD 300M"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM B211"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloys: 2024, 6061, 7075"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM B265"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade 2, Grade 3, Grade 4, 6Al-4V Grade 5, 6Al-4V ELI Grade 23"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM B338"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade 2"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM B348"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade 1, Grade 2, 6Al-4V Grade 5, 6Al-4V ELI Grade 23"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM B363"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade 2"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM B381"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade 2, 6Al-4V Grade 5"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM B446"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloys: 625"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM B637"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloys: 718"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM B861"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade 2"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM B862"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade 2"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM F136"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "6Al-4V ELI Grade 23"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM F1472"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "6Al-4V Grade 5"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM F1537"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cobalt Chrome Moly"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloys: 1537"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM F67"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade 2, Grade 3, Grade 4, 6Al-4V ELI Grade 23"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM F799"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cobalt Chrome Moly"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloys: 1537"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM F899"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grades: 17-4, 303, 440C, Custom 455, Custom 465"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/astm-specifications/",
+    "sourceHash": "f30120098e4907f1d99b2038c971ef22e0d70e8431439bece2f90293924700b1",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | full | lead-four-fifths",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/astm-specifications/ (private, noindex) beside https://titanium.com/astm-specifications/. Check the grid (full, thirds, full, lead-four-fifths), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

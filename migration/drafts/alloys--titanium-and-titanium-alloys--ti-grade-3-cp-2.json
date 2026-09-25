@@ -1,0 +1,498 @@
+{
+  "id": "alloys--titanium-and-titanium-alloys--ti-grade-3-cp-2",
+  "path": "/alloys/titanium-and-titanium-alloys/ti-grade-3-cp-2/",
+  "title": "Discover Titanium Grade 3 CP 2 | UNS# R50250 | Titanium Industries for Excellent Quality and Service",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Discover Titanium Grade 3 CP 2 | UNS# R50250 | Titanium Industries for Excellent Quality and Service",
+    "description": "Titanium Grade 3 CP 2 round bar, grade 1 plate & sheet is available at all global Titanium Industries locations.",
+    "canonical": "https://titanium.com/alloys/titanium-and-titanium-alloys/ti-grade-3-cp-2/",
+    "ogTitle": "Discover Titanium Grade 3 CP 2 | UNS# R50250 | Titanium Industries for Excellent Quality and Service",
+    "ogDescription": "Titanium Grade 3 CP 2 round bar, grade 1 plate & sheet is available at all global Titanium Industries locations.",
+    "ogImage": "https://titanium.com/wp-content/uploads/2016/09/Sheet_Metal_Low-1030x687.jpg"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Titanium Grade 3 CP 2 | UNS #R50550"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade 3 CP 2 | UNS #R50550 offers slightly higher mechanical properties than Grade 2 Titanium. Grade 3 demonstrates similar ductility and formability, however. This metal is typically used for applications where corrosion resistance is a major requirement and largely used in chemical production, some airframe applications, and marine use."
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Titanium Sheet Grade 3 CP 2 Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 4900](https://titanium.com/ams-4900-titanium-grade-3/) , [AMS-T-9046 CP 2](https://titanium.com/ams-t-9046-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM B265](https://titanium.com/astm-b265-specification/) , [ASTM F67](https://titanium.com/astm-f67-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "EN 10204.3.1, [ASME SB-265](https://titanium.com/asme-sb265-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade 3 Mill Product Forms:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Grade 3 Titanium Sheet](https://qqa.titanium.com/product/mill-product-titanium-sheet)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Titanium Grade 3 CP 2 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Airframe Components"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aerospace"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Processing Equipment"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Marine"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C ≤ 0.10%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "H ≤ 0.015%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe ≤ 0.30%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N ≤ 0.050%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "O 0.35%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti 98.885%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Other ≤ 0.30%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-19",
+      "preset": "lead-four-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU-in/hr-ft²-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat (BTU/lb-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (1/°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.163"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "3.19"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "138"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.125"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.00000478"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "3020"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-22",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-23",
+          "items": [
+            {
+              "id": "text-24",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2 Offset"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "55"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (R"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "m"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "65"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (AL=5 x Ø)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "18.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "35.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Brinell Hardness (H)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "225"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2666"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): 15200"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: Unknown"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-25",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-26",
+          "items": [
+            {
+              "id": "text-27",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade 3 CP 2 – Elevated Mechanical Properties and Unmatched Corrosion Resistance"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Explore the outstanding features of Titanium Grade 3 CP 2 (UNS #R50550), a remarkable alloy that surpasses Grade 2 Titanium in mechanical properties. While maintaining similar ductility and formability, Grade 3 stands out with its higher strength, making it an ideal choice for various applications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "At Titanium Industries, we take pride in offering top-quality Titanium Grade 3 CP 2, favored for its exceptional corrosion resistance. This metal is widely employed in industries where protection against corrosion is crucial, making it a popular choice for chemical production, airframe applications, and marine use."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Our Titanium Sheet Grade 3 CP 2 adheres to stringent specifications, including AMS 4900, AMS-T-9046 CP 2, ASTM B265, ASTM F67, EN 10204.3.1, and ASME SB-265, ensuring its reliability and performance."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Experience the reliability and versatility of Titanium Grade 3 CP 2 with our premium Titanium Sheet Grade 3 CP 2. Elevate your projects with a metal that delivers unmatched corrosion resistance and robust mechanical properties."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "#TitaniumGrade3CP2 #CorrosionResistance #MechanicalProperties #PremiumQuality"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Contact our team today to inquire about Titanium Grade 3 CP 2 and place your order. At Titanium Industries, we are dedicated to providing the highest quality materials for your specific needs. Visit our website at [www.titanium.com](http://www.titanium.com/) to explore our extensive range of titanium products and solutions. Let us be your trusted partner in material supply for your next venture."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Follow us on Social Media:"
+                }
+              ]
+            },
+            {
+              "id": "picture-28",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
+              "alt": "Titanium Industries | Instagram",
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-29",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
+              "alt": "Titanium Industries | LinkedIn",
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-30",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
+              "alt": "Titanium Industries | Twitter",
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-31",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
+              "alt": "Titanium Industries | Facebook",
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-32",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
+              "alt": "Titanium Industries | Youtube",
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/titanium-and-titanium-alloys/ti-grade-3-cp-2/",
+    "sourceHash": "c2294428a06404b0bb8bab1f78c2911d325da14f7ce73040ee3fc9f8a8268e52",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-four-fifths | lead-three-quarters | full",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/titanium-and-titanium-alloys/ti-grade-3-cp-2/ (private, noindex) beside https://titanium.com/alloys/titanium-and-titanium-alloys/ti-grade-3-cp-2/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-four-fifths, lead-three-quarters, full), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

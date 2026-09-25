@@ -1,0 +1,293 @@
+{
+  "id": "metal-alloy-technical-data-titanium-nickel-steel-specs--charters-of-freedom-project",
+  "path": "/metal-alloy-technical-data-titanium-nickel-steel-specs/charters-of-freedom-project/",
+  "title": "Charters of Freedom Project in Washington D.C. | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Charters of Freedom Project in Washington D.C. | Titanium Industries",
+    "description": "The Titanium frame, donated by Titanium Industries for the Charters of Freedom project located in Washington D.C.",
+    "canonical": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/charters-of-freedom-project/",
+    "ogTitle": "Charters of Freedom Project in Washington D.C. | Titanium Industries",
+    "ogDescription": "The Titanium frame, donated by Titanium Industries for the Charters of Freedom project located in Washington D.C.",
+    "ogImage": "https://titanium.com/wp-content/uploads/2019/11/doch.jpg"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Charters of Freedom Project"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "two-one",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "picture-7",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/National-Archives.jpg",
+              "alt": "",
+              "href": "",
+              "wrap": "none"
+            },
+            {
+              "id": "text-8",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Charters of Freedom Project – Origins"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Since 1951, the Charters of Freedom have been secured in a helium filled, glass and metal enclosure, designed and built by the National Institute of Standards and Technology (NIST). During that tenure, the Declaration of Independence, Bill of Rights, and page 1 and page 4 of the US Constitution have also been publicly displayed in the National Archives in Washington D.C. The Rotunda of the National Archives underwent renovations from 2001 to 2003 which allowed the Charters to be on full display. A total of 6 pages."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "In 1995 the Bill of Rights and the Declaration of Independence underwent an extensive examination and showed signs of deterioration. Because the enclosures case was soldered shut, restoration proved to be difficult as the case could not be opened without compromising the seal. After some deliberation, the National Archive and Records Administration (NARA) concluded modern technology could enhance the preservation of the documents and began designing a new encasement that would have the flexibility to accommodate future preservation methods and techniques."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "As part of the extraction process for the documents, NIST experts removed the gases inside the compromised encasement without disturbing the documents. With help from a few NASA collaborators, the gases were analyzed to provide essential data on the actual condition of the documents. Because the documents are made of parchment or animal skin, the concern was further deterioration due to a change in the chemical environment inside the encasement’s. The documents, however, were safely retrieved."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The Charters of Freedom are now encased in a gold-plated titanium frame to complement the Rotunda’s bronze features. The Titanium was donated from Titanium Industries’ (T.I.) headquarters, located in Rockaway, New Jersey, in the form of Grade 2 plate and provided to the NIST for fabrication."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The primary goals for the project was to preserve and protect these vital documents of Democracy. Additional to these goals, was to effectively manufacture a customized design that took many key aspects into consideration. The challenge was to satisfy the aesthetic and accessibility requirements designed by the NARA, while also meeting specific technical performance standards and specifications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aesthetics"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Inside the new enclosure, the parchment documents rest on a pure cellulose paper fabricated by the University of Iowa, specifically for this project. The documents and paper are stationed on the topside of an anodized aluminum support construct that was precision machined to conform to the irregular shape of the documents. From there, a black interior was implemented to create the impression of floating documents. Underneath the platform sits a NIST integrated monitoring system to measure the atmosphere within the enclosure."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Flexibility and Maintenance"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The Titanium frame, donated by [Titanium Industries](http://titanium.com/) , and aluminum alloy base are fastened together, allowing conservationists access to the leak proof enclosure to address issues or if advancements in preservation technology arise."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Base Construction"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The enclosure was fabricated using light-weight aluminum and titanium into a waffle-like structure that maintains specified stiffness while also allowing the National Archives to access or move the cases, as necessary."
+                }
+              ]
+            },
+            {
+              "id": "picture-9",
+              "kind": "picture",
+              "src": "https://titanium.com/s/img/wp-content/uploads/2019/11/doch.jpg",
+              "alt": "case",
+              "href": "",
+              "wrap": "left"
+            },
+            {
+              "id": "text-10",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "[Cut-away drawing showing major structural features of the new encasements]"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Components and Specifications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Seven enclosures were created to hold the four pages of the Constitution, the transmittal page, and the Declaration of Independence. The outer dimensions of the machined titanium frame are 39-1/4” x 33-5/8”."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The two wider enclosure fabricated by NIST contains the Bill of Rights and another for testing purposes. The enclosure outer dimensions are 39-1/4” x 37-7/8”."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The Base:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fabricated from a 3” thick aluminum-alloy plate and machined to create beveled edges, the base’s top had two channel grooves fabricated along the entire perimeter that hold high-quality seals normally used for ultra-high vacuum applications. Two window ports were factored into the design and two compartments for measuring instruments were also fabricated into the bottom. The instrument bays provide external access to valves for filling the enclosure with humidified argon and sensors to measure pressure, humidity, and temperature within the encasement. The enclosures base exterior and seal surfaces were plated with a thin layer of anodized nickel as well."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The Enclosure’s Seal:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Inside the channel, mentioned above, NIST inserted a pre-formed seal, fabricated using a strong nickel (Inconel) alloy coated in a thin layer of tin. The tin is soft and fosters a better seal when the pressure from the titanium frame is fastened to the base. This allows the tin to fill any voids, gaps, or otherwise surface imperfections that may be present. Contrasting the tin coating, the nickel alloy acts as a spring that inhibits bending or distortions that may arise over time. The seal creates a leak proof barrier for each enclosure’s argon gas-filled interior environment and also provides a barrier to the entrance of other gases or air exposure."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Designed to be nearly impervious, the environment inside the case must remain mostly oxygen free. Recent and ongoing tests at the NIST headquarters appear to indicate the seal is working better than intended and well above the specified requirements."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The Frame:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "To avoid any issues or irregularities, the frame was constructed as a single piece. The frame was fabricated using Commercially Pure Grade 2 Titanium, also donated to the NIST and NARA by Titanium Industries. Grade 2 CP Titanium is known as the work horse of commercially pure Titanium and has higher levels of iron and oxygen than other CP grades. This offers excellent formability and decent strength characteristics, coupled with superior corrosion resistance."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The Grade 2 CP Titanium plate donated by T.I. was 40”(L) x 40”(W) x 2”(T). The actual surface of the frame was plated with a nickel alloy, beveled, and then coated in 24-karat gold that has a thickness of 1 micrometer."
+                }
+              ]
+            },
+            {
+              "id": "picture-11",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/07mel005_waldseemuller_hr.jpg",
+              "alt": "case",
+              "href": "",
+              "wrap": "left"
+            },
+            {
+              "id": "text-12",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "[Close-up of the titanium shows bolt holes and pockets cut into the frame to reduce weight. The frame is cut from a solid block of commercially pure titanium.]"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The Documents Platform:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Using high-grade, anodized aluminum, the base was designed to support each Charter of Freedom document and also allow even distribution of argon gas and control humidity levels around each parchment. During the planning stages, conservationists with the National Archives mapped the perimeters of each document for edge characteristics and to account for irregularities. Using a measuring device to map individual spots on the documents to form an outline, the corresponding data was then used to fabricate each platform to facilitate and conform to the distinctive shape of each document."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The Optical Bench System:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The NIST team designed an optical reading system and was installed within the base encasement, underneath the platform. This system was designed to detect and report an influx of oxygen, moisture, or any other outside influence detrimental to the documents. The NIST team also installed a spectrometer to measure light exposure as well as chemicals or gases that may enter the enclosures."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The Encasement Environment:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Once the enclosure was assembled and the parchment pages were in placed, the enclosure underwent a purge of air. Using the installed valve system, the interior was filled with argon gas that was humidified and contained traces of helium and then sealed. As an inert gas, argon’s atoms are larger than that of helium, which inhibits diffusion. Humidity levels inside the encasement are about 40%, which prevent the documents from becoming too brittle."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Prototype Testing and Assembly:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The National Institute of Standards and Technology (NIST) had two testing encasements built for extensive evaluation of the design and the ability to analyze the integrity and overall performance of each component."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The experts at the National Archive set demanding performance requirements to ensure the enclosures met pressure protocols, leak rates, and can control certain levels of varying chemical compounds. With these stringent specifications in mind, the NIST designed and calibrated pressure sensors and specified components for the equipment systems and corresponding measuring apparatus to purge the encasement of air and fill with humidified argon gas."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "NIST researchers also developed a leak testing protocol to test and measure the overall integrity of the primary seal. These protocols and procedures were implemented so that the NARA staff can test the seal on a periodic basis. Prior to the placement of the Charters of Freedom, the encasements underwent a full system test to measure the seals performance, which far exceeded the intended design requirements."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Additional to the seal testing, the NIST also needed to determine the glass of the enclosure could withstand significant changes in atmospheric pressure. To conduct these tests, the prototypes were subjected to changes in pressure and other atmospheric conditions until the glass broke. Upon review, the NIST concluded that the pressure variances that caused the glass failure would be nearly impossible to reach naturally and could only fail due to gross negligence or significant human error."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Once these prototypes were fully tested, they were sent to the National Archives where final stages of testing took place and the Charters of Freedom were placed inside the enclosures."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Charters of Freedom – On Display"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The original founding documents of the United States; the Declaration of Independence, Constitution of the United States, and Bill of Rights can be found in their permanent home in the Rotunda for the Charters of Freedom. These three documents, known collectively as the Charters of Freedom, are instrumental to the founding and philosophy of the United States."
+                }
+              ]
+            },
+            {
+              "id": "picture-13",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/constitution-encasement-3W1A2696_0.jpg",
+              "alt": "",
+              "href": "",
+              "wrap": "none"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-14",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            },
+            {
+              "id": "picture-15",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/constitution-4-pages-3W1A7471.jpg",
+              "alt": "",
+              "href": "",
+              "wrap": "none"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/charters-of-freedom-project/",
+    "sourceHash": "d041897bbb7b560dbfd5080b7219b84dcfbdc0440f15d6a42f0d2469167f220e",
+    "converterVersion": "2",
+    "converterFamily": "unclassified",
+    "families": [
+      "unclassified"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/metal-alloy-technical-data-titanium-nickel-steel-specs/charters-of-freedom-project/ (private, noindex) beside https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/charters-of-freedom-project/. Check the grid (full, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

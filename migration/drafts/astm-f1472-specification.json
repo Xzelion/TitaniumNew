@@ -1,0 +1,155 @@
+{
+  "id": "astm-f1472-specification",
+  "path": "/astm-f1472-specification/",
+  "title": "ASTM F1472 | Standard Specification for Titanium 6Al-4V Grade 5 for Surgical Implant Applications (UNS R56400)",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASTM F1472 | Standard Specification for Titanium 6Al-4V Grade 5 for Surgical Implant Applications (UNS R56400)",
+    "description": "ASTM F1472 specification covers the requirements for wrought titanium 6Al-4V Grade 5 alloy for use in surgical implant applications.",
+    "canonical": "https://titanium.com/astm-f1472-specification/",
+    "ogTitle": "ASTM F1472 | Standard Specification for Titanium 6Al-4V Grade 5 for Surgical Implant Applications (UNS R56400)",
+    "ogDescription": "ASTM F1472 specification covers the requirements for wrought titanium 6Al-4V Grade 5 alloy for use in surgical implant applications.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASTM F1472 | Standard Specification for Wrought Titanium-6Aluminum-4Vanadium Alloy for Surgical Implant Applications (UNS R56400)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Specification: ASTM F1472"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM F1472 Scope: This specification covers the requirements for wrought titanium-6aluminum-4vanadium alloy for use in surgical implant applications. The material shall be manufactured by multiple melting in plasma arc and electron beam furnaces into strip, sheet, plate, bar, forging bar, or wire. The material shall be available in the annealed or cold-worked condition, with the surface mechanically descaled or pickled, sandblasted, chemically milled, ground, machined, peeled, polished, or a combination of these. Heat and product analyses as well as tension and bend (for sheet, strip, and plate) tests shall be performed and shall conform to the requirements specified. In addition, the material shall have a microstructure consisting of a fine dispersion of alpha and beta phases as a result of processing in the alpha plus beta field, with no continuous alpha network at prior beta grain boundaries and no coarse, elongated alpha platelets."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for ASTM specifications."
+                }
+              ]
+            },
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Discounted T.i. Products",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Titanium",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium 6Al-4V Grade 5 Round Bar](https://qqa.titanium.com/product/mill-product-titanium-round-bar)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/astm-f1472-specification/",
+    "sourceHash": "e593488ef31bc3f41bb8e028240994e9ffbe48a915ddb6d9ae9b08e9a2c70053",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/astm-f1472-specification/ (private, noindex) beside https://titanium.com/astm-f1472-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

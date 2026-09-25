@@ -1,0 +1,185 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Quality documents row</title><style>.ti-seo{display:none}</style></head><body><div class="ti-editor" data-readiness="layout_editing" data-dirty="false">
+    <style>
+    .ti-editor { font-family: Inter, Arial, sans-serif; color: #1f2937; display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 1rem; align-items: start; }
+    .ti-top, .ti-seo, .ti-board { grid-column: 1; }
+    .ti-drawer { grid-column: 2; grid-row: 1 / span 3; position: sticky; top: 1rem; background: #fff; border: 1px solid #cbd5e1; border-radius: 12px; padding: 1rem; }
+    .ti-kicker { text-transform: uppercase; letter-spacing: 0.08em; color: #003366; font-size: 0.75rem; font-weight: 700; margin: 0; }
+    .ti-top h1 { margin: 0.2rem 0; font-size: 1.6rem; }
+    .ti-safety, .ti-published-note, .ti-hint, .ti-measure, .ti-checked { color: #4b5563; }
+    .ti-save[data-dirty="true"] { background: #fff7ed; border: 1px solid #fdba74; }
+    .ti-save { background: #f0fdf4; border: 1px solid #86efac; padding: 0.6rem 0.8rem; border-radius: 8px; }
+    .ti-message { background: #fff7ed; border: 1px solid #fdba74; padding: 0.6rem 0.8rem; border-radius: 8px; }
+    .ti-ledger { background: #fff; border: 1px solid #cbd5e1; border-radius: 12px; padding: 0.8rem; margin: 0.8rem 0; }
+    .ti-ledger h2, .ti-board h2, .ti-seo h2, .ti-locked h2 { margin: 0 0 0.5rem; font-size: 1rem; }
+    .ti-ledger-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0.6rem; }
+    .ti-ledger-grid div { border: 1px solid #e2e8f0; border-radius: 8px; padding: 0.55rem; }
+    .ti-ledger-grid span { display: block; font-size: 0.72rem; font-weight: 800; letter-spacing: 0.04em; text-transform: uppercase; color: #003366; }
+    .ti-ledger-grid p, .ti-locked p { margin: 0.35rem 0 0; font-weight: 500; color: #374151; font-size: 0.85rem; }
+    .ti-readiness, .ti-board-head, .ti-row-tools, .ti-column-tools, .ti-add, .ti-drawer-actions, .ti-drawer-head, .ti-card-moves { display: flex; gap: 0.4rem; flex-wrap: wrap; align-items: center; }
+    .ti-readiness button[aria-pressed="true"] { background: #003366; color: #fff; }
+    .ti-seo, .ti-row-card, .ti-locked { background: #fff; border: 1px solid #94a3b8; border-radius: 12px; padding: 1rem; margin-top: 1rem; }
+    .ti-locked-card { border: 1px dashed #b45309; background: #fffbeb; border-radius: 10px; padding: 0.7rem; margin-top: 0.5rem; }
+    .ti-checks { list-style: none; padding: 0; display: grid; gap: 0.35rem; }
+    .ti-checks li[data-ok="false"] { color: #9a3412; }
+    .ti-checks li[data-ok="true"] { color: #166534; }
+    label { display: grid; gap: 0.25rem; font-size: 0.85rem; font-weight: 650; margin: 0.6rem 0; }
+    input, textarea, select, button { font: inherit; }
+    input, textarea, select { font-weight: 400; padding: 0.55rem 0.65rem; border: 1px solid #cbd5e1; border-radius: 8px; }
+    textarea { min-height: 5rem; }
+    button { background: #fff; border: 1px solid #cbd5e1; border-radius: 8px; padding: 0.45rem 0.7rem; cursor: pointer; }
+    button:hover, .ti-card:focus, .ti-drag:focus { border-color: #003366; }
+    .ti-preset-kicker { margin: 0.4rem 0; font-size: 0.8rem; font-weight: 700; color: #003366; }
+    .ti-preset-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(148px, 1fr)); gap: 0.45rem; }
+    .ti-preset { display: grid; gap: 0.35rem; text-align: left; min-height: 4.4rem; }
+    .ti-preset[aria-pressed="true"] { border-color: #003366; box-shadow: inset 0 0 0 2px #003366; }
+    .ti-bars { display: flex; gap: 3px; height: 14px; }
+    .ti-bars i { display: block; background: #003366; border-radius: 2px; }
+    .ti-columns { display: flex; gap: 0.75rem; align-items: stretch; }
+    .ti-column { background: #f8fafc; border: 1px dashed #64748b; border-radius: 10px; padding: 0.6rem; min-width: 0; }
+    .ti-column-label { font-size: 0.78rem; font-weight: 700; color: #003366; margin-bottom: 0.4rem; }
+    .ti-card-wrap { margin: 0.45rem 0; }
+    .ti-card-wrap[data-selected="true"] { outline: 2px solid #003366; border-radius: 10px; background: #eff6ff; }
+    .ti-card { display: grid; width: 100%; text-align: left; background: #fff; }
+    .ti-card[aria-pressed="true"] { border-color: #003366; }
+    .ti-drag { display: inline-block; font-size: 0.75rem; font-weight: 700; color: #003366; cursor: grab; padding: 0.15rem 0.35rem; }
+    .ti-thumb { width: 44px; height: 44px; object-fit: cover; border-radius: 4px; }
+    .ti-card-kicker { font-size: 0.7rem; font-weight: 800; letter-spacing: 0.06em; text-transform: uppercase; color: #003366; }
+    .ti-card-summary { font-weight: 500; color: #1f2937; }
+    .ti-empty-col { color: #64748b; font-size: 0.85rem; }
+    .ti-space { font-weight: 500; grid-auto-flow: column; align-items: center; }
+    @media (max-width: 900px) {
+      .ti-editor { grid-template-columns: 1fr; }
+      .ti-drawer { grid-column: 1; grid-row: auto; position: static; }
+      .ti-columns, .ti-ledger-grid { flex-direction: column; display: grid; grid-template-columns: 1fr; }
+    }
+    @media (max-width: 420px) {
+      .ti-editor { gap: 0.5rem; }
+      .ti-row-card, .ti-seo, .ti-locked, .ti-drawer { padding: 0.7rem; }
+      button { min-height: 2.5rem; }
+    }
+  </style>
+    <header class="ti-top">
+      <p class="ti-kicker">Layout workspace</p>
+      <h1>Quality System - Titanium Industries</h1>
+      <p class="ti-safety">You are editing a private draft. Saving does not change titanium.com.</p>
+      <p class="ti-save" data-dirty="false">This matches the opened copy. Save keeps a private draft and does not change titanium.com.</p>
+      <section class="ti-ledger" aria-label="Where this page stands">
+        <h2>Where this page stands</h2>
+        <div class="ti-ledger-grid">
+          <div><span>Layout editing</span><strong>Planned / awaiting integration</strong><p>Candidate draft only. Editable rows: lead-two-thirds | thirds | quality-split. Not saved on the hosted CMS.</p></div>
+          <div><span>Visual check</span><strong>Not yet verified</strong><p>A live HTML comparison in this candidate is not a hosted visual approval.</p></div>
+          <div><span>Published version</span><strong>No published version</strong><p>A published Payload record is not a converted page, and this snapshot is not a public release.</p></div>
+        </div>
+        <p class="ti-checked">Last checked: 2026-09-24T19:53:51.383Z</p>
+        <details class="ti-evidence"><summary>Technical evidence</summary><p>Converter 2. Family quality-split. Source hash b3a34f26c059baa44e5281d768580a69f72a682068e91747469d5cb6d7ba8701.</p></details>
+      </section>
+      <div class="ti-readiness" role="group" aria-label="Local snapshot steps">
+        <button type="button" data-action="set-readiness" data-readiness="layout_editing" aria-pressed="true">Layout editing</button>
+        <button type="button" data-action="set-readiness" data-readiness="visual_check" aria-pressed="false">Visual check</button>
+        <button type="button" data-action="set-readiness" data-readiness="published" aria-pressed="false">Published version</button>
+      </div>
+      <p class="ti-published-note">Published version: none yet. The public website is unchanged. These buttons record a private snapshot. They do not mark the page ready on the hosted CMS.</p>
+      
+    </header>
+    <section class="ti-seo" aria-label="Search and sharing">
+    <h2>Search and sharing</h2>
+    <ul class="ti-checks"><li data-check="title" data-ok="true"><strong>Page title in Google</strong> 36 characters. Fine for Google.</li><li data-check="description" data-ok="false"><strong>Short description</strong> 171 characters. Aim for 50–160.</li><li data-check="canonical" data-ok="true"><strong>Preferred web address</strong> https://titanium.com/quality-systems/</li><li data-check="ogTitle" data-ok="true"><strong>Social share title</strong> Quality System - Titanium Industries</li><li data-check="ogDescription" data-ok="true"><strong>Social share description</strong> Filled in.</li><li data-check="ogImage" data-ok="false"><strong>Social share image</strong> Add a picture address for social shares.</li></ul>
+    <label>Page title in Google<input data-scope="seo" data-field="title" value="Quality System - Titanium Industries" /></label>
+    <label>Short description<textarea data-scope="seo" data-field="description">T.I.’s Industry Leading Quality System delivers guaranteed reliability with a full range of internationally accredited regulatory, OEM and subcontractor quality approvals.</textarea></label>
+    <label>Preferred web address<input data-scope="seo" data-field="canonical" value="https://titanium.com/quality-systems/" /></label>
+    <label>Social share title<input data-scope="seo" data-field="ogTitle" value="Quality System - Titanium Industries" /></label>
+    <label>Social share description<textarea data-scope="seo" data-field="ogDescription">T.I.’s Industry Leading Quality System delivers guaranteed reliability with a full range of internationally accredited regulatory, OEM and subcontractor quality approvals.</textarea></label>
+    <label>Social share image<input data-scope="seo" data-field="ogImage" value="" /></label>
+  </section>
+    <section class="ti-board" aria-label="Rows and columns">
+      <div class="ti-board-head">
+        <h2>Rows and columns</h2>
+        <button type="button" data-action="add-row">Add a row</button>
+      </div>
+      <p class="ti-hint">Drag a card onto a column to move it. Up and Down on a card reorder it inside the column.</p>
+      <article class="ti-row-card" data-row="row-11" data-preset="quality-split">
+    <div class="ti-row-tools">
+      <button type="button" data-action="move-row" data-row="row-11" data-direction="-1">Move row up</button>
+      <button type="button" data-action="move-row" data-row="row-11" data-direction="1">Move row down</button>
+      <button type="button" data-action="duplicate-row" data-row="row-11">Duplicate row</button>
+      <button type="button" data-action="remove-row" data-row="row-11">Remove row</button>
+      
+      <label class="ti-space"><input type="checkbox" data-action="space-above" data-row="row-11" checked /> Extra space above this row</label>
+    </div>
+    <div class="ti-presets" aria-label="Column widths">
+    <p class="ti-preset-kicker">Choose a layout</p>
+    <div class="ti-preset-grid"><button type="button" class="ti-preset" data-action="set-preset" data-row="row-11" data-preset="full" aria-pressed="false"><span class="ti-bars" aria-hidden="true"><i style="flex:1"></i></span><span>Full width</span></button><button type="button" class="ti-preset" data-action="set-preset" data-row="row-11" data-preset="halves" aria-pressed="false"><span class="ti-bars" aria-hidden="true"><i style="flex:1"></i><i style="flex:1"></i></span><span>Two equal columns</span></button><button type="button" class="ti-preset" data-action="set-preset" data-row="row-11" data-preset="thirds" aria-pressed="false"><span class="ti-bars" aria-hidden="true"><i style="flex:1"></i><i style="flex:1"></i><i style="flex:1"></i></span><span>Three equal columns</span></button><button type="button" class="ti-preset" data-action="set-preset" data-row="row-11" data-preset="two-one" aria-pressed="false"><span class="ti-bars" aria-hidden="true"><i style="flex:2"></i><i style="flex:1"></i></span><span>Wide left / narrow right</span></button><button type="button" class="ti-preset" data-action="set-preset" data-row="row-11" data-preset="one-two" aria-pressed="false"><span class="ti-bars" aria-hidden="true"><i style="flex:1"></i><i style="flex:2"></i></span><span>Narrow left / wide right</span></button></div>
+    <details class="ti-measured" open><summary>Measured layouts from the live site</summary><div class="ti-preset-grid"><button type="button" class="ti-preset" data-action="set-preset" data-row="row-11" data-preset="quality-split" aria-pressed="true"><span class="ti-bars" aria-hidden="true"><i style="flex:2"></i><i style="flex:3"></i></span><span>Quality: narrow left / wide right</span></button><button type="button" class="ti-preset" data-action="set-preset" data-row="row-11" data-preset="three-one" aria-pressed="false"><span class="ti-bars" aria-hidden="true"><i style="flex:3"></i><i style="flex:1"></i></span><span>Wide story, slim side</span></button><button type="button" class="ti-preset" data-action="set-preset" data-row="row-11" data-preset="one-three" aria-pressed="false"><span class="ti-bars" aria-hidden="true"><i style="flex:1"></i><i style="flex:3"></i></span><span>Slim left / wide right (quarters)</span></button><button type="button" class="ti-preset" data-action="set-preset" data-row="row-11" data-preset="waterjet-split" aria-pressed="false"><span class="ti-bars" aria-hidden="true"><i style="flex:55"></i><i style="flex:40"></i></span><span>Picture beside the words</span></button><button type="button" class="ti-preset" data-action="set-preset" data-row="row-11" data-preset="float-wrap" aria-pressed="false"><span class="ti-bars" aria-hidden="true"><i style="flex:1"></i></span><span>Words wrap around pictures</span></button><button type="button" class="ti-preset" data-action="set-preset" data-row="row-11" data-preset="lead-two-thirds" aria-pressed="false"><span class="ti-bars" aria-hidden="true"><i style="flex:2"></i></span><span>Heading, two thirds wide</span></button><button type="button" class="ti-preset" data-action="set-preset" data-row="row-11" data-preset="lead-two-fifths" aria-pressed="false"><span class="ti-bars" aria-hidden="true"><i style="flex:2"></i></span><span>Heading, two fifths wide</span></button><button type="button" class="ti-preset" data-action="set-preset" data-row="row-11" data-preset="lead-three-fifths" aria-pressed="false"><span class="ti-bars" aria-hidden="true"><i style="flex:3"></i></span><span>Heading, three fifths wide</span></button><button type="button" class="ti-preset" data-action="set-preset" data-row="row-11" data-preset="lead-three-quarters" aria-pressed="false"><span class="ti-bars" aria-hidden="true"><i style="flex:3"></i></span><span>Heading, three quarters wide</span></button><button type="button" class="ti-preset" data-action="set-preset" data-row="row-11" data-preset="lead-four-fifths" aria-pressed="false"><span class="ti-bars" aria-hidden="true"><i style="flex:4"></i></span><span>Heading, four fifths wide</span></button><button type="button" class="ti-preset" data-action="set-preset" data-row="row-11" data-preset="wide-fifths" aria-pressed="false"><span class="ti-bars" aria-hidden="true"><i style="flex:3"></i><i style="flex:2"></i></span><span>Wide left / slim right (fifths)</span></button><button type="button" class="ti-preset" data-action="set-preset" data-row="row-11" data-preset="half-quarters" aria-pressed="false"><span class="ti-bars" aria-hidden="true"><i style="flex:2"></i><i style="flex:1"></i><i style="flex:1"></i></span><span>Half plus two quarters</span></button><button type="button" class="ti-preset" data-action="set-preset" data-row="row-11" data-preset="quarters" aria-pressed="false"><span class="ti-bars" aria-hidden="true"><i style="flex:1"></i><i style="flex:1"></i><i style="flex:1"></i><i style="flex:1"></i></span><span>Four quarters</span></button><button type="button" class="ti-preset" data-action="set-preset" data-row="row-11" data-preset="quarter-trio" aria-pressed="false"><span class="ti-bars" aria-hidden="true"><i style="flex:1"></i><i style="flex:1"></i><i style="flex:1"></i></span><span>Three quarter-width cards</span></button><button type="button" class="ti-preset" data-action="set-preset" data-row="row-11" data-preset="fifths" aria-pressed="false"><span class="ti-bars" aria-hidden="true"><i style="flex:1"></i><i style="flex:1"></i><i style="flex:1"></i><i style="flex:1"></i><i style="flex:1"></i></span><span>Five fifths</span></button><button type="button" class="ti-preset" data-action="set-preset" data-row="row-11" data-preset="sixths" aria-pressed="false"><span class="ti-bars" aria-hidden="true"><i style="flex:1"></i><i style="flex:1"></i><i style="flex:1"></i><i style="flex:1"></i><i style="flex:1"></i><i style="flex:1"></i></span><span>Six sixths</span></button><button type="button" class="ti-preset" data-action="set-preset" data-row="row-11" data-preset="near-halves" aria-pressed="false"><span class="ti-bars" aria-hidden="true"><i style="flex:1"></i><i style="flex:1"></i></span><span>Two near halves</span></button><button type="button" class="ti-preset" data-action="set-preset" data-row="row-11" data-preset="custom" aria-pressed="false"><span class="ti-bars" aria-hidden="true"><i style="flex:1"></i><i style="flex:2"></i><i style="flex:1"></i></span><span>Custom column widths</span></button></div></details>
+  </div>
+    
+    <div class="ti-columns"><div class="ti-column" style="flex:36.4" data-row="row-11" data-column="column-12">
+        <div class="ti-column-label">List column</div>
+        <div class="ti-column-tools">
+          <button type="button" data-action="move-column" data-row="row-11" data-column="column-12" data-direction="-1">Move left</button>
+          <button type="button" data-action="move-column" data-row="row-11" data-column="column-12" data-direction="1">Move right</button>
+          
+        </div>
+        <div class="ti-cards"><div class="ti-card-wrap" data-selected="false">
+    <span class="ti-drag" draggable="true" data-drag-row="row-11" data-drag-column="column-12" data-drag-item="text-14">Drag</span>
+    <button type="button" class="ti-card" data-action="select-item" data-row="row-11" data-column="column-12" data-item="text-14" data-kind="text" aria-pressed="false">
+      
+      <span class="ti-card-kicker">Text</span>
+      <span class="ti-card-summary">Titanium Industries’ Quality Systems Quality Approvals [AS9100D with ISO 9001:2015](https://titanium.com/wp-content/uploads/2026/07/AS9100-ISO-Cert-Expiring-4-6-2029.pdf) [AS9120 Transfer Letter 2024](https://titanium.com/wp-content/uploads/2024/03/Titanium-Industries-AS9120-Special-Transfer-Letter-Feb-2024.docx) [AS9120B with ISO 9001:2015 | Rockaway, NJ, UK &amp; Europe](https://titanium.com/wp-content/uploads/2025/07/71172467-271712-titanium-industries-as9120-certificate-rev-2-mar-2025.pdf) [AS9100D with ISO 9001: 2015 | Taiwan](https://titanium.com/wp-content/uploads/2025/12/322413231213-31261323122025-titanium-industries-asia-inc.-taiwan-branch-certificate-267741-rc-2026.pdf) [AS9100D China](https://titanium.com/wp-content/uploads/2025/07/42329477-certif-EN.pdf) [ISO 9001 China](https://titanium.com/wp-content/uploads/2024/01/42329477-certif-ISO.pdf) [Gulfstream Aerospace Approved](https://titanium.com/wp-content/uploads/2018/12/Gulfstream.pdf) Pratt &amp; Whitney Laboratory Control at Source (LCS) Defense Logistics Agency Approved (DLA) NACE &amp; NORSOK Approved Supporting a full range of OEM Approvals and Accreditation’s Policy Statements Health and Safety Statement [Quality Assurance Statement](https://titanium.com/wp-content/uploads/2019/06/QA105-Rev.-1-Quality-Statement.pdf) [Conflict Minerals Statement](https://titanium.com/wp-content/uploads/2023/01/Conflict-Minerals-Statement.pdf) [CMRT Conflict Compliance](https://titanium.com/wp-content/uploads/2026/05/RMI-CMRT-6.6-May-72026.xlsx) [REACH (SVHC)](https://titanium.com/wp-content/uploads/2023/08/REACH-7-1-2023.pdf) [RoHS3](https://titanium.com/wp-content/uploads/2023/01/TI-RoHS-3-Statement.pdf) [Prop 65](https://titanium.com/wp-content/uploads/2023/01/Prop-65.pdf) [Raw Material Quality Clause Requirements (QA #285)](https://titanium.com/wp-content/uploads/2022/06/QA285-Rev.7-Raw-Material-Quality-Requirements.pdf) [DFARS Clauses](https://www.acquisition.gov/dfars/part-252-solicitation-provisions-and-contract-clauses) Safety Data Sheets [SDS CP Titanium-English Version](https://titanium.com/wp-content/uploads/2021/10/SDS-CP-Titanium.doc) [SDS CP Titanium-French Version](https://titanium.com/wp-content/uploads/2019/06/SDS-CP-Titanium-French-Version-20-06-2019.pdf) [SDS Titanium Alloys-English Version](https://titanium.com/wp-content/uploads/2021/10/SDS-Titanium-Alloys.doc) [SDS Titanium Alloys-French Version](https://titanium.com/wp-content/uploads/2019/06/SDS-Titanium-Alloys-French-Version-20-06-2019.pdf)</span>
+    </button>
+    <div class="ti-card-moves">
+      <button type="button" data-action="move-item" data-row="row-11" data-column="column-12" data-item="text-14" data-direction="-1">Up</button>
+      <button type="button" data-action="move-item" data-row="row-11" data-column="column-12" data-item="text-14" data-direction="1">Down</button>
+      <button type="button" data-action="move-item-column" data-row="row-11" data-column="column-12" data-item="text-14" data-target="column-13">Move to Story column</button>
+      <button type="button" data-action="duplicate-item" data-row="row-11" data-column="column-12" data-item="text-14">Duplicate</button>
+    </div>
+  </div></div>
+        <div class="ti-add">
+          <button type="button" data-action="add-text" data-row="row-11" data-column="column-12">Add text</button>
+          <button type="button" data-action="add-picture" data-row="row-11" data-column="column-12">Add picture</button>
+          <button type="button" data-action="add-button" data-row="row-11" data-column="column-12">Add button</button>
+        </div>
+      </div><div class="ti-column" style="flex:57.599999999999994" data-row="row-11" data-column="column-13">
+        <div class="ti-column-label">Story column</div>
+        <div class="ti-column-tools">
+          <button type="button" data-action="move-column" data-row="row-11" data-column="column-13" data-direction="-1">Move left</button>
+          <button type="button" data-action="move-column" data-row="row-11" data-column="column-13" data-direction="1">Move right</button>
+          
+        </div>
+        <div class="ti-cards"><div class="ti-card-wrap" data-selected="false">
+    <span class="ti-drag" draggable="true" data-drag-row="row-11" data-drag-column="column-13" data-drag-item="text-15">Drag</span>
+    <button type="button" class="ti-card" data-action="select-item" data-row="row-11" data-column="column-13" data-item="text-15" data-kind="text" aria-pressed="false">
+      
+      <span class="ti-card-kicker">Text</span>
+      <span class="ti-card-summary">T.I.’s Industry Leading Quality System delivers guaranteed reliability with a full range of internationally accredited regulatory, OEM and subcontractor quality approvals. At Titanium Industries (T.I.), our customers demand the most sophisticated quality systems and T.I. performs. That is why we are recognized globally for our world class quality. Our full range of internationally accredited regulatory and OEM/sub-tier quality approvals proves that quality is paramount at T.I. Our experienced staff, state of the art ERP system, training policy, internal/external audit programs, and continuous improvement and preventive action systems guarantee that your product meets the highest quality standards every time. T.I. has maintained third party registration AS9100 and ISO 9001 since March 2016. Presently TI’s quality system is registered to AS9100 Rev D and ISO 9001-2015. We offer 100% positive material identification services to our customers. With highly qualified dedicated personnel at all global locations and products 100% traceable to an approved melt source, T.I. provides immediate quality and technical support to our Aerospace, Medical, Industrial, and Oil &amp; Gas customer needs, 24/7, worldwide. T.I. provides on-going training for all personnel to ensure every level of the organization understands, implements, and is compliant with all quality procedures and customer requirements.</span>
+    </button>
+    <div class="ti-card-moves">
+      <button type="button" data-action="move-item" data-row="row-11" data-column="column-13" data-item="text-15" data-direction="-1">Up</button>
+      <button type="button" data-action="move-item" data-row="row-11" data-column="column-13" data-item="text-15" data-direction="1">Down</button>
+      <button type="button" data-action="move-item-column" data-row="row-11" data-column="column-13" data-item="text-15" data-target="column-12">Move to List column</button>
+      <button type="button" data-action="duplicate-item" data-row="row-11" data-column="column-13" data-item="text-15">Duplicate</button>
+    </div>
+  </div><div class="ti-card-wrap" data-selected="false">
+    <span class="ti-drag" draggable="true" data-drag-row="row-11" data-drag-column="column-13" data-drag-item="button-16">Drag</span>
+    <button type="button" class="ti-card" data-action="select-item" data-row="row-11" data-column="column-13" data-item="button-16" data-kind="button" aria-pressed="false">
+      
+      <span class="ti-card-kicker">Button</span>
+      <span class="ti-card-summary">Customer Satisfaction Survey</span>
+    </button>
+    <div class="ti-card-moves">
+      <button type="button" data-action="move-item" data-row="row-11" data-column="column-13" data-item="button-16" data-direction="-1">Up</button>
+      <button type="button" data-action="move-item" data-row="row-11" data-column="column-13" data-item="button-16" data-direction="1">Down</button>
+      <button type="button" data-action="move-item-column" data-row="row-11" data-column="column-13" data-item="button-16" data-target="column-12">Move to List column</button>
+      <button type="button" data-action="duplicate-item" data-row="row-11" data-column="column-13" data-item="button-16">Duplicate</button>
+    </div>
+  </div></div>
+        <div class="ti-add">
+          <button type="button" data-action="add-text" data-row="row-11" data-column="column-13">Add text</button>
+          <button type="button" data-action="add-picture" data-row="row-11" data-column="column-13">Add picture</button>
+          <button type="button" data-action="add-button" data-row="row-11" data-column="column-13">Add button</button>
+        </div>
+      </div></div>
+  </article>
+      <section class="ti-locked" data-locked="false"><h2>Locked sections</h2><p>Nothing on this page is locked. Every row above can be edited.</p></section>
+    </section>
+    <aside class="ti-drawer" data-open="false" aria-label="Edit the selected card"><h2>Edit a card</h2><p>Click a text, picture, or button card. Only that card's fields open here.</p></aside>
+  </div></body></html>

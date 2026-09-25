@@ -1,0 +1,402 @@
+{
+  "id": "alloys--titanium-and-titanium-alloys--ti-grade-7",
+  "path": "/alloys/titanium-and-titanium-alloys/ti-grade-7/",
+  "title": "Discover Best Titanium Grade 7 0.15Pd Alloy | UNS R52400 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Discover Best Titanium Grade 7 0.15Pd Alloy | UNS R52400 | Titanium Industries",
+    "description": "Titanium Grade 7 is mechanically and physically equivalent to Titanium Grade 2, with the exception of additional interstitial palladium.",
+    "canonical": "https://titanium.com/alloys/titanium-and-titanium-alloys/ti-grade-7/",
+    "ogTitle": "Discover Best Titanium Grade 7 0.15Pd Alloy | UNS R52400 | Titanium Industries",
+    "ogDescription": "Titanium Grade 7 is mechanically and physically equivalent to Titanium Grade 2, with the exception of additional interstitial palladium.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Titanium Grade 7 0.15Pd | UNS R52400"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade 7 is mechanically and physically equivalent to Titanium Grade 2, with the exception of additional interstitial palladium which makes this material alloy. Grade 7 demonstrates excellent weldability, fabricability, and is the most corrosion resistance of all titanium alloys. Because of these traits, this material is often used in chemical production processes and applications within the production equipment."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Industries’ offers a wide range of products and services."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Round Bar](https://qqa.titanium.com/product/mill-product-titanium-round-bar) | [Titanium Plate](https://qqa.titanium.com/product/mill-product-titanium-plate) | [Titanium Sheet](https://qqa.titanium.com/product/mill-product-titanium-sheet)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Titanium Grade 7 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Anode, cathode, and cell components"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical processing equipment"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Air pollution control equipment"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Pulp and paper bleaching, washing equipment"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Hydrometallurgical extraction and electrowinning"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Desalination, brine concentration and evaporation"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 0.3%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "O 0.25%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Pd 0.12 – 0.25%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.08%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N 0.03%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "H 0.015%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Other, total 0.4%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti Remainder"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-19",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU-in/hr-ft²-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat (BTU/lb-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (1/°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.162"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "12.6"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-22",
+      "preset": "lead-three-quarters",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-23",
+          "items": [
+            {
+              "id": "text-24",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2 Offset"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "50.763"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (R"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "m"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "70.343"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (AL=5 x Ø)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "28.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Hardness (HV)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "150"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): 14938"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: –"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/titanium-and-titanium-alloys/ti-grade-7/",
+    "sourceHash": "7ab19b0a3acbfb55b043e58f858a771131508bb286eeb15666c7c6a6b2478533",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/titanium-and-titanium-alloys/ti-grade-7/ (private, noindex) beside https://titanium.com/alloys/titanium-and-titanium-alloys/ti-grade-7/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-quarters, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

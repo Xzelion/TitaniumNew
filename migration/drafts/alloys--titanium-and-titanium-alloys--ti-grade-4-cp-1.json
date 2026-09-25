@@ -1,0 +1,424 @@
+{
+  "id": "alloys--titanium-and-titanium-alloys--ti-grade-4-cp-1",
+  "path": "/alloys/titanium-and-titanium-alloys/ti-grade-4-cp-1/",
+  "title": "Titanium Grade 4 CP 1| Grade 4 Round Bar, Plate, Sheet | UNS# R50700",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Titanium Grade 4 CP 1| Grade 4 Round Bar, Plate, Sheet | UNS# R50700",
+    "description": "Titanium Grade 4 CP 1 offered at Titanium Industries. Titanium Grade 4 Round Bar, Grade 4 Plate, Sheet and other Products on Request.",
+    "canonical": "https://titanium.com/alloys/titanium-and-titanium-alloys/ti-grade-4-cp-1/",
+    "ogTitle": "Titanium Grade 4 CP 1| Grade 4 Round Bar, Plate, Sheet | UNS# R50700",
+    "ogDescription": "Titanium Grade 4 CP 1 offered at Titanium Industries. Titanium Grade 4 Round Bar, Grade 4 Plate, Sheet and other Products on Request.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Titanium Grade 4 CP 1 | UNS #R50700"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade 4 CP 1 | UNS #R50700 is the strongest of the 4 commercially pure grades of Titanium. This grade is also recognized for superb corrosion resistance properties, good weldability, and excellent formability. Titanium Grade 4 has high oxygen and extra high strength properties and can be found primarily used in chemical processing, marine, and airframe applications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grade 4 CP 1 Round Bar](https://qqa.titanium.com/product/mill-product-titanium-round-bar) Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 4921](https://titanium.com/ams-4921-specification/) , [ASTM B348](https://titanium.com/astm-b348-specification/) , [ASTM F67 Gr 4](https://titanium.com/astm-f67-specification/) , [AMS-T-9047 Gr 4](https://titanium.com/ams-t-9047-specification/) , EN 10204 3.1"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grade 4 CP 1 Plate](https://qqa.titanium.com/product/mill-product-titanium-plate) Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 4901](https://titanium.com/ams-4901-specification/) , [ASTM B265 Gr4](https://titanium.com/astm-b265-specification/) , [ASTM F67](https://titanium.com/astm-f67-specification/) , [MIL-T-9046 CP1](https://titanium.com/ams-t-9046-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grade 4 CP 1 Sheet](https://qqa.titanium.com/product/mill-product-titanium-sheet) Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 4901](https://titanium.com/ams-4901-specification/) , [AMS-T-9046 CP 1](https://titanium.com/ams-t-9046-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM B265 Gr 4](https://titanium.com/astm-b265-specification/) , [ASTM F67](https://titanium.com/astm-f67-specification/) , EN 10204.3.1"
+                }
+              ]
+            },
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Shop Discounted Products",
+              "href": "https://qqa.titanium.com/customer/discounted-products",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade 4 CP 1 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Airframe Components"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aerospace"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cryogenic Applications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Processing"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Heat Exchangers and Surface Condensers"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Surgical and Other Medical Applications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tubing"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-17",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-18",
+          "items": [
+            {
+              "id": "text-19",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "H"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "O 0.40%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti 98.635%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Other"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-20",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-21",
+          "items": [
+            {
+              "id": "text-22",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU-in/hr-ft²-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat (BTU/lb-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (1/°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.163"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.87"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "119"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.127"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.00000478"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "3020"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-23",
+      "preset": "lead-three-quarters",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-24",
+          "items": [
+            {
+              "id": "text-25",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2 Offset"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "70"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (R"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "m"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "80"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (AL=5 x Ø)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "15.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "29.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Brinell Hardness (H)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "200"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "265"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): 15200"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: 40%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/titanium-and-titanium-alloys/ti-grade-4-cp-1/",
+    "sourceHash": "159082d92805749afe86548ba047a38a5f6b73bb02ea61c3175f6aa78e297682",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/titanium-and-titanium-alloys/ti-grade-4-cp-1/ (private, noindex) beside https://titanium.com/alloys/titanium-and-titanium-alloys/ti-grade-4-cp-1/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-quarters, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

@@ -1,0 +1,288 @@
+{
+  "id": "ams-s-5626-specification",
+  "path": "/ams-s-5626-specification/",
+  "title": "AMS-S-5626 | Steel: Chrome-Molybdenum Bars, Rods, and Forging Stock",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS-S-5626 | Steel: Chrome-Molybdenum Bars, Rods, and Forging Stock",
+    "description": "Please find the chemical and mechanical properties for AMS-S-5626. Alloy Steel AISI 4140 Round Bar available at Titanium Industries.",
+    "canonical": "https://titanium.com/ams-s-5626-specification/",
+    "ogTitle": "AMS-S-5626 | Steel: Chrome-Molybdenum Bars, Rods, and Forging Stock",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS-S-5626. Alloy Steel AISI 4140 Round Bar available at Titanium Industries.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS-S-5626 | Steel: Chrome-Molybdenum Bars, Rods, and Forging Stock (For Aircraft Applications)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS-S-5626"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel Grade: AISI 4140"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product Forms: Steel, Chrome-Molybdenum (4140) Bars, Rods, and Forging Stock (For Aircraft Applications)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Physical conditions: Bars and rods shall be furnished in one of the following physical conditions:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "As forged"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "As rolled"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Annealed"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Normalized"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Normalized and tempered"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Quenched and tempered"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Surface conditions: Bars and rods shall be furnished in one of the following surface conditions:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Black, as forged or rolled"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Pickled or blast cleaned"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Rough turned"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cold finished"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Turned, ground, and polished"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Alloy Steel AISI 4140 Round Bar](https://titanium.com/shop/products/mill-products-alloy-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 97.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 1.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 0.90%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.40%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 0.25%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 0.20%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.05%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P 0.04%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength: 95 – 107.3 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength: 60.2 – 95 ksi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation: 17.7 – 25.7%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile properties and associated requirements vary due to orientation, section thickness, and engineering requirements."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Typical Applications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Conveyors"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Food Processing"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Heat Exchangers"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Surface Condensers"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cross Reference Specifications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2301](https://titanium.com/ams-2301-specification/) , [AMS 6382](https://titanium.com/ams-6382-specification/) , [AMS 6349](https://titanium.com/ams-6349-specification/)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-s-5626-specification/",
+    "sourceHash": "4f8793e226dba955d0942e032fb7ef2558907e4d7cd355bac56ba386a5ecc01b",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-s-5626-specification/ (private, noindex) beside https://titanium.com/ams-s-5626-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

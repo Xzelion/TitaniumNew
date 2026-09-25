@@ -1,0 +1,172 @@
+{
+  "id": "titanium-about-us--history-of-titanium-industries",
+  "path": "/titanium-about-us/history-of-titanium-industries/",
+  "title": "Discover the History of Titanium Industries | About Us | #1 Top Global Leader in Specialty Metals Distribution",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Discover the History of Titanium Industries | About Us | #1 Top Global Leader in Specialty Metals Distribution",
+    "description": "Titanium Industries Inc. (T.I.), founded in 1972 at the forefront of the commercialization and industrialization of titanium and its alloys.",
+    "canonical": "https://titanium.com/titanium-about-us/history-of-titanium-industries/",
+    "ogTitle": "Discover the History of Titanium Industries | About Us | #1 Top Global Leader in Specialty Metals Distribution",
+    "ogDescription": "Titanium Industries Inc. (T.I.), founded in 1972 at the forefront of the commercialization and industrialization of titanium and its alloys.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "History of Titanium Industries (T.I.)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://qqa.titanium.com/product",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "full",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-13",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Industries Inc. (T.I.) was founded in 1972 at the forefront of the commercialization and industrialization of titanium and its alloys. This new metal was unique, advantageous, and demonstrated high-performance characteristics unheard of in the metals industry. The initial stand-alone business unit originated from an application development center, whose focus was creating awareness and identifying commercial applications for this new metal family."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Jim Paddock was an experienced metals distribution executive and joined T.I. as a VP in the mid 80’s and soon became the President and CEO."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "In 1984, under Jim’s leadership, Titanium Industries collaborated with a handful of other companies in the new industry to create the Titanium Development Association (TDA), which later became the International Titanium Association (ITA). The ITA seeks to educate engineers, designers and business executives on titanium’s superior properties and explain how those properties can be utilized to enhance products and services."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "In 1988, Titanium Industries was purchased by an engineering company whose primary business activities were supporting the industrial pulp and paper market. The pulp and paper industry was one of the early adapters of titanium; benefiting from the special combination of corrosion resistant, strength, and lightweight properties."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "In 1994, as demand steadily increased, Jim Paddock identified a market opportunity for short lead-time, break bulk distribution of titanium mill products and purchased the company in partnership with an Oregon based metals company. As owner, Jim implemented his international titanium distribution strategy and T.I. became one of the first global titanium distribution companies with fabrication and wire manufacturing capabilities."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Five years later, in 1999, a leading US public titanium mill producer purchased the Oregon based Metals company, becoming a partner with Jim. The partnership lasted until 2001 when Jim Paddock, now Chairman, and his son, Brett Paddock, CEO acquired the US distribution business from the US titanium mill and T.I. became a privately held and operated multi-site North American distribution company. From 2004 through 2007 Titanium Industries re-opened in Europe and then in Asia, re-establishing a global network of service centers with inventory and first stage processing capabilities (cutting services)."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "In 2017 and in recognition for his vision in establishing a global titanium distribution model, the International Titanium Association honored Jim Paddock with a Lifetime Achievement Award."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "“It’s a tremendous honor to have been chosen for this award,” Paddock said. “The titanium industry has certainly provided a challenging and rewarding career for me, and I’m honored to have worked with so many talented and dedicated people during my time in the industry.”"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "One nomination reads as follows: “Through his innovation and foresight, Jim Paddock pioneered titanium distribution and significantly impacted the development of the overall titanium industry. Jim was “relentlessly focused” on quality and material traceability. Jim believed there was a need for a global sales force to promote and educate companies on the advantages of titanium and understood that small businesses and startups could not afford the risk and cost of holding inventory while growing their businesses but also needed material quickly and economically. For these reasons, Jim implemented the concept of having multiple global facilities, inventory, and expertise in close proximity to the global customer base; a new concept to the titanium industry, which allowed these emerging markets and customers much greater access to their specific titanium product needs.”"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Throughout its history, Titanium Industries has facilitated the use of titanium mill products and has actively supported customers in an expanding range of market segments; including the Industrial, Oil & Gas, Medical, Aerospace, Defense, and consumer markets."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "As manufacturing in these markets has developed, along with the proliferation of technical applications, and production moving around the globe, Titanium Industries has followed with world class customer service, resilient JIT supply chain solutions, and an industry leading quality system."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Through the leadership of Jim Paddock and Brett Paddock, Titanium Industries has steadily evolved over the past fifty years by responding and meeting customer needs and exceeding customer expectations."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Today, T.I. continues to do the right things to further develop value as a key supplier and to sustain the service level for today’s customers and business track record for today’s stakeholders"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "“Titanium Industries, focused on the next fifty years and beyond.”"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/titanium-about-us/history-of-titanium-industries/",
+    "sourceHash": "21b17a8abdd01bcfbbe90275094257806fabd030ea70108c4f7595e2919f0105",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:26:53.127Z",
+    "grid": "full | thirds | full",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/titanium-about-us/history-of-titanium-industries/ (private, noindex) beside https://titanium.com/titanium-about-us/history-of-titanium-industries/. Check the grid (full, thirds, full), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

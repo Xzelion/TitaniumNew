@@ -1,0 +1,220 @@
+{
+  "id": "asme-sb861-specification",
+  "path": "/asme-sb861-specification/",
+  "title": "ASME SB-861 | Quality Standard Specification for Titanium and Titanium Alloy Seamless Pipe",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASME SB-861 | Quality Standard Specification for Titanium and Titanium Alloy Seamless Pipe",
+    "description": "ASME SB-861 | Standard Specification for Titanium and Titanium Alloy Seamless Pipe",
+    "canonical": "https://titanium.com/asme-sb861-specification/",
+    "ogTitle": "ASME SB-861 | Quality Standard Specification for Titanium and Titanium Alloy Seamless Pipe",
+    "ogDescription": "ASME SB-861 | Standard Specification for Titanium and Titanium Alloy Seamless Pipe",
+    "ogImage": "https://titanium.com/s/img/s/img/s/img/s/img/s/img/wp-content/uploads/2023/07/Instagram-300x300.png.webp"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASME SB-861 | Standard Specification for Titanium and Titanium Alloy Seamless Pipe"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "ASME SB-861"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "ASME SB-861 | Standard Specification for Titanium and Titanium Alloy Seamless Pipe"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASME SB-861 is almost identical to ASTM B861 except for an editorial revision to paragraph 4.1.10. This specification covers all grades of Titanium and Titanium alloys and is also the standard specification for Titanium and Titanium seamless pipe. These products are intended for general corrosion resisting and elevated temperature service."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The ASME SB-861 (ASTM B861) specifications includes reference documents, terminology, ordering information, manufacture, chemical requirements, dimensions of pipe, tensile requirements, tolerances and variations, surface finish, inspection and tests, packing and certification."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Relevant Products:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium Grade 2 Seamless Pipe](https://titanium.com/shop/products/mill-products-titanium-seamless-pipe)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Follow us on Social Media:"
+                }
+              ]
+            },
+            {
+              "id": "picture-19",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
+              "alt": "Titanium Industries | Instagram",
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-20",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
+              "alt": "Titanium Industries | LinkedIn",
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-21",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
+              "alt": "Titanium Industries | Twitter",
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-22",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
+              "alt": "Titanium Industries | Facebook",
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-23",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
+              "alt": "Titanium Industries | Youtube",
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/asme-sb861-specification/",
+    "sourceHash": "4688518ab37b35421fe92976825c7c0fab9daf21e07dd5c7a4f5c4ee98a348bd",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | full",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/asme-sb861-specification/ (private, noindex) beside https://titanium.com/asme-sb861-specification/. Check the grid (full, thirds, two-one, full), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

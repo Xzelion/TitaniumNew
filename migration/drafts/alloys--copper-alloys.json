@@ -1,0 +1,254 @@
+{
+  "id": "alloys--copper-alloys",
+  "path": "/alloys/copper-alloys/",
+  "title": "Industrial Grade Copper Alloys | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Industrial Grade Copper Alloys | Titanium Industries",
+    "description": "With Commitment to Reliability, Titanium Industries, Inc. offers Industrial Grade Copper Alloy with Components such as Beryllium & Nickel Tin.",
+    "canonical": "https://titanium.com/alloys/copper-alloys/",
+    "ogTitle": "Industrial Grade Copper Alloys | Titanium Industries",
+    "ogDescription": "With Commitment to Reliability, Titanium Industries, Inc. offers Industrial Grade Copper Alloy with Components such as Beryllium & Nickel Tin.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Please find our selection of Copper Alloy Round Bar, Copper Rec Bar, and Copper Plate below."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Industries’ selection of Copper Alloy Hollow Bar, Rectangle Bar, Plate, and more. With quick turnarounds on quotes and an exceptional selection of specialty metal processing and service capabilities, Titanium Industries is ready to deliver. If the Copper Alloy product form you require is not shown below, please do not hesitate to [contact us here or contact your local T. I. Sales Representative.](https://titanium.com/contact-us/)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://titanium.com/shop/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "thirds",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "[Copper Hollow Bar](https://titanium.com/products/hollow-bar/)"
+                }
+              ]
+            },
+            {
+              "id": "picture-16",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Hollow_Bar_Low-300x200.jpg",
+              "alt": "Hollow Bar",
+              "href": "https://titanium.com/products/hollow-bar/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-17",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Copper Hollow Bar Size Range:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum diameter: 2.500″/60.00 mm | Maximum diameter: 16.000″/500.00 mm"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Copper Alloys"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C17200"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C72900"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "[Copper Rectangle Bar](https://titanium.com/products/rectangle-bar/)"
+                }
+              ]
+            },
+            {
+              "id": "picture-19",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Rec_Bar_Low-300x200.jpg",
+              "alt": "Rectangle Bar",
+              "href": "https://titanium.com/products/rectangle-bar/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-20",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Copper Rectangle Bar Size Range:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum dimensions: 0.250″/6.35 mm | Maximum dimensions: 4.000″/101.60 m"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Copper Alloys"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C17200"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-14",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "[Copper Plate](https://titanium.com/products/plate/%20)"
+                }
+              ]
+            },
+            {
+              "id": "picture-22",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Plate_Low-300x200.jpg",
+              "alt": "Titanium Plate",
+              "href": "https://titanium.com/products/plate/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-23",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Copper Plate Size Range"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum thickness: 0.156 inch”/3.00 mm | Maximum thickness: 6.000″/200.00mm"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Copper Alloys"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C17200"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/copper-alloys/",
+    "sourceHash": "8ca0815d193aaa0e679ff71f18c5f088ca6160b1825c07783676cab891716a47",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | thirds",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/copper-alloys/ (private, noindex) beside https://titanium.com/alloys/copper-alloys/. Check the grid (full, thirds, thirds), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

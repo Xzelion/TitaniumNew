@@ -1,0 +1,399 @@
+{
+  "id": "alloys--carbon-steels--carbon-steel-aisi-1215",
+  "path": "/alloys/carbon-steels/carbon-steel-aisi-1215/",
+  "title": "Carbon Steel AISI 1215 | UNS# G12150 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Carbon Steel AISI 1215 | UNS# G12150 | Titanium Industries",
+    "description": "Carbon Steel AISI 1215 is a fast cutting steel. commonly referred to as screw machine stock due to cutting speeds, machining characteristics.",
+    "canonical": "https://titanium.com/alloys/carbon-steels/carbon-steel-aisi-1215/",
+    "ogTitle": "Carbon Steel AISI 1215 | UNS# G12150 | Titanium Industries",
+    "ogDescription": "Carbon Steel AISI 1215 is a fast cutting steel. commonly referred to as screw machine stock due to cutting speeds, machining characteristics.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Carbon Steel AISI 1215 | UNS# G12150"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Carbon Steel AISI 1215 is a fast cutting steel and is considered the standard screw stock. 1215 is a re-sulphurized and re-phosphorized free machining steel, commonly referred to as screw machine stock due to cutting speeds and machining characteristics being excellent. Well designed for automatic screw machining where the requirement is exceptional free-machining quality that produces a smooth, bright finish."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "This material is also used for bushings, inserts, hydraulic hose fittings, couplings, studs, pins, and similar applications. Outside of ordinary machining, AISI 1215 responds well to roll threading and minor bending without cracking but fails in parts subject to severe fatigue stress."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AISI 1215 Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 5010"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM A108, ASTM A29, ASTM A576"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "SAE J403, SAE J412"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Buy Carbon Steel Round Bar",
+              "href": "https://qqa.titanium.com/product/mill-product-carbon-steel-round-bar",
+              "variant": "primary"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Carbon Steel AISI 1215 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Bushings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Inserts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Hydraulic hose fittings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Couplings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Studs"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Pins"
+                }
+              ]
+            },
+            {
+              "id": "button-17",
+              "kind": "button",
+              "label": "Discounted Carbon Steel Round Bar",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Carbon+Steel",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-18",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-19",
+          "items": [
+            {
+              "id": "text-20",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 0.75 – 1.05%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.090%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.260 – 0.35%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P 0.040 – 0.090%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 98.42 – 98.95%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-21",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-22",
+          "items": [
+            {
+              "id": "text-23",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density (lbs/cubic in)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (W/m-K)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity (J/g-°C )"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (µm/m-K)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.284"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "51.9"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.472"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "11.5"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-24",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-25",
+          "items": [
+            {
+              "id": "text-26",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Mpa)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "415"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (Mpa)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "540"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "10%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Hardness, Brinell"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "167"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (GPa): 200"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: 135%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/carbon-steels/carbon-steel-aisi-1215/",
+    "sourceHash": "8604e0866cc96727f6ddac7f031ffafc8f878ea4aaa20d2d3f23681da98770a2",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-fifths | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/carbon-steels/carbon-steel-aisi-1215/ (private, noindex) beside https://titanium.com/alloys/carbon-steels/carbon-steel-aisi-1215/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-fifths, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

@@ -1,0 +1,310 @@
+{
+  "id": "asme-specifications",
+  "path": "/asme-specifications/",
+  "title": "Read ASME Specifications | Specialty Metals | Contact Titanium Industries for the best service",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Read ASME Specifications | Specialty Metals | Contact Titanium Industries for the best service",
+    "description": "Titanium Industries carries a wide range of specialty metals conforming to ASME specifications. Please find a full list on this page.",
+    "canonical": "https://titanium.com/asme-specifications/",
+    "ogTitle": "Read ASME Specifications | Specialty Metals | Contact Titanium Industries for the best service",
+    "ogDescription": "Titanium Industries carries a wide range of specialty metals conforming to ASME specifications. Please find a full list on this page.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASME Standards | The American Society of Mechanical Engineers"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://qqa.titanium.com/product?type=mill-product",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "full",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-13",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "The ASME is the leading international developer of codes and standards that are associated with the art, science, and practice of mechanical engineering. Globally recognized, the ASME has been a trust source of consensus standards since 1884. More than 5,500 volunteer engineers, scientists, government officials, and various other institutions contribute their technical expertise to develop voluntary standards that enhance public safety, health, quality of life, and to facilitate innovation, trade, and competitiveness."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASME’s standards portfolio included over 500 standards and associated products and is accepting for us in more than 100 countries around the world. The products cover a wide range of topics that include; pressure technology, nuclear plants, elevators / escalators, construction, engineering design, standardization, and performance testing."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "As new technologies and processes emerge, such as additive manufacturing, model-based enterprise, robotics, energy production and storage, mobile unmanned systems and many others, the ASME provides guidance."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Disclaimer The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for ASME specifications."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-14",
+      "preset": "lead-four-fifths",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-15",
+          "items": [
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "ASME Specifications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specification"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Metal Type"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Applicable Alloys & Grades"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASME SB-265"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Unalloyed Titanium"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade 1, Grade 2, Grade 3, Grade 4"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASME SB-265"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Alloy"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade 5, Grade 23"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASME SB-338"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Unalloyed Titanium"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade 2"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASME SB-348"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Unalloyed Titanium"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade 1, Grade 2, Grade 3, Grade 4"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASME SB-348"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Alloy"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade 5, Grade 23"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASME SB-363"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Unalloyed Titanium"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade 2"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASME SB-381"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Unalloyed Titanium"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade 1, Grade 2, Grade 3, Grade 4"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASME SB-381"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Alloy"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade 5, Grade 23"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASME SB-446"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy 625"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASME SB-637"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy 718"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASME SB-861"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Unalloyed Titanium"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade 2"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASME SB-862"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Unalloyed Titanium"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grade 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/asme-specifications/",
+    "sourceHash": "5465d0a73563028bada4be8e62abf0106fe7a63b6dfdb57faf2c72d5482be5d2",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | full | lead-four-fifths",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/asme-specifications/ (private, noindex) beside https://titanium.com/asme-specifications/. Check the grid (full, thirds, full, lead-four-fifths), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

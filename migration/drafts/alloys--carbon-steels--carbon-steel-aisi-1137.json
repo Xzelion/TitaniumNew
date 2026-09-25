@@ -1,0 +1,391 @@
+{
+  "id": "alloys--carbon-steels--carbon-steel-aisi-1137",
+  "path": "/alloys/carbon-steels/carbon-steel-aisi-1137/",
+  "title": "Discover Quality Carbon Steel AISI 1137 | UNS# G11370 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Discover Quality Carbon Steel AISI 1137 | UNS# G11370 | Titanium Industries",
+    "description": "Carbon Steel AISI 1137 is a general purpose alloy for parts that require strength and machinability. Titanium Industries 1137 Round Bar.",
+    "canonical": "https://titanium.com/alloys/carbon-steels/carbon-steel-aisi-1137/",
+    "ogTitle": "Discover Quality Carbon Steel AISI 1137 | UNS# G11370 | Titanium Industries",
+    "ogDescription": "Carbon Steel AISI 1137 is a general purpose alloy for parts that require strength and machinability. Titanium Industries 1137 Round Bar.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Carbon Steel AISI 1137 | UNS# G11370"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Carbon Steel AISI 1137 is a general purpose alloy, used for parts that require strength and machinability. It demonstrates good stress resistance, is considered re-sulphurized, and has a machining cost factor of 2.7 in comparison to AISI 12L14. Welding is not ideal due to high sulfur content. 1137 can be annealed, quenched, tempered, and heat treated."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AISI 1137 Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM A29 (1137), ASTM A108, ASTM A311 (1137), ASTM A510 (1137), ASTM A576 (1137)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "SAE J1397 (1137), SAE J403 (1137), SAE J412 (1137), SAE J414"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS 5020, AMS 5024C, AMS 5024D, AMS 5024"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "QQ-S-637 (1137)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Shop Carbon Steel Round Bar",
+              "href": "https://qqa.titanium.com/product/mill-product-carbon-steel-round-bar",
+              "variant": "primary"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Carbon Steel AISI 1137 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Gears"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Shafts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Studs"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Bolts and nuts"
+                }
+              ]
+            },
+            {
+              "id": "button-17",
+              "kind": "button",
+              "label": "Discounted Carbon Steel Round Bar",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Carbon+Steel",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-18",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-19",
+          "items": [
+            {
+              "id": "text-20",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 1.35 – 1.65%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.32 – 0.39%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.08 – 0.13%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P 0.04% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 98%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-21",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-22",
+          "items": [
+            {
+              "id": "text-23",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density (lbs/cubic in)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (W/m-K)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity (BTU/lb-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (µm/m-K)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.278"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "10.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "51"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.11"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "13"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2660"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-24",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-25",
+          "items": [
+            {
+              "id": "text-26",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Mpa)240"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "370"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "650"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (Mpa)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "700"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "760"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "11%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "17%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Hardness, Brinell"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "200"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "210"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): 27557 – 30458"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: –"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/carbon-steels/carbon-steel-aisi-1137/",
+    "sourceHash": "2fa2cd7abc8d9c9f4bed15e15bf7091d74361e98b998ee20aba03d40ce539fea",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-fifths | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/carbon-steels/carbon-steel-aisi-1137/ (private, noindex) beside https://titanium.com/alloys/carbon-steels/carbon-steel-aisi-1137/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-fifths, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

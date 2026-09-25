@@ -1,0 +1,272 @@
+{
+  "id": "ams-4901-specification",
+  "path": "/ams-4901-specification/",
+  "title": "AMS 4901 | Titanium CP Grade 4 Sheet, Strip, and Plate | T.I.",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS 4901 | Titanium CP Grade 4 Sheet, Strip, and Plate | T.I.",
+    "description": "Please find the chemical and mechanical properties for AMS 4901. Titanium Commercially Pure Grade 4 Sheet, Strip, and Plate, Annealed",
+    "canonical": "https://titanium.com/ams-4901-specification/",
+    "ogTitle": "AMS 4901 | Titanium CP Grade 4 Sheet, Strip, and Plate | T.I.",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS 4901. Titanium Commercially Pure Grade 4 Sheet, Strip, and Plate, Annealed",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS 4901 | Titanium Sheet, Strip, and Plate Commercially Pure | Annealed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS 4901"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade: Titanium CP 1 Grade 4"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product Forms: Titanium Sheet, Strip, and Plate Commercially Pure"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Condition: Annealed"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium CP 1 Grade 4 Sheet](https://qqa.titanium.com/product/mill-product-titanium-sheet)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium CP 1 Grade 4 Plate](https://qqa.titanium.com/product/mill-product-titanium-plate)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti Balance"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.08%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 0.50%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N 0.05%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "O 0.40%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "H 0.015%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength: 80 ksi / 552 mpa"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength: 70 – 95 ksi / 483 – 655 mpa"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation: 15%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile properties and associated requirements vary due to orientation, section thickness, and engineering requirements."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Required Acceptance Tests"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Bend Testing"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Grain Size"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Surface Contamination"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cross Reference Specifications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade 4 Plate"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM B265 Gr4](https://titanium.com/astm-b265-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM F67](https://titanium.com/astm-f67-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[MIL-T-9046 CP1](https://titanium.com/ams-t-9047-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade 4 Sheet"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS-T-9046 CP 1](https://titanium.com/ams-t-9047-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM B265 Gr 4](https://titanium.com/astm-b265-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM F67](https://titanium.com/astm-f67-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASME SB265"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "EN 10204.3.1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-4901-specification/",
+    "sourceHash": "4e12605272d9fe7705938a20d1357318b644df3c0c9e25afd0f189918f96a7d5",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-4901-specification/ (private, noindex) beside https://titanium.com/ams-4901-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

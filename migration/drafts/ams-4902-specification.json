@@ -1,0 +1,608 @@
+{
+  "id": "ams-4902-specification",
+  "path": "/ams-4902-specification/",
+  "title": "Discover the Benefits of AMS 4902 Titanium CP Grade 2",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Discover the Benefits of AMS 4902 Titanium CP Grade 2",
+    "description": "Please find the chemical and mechanical properties for AMS 4902. Titanium Commercially Pure Grade 2 Aero Sheet.",
+    "canonical": "https://titanium.com/ams-4902-specification/",
+    "ogTitle": "Discover the Benefits of AMS 4902 Titanium CP Grade 2",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS 4902. Titanium Commercially Pure Grade 2 Aero Sheet.",
+    "ogImage": "https://titanium.com/wp-content/uploads/2023/12/Product-forms-renderings-5.jpg"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS 4902 | Titanium Aerospace Sheet"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-13",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Titanium Grade: AMS 4902"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product Forms: [Titanium Sheet](https://titanium.com/shop/products/mill-products-titanium-sheet)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aero Sheet, equivalent to ASTM Grade 2, is a prized material in the aerospace industry. With a guaranteed minimum 0.2% yield strength of 40 ksi (275 MPa), it offers exceptional ductility and formability. Aero Sheet is extensively used in critical aerospace applications, including airframes, structural components, and aircraft interiors. ASME approved and renowned for its impressive impact resistance at low temperatures, Aero Sheet provides outstanding corrosion resistance, making it a preferred choice for demanding aerospace environments"
+                }
+              ]
+            },
+            {
+              "id": "picture-14",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/12/Product-forms-renderings-5-240x300.jpg",
+              "alt": "AMS 4902, Aerospace Sheet",
+              "href": "",
+              "wrap": "none"
+            },
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Aero Sheet is typically suitable for continuous service up to 800°F (425°C) and for intermittent service up to 1000°F (540°C). Furthermore, Aero Sheet can be readily welded, machined, cold worked, hot worked, and cast to meet specific requirements."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "lead-three-fifths",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "CHEMICAL COMPOSITION"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Oxygen"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.25"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nitrogen"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.03"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Carbon"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.08"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Hydrogen*"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.30"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Residual Elements, each"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.015"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Residual Elements, total"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.10"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.40"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "* Hydrogen content depends on product form"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "English"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "SI"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.163 lb in-3"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "4.51 g cm-3"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Beta Transus"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1680°F"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "915°C"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal Conductivity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "12.60 Btu hr-1 ft-1 °F-1"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "21.79 W m-1K-1"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical Resistivity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "21 µΩ•in"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.53 µΩ•m"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Magnetic Permeability"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Non Magnetic"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mean Coefficient of Thermal Expansion"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "68-212°F (20-100°C)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "4.8 x 10-6 in in-1 °F-1"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "8.6 x 10-6 m m-1 °C-1"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "68-572°F (20-300°C)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "5.3 x 10-6 in in-1 °F-1"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "9.5 x 10-6 m m-1 °C-1"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "68-932°F (20-500°C)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "5.4 x 10-6 in in-1 °F-1"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "9.7 x 10-6 m m-1 °C-1"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elastic Modulus*"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "15.2-17.4 Msi"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "105-120 GPa"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "* Typical values at room temperature of about 68-78°F (20-25°C)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "TYPICAL MECHANICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "UTS"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ksi (MPa)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2% YS"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ksi (MPa)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Reduction in Area"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Bend Radius"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "70 (485)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "50 (345)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "28"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "57"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.5T"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "TYPICAL ELEVATED TEMPERATURE TENSILE PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Test Temperature"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2% Yield Strength"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ksi (MPa)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ultimate"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ksi (MPa)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "212°F (100°C)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "37 (256)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "56 (383)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "31"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "392°F (200°C)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "28 (192)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "41 (280)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "37"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "572°F (300°C)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "18 (127)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "33 (229)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "43"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "752°F (400°C)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "13 (92)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "27 (186)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "38"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "842°F (450°C)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "11 (74)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "26 (178)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "34"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-19",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "To gain further insights into Titanium Industries and the diverse markets we cater to with our specialty metals, we invite you to explore our range of other markets:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Additive Manufacturing Build Plates](https://titanium.com/markets/additive-manufacturing-build-plates/) [Aerospace](https://titanium.com/markets/aerospace/) [Industrial](https://titanium.com/markets/industrial/) [Medical](https://titanium.com/markets/medical/) [Defense](https://titanium.com/markets/defense/) [Engineered Fastener Alloys](https://titanium.com/markets/engineered-fasteners/) [Consumer Products](https://titanium.com/markets/consumer-products/) [Interconnect](https://titanium.com/interconnect-alloys/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Follow us on Social Media:"
+                }
+              ]
+            },
+            {
+              "id": "picture-22",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
+              "alt": "Titanium Industries | Instagram",
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-23",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
+              "alt": "Titanium Industries | LinkedIn",
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-24",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
+              "alt": "Titanium Industries | Twitter",
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-25",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
+              "alt": "Titanium Industries | Facebook",
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-26",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
+              "alt": "Titanium Industries | Youtube",
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-4902-specification/",
+    "sourceHash": "e69b6d1f6a753503f03b1abf9e4b85ee538570e057d6bd0488833960a44f280b",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | full | lead-three-fifths | full",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-4902-specification/ (private, noindex) beside https://titanium.com/ams-4902-specification/. Check the grid (full, thirds, full, lead-three-fifths, full), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

@@ -1,0 +1,395 @@
+{
+  "id": "alloys--carbon-steels--carbon-steel-aisi-12l14",
+  "path": "/alloys/carbon-steels/carbon-steel-aisi-12l14/",
+  "title": "Discover Carbon Steel AISI 12L14 | UNS# G12144 | Titanium Industries #1 Metal Supplier",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Discover Carbon Steel AISI 12L14 | UNS# G12144 | Titanium Industries #1 Metal Supplier",
+    "description": "Carbon Steel AISI 12L14 is a low friction metal that maintains a smooth, machined surface that allows for increased tool life.",
+    "canonical": "https://titanium.com/alloys/carbon-steels/carbon-steel-aisi-12l14/",
+    "ogTitle": "Discover Carbon Steel AISI 12L14 | UNS# G12144 | Titanium Industries #1 Metal Supplier",
+    "ogDescription": "Carbon Steel AISI 12L14 is a low friction metal that maintains a smooth, machined surface that allows for increased tool life.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Carbon Steel AISI 12L14 | UNS# G12144"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Carbon Steel AISI 12L14 is a cold finished carbon steel typically offered in Round Bar. The material is a low friction metal that maintains a smooth, machined surface that allows for increased tool life. 12L14 carbon steel is recommended for manufacturing high-speed automatic screw machine parts, is re-sulfurized and re-phosphorized, which provides benefits from the addition of tiny lead particles, providing enhanced machinability. Although 12L14 CF Bar provides excellent machinability, the added lead content reduces the overall strength of the alloy."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Carbon Steel AISI 12L14 Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM A576 (12L14), ASTM A108, ASTM A29"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "SAE J1397 (12L14), SAE J403 (12L14), SAE J412 (12L14), SAE J414"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Buy Carbon Steel Round Bar",
+              "href": "https://qqa.titanium.com/product/mill-product-carbon-steel-round-bar",
+              "variant": "primary"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Carbon Steel AISI 12L14 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Bushings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Inserts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Hydraulic hose fittings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Couplings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Studs"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Pins"
+                }
+              ]
+            },
+            {
+              "id": "button-17",
+              "kind": "button",
+              "label": "Discounted Carbon Steel Round Bar",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Carbon+Steel",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-18",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-19",
+          "items": [
+            {
+              "id": "text-20",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 0.85 – 1.15%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.15% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.26 – 0.35%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P 0.04 – 0.09%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Pb 0.15 – 0.35%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 97.9 – 98.7%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-21",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-22",
+          "items": [
+            {
+              "id": "text-23",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density (lbs/cubic in)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (W/m-K)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity (J/g-°C )"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (µm/m-K)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.284"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "7.1"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "51"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.11"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "11.5"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "12"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-24",
+      "preset": "lead-three-quarters",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-25",
+          "items": [
+            {
+              "id": "text-26",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Mpa)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "260"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "460"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (Mpa)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "440"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "620"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "11%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "25%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Hardness, Brinell"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "140"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "170"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (GPa): 190 – 210"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: 160%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/carbon-steels/carbon-steel-aisi-12l14/",
+    "sourceHash": "3e10bc87207b1839b7e548fdc9c081149a259d43809f888535d16fa85a281568",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/carbon-steels/carbon-steel-aisi-12l14/ (private, noindex) beside https://titanium.com/alloys/carbon-steels/carbon-steel-aisi-12l14/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-quarters, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

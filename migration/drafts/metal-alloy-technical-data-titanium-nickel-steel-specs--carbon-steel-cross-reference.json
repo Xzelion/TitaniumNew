@@ -1,0 +1,331 @@
+{
+  "id": "metal-alloy-technical-data-titanium-nickel-steel-specs--carbon-steel-cross-reference",
+  "path": "/metal-alloy-technical-data-titanium-nickel-steel-specs/carbon-steel-cross-reference/",
+  "title": "Carbon Steel International Cross Reference | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Carbon Steel International Cross Reference | Titanium Industries",
+    "description": "Titanium Industries' Carbon Steel International Cross Reference can be found here. Numerous cross references for each Carbon Steel grade.",
+    "canonical": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/carbon-steel-cross-reference/",
+    "ogTitle": "Carbon Steel International Cross Reference | Titanium Industries",
+    "ogDescription": "Titanium Industries' Carbon Steel International Cross Reference can be found here. Numerous cross references for each Carbon Steel grade.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Carbon Steel International Cross Reference"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://qqa.titanium.com/product?type=mill-product",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "full",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-13",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Please find Titanium Industries Carbon Steel cross reference metal equivalency chart below. There are many Carbon Steel and designation standards that are used depending on countries, engineering practices, and many other standards. A description of each material standard can also be found underneath the Carbon Steel equivalency chart."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "For questions or inquiries please contact us today: [[email protected]](https://titanium.com/cdn-cgi/l/email-protection#25564449405665514c51444b4c50480b464a48)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "UNS"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AISI (USA)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "W.-Nr (Germany)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "EN"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AFNOR (France)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "JIS (Japan)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "BS (Great Britain)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G10180"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1018"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.0401"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C15D"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S15"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C15"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G11370"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1137"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "15AM"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G12150"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1215"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.0736"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1B"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S300"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S25"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "240M07"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "G12144"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "12L14"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1.0737"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "11SMnPb30"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S300Pb"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S23"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "230M07 Leaded"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "UNS – International"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "UNS stands for Unified Numbering System and is a unified identification for metals and alloys of metals in the United States. Consisting of a single-letter prefix followed by five digits that represent material composition. Predominantly, the letter is suggestive of the family of metals identified."
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "AISI/SAE – United States"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The American Iron and Steel Institute is an association of North American steel producers. With its predecessor organizations, the AISI is one of the oldest trade associations in the United States, dating back to 1855. In 1995 the AISI turned over future maintenance of the system to the Society of Automotive Engineers (SAE)."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Carbon steels and alloy steels are designated by a four digit number. The first digit indicates the main alloying element(s), the second digit indicates element(s), and the last two digits indicate the amount of carbon, in hundredths of a percent by weight."
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "DIN – Germany"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DIN stands for Deutsches Institut für Normung eV (German Institute for Standardization). This standard uses the letters DIN, followed by alphanumeric codes or figures that represent the metals chemical composition, for designation of Carbon Steels."
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "EN – Europe"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "EN stands for European Norms. This standard was mandated by the European Economic Community with the goal of standardizing common language on the European continent. Also created to replace national standards like BS – Great Britain, UNI – Italy, DIN – Germany, AFNOR – France, etc. These standards are still accepted and used by most countries, however."
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "AFNOR – France"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AFNOR Stands for Association Française de Normalisation, which translates to “French Standardization”. As the French organization for standardization, Carbon Steels are named using an alphanumeric system in which the first letter, A, designates the name of the element, and the following letters and numbers designate the alloying elements and their percentages."
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "JIS – Japan"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "JIS stands for Japanese Industrial Standards and are developed by the Japanese Industrial Standards Committee (JISC) in Tokyo. The specifications for designating Carbon Steel are pretty close to the ANSI/AA system. Beginning with the prefix JIS, followed by the letter A which denotes area of division, followed by four digits representing the composition of the material."
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "BS – Great Britain"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "BS stands for British Standards. This set of standards are developed by the British standard institute and uses alphanumeric characters to designate alloys. The letters in the designation represent the main alloying element and the figures represent the weight percent of the main alloying element."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/carbon-steel-cross-reference/",
+    "sourceHash": "5b198d3a6abf9ec6dff3e81f6570df7e46bf5a614699f2f74afc6f392f38919d",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | full",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/metal-alloy-technical-data-titanium-nickel-steel-specs/carbon-steel-cross-reference/ (private, noindex) beside https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/carbon-steel-cross-reference/. Check the grid (full, thirds, full), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

@@ -1,0 +1,148 @@
+{
+  "id": "astm-f799-specification",
+  "path": "/astm-f799-specification/",
+  "title": "ASTM F799 | Standard Specification for CCM Alloy Forgings for Surgical Implants",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASTM F799 | Standard Specification for CCM Alloy Forgings for Surgical Implants",
+    "description": "ASTM F799 | Standard Specification for Cobalt-28 Chromium-6 Molybdenum Alloy Forgings for Surgical Implants (UNS R31537, R31538, R31539)",
+    "canonical": "https://titanium.com/astm-f799-specification/",
+    "ogTitle": "ASTM F799 | Standard Specification for CCM Alloy Forgings for Surgical Implants",
+    "ogDescription": "ASTM F799 | Standard Specification for Cobalt-28 Chromium-6 Molybdenum Alloy Forgings for Surgical Implants (UNS R31537, R31538, R31539)",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASTM F799 | Standard Specification for Cobalt-28 Chromium-6 Molybdenum Alloy Forgings for Surgical Implants (UNS R31537, R31538, R31539)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Specification: ASTM F799"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM F799 Scope: This specification covers the material requirements for low-carbon (UNS R31537), high-carbon (UNS R31538), and dispersion-strengthened (UNS R31539) cobalt-28chromium-6molybdenum alloy high-strength forgings used for the manufacture of surgical implants. The properties specified here specifically apply to finished or semifinished parts that receive no subsequent thermomechanical processing. The materials shall be in the form of bars, rods, or wires suitable for forging by hammering, pressing, rolling, extruding, or upsetting. The forgings shall adhere to chemical composition, ultimate tensile strength, yield strength, elongation, reduction of area, and hardness requirements."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for ASTM specifications."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Cobalt Chrome Moly Alloy 1537 Round Bar](https://titanium.com/shop/products/mill-products-cobalt-chrome-moly-round-bar)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/astm-f799-specification/",
+    "sourceHash": "ffcffe2390d186afecd9f4666928897c32aafb44844bb27622d01a8c18c0796d",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/astm-f799-specification/ (private, noindex) beside https://titanium.com/astm-f799-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

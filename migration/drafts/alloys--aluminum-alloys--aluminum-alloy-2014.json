@@ -1,0 +1,397 @@
+{
+  "id": "alloys--aluminum-alloys--aluminum-alloy-2014",
+  "path": "/alloys/aluminum-alloys/aluminum-alloy-2014/",
+  "title": "Aluminum Alloy 2014 | UNS# A92014 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Aluminum Alloy 2014 | UNS# A92014 | Titanium Industries",
+    "description": "Aluminum Alloy 2014 | UNS# A92014 is an aluminum based alloy typically used in the Aerospace industry. Titanium Industries.",
+    "canonical": "https://titanium.com/alloys/aluminum-alloys/aluminum-alloy-2014/",
+    "ogTitle": "Aluminum Alloy 2014 | UNS# A92014 | Titanium Industries",
+    "ogDescription": "Aluminum Alloy 2014 | UNS# A92014 is an aluminum based alloy typically used in the Aerospace industry. Titanium Industries.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Aluminum Alloy 2014 | UNS# A92014"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 2014 | UNS# A92014 is an aluminum based alloy typically used in the Aerospace industry. Because of this materials machinability and high hardness in certain tempers and being one of the strongest aluminum alloys, this metal can be seen in Aerospace structural applications. Other applications include military vehicles, certain weapon manufacturing, and other structural applications. Often found in coil, bar, wire, and forging products."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 2014 Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS: AMS 4121"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 2014 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aerospace Structures"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Weapons Manufacturing"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Military Vehicles"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Al 93%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cu 4.5%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 0.9%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 0.8%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 0.7 % Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mg 0.5%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Zn 0.3% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti 0.2% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 0.1% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Other 0.2%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-19",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU-in/hr-ft²-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (1/°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.1"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "49.4"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1340"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.21"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.00001250"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1060"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-22",
+      "preset": "lead-three-quarters",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-23",
+          "items": [
+            {
+              "id": "text-24",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2 Offset"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "14"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "61"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (R"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "m"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "28"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "72"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (AL=5 x Ø)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "13.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Brinell Hardness (H)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "45"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "135"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): 10600"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: 30%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/aluminum-alloys/aluminum-alloy-2014/",
+    "sourceHash": "afab170b81ba3755fab3f48980fdbf1491c6f8a351ab0a6c14e81232fd8efe12",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/aluminum-alloys/aluminum-alloy-2014/ (private, noindex) beside https://titanium.com/alloys/aluminum-alloys/aluminum-alloy-2014/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-quarters, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

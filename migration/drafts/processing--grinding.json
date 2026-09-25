@@ -1,0 +1,267 @@
+{
+  "id": "processing--grinding",
+  "path": "/processing/grinding/",
+  "title": "Discover Centerless Grinding Metal Cutting Services | Titanium Industries | Quality Processing",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Discover Centerless Grinding Metal Cutting Services | Titanium Industries | Quality Processing",
+    "description": "Titanium Industries, Inc. offers Centerless Grinding Metal Cutting Services for Specialty Metals - Contact us today!",
+    "canonical": "https://titanium.com/processing/grinding/",
+    "ogTitle": "Discover Centerless Grinding Metal Cutting Services | Titanium Industries | Quality Processing",
+    "ogDescription": "Titanium Industries, Inc. offers Centerless Grinding Metal Cutting Services for Specialty Metals - Contact us today!",
+    "ogImage": "https://titanium.com/wp-content/uploads/2023/08/TI-Slides-42.jpg"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Centerless Grinding | Titanium Industries"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://qqa.titanium.com/product?type=mill-product",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-21",
+      "preset": "waterjet-split",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-22",
+          "items": [
+            {
+              "id": "text-13",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Centerless Grinding Metal Cutting Services"
+                }
+              ]
+            },
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Centerless grinding is a highly efficient and precise machining process that offers numerous benefits for a wide range of applications. One of the key advantages of centerless grinding is its ability to grind to unique off-size diameters. This means that components with non-standard dimensions can be accurately machined to meet specific requirements, allowing for greater design flexibility and adaptability."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "n terms of surface finish, centerless grinding delivers consistent and high-quality results. The process ensures that the ground surface is smooth and even, meeting the required specifications with excellent surface integrity. This makes centerless grinding suitable for applications where a superior surface finish is crucial, such as in the production of precision components for medical devices and aerospace components."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Benefits of Centerless Grinding"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "– Grinding to unique (off-size) diameters"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "– Precision tolerances ± 0.0005″ available for Swiss screw machines"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "– Grinding inventory from larger diameter to a more desirable smaller diameter"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "– High quality centerless ground surface finish assured"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "– No minimum order quantities"
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "More Processing Services Available"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Water Jet Cutting](https://titanium.com/processing/water-jet-cutting/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Saw Cutting](https://titanium.com/processing/saw-cutting/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Chamfering](https://titanium.com/processing/chamfering/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Torch Cutting](https://titanium.com/processing/torch-cutting/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Heat Treating](https://titanium.com/processing/heat-treating/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[PVC Coating](https://titanium.com/processing/pvc-coating/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Precision Grinding](https://titanium.com/processing/grinding/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Trepanning & Boring](https://titanium.com/processing/trepanning/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Coil Slitting](https://titanium.com/processing/coil-slitting/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Metal Sheet Shearing](https://titanium.com/processing/shearing/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Follow us on Social Media:"
+                }
+              ]
+            },
+            {
+              "id": "picture-16",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
+              "alt": "Titanium Industries | Instagram",
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-17",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
+              "alt": "Titanium Industries | LinkedIn",
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-18",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
+              "alt": "Titanium Industries | Twitter",
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-19",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
+              "alt": "Titanium Industries | Facebook",
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-20",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
+              "alt": "Titanium Industries | Youtube",
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
+            }
+          ]
+        },
+        {
+          "id": "column-23",
+          "items": [
+            {
+              "id": "picture-14",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/08/TI-Slides-42-300x169.jpg",
+              "alt": "Centerless grinding metal cutting",
+              "href": "",
+              "wrap": "none"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/processing/grinding/",
+    "sourceHash": "55cf17f08d79b9c75589ea76d9e03a0ae26e474aac98c706fddc6ad62c4dcd4f",
+    "converterVersion": "2",
+    "converterFamily": "waterjet-measured",
+    "families": [
+      "equal-3-cta",
+      "waterjet-measured"
+    ],
+    "convertedAt": "2026-09-24T20:09:34.873Z",
+    "grid": "full | thirds | waterjet-split",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/processing/grinding/ (private, noindex) beside https://titanium.com/processing/grinding/. Check the grid (full, thirds, waterjet-split), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

@@ -1,0 +1,148 @@
+{
+  "id": "astm-a295-specification",
+  "path": "/astm-a295-specification/",
+  "title": "ASTM A295 | Specification for High-Carbon Anti-Friction Bearing Steel",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASTM A295 | Specification for High-Carbon Anti-Friction Bearing Steel",
+    "description": "The ASTM A295 specification covers high-carbon bearing-quality steel to be used in the manufacture of anti-friction bearings.",
+    "canonical": "https://titanium.com/astm-a295-specification/",
+    "ogTitle": "ASTM A295 | Specification for High-Carbon Anti-Friction Bearing Steel",
+    "ogDescription": "The ASTM A295 specification covers high-carbon bearing-quality steel to be used in the manufacture of anti-friction bearings.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASTM A295 | Standard Specification for High-Carbon Anti-Friction Bearing Steel"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Specification: ASTM A295"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM A295 Scope: This specification covers high-carbon bearing-quality steel to be used in the manufacture of anti-friction bearings. Supplementary requirements of an optional nature are provided and when desired shall be so stated in the order. The values stated in either SI units or inch-pound units are to be regarded separately as standard. The values stated in each system are not necessarily exact equivalents; therefore, to ensure conformance with the standard, each system shall be used independently of the other, and values from the two systems shall not be combined."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for ASTM specifications."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Alloy Steel Grade 52100 Round Bar](https://titanium.com/shop/products/mill-products-alloy-steel-round-bar)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/astm-a295-specification/",
+    "sourceHash": "6326484d5fe2f1c802b0feb6777f3fb46bd488bd438b6135081d09c4a981285f",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/astm-a295-specification/ (private, noindex) beside https://titanium.com/astm-a295-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

@@ -1,0 +1,395 @@
+{
+  "id": "alloys--alloy-steels--alloy-steel-aisi-sae-h-11",
+  "path": "/alloys/alloy-steels/alloy-steel-aisi-sae-h-11/",
+  "title": "Alloy Steel SAE AISI H-11 | UNS# T20811 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Alloy Steel SAE AISI H-11 | UNS# T20811 | Titanium Industries",
+    "description": "Alloy Steel AISI SAE H-11 is a chromium hot-worked tool steel, designated as group H according to the AISI classification system.",
+    "canonical": "https://titanium.com/alloys/alloy-steels/alloy-steel-aisi-sae-h-11/",
+    "ogTitle": "Alloy Steel SAE AISI H-11 | UNS# T20811 | Titanium Industries",
+    "ogDescription": "Alloy Steel AISI SAE H-11 is a chromium hot-worked tool steel, designated as group H according to the AISI classification system.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Alloy Steel SAE AISI H-11 | UNS# T20811"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI/SAE H-11 is a chromium hot-worked tool steel, designated as group H according to the AISI classification system. This series of steels start from H1 to H19, with the most commonly used chromium hot-work steels being H11, H12, and H13. This group of tool steels are subjected to minimal distortion during hardening due to their balanced alloy content. Tools normally manufactured from chromium hot-work steels can be cooled using water without damage due to the low carbon and alloy content."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "SAE/AISI H-11 Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 6485](https://titanium.com/ams-6485-specification/) , [AMS 6487](https://titanium.com/ams-6487-specification/) , [AMS 6488](https://titanium.com/ams-6488-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel H-11 product forms offered at all Titanium Industries’ locations:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Alloy Steel H-11 Round Bar](https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Buy Alloy Steel Round Bar",
+              "href": "https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar",
+              "variant": "primary"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI SAE H-11 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aircraft landing gear"
+                }
+              ]
+            },
+            {
+              "id": "button-17",
+              "kind": "button",
+              "label": "Discounted Alloy Steel Round Bar",
+              "href": "https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-18",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-19",
+          "items": [
+            {
+              "id": "text-20",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.33 – 0.43%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 0.20 – 0.50%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 0.80 – 1.20%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 4.75 – 5.50%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 1.10 – 1.60%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "V 0.30 – 0.60%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cu 0.25%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P 0.03%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.03%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe Balance"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-21",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-22",
+          "items": [
+            {
+              "id": "text-23",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density (lbs/cubic in)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (W/m-K)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity (BTU/lb-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (µm/m-K)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.282"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "8.2%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "42.2"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.11"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "6.63"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2600"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-24",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-25",
+          "items": [
+            {
+              "id": "text-26",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Mpa)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (Mpa)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "690"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1840"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "14%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "15%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Hardness, Brinell"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): 27500"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: 75 – 80%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/alloy-steels/alloy-steel-aisi-sae-h-11/",
+    "sourceHash": "408b411f9c79ce9a9d8db79570433c15f525fdc4d41e9ba2820df442eeddb2b2",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-fifths | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/alloy-steels/alloy-steel-aisi-sae-h-11/ (private, noindex) beside https://titanium.com/alloys/alloy-steels/alloy-steel-aisi-sae-h-11/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-fifths, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

@@ -1,0 +1,447 @@
+{
+  "id": "oil-gas",
+  "path": "/oil-gas/",
+  "title": "Discover Titanium Industries | Specialty Metals | Oil & Gas Market | Excellent Quality",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Discover Titanium Industries | Specialty Metals | Oil & Gas Market | Excellent Quality",
+    "description": "Titanium Industries | Specialty Metals | Oil & Gas Market T.I. Oil & Gas concentrates Titanium Industries' key resources and capabilities for the global oil & gas marketplace.",
+    "canonical": "https://titanium.com/oil-gas/",
+    "ogTitle": "Discover Titanium Industries | Specialty Metals | Oil & Gas Market | Excellent Quality",
+    "ogDescription": "Titanium Industries | Specialty Metals | Oil & Gas Market T.I. Oil & Gas concentrates Titanium Industries' key resources and capabilities for the global oil & gas marketplace.",
+    "ogImage": "https://titanium.com/wp-content/uploads/2023/06/OilGas-3.jpg"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "T.I. Oil and Gas | Specialty Metals"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/customer/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://qqa.titanium.com/customer/mill-products",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Titanium Industries Specialty Metals for Oil & Gas Market"
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Specialty Metals | Oil & Gas Market"
+                }
+              ]
+            },
+            {
+              "id": "picture-15",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/oil-gas-600.jpg",
+              "alt": "Titanium Industries | Specialty Metals | Oil & Gas Market",
+              "href": "",
+              "wrap": "left"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "T.I. Oil & Gas concentrates Titanium Industries’ key resources and capabilities for the global oil & gas marketplace. By providing specialty metals in titanium and super alloys, T.I. is able to deliver high strength, corrosion resistant materials necessary for the most challenging oil & gas applications and environments such as exploration, production and refining."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Achieving a wide range of OEM and subcontractor approvals, Titanium Industries has a strong portfolio of service provider LTA’s, and is ISO 9001:2015 registered. Providing a global service center inventory at competitive prices, guaranteed quality and 24/7 delivery to all levels of the oil & gas supply chain, T.I. Oil & Gas is poised to deliver. Our strategically placed global locations allow us to service this market from a local source, using the local language."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "To gain further insights into Titanium Industries and the diverse markets we cater to with our specialty metals, we invite you to explore our range of other markets:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "To gain further insights into Titanium Industries and the diverse markets we cater to with our specialty metals, we invite you to explore our range of other markets:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Additive Manufacturing Build Plates](https://titanium.com/markets/additive-manufacturing-build-plates/) [Aerospace](https://titanium.com/markets/aerospace/) [Industrial](https://titanium.com/markets/industrial/) [Medical](https://titanium.com/markets/medical/) [Defense](https://titanium.com/markets/defense/) [Engineered Fastener Alloys](https://titanium.com/markets/engineered-fasteners/) [Consumer Products](https://titanium.com/markets/consumer-products/) [Interconnect](https://titanium.com/interconnect-alloys/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Follow us on Social Media:"
+                }
+              ]
+            },
+            {
+              "id": "picture-17",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
+              "alt": "Titanium Industries | Instagram",
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-18",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
+              "alt": "Titanium Industries | LinkedIn",
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-19",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
+              "alt": "Titanium Industries | Twitter",
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-20",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
+              "alt": "Titanium Industries | Facebook",
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-21",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
+              "alt": "Titanium Industries | Youtube",
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-22",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "[Oil & Gas Line Card | Download Now](https://titanium.com/wp-content/uploads/2021/10/Oil-and-Gas-Line-Card-Titanium-Industries.pdf)"
+                }
+              ]
+            },
+            {
+              "id": "picture-23",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2021/02/OG-237x300.png",
+              "alt": "Titanium Industries | Specialty Metals | Oil & Gas Market",
+              "href": "https://titanium.com/wp-content/uploads/2021/10/Oil-and-Gas-Line-Card-Titanium-Industries.pdf",
+              "wrap": "none"
+            },
+            {
+              "id": "button-24",
+              "kind": "button",
+              "label": "Titanium Industries | Oil & Gas Line Card",
+              "href": "https://titanium.com/wp-content/uploads/2021/10/Oil-and-Gas-Line-Card-Titanium-Industries.pdf",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-25",
+      "preset": "full",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-26",
+          "items": [
+            {
+              "id": "text-27",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Products Forms T.I. Carries for Oil & Gas Applications:"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-28",
+      "preset": "quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-29",
+          "items": [
+            {
+              "id": "picture-33",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Round_Bar_Hi.jpg",
+              "alt": "Round Bar",
+              "href": "https://titanium.com/metalproducts/round-bar/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-34",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Round Bar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-30",
+          "items": [
+            {
+              "id": "picture-35",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Plate_Low.jpg",
+              "alt": "Plate",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-plate",
+              "wrap": "none"
+            },
+            {
+              "id": "text-36",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Plate"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-31",
+          "items": [
+            {
+              "id": "picture-37",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Sheet_Metal_Low.jpg",
+              "alt": "Sheet",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-sheet",
+              "wrap": "none"
+            },
+            {
+              "id": "text-38",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Sheet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-32",
+          "items": [
+            {
+              "id": "picture-39",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Tube_Low-1.jpg",
+              "alt": "Seamless Tube",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-seamless-tube",
+              "wrap": "none"
+            },
+            {
+              "id": "text-40",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Seamless Tube"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-41",
+      "preset": "quarter-trio",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-42",
+          "items": [
+            {
+              "id": "picture-45",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Pipe_Low.jpg",
+              "alt": "Seamless Pipe",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-seamless-pipe",
+              "wrap": "none"
+            },
+            {
+              "id": "text-46",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Seamless Pipe"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-43",
+          "items": [
+            {
+              "id": "picture-47",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Billet_Low-1.jpg",
+              "alt": "Billet",
+              "href": "https://titanium.com/metalproducts/billet/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-48",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Billet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-44",
+          "items": [
+            {
+              "id": "picture-49",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Coil_Hi.jpg",
+              "alt": "Coil",
+              "href": "https://titanium.com/metalproducts/coil/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-50",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Coil"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/oil-gas/",
+    "sourceHash": "eaec43856127a43867370c61dd6c658f831c709bf52643f8ebdb52ebbb4fe38c",
+    "converterVersion": "2",
+    "converterFamily": "intro-two-one-linecard",
+    "families": [
+      "equal-3-cta",
+      "intro-two-one-linecard",
+      "portfolio-picture-cards"
+    ],
+    "convertedAt": "2026-09-24T20:26:53.127Z",
+    "grid": "lead-three-fifths | thirds | two-one | full | quarters | quarter-trio",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/oil-gas/ (private, noindex) beside https://titanium.com/oil-gas/. Check the grid (lead-three-fifths, thirds, two-one, full, quarters, quarter-trio), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

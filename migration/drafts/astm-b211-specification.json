@@ -1,0 +1,156 @@
+{
+  "id": "astm-b211-specification",
+  "path": "/astm-b211-specification/",
+  "title": "ASTM B211 | Standard Specification for Aluminum and Aluminum-Alloy Rolled or Cold Finished Bar, Rod, and Wire",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASTM B211 | Standard Specification for Aluminum and Aluminum-Alloy Rolled or Cold Finished Bar, Rod, and Wire",
+    "description": "ASTM B211 specification covers rolled or cold-finished aluminum and aluminum-alloy bar, rod, and wire.",
+    "canonical": "https://titanium.com/astm-b211-specification/",
+    "ogTitle": "ASTM B211 | Standard Specification for Aluminum and Aluminum-Alloy Rolled or Cold Finished Bar, Rod, and Wire",
+    "ogDescription": "ASTM B211 specification covers rolled or cold-finished aluminum and aluminum-alloy bar, rod, and wire.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASTM B211 | Standard Specification for Aluminum and Aluminum-Alloy Rolled or Cold Finished Bar, Rod, and Wire"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Specification: ASTM B211"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM B211 Scope: This specification covers rolled or cold-finished aluminum and aluminum-alloy bar, rod, and wire and includes the following UNS alloy designations: A91060, A91100, A92011, A92014, A92017, A92024, A92219, A93003, A95052, A95056, A95154, A96061, A96110, A96262, and A97075. The temper conditions covered by this specification include: O, H14, H18, H12, H16, H112, F, T3, T4, T42, T451, T6, T62, T651, T36, T351, T851, H32, H34, H36, H38, H111, H192, H392, T 89, T94, T9, T73, and T7351. The products shall be produced either by hot extruding and cold finishing or by hot rolling with or without cold finishing. Bars, rods, and wires shall conform to the chemical composition requirements prescribed for aluminum, silicon, iron, copper, manganese, magnesium, chromium, zinc, bismuth, lead, and titanium, and to the specified tensile properties such as tensile strength, yield strength, and elongation. Requirements for quality assurance, heat treatment, chemical analysis, tension test, heat-treat response, bend testing, and stress-corrosion resistance and stress-corrosion cracking test are detailed."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for ASTM specifications."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Aluminum Alloy 2024 Round Bar](https://titanium.com/shop/products/mill-products-aluminum-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Aluminum Alloy 6061 Round Bar](https://titanium.com/shop/products/mill-products-aluminum-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Aluminum Alloy 7075 Round Bar](https://titanium.com/shop/products/mill-products-aluminum-round-bar)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/astm-b211-specification/",
+    "sourceHash": "4fa287c5ab0fc7c9f0031bacbd01a2fda867df44cf422a25b224abac173adfb3",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/astm-b211-specification/ (private, noindex) beside https://titanium.com/astm-b211-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

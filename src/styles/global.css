@@ -173,3 +173,123 @@ body {
   height: 1px;
   background: linear-gradient(90deg, transparent, var(--color-border), transparent);
 }
+
+/* Site chrome footer and homepage hero. The header is the review mega-menu, not details panels. */
+.site-chrome-footer a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.chrome-footer-col ul {
+  margin: 0;
+  padding-left: 1.1rem;
+}
+
+.site-chrome-footer {
+  background: #003366;
+  color: #fff;
+  padding: 2.5rem 1.5rem;
+}
+
+.chrome-footer-grid {
+  max-width: 1280px;
+  margin: 0 auto 1.5rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.5rem;
+}
+
+.chrome-footer-col h2,
+.chrome-footer-col h3 {
+  margin: 0 0 0.4rem;
+  font-size: 0.95rem;
+}
+
+.chrome-badges,
+.chrome-social,
+.chrome-legal {
+  max-width: 1280px;
+  margin: 0.75rem auto 0;
+}
+
+.chrome-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  align-items: center;
+}
+
+.chrome-badges img {
+  height: 64px;
+  width: auto;
+  background: #fff;
+}
+
+.chrome-social {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.25rem;
+}
+
+.chrome-hero {
+  position: relative;
+  background: #0b1b33;
+  color: #fff;
+}
+
+.chrome-slide {
+  min-height: 520px;
+  display: flex;
+  align-items: flex-end;
+  background: #0b1b33 center/cover no-repeat;
+}
+
+.chrome-slide-copy {
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 4.5rem;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.62));
+}
+
+.chrome-slide-copy h2 {
+  margin: 0 0 0.5rem;
+  font-size: clamp(2rem, 4vw, 3.25rem);
+  line-height: 1.05;
+}
+
+.chrome-slide-copy p {
+  max-width: 640px;
+  margin: 0 0 0.75rem;
+}
+
+.chrome-cta {
+  display: inline-block;
+  margin: 0.35rem 0.5rem 0 0;
+  padding: 0.5rem 0.9rem;
+  background: #fff;
+  color: #003366;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.chrome-dots {
+  position: absolute;
+  left: 1.5rem;
+  bottom: 1rem;
+  display: flex;
+  gap: 0.4rem;
+}
+
+.chrome-dot {
+  width: 10px;
+  height: 10px;
+  border: 0;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.5);
+  cursor: pointer;
+}
+
+.chrome-dot[aria-current='true'] {
+  background: #fff;
+}

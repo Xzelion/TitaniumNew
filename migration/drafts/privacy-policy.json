@@ -1,0 +1,376 @@
+{
+  "id": "privacy-policy",
+  "path": "/privacy-policy/",
+  "title": "Titanium Industries' Privacy Policy",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Titanium Industries' Privacy Policy",
+    "description": "Please find Titanium Industries' privacy policy located here. Titanium Industries is dedicated to the protection of our users privacy.",
+    "canonical": "https://titanium.com/privacy-policy/",
+    "ogTitle": "Titanium Industries' Privacy Policy",
+    "ogDescription": "Please find Titanium Industries' privacy policy located here. Titanium Industries is dedicated to the protection of our users privacy.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Privacy Policy | Titanium Industries"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "two-one",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "text-7",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Titanium Industries’ Privacy Policy"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Effective Date: January 29,2026"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Industries, Inc. (“Titanium Industries,” “we,” “our,” or “us”) is committed to protecting the privacy and security of personal information. This Privacy Policy explains how we collect, use, store, and protect information obtained through our website, services, communications, and business operations."
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Information We Collect"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "We may collect the following types of personal and business information:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Name, company name, job title"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Email address"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Phone number"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mailing address"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Business contact information"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Website usage data (IP address, browser type, pages visited, cookies, and analytics data)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Information voluntarily provided through forms, inquiries, orders, surveys, or communications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Operational and transactional data related to customer orders and services"
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "How We Use Information"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "We use collected information to:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Process orders and provide services"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Manage procurement plans and customer accounts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Respond to inquiries and provide support"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Communicate operational updates and service notifications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Improve website functionality and user experience"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maintain internal business operations"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Conduct internal analytics and performance monitoring"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Communicate business-related information and service updates"
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Communications and Messaging (SMS and Electronic Communications)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Industries may use SMS (text messaging), email, and phone communications for business and operational purposes only , including:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Order coordination"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Delivery notifications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Scheduling"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Service updates"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Support communications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Internal and external business operations"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "SMS Compliance Statement"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "SMS messaging is used for direct, one-to-one business communication only"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "No marketing campaigns, promotions, mass messaging, or automated messaging systems are used through SMS"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "No recurring marketing messages are sent via SMS"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "SMS is not used for advertising purposes"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "SMS is used strictly for operational, transactional, and service-related communication"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Consent Language"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "By providing your phone number, you consent to receive business-related SMS communications from Titanium Industries for operational and service-related purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "SMS consent is not shared with third parties or affiliates."
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Information Sharing"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "We do not sell, rent, or trade personal information. Information may only be shared in the following limited circumstances:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "With trusted service providers necessary to operate our business systems (IT services, communications platforms, logistics systems)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "When required by law, regulation, or legal process"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "To protect the rights, property, and safety of Titanium Industries, our employees, and our customers"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "SMS consent is not shared with third parties or affiliates."
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Cookies and Tracking"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "We may use cookies and similar technologies to:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Improve website functionality"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Analyze site traffic"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Enhance user experience"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maintain session data"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Users may control cookies through browser settings."
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Data Security"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "We implement appropriate administrative, technical, and physical safeguards to protect personal information from unauthorized access, misuse, loss, or disclosure."
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "User Rights"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Users may request:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Access to their personal information"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Corrections to inaccurate data"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Removal of personal information where applicable"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Communication preferences changes"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Requests can be made by contacting us using the information below."
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Policy Updates"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "This Privacy Policy may be updated periodically to reflect operational, legal, or regulatory changes. Updates will be posted on this page with a revised effective date."
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Contact Information"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Industries, Inc. 18 Green Pond Road Rockaway, New Jersey 07866 Email: [[email protected]](https://titanium.com/cdn-cgi/l/email-protection#7102101d140231051805101f18041c5f121e1c)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "text-8",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Industries, Inc."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "18 Green Pond Road, Rockaway, New Jersey 07866 USA"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[[email protected]](https://titanium.com/cdn-cgi/l/email-protection#493a28252c3a093d203d2827203c24672a2624)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Phone: (973)-983-1185 Fax: (973)-983-8015"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/privacy-policy/",
+    "sourceHash": "7e1f214a2b9baee3d5681bf6be88521c37876b1598ac3ce1c7e2e46b48318935",
+    "converterVersion": "2",
+    "converterFamily": "unclassified",
+    "families": [
+      "unclassified"
+    ],
+    "convertedAt": "2026-09-24T20:16:48.815Z",
+    "grid": "full | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/privacy-policy/ (private, noindex) beside https://titanium.com/privacy-policy/. Check the grid (full, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

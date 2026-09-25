@@ -1,0 +1,168 @@
+{
+  "id": "astm-b363-specification",
+  "path": "/astm-b363-specification/",
+  "title": "ASTM B363 | Standard Specification for Seamless and Welded Unalloyed Titanium and Titanium Alloy Welding Fittings",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASTM B363 | Standard Specification for Seamless and Welded Unalloyed Titanium and Titanium Alloy Welding Fittings",
+    "description": "ASTM B363 specification covers covers fittings intended for general corrosion-resisting and elevated-temperature services, factory made from unalloyed titanium and titanium alloys.",
+    "canonical": "https://titanium.com/astm-b363-specification/",
+    "ogTitle": "ASTM B363 | Standard Specification for Seamless and Welded Unalloyed Titanium and Titanium Alloy Welding Fittings",
+    "ogDescription": "ASTM B363 specification covers covers fittings intended for general corrosion-resisting and elevated-temperature services, factory made from unalloyed titanium and titanium alloys.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASTM B363 | Standard Specification for Seamless and Welded Unalloyed Titanium and Titanium Alloy Welding Fittings"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Specification: ASTM B363"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "ASTM B363 Scope: This specification covers fittings intended for general corrosion-resisting and elevated-temperature services, factory made from unalloyed titanium and titanium alloys. The titanium for welding fittings may consist of billets, bars, plates, seamless or welded pipe or tube that conforms to all the requirements for manufacturing process, testing, chemical composition, and mechanical properties. Forging, forming, or shaping operations may be performed by hammering, pressing, piercing, extruding, upsetting, rolling, bending, fusion welding, or by a combination of two or more of these operations. The titanium shall conform to the requirements as to prescribed chemical composition. Product analysis tolerances of aluminum, carbon, chromium, hydrogen, iron, molybdenum, nickel, niobium, nitrogen, oxygen, palladium, ruthenium, silicon, vanadium, zirconium, and some residuals shall be specified. The titanium shall conform to the requirements as to tensile properties prescribed in the specifications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for ASTM specifications."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium CP 3 Grade 2 Stub Ends](https://titanium.com/shop/products/pipe-and-fittings-titanium-stub-ends)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium CP 3 Grade 2 45° Elbows](https://titanium.com/shop/products/pipe-and-fittings-titanium-45-elbow)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium CP 3 Grade 2 90° Elbows](https://titanium.com/shop/products/pipe-and-fittings-titanium-90-elbow)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium CP 3 Grade 2 Straight Tees](https://titanium.com/shop/products/pipe-and-fittings-titanium-tee)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium CP 3 Grade 2 Concentric Reducers](https://titanium.com/shop/products/pipe-and-fittings-titanium-concentric-reducer)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium CP 3 Grade 2 Eccentric Reducers](https://titanium.com/shop/products/pipe-and-fittings-titanium-eccentric-reducer)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/astm-b363-specification/",
+    "sourceHash": "35c7a70e125e02eda0c38076eeec57ea76fb1c1b7346e0fdd4db8cf8a8c1b728",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/astm-b363-specification/ (private, noindex) beside https://titanium.com/astm-b363-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

@@ -1,0 +1,293 @@
+{
+  "id": "alloys--aluminum-alloys",
+  "path": "/alloys/aluminum-alloys/",
+  "title": "Aluminum Alloys | Bar and Plate | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Aluminum Alloys | Bar and Plate | Titanium Industries",
+    "description": "Since 1972, Titanium Industries, Inc. have been Aluminum Suppliers for Specialty Metals Products such as Tubing, Sheet & Plate - click here to learn more.",
+    "canonical": "https://titanium.com/alloys/aluminum-alloys/",
+    "ogTitle": "Aluminum Alloys | Bar and Plate | Titanium Industries",
+    "ogDescription": "Since 1972, Titanium Industries, Inc. have been Aluminum Suppliers for Specialty Metals Products such as Tubing, Sheet & Plate - click here to learn more.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Please find our selection of Aluminum Round Bar, Aluminum Rec Bar, and Aluminum Plate listed below."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Industries’ selection of [Aluminum Round Bar](https://qqa.titanium.com/product/mill-product-aluminum-round-bar) , Rectangle Bar, Plate, and more for the Aerospace and Medical industries. With quick turnarounds on quotes and an exceptional selection of specialty metal processing and service capabilities, Titanium Industries is ready to deliver. If the Aluminum Alloy product form you require is not shown below, please do not hesitate to [contact us here or contact your local T. I. Sales Representative](https://titanium.com/contact-us/) ."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://qqa.titanium.com/product",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "one-two",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "[Aluminum Round Bar](https://qqa.titanium.com/product/mill-product-aluminum-round-bar)"
+                }
+              ]
+            },
+            {
+              "id": "picture-15",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Round_Bar_Hi-300x200.jpg",
+              "alt": "round bar",
+              "href": "https://qqa.titanium.com/product/mill-product-aluminum-round-bar",
+              "wrap": "none"
+            },
+            {
+              "id": "button-16",
+              "kind": "button",
+              "label": "Buy Now",
+              "href": "https://qqa.titanium.com/product/mill-product-aluminum-round-bar",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-17",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Round Bar Size Range:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum diameter: 0.780″/1.00 mm | Maximum diameter: 14.000″/400.00 mm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-18",
+      "preset": "one-two",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-19",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Aluminum Rec Bar"
+                }
+              ]
+            },
+            {
+              "id": "picture-22",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Rec_Bar_Low-300x200.jpg",
+              "alt": "Rectangle Bar",
+              "href": "https://titanium.com/metalproducts/rectangle-bar/",
+              "wrap": "none"
+            }
+          ]
+        },
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "text-23",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Rectangle Bar Size Range:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum diameter: 0.780″/ 1.00 mm | Maximum diameter: 14.000″/400.00 mm"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Aluminum Alloys"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2024 | UNS A92024"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "7050 | UNS A97050"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "7075 | UNS A97075"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-24",
+      "preset": "one-two",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-25",
+          "items": [
+            {
+              "id": "text-27",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Aluminum Plate"
+                }
+              ]
+            },
+            {
+              "id": "picture-28",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Plate_Low-300x200.jpg",
+              "alt": "Titanium Plate",
+              "href": "https://titanium.com/products/plate/",
+              "wrap": "none"
+            }
+          ]
+        },
+        {
+          "id": "column-26",
+          "items": [
+            {
+              "id": "text-29",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Plate Size Range:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum diameter: 0.156″/3.00 mm | Maximum diameter: 6.000″/200.00 mm"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Aluminum Alloys"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2024 | UNS A92024"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "6016 | UNS A96016"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "7075 | UNS A97075"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/aluminum-alloys/",
+    "sourceHash": "678b9af6cf8a3c512afc3b41b35862a31948579935683c8385214495be50d952",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | one-two | one-two | one-two",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/aluminum-alloys/ (private, noindex) beside https://titanium.com/alloys/aluminum-alloys/. Check the grid (full, thirds, one-two, one-two, one-two), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

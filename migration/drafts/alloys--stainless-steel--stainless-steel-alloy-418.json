@@ -1,0 +1,399 @@
+{
+  "id": "alloys--stainless-steel--stainless-steel-alloy-418",
+  "path": "/alloys/stainless-steel/stainless-steel-alloy-418/",
+  "title": "Stainless Steel Alloy 418 | UNS# S41800 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Stainless Steel Alloy 418 | UNS# S41800 | Titanium Industries",
+    "description": "Stainless Steel Alloy AISI 418 is part of the martensitic family of SS and is specifically formulated for forming into wrought products.",
+    "canonical": "https://titanium.com/alloys/stainless-steel/stainless-steel-alloy-418/",
+    "ogTitle": "Stainless Steel Alloy 418 | UNS# S41800 | Titanium Industries",
+    "ogDescription": "Stainless Steel Alloy AISI 418 is part of the martensitic family of SS and is specifically formulated for forming into wrought products.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Stainless Steel Alloy 418 | UNS# S41800"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Alloy AISI 418, also known as Greek Ascoloy, is part of the martensitic family of stainless steels specifically formulated for forming into wrought products. Properties are appropriate for the heat treated (HT) condition, it has a fairly high base cost among wrought martensitic stainless steels, demonstrates fairly high tensile strength and a moderately high embodied energy. Alloy 418 also shows good corrosion resistance, high hardness, toughness and strength."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel product forms offered at all Titanium Industries’ locations:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Round Bar](https://titanium.com/shop/products/mill-products-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel Hex Bar](https://titanium.com/shop/products/mill-products-stainless-steel-hex-bar)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel Alloy 418 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ducts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Stiffeners"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Exhaust struts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Engine braces"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Turbine exhaust components"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.15 – 0.20%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 12.0 – 14.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "W 2.50 – 3.50%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 1.80 – 2.20%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P 0.04% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.03% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 0.50% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 0.50% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe Balance"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-19",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "(lb/ft3)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "(% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "(BTU/h-ft-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "(BTU/lb-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "(µm/m-K)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "500"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2.8%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "15"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "470"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "10"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2 Offset"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "105"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (R"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "m"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "130"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation (AL=5 x Ø)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "15.0%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Hardness, Rockwell (C)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "25"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (MPa): 30457"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: –"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/stainless-steel/stainless-steel-alloy-418/",
+    "sourceHash": "402a023078c15aaeafc20e76ecc98a623b82162054af3173192fd4fe08561ad7",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/stainless-steel/stainless-steel-alloy-418/ (private, noindex) beside https://titanium.com/alloys/stainless-steel/stainless-steel-alloy-418/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

@@ -1,0 +1,248 @@
+{
+  "id": "ams-4921-specification",
+  "path": "/ams-4921-specification/",
+  "title": "AMS 4921 | Titanium Grade 4 Bars, Wire, Forgings, and Rings | Annealed",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS 4921 | Titanium Grade 4 Bars, Wire, Forgings, and Rings | Annealed",
+    "description": "Please find the chemical and mechanical properties for AMS 4921. Titanium Commercially Pure Grade 4 Bars, Wire, Forgings, and Rings Annealed",
+    "canonical": "https://titanium.com/ams-4921-specification/",
+    "ogTitle": "AMS 4921 | Titanium Grade 4 Bars, Wire, Forgings, and Rings | Annealed",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS 4921. Titanium Commercially Pure Grade 4 Bars, Wire, Forgings, and Rings Annealed",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS 4921 | Titanium Grade 4 Bars, Wire, Forgings, and Rings | Annealed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS 4921"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade: Titanium CP 1 Grade 4"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product Forms: Titanium Bars, Wire, Forgings, and Rings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Condition: Annealed"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium CP 1 Grade 4 Round Bar](https://titanium.com/shop/products/mill-products-titanium-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.08% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "H 0.0125% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 0.50% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N 0.050% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "O 0.40% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti Balance"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Other 0.30%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength: 80 ksi / 552 mpa"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength: 70 ksi / 483 mpa"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation: 10 – 15%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Reduction of Area: 25 – 30%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile properties and associated requirements vary due to orientation, section thickness, and engineering requirements."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Required Acceptance Tests"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Surface Contamination"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ultrasonic (where required)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cross Reference Specifications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS-T-9047 Gr 4](https://titanium.com/ams-t-9047-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM B348](https://titanium.com/astm-b348-specification/) , [ASTM F67 Gr 4](https://titanium.com/astm-b348-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "EN 10204 3.1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-4921-specification/",
+    "sourceHash": "af4bded03acca0f6a00916ea61a2150fa071f7e06e253ca5224238fb700b62b6",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-4921-specification/ (private, noindex) beside https://titanium.com/ams-4921-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

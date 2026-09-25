@@ -1,0 +1,42 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { loadSiteChrome } from '../../../shared/chrome/load';
+import { renderChromeHero } from '../../../shared/chrome/render';
+
+const chrome = loadSiteChrome();
+const hero = chrome ? renderChromeHero(chrome) : '';
+---
+
+<Layout
+  title="Site chrome preview"
+  description="Private preview of the Site chrome document."
+  exactTitle
+  robots="noindex, nofollow"
+>
+  <article class="chrome-preview">
+    <p class="banner">Private preview. Header, menu, footer, and the homepage hero on local pages read this same document. It is not published to the public site.</p>
+    {hero ? <Fragment set:html={hero} /> : <p>Site chrome is unavailable. The layout is using the static header and footer.</p>}
+    {chrome && (
+      <ul class="notes">
+        {chrome.notes.map((note) => <li>{note}</li>)}
+      </ul>
+    )}
+  </article>
+</Layout>
+
+<style>
+  .chrome-preview { padding: 1.25rem 0 2rem; }
+  .banner {
+    max-width: 1100px;
+    margin: 0 auto 1rem;
+    padding: 0.75rem 1.25rem;
+    background: #fff4d6;
+    color: #5c4300;
+    font-weight: 700;
+  }
+  .notes {
+    max-width: 1100px;
+    margin: 1.5rem auto 0;
+    padding: 0 1.25rem;
+  }
+</style>

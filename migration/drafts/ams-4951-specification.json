@@ -1,0 +1,224 @@
+{
+  "id": "ams-4951-specification",
+  "path": "/ams-4951-specification/",
+  "title": "AMS 4951 | Titanium Welding Wire Commercially Pure | Packaging",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS 4951 | Titanium Welding Wire Commercially Pure | Packaging",
+    "description": "Please find the chemical and mechanical properties for AMS 4951. Titanium CP 3 Grade 2 weld wire offered at Titanium Industries.",
+    "canonical": "https://titanium.com/ams-4951-specification/",
+    "ogTitle": "AMS 4951 | Titanium Welding Wire Commercially Pure | Packaging",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS 4951. Titanium CP 3 Grade 2 weld wire offered at Titanium Industries.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS 4951 | Titanium Welding Wire Commercially Pure | Environment Controlled Packaging"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS 4951"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Grade: Titanium CP 3 Grade 2"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product Forms: Titanium Welding Wire Commercially Pure"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Description: Environment Controlled Packaging"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium CP 3 Grade 2 Weld Wire](https://qqa.titanium.com/product/mill-product-titanium-wire)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "CHEMICAL COMPOSITION"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Al 5.50 – 6.50%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "V 3.50 – 4.50%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.08%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "N 0.05%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "O 0.18% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "H 0.005% (50 ppm)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 0.20%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti Balance"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Weld Properties:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point 3020° F"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Excellent weldability"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Strength varies with oxygen content"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cross Reference Specifications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 6931](https://titanium.com/ams-6931-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM B348](https://titanium.com/astm-b348-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[MIL-T-9047](https://titanium.com/ams-t-9047-specification/) , MIL-STD-2154"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-4951-specification/",
+    "sourceHash": "f93a8e2a9fd01c0e9d4fc0c3b0ac6e8c67be90e87cc8d604328b8c18c414ced5",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-4951-specification/ (private, noindex) beside https://titanium.com/ams-4951-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

@@ -1,0 +1,206 @@
+{
+  "id": "ams-6279-specification",
+  "path": "/ams-6279-specification/",
+  "title": "AMS 6279 | Standard Practice for Production, Distribution, Procurement",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "AMS 6279 | Standard Practice for Production, Distribution, Procurement",
+    "description": "Please find the chemical and mechanical properties for AMS 6279 Stainless Steel round bar available at Titanium Industries.",
+    "canonical": "https://titanium.com/ams-6279-specification/",
+    "ogTitle": "AMS 6279 | Standard Practice for Production, Distribution, Procurement",
+    "ogDescription": "Please find the chemical and mechanical properties for AMS 6279 Stainless Steel round bar available at Titanium Industries.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "AMS 6279 | Standard Practice for Production, Distribution, and Procurement of Metal Stock"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "AMS 6279"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Scope: This SAE Aerospace Standard (AS) establishes requirements applicable to metal stock that is ordered and produced in accordance with an Aerospace Material Specification (AMS). Topics include producer requirements, distributor requirements, size and grain orientation nomenclature, and purchaser ordering information to distributors. Requirements of this document have been developed to address titanium and titanium alloys, aluminum and aluminum alloys, carbon and alloy steels, and corrosion and heat-resistant alloys."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Product availability:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Stainless Steel 17-4 Round Bar](https://qqa.titanium.com/product/mill-product-stainless-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: The use of this information should be considered strictly voluntary. Information contained in this page or across the domain, may contain typographical errors and are for reference only. Information presented are purely generalizations and are not a substitution for AMS specifications."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Buy Stainless Steel Round Bar",
+              "href": "https://qqa.titanium.com/product/mill-product-stainless-steel-round-bar",
+              "variant": "primary"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Stainless Steel 17-4 PH Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aircraft Applications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Processing"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fasteners"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Gears and Valves"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Marine Applications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Surgical Instrumentation"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Food Processing"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cross Reference Specifications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 5643](https://titanium.com/ams-5643-specification/) , [AMS 6875](https://titanium.com/ams-6875-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM A564](https://titanium.com/astm-a564-specification/) , [ASTM A484](https://titanium.com/astm-a484-specification/) , [ASTM F899](https://titanium.com/astm-f899-specification/)"
+                }
+              ]
+            },
+            {
+              "id": "button-17",
+              "kind": "button",
+              "label": "Discounted Stainless Steel",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Stainless+Steel",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/ams-6279-specification/",
+    "sourceHash": "5bb61302ba4a0a2faeab953c957985a2105580ffd9b6498c8a041e939f94ae91",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/ams-6279-specification/ (private, noindex) beside https://titanium.com/ams-6279-specification/. Check the grid (full, thirds, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

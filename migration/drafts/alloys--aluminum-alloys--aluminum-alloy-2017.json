@@ -1,0 +1,221 @@
+{
+  "id": "alloys--aluminum-alloys--aluminum-alloy-2017",
+  "path": "/alloys/aluminum-alloys/aluminum-alloy-2017/",
+  "title": "Aluminum Alloy 2017 | UNS# A92017 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Aluminum Alloy 2017 | UNS# A92017 | Titanium Industries",
+    "description": "Aluminum Alloy 2017 | UNS# A92017 demonstrates high strength, excellent fatigue strength, and very good machining capabilities.",
+    "canonical": "https://titanium.com/alloys/aluminum-alloys/aluminum-alloy-2017/",
+    "ogTitle": "Aluminum Alloy 2017 | UNS# A92017 | Titanium Industries",
+    "ogDescription": "Aluminum Alloy 2017 | UNS# A92017 demonstrates high strength, excellent fatigue strength, and very good machining capabilities.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Aluminum Alloy 2017 | UNS# A92017"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://titanium.com/shop/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/weight-calculator/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 2017 | UNS# A92017 demonstrates high strength, excellent fatigue strength, and very good machining capabilities. These traits make 2017 an optimal material of choice in aircraft, machine manufacturing, military equipment, and other applications that require high strength structural parts."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 2017 Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 6370](https://titanium.com/ams-6370-specification/) , [AMS-S-6758](https://titanium.com/ams-s-6758-specification/)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Aluminum Alloy 2017 Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aerospace Structures"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Weapons Manufacturing"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Military Vehicles"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-16",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-17",
+          "items": [
+            {
+              "id": "text-18",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Al 91.5 – 95.5%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cu 3.5 – 4.5%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 0.2 – 0.8%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 0.4 – 1%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Fe 0.7 % Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mg 0.4 – 0.8%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Zn 0.25% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ti 0.15% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 0.1% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Other 0.2%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/aluminum-alloys/aluminum-alloy-2017/",
+    "sourceHash": "4ec0e18f7dfa10b15eb103d325048491d9c668697c5d4a68ee48367edbfd963d",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/aluminum-alloys/aluminum-alloy-2017/ (private, noindex) beside https://titanium.com/alloys/aluminum-alloys/aluminum-alloy-2017/. Check the grid (full, thirds, two-one, lead-three-fifths), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

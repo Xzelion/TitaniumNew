@@ -1,0 +1,649 @@
+{
+  "id": "markets--industrial",
+  "path": "/markets/industrial/",
+  "title": "Discover Titanium Industries Specialty Metals for Industrial Market - Chemical Processing - Hydro-Metallurgical | Excellent Quality",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Discover Titanium Industries Specialty Metals for Industrial Market - Chemical Processing - Hydro-Metallurgical | Excellent Quality",
+    "description": "T.I. Industrial focuses the resources and capabilities of Titanium Industries on the global industrial market. Provider of Commercially Pure Titanium.",
+    "canonical": "https://titanium.com/markets/industrial/",
+    "ogTitle": "Discover Titanium Industries Specialty Metals for Industrial Market - Chemical Processing - Hydro-Metallurgical | Excellent Quality",
+    "ogDescription": "T.I. Industrial focuses the resources and capabilities of Titanium Industries on the global industrial market. Provider of Commercially Pure Titanium.",
+    "ogImage": "https://titanium.com/wp-content/uploads/2023/06/TI-Industrial-3.jpg"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "lead-two-thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "T.I. Industrial"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://qqa.titanium.com/customer/discounted-products",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "half-quarters",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-15",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Titanium Industries | Industrial Market"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "T.I. Industrial focuses the resources and capabilities of T.I. on the global industrial market. We provide performance metals for critical applications in chemical processing, marine, defense, power generation, pulp & paper, desalinization, automotive, motorsports, consumer products and other markets."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "T.I. has achieved a wide range of OEM and subcontractor approvals, a strong portfolio of service provider LTA’s, is ISO 9001:2015 and DOD Registered. T.I. Industrial provides global service center inventory at competitive prices, guaranteed quality and the best delivery available to all levels of the industrial supply chain. We are a financially stable, privately held business with a long-term growth plan and a quick decision making process. We stand ready to partner with you and to support your projects around the world."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "[Industrial Line Card | Download Now](https://titanium.com/wp-content/uploads/2021/10/Industrial-Line-Card-Titanium-Industries.pdf)"
+                }
+              ]
+            },
+            {
+              "id": "picture-17",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2020/03/Industrial-Line-Card-3.13.20-220x300.png",
+              "alt": "",
+              "href": "https://titanium.com/wp-content/uploads/2021/10/Industrial-Line-Card-Titanium-Industries.pdf",
+              "wrap": "none"
+            },
+            {
+              "id": "button-18",
+              "kind": "button",
+              "label": "Titanium Industries | Industrial Line Card",
+              "href": "https://titanium.com/wp-content/uploads/2021/10/Industrial-Line-Card-Titanium-Industries.pdf",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-14",
+          "items": [
+            {
+              "id": "text-19",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "[Industrial Resource Booklet | Download Now](https://titanium.com/wp-content/uploads/2021/04/Industrial-Resource-Booklet-Titanium-Industries.pdf)"
+                }
+              ]
+            },
+            {
+              "id": "picture-20",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/04/Industrial-Booklet-NonPrint-pdf-232x300.jpg",
+              "alt": "",
+              "href": "https://titanium.com/wp-content/uploads/2021/04/Industrial-Resource-Booklet-Titanium-Industries.pdf",
+              "wrap": "none"
+            },
+            {
+              "id": "button-21",
+              "kind": "button",
+              "label": "Titanium Industries Industrial Products Handbook",
+              "href": "https://titanium.com/wp-content/uploads/2021/04/Industrial-Resource-Booklet-Titanium-Industries.pdf",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-22",
+      "preset": "float-wrap",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-23",
+          "items": [
+            {
+              "id": "text-24",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Chemical Processing"
+                }
+              ]
+            },
+            {
+              "id": "picture-25",
+              "kind": "picture",
+              "src": "https://titanium.com/s/img/wp-content/uploads/2019/11/chemical.jpg",
+              "alt": "Specialty metals for Industrial markets",
+              "href": "",
+              "wrap": "left"
+            },
+            {
+              "id": "text-26",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Titanium provides an economically efficient material in many corrosive environments. The corrosion resistance extends the life cycle of equipment and reduces maintenance costs."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium’s superior corrosion resistance properties make it a natural choice for Chemical Processing Industry applications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "When processing aggressive compounds like nitric acid, organic acids, chlorine dioxide, inhibited reducing acids, and hydrogen sulfide, titanium is an excellent material of choice for vessels, heat-exchangers, tanks, agitators, coolers, and piping systems."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-27",
+      "preset": "float-wrap",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-28",
+          "items": [
+            {
+              "id": "text-29",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Power Generation"
+                }
+              ]
+            },
+            {
+              "id": "picture-30",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/power.jpg",
+              "alt": "Specialty metals for industrial markets",
+              "href": "",
+              "wrap": "right"
+            },
+            {
+              "id": "text-31",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Titanium is utilized in the Power Generation industry in turbine blade applications. In addition, titanium tubing is used on a large scale in condenser and auxillary heat exchanger applications in power plants due to its corrosion resistance and its unlimited life span."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Downtime at a power plant is a very expensive proposition. It has acknowledged that 30% of the downtime of power plants was a direct result of steam turbine failure. Titanium was the solution in this failure situation. 6AL4V titanium turbine blades in critical areas has proven to increase the efficiency and life of low-pressure turbines while at the same time reducing downtime and maintenance. The use of titanium is responsible for the reduction in downtime and maintenance creating cost savings and efficiencies in operations."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "In addition to the blades, commercially pure titanium condenser and auxillary heat exchanger tubing has been designed in to power plants applications specifically because of their unlimited life span, and due to the corrosion properties of titanium. Titanium tubing can be specified without having to design in a corrosion allowance. In calculating a cost-benefit analysis, titanium is the material of choice in these power generation applications."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-32",
+      "preset": "float-wrap",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-33",
+          "items": [
+            {
+              "id": "text-34",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Metal Extraction & Recovery"
+                }
+              ]
+            },
+            {
+              "id": "picture-35",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/metal.jpg",
+              "alt": "Industrial",
+              "href": "",
+              "wrap": "left"
+            },
+            {
+              "id": "text-36",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Titanium reactors are used in the hydrometallurgical extraction of metals."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium reactors are used in the hydrometallurgical extraction of metals from ores. This is an environmentally safe process and an excellent alternative to smelting processes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium has been selected for this application because it offers an extended lifespan, increased energy efficiency, and greater product purity. These factors promote the usage of titanium electrodes in electro-winning and electro-refining of metals like copper, gold, manganese and manganese dioxide."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-37",
+      "preset": "float-wrap",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-38",
+          "items": [
+            {
+              "id": "text-39",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Marine Applications"
+                }
+              ]
+            },
+            {
+              "id": "picture-40",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/marine.jpg",
+              "alt": "wire",
+              "href": "",
+              "wrap": "right"
+            },
+            {
+              "id": "text-41",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Corrosion resistance in sea water and brackish applications make titanium the material of choice in marine applications. It is used in ball valves, fire pumps, hull material for deep sea submersibles, water jet propulsion systems as well as shipboard cooling and piping systems and many other applications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium is immune to corrosive attack by salt water or marine environments, as a result it is an excellent material of choice for application such as deep sea submersibles, yacht fittings, propeller shafts and propellers, and in underwater manipulators."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "In addition, due to titanium’s general corrosion resistance characteristics, titanium is also used in submarine ball valves, fire pumps, heat exchangers, exhaust stack liners, as well as shipboard cooling and piping systems."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium’s formability, machinability, and weldability, make it an excellent choice for marine applications."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-42",
+      "preset": "float-wrap",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-43",
+          "items": [
+            {
+              "id": "text-44",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Military Applications"
+                }
+              ]
+            },
+            {
+              "id": "picture-45",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/military-1.jpg",
+              "alt": "wire",
+              "href": "",
+              "wrap": "left"
+            },
+            {
+              "id": "text-46",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Titanium is now a common material designed in armored vehicles and personnel carriers. Titanium has good ballistic properties, as well as offering significant weight reduction in this application."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "In addition to titanium being used in military aircraft applications, titanium is also considered a material of choice in military armor applications based on titanium’s excellent ballistic characteristics, light weight, corrosion resistance, and its ability to be fabricated."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The military has determined that there is a continued need to reduce the total weight of ground vehicles, particularly tanks, fighting vehicles, and personnel carriers. Titanium would satisfy this need by replacing conventional steel alloys and aluminum in some applications. The hatch on the M2 Bradley infantry fighting vehicle is titanium offering a weight savings of 35% and also providing increased ballistic protection over the original forged aluminum design."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium is also utilized in personal armor applications where the ballistic capabilities and light weight characteristic of the metal prove beneficial."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-47",
+      "preset": "float-wrap",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-48",
+          "items": [
+            {
+              "id": "text-49",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Heat Exchangers & Surface Condensers"
+                }
+              ]
+            },
+            {
+              "id": "picture-50",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/heat-exchanger.jpg",
+              "alt": "wire",
+              "href": "",
+              "wrap": "right"
+            },
+            {
+              "id": "text-51",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "A major application for titanium remains in heat transfer applications in which the cooling medium is seawater, brackish water, or polluted water, in which corrosion resistance is essential. A major industrial application for titanium remains in heat transfer applications in which the cooling medium is seawater, brackish water, or polluted water."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Plate and frame heat exchangers are used extensively in power plants, refineries, air conditioning systems, chemical plants, offshore platforms, surface ships and submarines."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The life span and dependability of titanium in this application are well documented. The initial cost of titanium in this application is not only competitive at the time of installation, but over time the life cycle costs are lower as a result of lower maintenance costs."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium coil and sheet consumed in this application is a commercially pure grade and products and readily available."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-52",
+      "preset": "float-wrap",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-53",
+          "items": [
+            {
+              "id": "text-54",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Pulp & Paper Industry"
+                }
+              ]
+            },
+            {
+              "id": "picture-55",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/pulp-paper.jpg",
+              "alt": "wire",
+              "href": "",
+              "wrap": "left"
+            },
+            {
+              "id": "text-56",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Corrosion resistance makes titanium a material in choice in the pulp and paper industry in drum washers, bleachers, and various pumps and piping systems."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The Pulp and Paper Industry reflects a perfect market opportunity for the application of titanium. The need for corrosion resistance , reliability in material, and the ability to operate at higher temperatures are the reasons that titanium is the material of choice in the Pulp and Paper Industry."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium is specified and has become the standard material for equipment in the bleaching section of the pulp and paper plant including heat exchangers, diffusers, drum washers, piping systems, and pumps."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-57",
+      "preset": "float-wrap",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-58",
+          "items": [
+            {
+              "id": "text-59",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Desalination Plants & Water Purification"
+                }
+              ]
+            },
+            {
+              "id": "picture-60",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/desalination.jpg",
+              "alt": "wire",
+              "href": "",
+              "wrap": "right"
+            },
+            {
+              "id": "text-61",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "In many parts of the world, a large percentage of drinking water comes from flash desalination."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium fits extremely well in multi-stage evaporation plants due to the corrosion and erosion properties. Titanium is also very cost competitive in the condensers of these plants because of the corrosion properties allow a thinner walled tube than the copper-nickel tubing and the titanium tube life-span is virtually unlimited."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "To gain further insights into Titanium Industries and the diverse markets we cater to with our specialty metals, we invite you to explore our range of other markets:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Additive Manufacturing Build Plates](https://titanium.com/markets/additive-manufacturing-build-plates/) [Aerospace](https://titanium.com/markets/aerospace/) [Industrial](https://titanium.com/markets/industrial/) [Medical](https://titanium.com/markets/medical/) [Defense](https://titanium.com/markets/defense/) [Engineered Fastener Alloys](https://titanium.com/markets/engineered-fasteners/) [Consumer Products](https://titanium.com/markets/consumer-products/) [Interconnect](https://titanium.com/interconnect-alloys/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Follow us on Social Media:"
+                }
+              ]
+            },
+            {
+              "id": "picture-62",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
+              "alt": "Titanium Industries | Instagram",
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-63",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
+              "alt": "Titanium Industries | LinkedIn",
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-64",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
+              "alt": "Titanium Industries | Twitter",
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-65",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
+              "alt": "Titanium Industries | Facebook",
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-66",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
+              "alt": "Titanium Industries | Youtube",
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/markets/industrial/",
+    "sourceHash": "27292401615bbf1dbf121cb4e901fb9332729d262cd8b810de41bdae0d58f9d5",
+    "converterVersion": "2",
+    "converterFamily": "medical-float",
+    "families": [
+      "equal-3-cta",
+      "medical-float"
+    ],
+    "convertedAt": "2026-09-24T20:16:48.815Z",
+    "grid": "lead-two-thirds | thirds | half-quarters | float-wrap | float-wrap | float-wrap | float-wrap | float-wrap | float-wrap | float-wrap | float-wrap",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/markets/industrial/ (private, noindex) beside https://titanium.com/markets/industrial/. Check the grid (lead-two-thirds, thirds, half-quarters, float-wrap, float-wrap, float-wrap, float-wrap, float-wrap, float-wrap, float-wrap, float-wrap), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

@@ -1,0 +1,232 @@
+{
+  "id": "asme-sb3481-specification",
+  "path": "/asme-sb3481-specification/",
+  "title": "ASME SB-381 | Quality Standard Specification for Titanium and Titanium Alloy Forged Fittings",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "ASME SB-381 | Quality Standard Specification for Titanium and Titanium Alloy Forged Fittings",
+    "description": "ASME SB-381 | Standard Specification for Titanium and Titanium Alloy Forged Fittings",
+    "canonical": "https://titanium.com/asme-sb3481-specification/",
+    "ogTitle": "ASME SB-381 | Quality Standard Specification for Titanium and Titanium Alloy Forged Fittings",
+    "ogDescription": "ASME SB-381 | Standard Specification for Titanium and Titanium Alloy Forged Fittings",
+    "ogImage": "https://titanium.com/s/img/s/img/s/img/s/img/s/img/wp-content/uploads/2023/07/Instagram-300x300.png.webp"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "ASME SB-381 | Standard Specification for Titanium and Titanium Alloy Forged Fittings"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Discounted Ti Inventory",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Titanium",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-11",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-8",
+          "items": [
+            {
+              "id": "button-12",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-13",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-14",
+          "items": [
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "ASME SB-381"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "ASME SB-381 | Quality Standard Specification for Titanium and Titanium Alloy Forged Fittings"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Identical with ASTM B381, ASME SB-381 is the standard specification for annealed titanium and titanium forgings. All 39 grades of unalloyed Titanium and Titanium alloys are covered by this standard. The Titanium alloy forgings must be manufactured from bar or billet that conforms to ASME SB-348. The manufactured forgings must be free of injurious external and internal imperfections and may be furnished as descaled, sandblasted, or ground. The forgings may be furnished as flanges, fittings, valve parts, special branches, pressure vessel parts, shafts, etc."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The ASME SB-381 specification also covers referenced documents, chemical composition, terminology, ordering information, methods of chemical analysis, dimensions and permissible variations, test and inspection, product marking and packaging information of titanium and titanium alloy forgings. It also covers supplementary requirements covering grade 3 titanium forgings."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-15",
+          "items": [
+            {
+              "id": "text-17",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Relevant Products:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Titanium 6Al-4V Grade 5 Round Bar](https://qqa.titanium.com/product/mill-product-titanium-round-bar)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-18",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-19",
+          "items": [
+            {
+              "id": "text-20",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Follow us on Social Media:"
+                }
+              ]
+            },
+            {
+              "id": "picture-21",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
+              "alt": "Titanium Industries | Instagram",
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-22",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
+              "alt": "Titanium Industries | LinkedIn",
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-23",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
+              "alt": "Titanium Industries | Twitter",
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-24",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
+              "alt": "Titanium Industries | Facebook",
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-25",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
+              "alt": "Titanium Industries | Youtube",
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/asme-sb3481-specification/",
+    "sourceHash": "335c86ebf035b3b06938999f7058ad627614095d19e62719ff5a1f5dfcffb2d5",
+    "converterVersion": "2",
+    "converterFamily": "unclassified",
+    "families": [
+      "unclassified"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | quarters | two-one | full",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/asme-sb3481-specification/ (private, noindex) beside https://titanium.com/asme-sb3481-specification/. Check the grid (full, quarters, two-one, full), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

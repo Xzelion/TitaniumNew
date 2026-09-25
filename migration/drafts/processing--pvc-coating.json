@@ -1,0 +1,268 @@
+{
+  "id": "processing--pvc-coating",
+  "path": "/processing/pvc-coating/",
+  "title": "Dynamic PVC Coating Sheet Metal & Coils| Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Dynamic PVC Coating Sheet Metal & Coils| Titanium Industries",
+    "description": "For PVC Coating Sheet Metal & Coils services, contact Titanium Industries, Inc. Get your Metals & Coils PVC Coated by the Global Leaders in Specialty Metals Since 1972.",
+    "canonical": "https://titanium.com/processing/pvc-coating/",
+    "ogTitle": "Dynamic PVC Coating Sheet Metal & Coils| Titanium Industries",
+    "ogDescription": "For PVC Coating Sheet Metal & Coils services, contact Titanium Industries, Inc. Get your Metals & Coils PVC Coated by the Global Leaders in Specialty Metals Since 1972.",
+    "ogImage": "https://titanium.com/wp-content/uploads/2023/07/Instagram.png"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "PVC Coating | Titanium Industries"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://qqa.titanium.com/product?type=mill-product",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "full",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-13",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "PVC Coating Sheet Metal & Coils"
+                },
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "Shielding Excellence: PVC Coating for Sheet Metal & Coils"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Industries understands the paramount importance of safeguarding your valuable sheet metal and coils throughout their entire journey, from production to the final application. To ensure the pristine condition of your materials, we offer a reliable solution – PVC coating. This thin bonded layer of PVC provides exceptional protection, defending against potential scratches, damage, and wear during shipment, incoming inspection, and part manufacturing processes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "PVC coating or a thin bonded piece of PVC can be applied to any sheet or coil product to help protect the surface from scratches or other damage during shipment, incoming inspection and possibly manufacture of part. The coating lightly adheres to the surface of the sheet or coil and is easily removed without any deleterious impact on the sheet or coil product."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Unmatched Protection, Gentle Adhesion:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "With our PVC coating service, your sheet metal and coils are cocooned in unmatched protection without any lasting impact on the material’s surface. The coating lightly adheres, offering a secure shield that preserves the material’s integrity. When it’s time to reveal your materials, rest assured that the PVC coating can be effortlessly removed, leaving behind an immaculate surface."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Versatility for Diverse Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Our PVC coating service caters to a wide range of materials and applications. Whether you need safeguarding for delicate sheet metal or robust coils, our PVC coating is designed to meet your unique needs. From aerospace to industrial applications and beyond, our coating ensures the utmost protection, regardless of your industry."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Quality Assurance, Precision Application:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "At Titanium Industries, we prioritize delivering unparalleled quality in every aspect of our services. Our PVC coating process adheres to rigorous quality controls and employs cutting-edge technology, ensuring a seamless and precise application, upholding our commitment to excellence."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Your Materials, Our Priority:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "We understand the value of your materials, and with our PVC coating service, we prioritize their protection. Count on Titanium Industries to ensure your sheet metal and coils arrive at their destination in pristine condition, ready to deliver peak performance."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elevate Your Materials’ Defense with PVC Coating:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Opt for Titanium Industries’ PVC coating service to fortify your sheet metal and coils with enhanced protection. Our coating solution guarantees that your materials remain unscathed and impeccable, elevating the overall quality and value of your products. [Contact us today!](https://titanium.com/contact-us/)"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "PVC Coating Sheet Metal & Coils and More Processing Services Available"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Water Jet Cutting](https://titanium.com/processing/water-jet-cutting/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Saw Cutting](https://titanium.com/processing/saw-cutting/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Chamfering](https://titanium.com/processing/chamfering/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Torch Cutting](https://titanium.com/processing/torch-cutting/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Heat Treating](https://titanium.com/processing/heat-treating/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[PVC Coating](https://titanium.com/processing/pvc-coating/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Precision Grinding](https://titanium.com/processing/grinding/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Trepanning & Boring](https://titanium.com/processing/trepanning/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Coil Slitting](https://titanium.com/processing/coil-slitting/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Metal Sheet Shearing](https://titanium.com/processing/shearing/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Follow us on Social Media:"
+                }
+              ]
+            },
+            {
+              "id": "picture-14",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
+              "alt": "Titanium Industries | Instagram",
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-15",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
+              "alt": "Titanium Industries | LinkedIn",
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-16",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
+              "alt": "Titanium Industries | Twitter",
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-17",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
+              "alt": "Titanium Industries | Facebook",
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-18",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
+              "alt": "Titanium Industries | Youtube",
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/processing/pvc-coating/",
+    "sourceHash": "656502c28a5ca384d762adb7593749bdab1ede0dac0d1e0a2a09afe7b2c62e3a",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:09:34.873Z",
+    "grid": "full | thirds | full",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/processing/pvc-coating/ (private, noindex) beside https://titanium.com/processing/pvc-coating/. Check the grid (full, thirds, full), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

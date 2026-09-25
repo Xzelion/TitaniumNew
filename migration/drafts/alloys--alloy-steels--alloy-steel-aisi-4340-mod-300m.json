@@ -1,0 +1,423 @@
+{
+  "id": "alloys--alloy-steels--alloy-steel-aisi-4340-mod-300m",
+  "path": "/alloys/alloy-steels/alloy-steel-aisi-4340-mod-300m/",
+  "title": "Alloy Steel 4340 MOD 300M | UNS# K44220 | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Alloy Steel 4340 MOD 300M | UNS# K44220 | Titanium Industries",
+    "description": "AISI 300M (4340 MOD) alloy steel is a low alloy and vacuum melted alloy steel and is a modified version of AISI 4340 steel,",
+    "canonical": "https://titanium.com/alloys/alloy-steels/alloy-steel-aisi-4340-mod-300m/",
+    "ogTitle": "Alloy Steel 4340 MOD 300M | UNS# K44220 | Titanium Industries",
+    "ogDescription": "AISI 300M (4340 MOD) alloy steel is a low alloy and vacuum melted alloy steel and is a modified version of AISI 4340 steel,",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Alloy Steel AISI 300M (4340 MOD) | UNS# K44220"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Weight Calculator",
+              "href": "https://qqa.titanium.com/tools/calculator",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "two-one",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "AISI 300M (4340 MOD) alloy steel is a low alloy and vacuum melted alloy steel. A modified version of AISI 4340 steel, 300M has high content of molybdenum and silicon in comparison to AISI 4340 steel. This alloy steel demonstrates high strength, good toughness, fatigue strength and ductility; which allows for the the material to be used in aircraft landing gear, airframe parts, flap track, components for missiles, and some motorsport applications."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Alloy Steel Round Bar Offered at Titanium Industries can be found here.](https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AISI 300M (4340 MOD) Specifications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2300](https://titanium.com/ams-2300-specification/) , [AMS 6257](https://titanium.com/ams-6257-specification/) , [AMS 6417](https://titanium.com/ams-6417-specification/) , [AMS 6419](https://titanium.com/ams-6419-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "SAE 434M"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM A646](https://titanium.com/astm-a646-specification/)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "button-15",
+              "kind": "button",
+              "label": "Buy Now",
+              "href": "https://qqa.titanium.com/product/mill-product-alloy-steel-round-bar",
+              "variant": "primary"
+            },
+            {
+              "id": "text-16",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Alloy Steel AISI 300M (4340 MOD) Applications:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Aircraft landing gear"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Airframe parts"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Flap track"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Components for missiles"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Motorsports"
+                }
+              ]
+            },
+            {
+              "id": "button-17",
+              "kind": "button",
+              "label": "Discounted Alloy Steel Inventory",
+              "href": "https://qqa.titanium.com/customer/discounted-products?product=Alloy+Steel",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-18",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-19",
+          "items": [
+            {
+              "id": "text-20",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "DISCLAIMER: Alloy data sheets are for reference only, not for design purposes."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Chemical Composition"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "C 0.38 – 0.43% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mn 0.65 – 0.90%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Si 1.45 – 1.80%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "P 0.010% Max"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "S 0.008%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cr 0.70 – 0.95%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Ni 1.65 – 2.00%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Mo 0.30 – 0.50%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "V 0.05 – 0.10%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Cu 0.35% Max"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-21",
+      "preset": "lead-three-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-22",
+          "items": [
+            {
+              "id": "text-23",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "PHYSICAL PROPERTIES"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Density (lbs/cubic in)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Electrical conductivity (% IACS)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal conductivity (BTU-in/hr-ft²-°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Specific heat capacity"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Thermal expansion (1/°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Melting Point (°F)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.284"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "2590"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-24",
+      "preset": "lead-three-quarters",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-25",
+          "items": [
+            {
+              "id": "text-26",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Mechanical Properties"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Property"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Maximum"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Yield Strength Range (Rp"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "0.2 Offset"
+                },
+                {
+                  "type": "paragraph",
+                  "text": ") (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "270"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Tensile Strength Range (ksi)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "220"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elongation"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "8%"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Hardness (HBW)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "–"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Modulus of Elasticity (ksi) (E): –"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Machineability General Index: –"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/alloy-steels/alloy-steel-aisi-4340-mod-300m/",
+    "sourceHash": "478e1c3b7d83d10f281e24c1d776b133a5aca57eb58089fb1e558da23ea8063e",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "full | thirds | two-one | lead-three-fifths | lead-three-fifths | lead-three-quarters",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/alloy-steels/alloy-steel-aisi-4340-mod-300m/ (private, noindex) beside https://titanium.com/alloys/alloy-steels/alloy-steel-aisi-4340-mod-300m/. Check the grid (full, thirds, two-one, lead-three-fifths, lead-three-fifths, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

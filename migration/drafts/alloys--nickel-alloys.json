@@ -1,0 +1,277 @@
+{
+  "id": "alloys--nickel-alloys",
+  "path": "/alloys/nickel-alloys/",
+  "title": "Nickel Alloys Round & Hollow Bar, Titanium Industries Nickel Alloy Supplier",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Nickel Alloys Round & Hollow Bar, Titanium Industries Nickel Alloy Supplier",
+    "description": "Titanium Industries selection of Nickel Alloys Round Bar and Hollow Bar - Suitable for many demanding aerospace, oil & gas, and industrial applications.",
+    "canonical": "https://titanium.com/alloys/nickel-alloys/",
+    "ogTitle": "Nickel Alloys Round & Hollow Bar, Titanium Industries Nickel Alloy Supplier",
+    "ogDescription": "Titanium Industries selection of Nickel Alloys Round Bar and Hollow Bar - Suitable for many demanding aerospace, oil & gas, and industrial applications.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Please find our selection of Nickel Alloy Round Bar and Hollow Bar, below."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium Industries’ selection of [Nickel Alloy Round Bar](https://titanium.com/shop/products/mill-products-nickel-alloy-round-bar) and Hollow Bar and more for the Aerospace, Oil and Gas, Industrial, and Medical industries.With quick turnarounds on quotes and an exceptional selection of specialty metal processing and service capabilities, Titanium Industries is ready to deliver. If the Nickel Alloy product form you require is not shown below, please do not hesitate to [contact us here or contact your local T. I. Sales Representative](https://titanium.com/contact-us/) ."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://titanium.com/shop/",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "one-three",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-14",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "[Nickel Round Bar](https://qqa.titanium.com/product/mill-product-nickel-alloy-round-bar)"
+                }
+              ]
+            },
+            {
+              "id": "picture-15",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Round_Bar_Hi-300x200.jpg",
+              "alt": "round bar",
+              "href": "https://titanium.com/shop/products/mill-products-nickel-alloy-round-bar",
+              "wrap": "none"
+            },
+            {
+              "id": "button-16",
+              "kind": "button",
+              "label": "Buy Now",
+              "href": "https://titanium.com/shop/products/mill-products-nickel-alloy-round-bar",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-13",
+          "items": [
+            {
+              "id": "text-17",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Round Bar Size Range:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum diameter: 0.780″/1.00 mm | Maximum diameter: 14.000″/400.00 mm"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Alloy ROUND BAR"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "625 | UNS N06625"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "718 | UNS N07718"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Waspaloy™ | UNS N07001"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2261](https://titanium.com/ams-2261-specification/) , [AMS 5666](https://titanium.com/ams-5666-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM B446](https://titanium.com/astm-b446-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASME SB-446](https://titanium.com/asme-sb446-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 2261](https://titanium.com/ams-2261-specification/) , [AMS 5662](https://titanium.com/ams-5662-specification/) , [AMS 5663](https://titanium.com/ams-5663-specification/) , [AMS 5664](https://titanium.com/ams-5664-specification/) , [AMS 5708](https://titanium.com/ams-5708-specification-2/) , [AMS 5962](https://titanium.com/ams-5962-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "AMS Capable: [AMS 5663](https://titanium.com/ams-5663-specification/) , [AMS 5664](https://titanium.com/ams-5664-specification/) , AMS 5909"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASME SB-637](https://titanium.com/asme-sb637-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "NACE API 6A718, NACE Per MR 0175"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[ASTM B446](https://titanium.com/astm-b446-specification/) , [ASTM B637](https://titanium.com/astm-b637-specification/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[AMS 5708](https://titanium.com/ams-5708-specification/) , AMS 5909 Capable"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-18",
+      "preset": "custom",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-19",
+          "items": [
+            {
+              "id": "text-21",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 2,
+                  "text": "[Nickel Alloy Hollow Bar](https://titanium.com/metalproducts/hollow-bar/)"
+                }
+              ]
+            },
+            {
+              "id": "picture-22",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Hollow_Bar_Low-300x200.jpg",
+              "alt": "Hollow Bar",
+              "href": "https://titanium.com/products/hollow-bar/",
+              "wrap": "none"
+            }
+          ],
+          "width": "quarter"
+        },
+        {
+          "id": "column-20",
+          "items": [
+            {
+              "id": "text-23",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Nickel Hollow Bar Size Range:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Minimum diameter: 2.500″/60.00 mm | Maximum diameter: 16.000″/500.00 mm"
+                },
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Nickel Alloys"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "625 | UNS N06625"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "718 | UNS N07718"
+                }
+              ]
+            }
+          ],
+          "width": "half"
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/alloys/nickel-alloys/",
+    "sourceHash": "dc55e8328420b392277098cb4eaea000b9c400e887100693c604a78212453647",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta",
+      "custom-column-widths"
+    ],
+    "convertedAt": "2026-09-24T21:04:52.498Z",
+    "grid": "full | thirds | one-three | custom(quarter+half)",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/alloys/nickel-alloys/ (private, noindex) beside https://titanium.com/alloys/nickel-alloys/. Check the grid (full, thirds, one-three, custom(quarter+half)), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

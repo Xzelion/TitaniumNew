@@ -1,0 +1,164 @@
+{
+  "id": "metal-alloy-technical-data-titanium-nickel-steel-specs--titanium-seawater-applications",
+  "path": "/metal-alloy-technical-data-titanium-nickel-steel-specs/titanium-seawater-applications/",
+  "title": "Titanium Performance in Seawater Applications | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Titanium Performance in Seawater Applications | Titanium Industries",
+    "description": "Titanium Performance in Seawater Applications. Titanium has proven to be extremely effective in staving off corrosion and various negative conditions caused by seawater.",
+    "canonical": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/titanium-seawater-applications/",
+    "ogTitle": "Titanium Performance in Seawater Applications | Titanium Industries",
+    "ogDescription": "Titanium Performance in Seawater Applications. Titanium has proven to be extremely effective in staving off corrosion and various negative conditions caused by seawater.",
+    "ogImage": ""
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "lead-four-fifths",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Titanium Seawater Applications"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "two-one",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "text-7",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Titanium Performance in Seawater Applications"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Over the last decade, Titanium has proven to be extremely effective in staving off corrosion and various negative conditions caused by seawater. Because of this, Titanium is specified at higher rates in the chemical and power industries due to the materials outstanding resistance in these specific chemical and marine environments. Titanium’s properties include relatively low density, low modulus, a wide range of strength, and exceptional corrosion resistance over a wide span of environmental conditions. Additionally, the use of Titanium is also motivated by a need to decrease material cost and increase commercial availability."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Titanium’s attractive properties and inherent corrosion resistance is due to its adherent protective oxide film that is chemically stable over a wide range of applications, from highly oxidizing to mild conditions. Because of these favorable qualities, Titanium alloys are usually expected to resist most natural water conditions and common salt solutions, chlorides, sulfates, silicates, phosphates, nitrates, carbonates, and others that have a pH range of 3-12. When compared to Stainless Steels, Titanium does not demonstrate the same susceptibility to stress corrosion from chlorides, making the material well suited for seawater, brine applications, and other similar instances."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Applications for Titanium range from offshore rig ballast tanks, fire suppression systems, steam condensers, and pressure vessels within the oil & gas, industrial, and power generation industries. Titanium’s immunity to seawater provides reliability, long-term proven life-cycle cost and reduction or complete elimination of maintenance."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "The U.S. Navy is incorporating Titanium in many of the department’s vessels for onboard equipment such as tanks, piping, doors, and hatches due to escalating maintenance and repair costs caused by extremely harsh seawater environments."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "In terms of the Titanium grades, the most common is [Titanium Grade 2](https://titanium.com/alloys/titanium-and-titanium-alloys/ti-grade-2-cp-3/) , a very ductile grade that allows for easy fabrication of parts and excellent crevice corrosion for seawater applications up to 180°F (82°C). [Titanium 6Al-4V Grade 5](https://titanium.com/alloys/titanium-and-titanium-alloys/ti-grade-5-6al-4v/) is a general-purpose Titanium alloy that offers higher strength, good corrosion resistance, but slightly inferior to Grade 2. For significantly better crevice corrosion resistance at temperatures in excess of 500°F (260°C), [Titanium Grade 7](https://titanium.com/alloys/titanium-and-titanium-alloys/ti-grade-7/) is viable, with [Titanium Grade 12](https://titanium.com/alloys/titanium-and-titanium-alloys/grade-12/) being a low cost alternative due its 0.8% Nickel and 0.3% Molybdenum chemistry."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "In conclusion, Titanium is often the clear winner when considering lifetime maintenance costs verses superior seawater corrosion resistance. A unique combination of high strength and excellent corrosion resistance enables Titanium to be a chosen prime material for steam condensers and other seawater cooled heat exchangers and other marine equipment."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            },
+            {
+              "id": "text-9",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Products available at Titanium Industries"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Grade 2 Titanium Plate](https://titanium.com/products/plate/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Grade 2 Titanium Sheet](https://titanium.com/products/titanium-sheet/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Grade 2 Titanium Round Bar](https://titanium.com/products/round-bar/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Grade 2 Seamless Pipe](https://titanium.com/products/seamless-pipe/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Grade 2 Seamless Tube](https://titanium.com/products/seamless-tube/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Grade 2 Welded Pipe](https://titanium.com/products/welded-pipe/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Grade 2 Welded Tube](https://titanium.com/products/welded-tube/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[6Al-4V Grade 5 Titanium Plate](https://titanium.com/products/plate/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[6Al-4V Grade 5 Titanium Sheet](https://titanium.com/products/titanium-sheet/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[6Al-4V Grade 5 Titanium Round Bar](https://titanium.com/products/round-bar/)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/titanium-seawater-applications/",
+    "sourceHash": "08abf10d3131401acd4dd156a87106f295a18945dfaddd21dd4d740c473cf039",
+    "converterVersion": "2",
+    "converterFamily": "unclassified",
+    "families": [
+      "unclassified"
+    ],
+    "convertedAt": "2026-09-24T20:55:29.737Z",
+    "grid": "lead-four-fifths | two-one",
+    "remainingSourceOnly": [],
+    "verify": "Open /preview/metal-alloy-technical-data-titanium-nickel-steel-specs/titanium-seawater-applications/ (private, noindex) beside https://titanium.com/metal-alloy-technical-data-titanium-nickel-steel-specs/titanium-seawater-applications/. Check the grid (lead-four-fifths, two-one), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}

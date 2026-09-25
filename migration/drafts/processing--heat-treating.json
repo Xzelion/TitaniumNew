@@ -1,0 +1,242 @@
+{
+  "id": "processing--heat-treating",
+  "path": "/processing/heat-treating/",
+  "title": "Efficient Heat Treating Metal: Hardening, Tempering, Aging | Titanium Industries",
+  "readiness": "layout_editing",
+  "seo": {
+    "title": "Efficient Heat Treating Metal: Hardening, Tempering, Aging | Titanium Industries",
+    "description": "Titanium Industries, Inc. specializes in Heat Treating Metal, including the Hardening, Aging & Tempering of Specialty Metals - contact us here today.",
+    "canonical": "https://titanium.com/processing/heat-treating/",
+    "ogTitle": "Efficient Heat Treating Metal: Hardening, Tempering, Aging | Titanium Industries",
+    "ogDescription": "Titanium Industries, Inc. specializes in Heat Treating Metal, including the Hardening, Aging & Tempering of Specialty Metals - contact us here today.",
+    "ogImage": "https://titanium.com/wp-content/uploads/2023/07/Instagram.png"
+  },
+  "rows": [
+    {
+      "id": "row-1",
+      "preset": "full",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-2",
+          "items": [
+            {
+              "id": "text-3",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 3,
+                  "text": "Heat Treating | Titanium Industries"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-4",
+      "preset": "thirds",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-5",
+          "items": [
+            {
+              "id": "button-8",
+              "kind": "button",
+              "label": "Create Quote",
+              "href": "https://qqa.titanium.com/quick-quote",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-6",
+          "items": [
+            {
+              "id": "button-9",
+              "kind": "button",
+              "label": "Contact Us",
+              "href": "https://titanium.com/contact-us/",
+              "variant": "primary"
+            }
+          ]
+        },
+        {
+          "id": "column-7",
+          "items": [
+            {
+              "id": "button-10",
+              "kind": "button",
+              "label": "Shop Now",
+              "href": "https://qqa.titanium.com/product?type=mill-product",
+              "variant": "primary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "row-11",
+      "preset": "lead-three-quarters",
+      "spaceAbove": true,
+      "columns": [
+        {
+          "id": "column-12",
+          "items": [
+            {
+              "id": "text-13",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 1,
+                  "text": "Heat Treating Metal: Hardening, Tempering, Aging & More"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Depending on the microstructural requirement of a specification for a given material, Heat Treating may be required. The most common of the heat treatment processes include Hardening, Tempering, Solution & Aging, Annealing, Normalizing and Stress Relieving. Each heat treatment requires a controlled environment of “time and temperature” to achieve the desired properties."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Heat treating is a vital process in the world of metallurgy, playing a transformative role in enhancing material properties and meeting specific microstructural requirements. Titanium Industries, with its decades of expertise, stands as a pioneer in delivering exceptional heat treating services. From hardening to tempering, solution & aging, annealing, normalizing, and stress relieving, we offer a comprehensive suite of heat treatment processes designed to elevate your materials to unprecedented levels of performance."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Elevate Your Materials with Titanium Industries:"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "When it comes to heat treating, Titanium Industries emerges as the unrivaled leader, delivering precision, performance, and reliability. Our commitment to quality, combined with a customer-centric approach, ensures that your materials attain the pinnacle of excellence. Partner with Titanium Industries today and experience a transformation like never before."
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Contact us today!](https://titanium.com/contact-us/)"
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Heat Treating & More Processing Services Available"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Water Jet Cutting](https://titanium.com/processing/water-jet-cutting/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Saw Cutting](https://titanium.com/processing/saw-cutting/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Chamfering](https://titanium.com/processing/chamfering/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Torch Cutting](https://titanium.com/processing/torch-cutting/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Heat Treating](https://titanium.com/processing/heat-treating/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[PVC Coating](https://titanium.com/processing/pvc-coating/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Precision Grinding](https://titanium.com/processing/grinding/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Trepanning & Boring](https://titanium.com/processing/trepanning/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Coil Slitting](https://titanium.com/processing/coil-slitting/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "[Metal Sheet Shearing](https://titanium.com/processing/shearing/)"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Follow us on Social Media:"
+                }
+              ]
+            },
+            {
+              "id": "picture-14",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Instagram-300x300.png",
+              "alt": "Titanium Industries | Instagram",
+              "href": "https://www.instagram.com/titaniumindustries/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-15",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Linkedin-300x300.png",
+              "alt": "Titanium Industries | LinkedIn",
+              "href": "https://www.linkedin.com/company/1086753/admin/",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-16",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Twitter-300x300.png",
+              "alt": "Titanium Industries | Twitter",
+              "href": "https://twitter.com/TI_Industries",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-17",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/Facebook-300x300.png",
+              "alt": "Titanium Industries | Facebook",
+              "href": "https://www.facebook.com/titaniumindustries?fref=ts",
+              "wrap": "none",
+              "displayPx": 59
+            },
+            {
+              "id": "picture-18",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2023/07/youtube-300x300.png",
+              "alt": "Titanium Industries | Youtube",
+              "href": "https://www.youtube.com/@TitaniumIndustries",
+              "wrap": "none",
+              "displayPx": 59
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedVersion": null,
+  "provenance": {
+    "sourceUrl": "https://titanium.com/processing/heat-treating/",
+    "sourceHash": "a46aba4be6285541091034efb948dcd0eb772ad77e35ff3a4e391c1c5b5a439f",
+    "converterVersion": "2",
+    "converterFamily": "equal-3-cta",
+    "families": [
+      "equal-3-cta",
+      "inner-width-not-split"
+    ],
+    "convertedAt": "2026-09-24T20:09:34.873Z",
+    "grid": "full | thirds | lead-three-quarters",
+    "remainingSourceOnly": [
+      {
+        "id": "source-19",
+        "label": "Text width inside the column",
+        "reason": "This page includes the processing CSS that floats a text block to 55% and a picture to 40% (20px lower). No full-width row is that pair, so the draft keeps the named columns and does not invent the water-jet split."
+      }
+    ],
+    "verify": "Open /preview/processing/heat-treating/ (private, noindex) beside https://titanium.com/processing/heat-treating/. Check the grid (full, thirds, lead-three-quarters), pictures, buttons, and the search title. Saving in Payload does not change the public site."
+  },
+  "siteVisibility": "private_draft",
+  "editedByHuman": false
+}
