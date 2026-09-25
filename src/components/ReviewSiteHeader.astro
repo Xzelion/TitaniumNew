@@ -1,0 +1,14 @@
+---
+import { readFileSync } from 'node:fs';
+import '../styles/review-header.css';
+
+/** Header markup from the known-good Netlify review preview. */
+const headerHtml = readFileSync(new URL('./review-site-header.html', import.meta.url), 'utf8');
+---
+
+<header class="review-site-header">
+  <Fragment set:html={headerHtml} />
+</header>
+<script>
+  import '../scripts/review-header-elements.js';
+</script>

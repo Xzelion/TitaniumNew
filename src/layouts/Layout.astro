@@ -2,8 +2,9 @@
 import '../styles/global.css';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import ReviewSiteHeader from '../components/ReviewSiteHeader.astro';
 import { siteChromeForPage } from '../../shared/chrome/load';
-import { renderChromeFooter, renderChromeHeader } from '../../shared/chrome/render';
+import { renderChromeFooter } from '../../shared/chrome/render';
 
 interface Props {
   title: string;
@@ -37,7 +38,6 @@ const chrome = siteChromeForPage({
   dev: import.meta.env.DEV,
   pathname: Astro.url.pathname,
 });
-const chromeHeader = chrome ? renderChromeHeader(chrome) : '';
 const chromeFooter = chrome ? renderChromeFooter(chrome) : '';
 
 const organizationSchema = {
@@ -103,7 +103,7 @@ const organizationSchema = {
   <script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
 </head>
 <body>
-  {chrome ? <Fragment set:html={chromeHeader} /> : <Header />}
+  {chrome ? <ReviewSiteHeader /> : <Header />}
   <main>
     <slot />
   </main>

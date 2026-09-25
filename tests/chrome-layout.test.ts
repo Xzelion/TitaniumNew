@@ -54,19 +54,25 @@ describe('site chrome layout', () => {
     expect(siteChromeForPage({ dev: false, pathname: '/preview/chrome' })?.heroSlides).toHaveLength(6)
   })
 
-  it('keeps mega panels closed until hover or open', () => {
-    const css = readFileSync(path.join(process.cwd(), 'src/styles/global.css'), 'utf8')
-    const panel = css.match(/\.chrome-mega-panel \{[^}]+\}/)?.[0] ?? ''
-    expect(panel).toContain('display: none')
-    expect(panel).not.toContain('display: grid')
-    const openPanel = css.match(/\.chrome-mega\[open\] > \.chrome-mega-panel[\s\S]*?\{[^}]+\}/)?.[0] ?? ''
-    expect(openPanel).toContain('.chrome-mega:hover > .chrome-mega-panel')
-    expect(openPanel).toContain('.chrome-mega:focus-within > .chrome-mega-panel')
-    expect(openPanel).toContain('display: grid')
-    expect(css).toMatch(/\.chrome-mega\[open\],\s*\.chrome-mega:hover,\s*\.chrome-mega:focus-within \{[^}]*z-index:\s*70/)
-    expect(css).toMatch(/\.chrome-nav \{[^}]*justify-content:\s*center[^}]*background:\s*#0a0a0a[^}]*min-height:\s*2\.75rem/)
-    expect(css).toMatch(/\.chrome-nav-link,\s*\.chrome-mega summary \{[^}]*text-transform:\s*uppercase/)
-    expect(css).toContain('.site-chrome-header select')
+  it('restores the review mega-menu and keeps submenus closed', () => {
+    const header = readFileSync(path.join(process.cwd(), 'src/components/review-site-header.html'), 'utf8')
+    const css = readFileSync(path.join(process.cwd(), 'src/styles/review-header.css'), 'utf8')
+    const layout = readFileSync(path.join(process.cwd(), 'src/layouts/Layout.astro'), 'utf8')
+    expect(header).toContain('<mega-menu class="site-header">')
+    expect(header).toContain('class="site-topbar"')
+    expect(header).toContain('class="site-navband"')
+    expect(header).toContain('class="menu-submenu"')
+    expect(header).toContain('/wp-content/uploads/2016/10/titanium_LOGO_rgb_KO-274x300.png')
+    expect(header).not.toContain('<details')
+    expect(header).not.toContain('chrome-mega')
+    expect(css).toContain('mega-menu .main-nav .menu-list--depth-1 > .menu-item > .menu-submenu')
+    expect(css).toContain('display: none')
+    expect(css).not.toContain('display:block!important')
+    expect(css).toContain('.main-nav .menu-list--depth-1{justify-content:space-between}')
+    expect(css).toContain('.site-topbar-inner{flex-wrap:nowrap;justify-content:flex-start')
+    expect(css).not.toContain('justify-content: center')
+    expect(layout).toContain('ReviewSiteHeader')
+    expect(layout).not.toContain('renderChromeHeader')
   })
 
   it('falls back when the chrome file is not a valid document', () => {

@@ -174,126 +174,12 @@ body {
   background: linear-gradient(90deg, transparent, var(--color-border), transparent);
 }
 
-/* Site chrome — header, mega menu, footer, and homepage hero from the chrome document */
-.site-chrome-header {
-  position: sticky;
-  top: 0;
-  z-index: 50;
-  background: #003366;
-  color: #fff;
-}
-
-.chrome-bar {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 0.75rem 1.5rem;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 1rem 1.5rem;
-  flex-wrap: wrap;
-}
-
-.chrome-logo {
-  height: 56px;
-  width: auto;
-  background: #fff;
-}
-
-.chrome-utility {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem 1.25rem;
-  font-size: 0.875rem;
-}
-
-.chrome-utility a,
-.chrome-nav-link,
+/* Site chrome footer and homepage hero. The header is the review mega-menu, not details panels. */
 .site-chrome-footer a {
   color: inherit;
   text-decoration: none;
 }
 
-.chrome-nav {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-  gap: 0.15rem 0.75rem;
-  background: #0a0a0a;
-  padding: 0 1.5rem;
-  min-height: 2.75rem;
-  width: 100%;
-}
-
-.chrome-nav-link,
-.chrome-mega summary {
-  color: #fff;
-  font-weight: 700;
-  font-size: 0.8rem;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  padding: 0.7rem 0.85rem;
-  white-space: nowrap;
-  display: flex;
-  align-items: center;
-  cursor: pointer;
-  list-style: none;
-}
-
-.chrome-mega summary::-webkit-details-marker {
-  display: none;
-}
-
-.chrome-mega {
-  position: relative;
-  display: flex;
-  align-items: stretch;
-}
-
-.chrome-mega[open],
-.chrome-mega:hover,
-.chrome-mega:focus-within {
-  z-index: 70;
-}
-
-/* Closed <details> content is hidden by the browser until an author display wins. Keep the panel hidden until hover, keyboard focus, or open. */
-.chrome-mega-panel {
-  position: absolute;
-  left: 0;
-  top: 100%;
-  z-index: 60;
-  min-width: min(720px, 92vw);
-  display: none;
-  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-  gap: 0.85rem;
-  padding: 1rem;
-  background: #fff;
-  color: #102033;
-  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.18);
-}
-
-.chrome-mega[open] > .chrome-mega-panel,
-.chrome-mega:hover > .chrome-mega-panel,
-.chrome-mega:focus-within > .chrome-mega-panel {
-  display: grid;
-}
-
-.site-chrome-header select,
-.site-chrome-header .goog-te-gadget,
-.site-chrome-header .gt_switcher,
-.site-chrome-header .skiptranslate,
-.site-chrome-header [class*='language'],
-.site-chrome-header [id*='google_translate'] {
-  display: none !important;
-}
-
-.chrome-mega-panel h3 {
-  margin: 0 0 0.35rem;
-  font-size: 0.9rem;
-}
-
-.chrome-mega-panel ul,
 .chrome-footer-col ul {
   margin: 0;
   padding-left: 1.1rem;
