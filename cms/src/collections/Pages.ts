@@ -1,11 +1,22 @@
-import type { CollectionConfig } from 'payload'
+import type { CollectionAfterChangeHook, CollectionConfig } from 'payload'
+import { exportHomepageFromPage, isHomepageAdminSave } from '../../../shared/cms-export/write'
+
+const exportHomepageAfterChange: CollectionAfterChangeHook = ({ doc, req }) => {
+  if (!isHomepageAdminSave(doc)) return doc
+  const written = exportHomepageFromPage(doc)
+  if (!written) {
+    req.payload.logger.error('Homepage save was not exported. Astro keeps the last JSON file.')
+  }
+  return doc
+}
 
 export const Pages: CollectionConfig = {
   slug: 'pages',
   admin: {
     useAsTitle: 'title',
     defaultColumns: ['title', 'path'],
-    description: 'Edit rows and columns here. Saving a draft does not change the public website.',
+    description:
+      'Edit rows and columns here. Saving the homepage (/) updates local and preview Astro. Saving does not publish the public website.',
     components: {
       beforeListTable: ['/components/ReadinessBoard#ReadinessList'],
     },
@@ -29,6 +40,7 @@ export const Pages: CollectionConfig = {
         return data
       },
     ],
+    afterChange: [exportHomepageAfterChange],
   },
   fields: [
     {

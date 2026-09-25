@@ -148,7 +148,7 @@ export interface User {
   collection: 'users';
 }
 /**
- * Edit rows and columns here. Saving a draft does not change the public website.
+ * Edit rows and columns here. Saving the homepage (/) updates local and preview Astro. Saving does not publish the public website.
  *
  * This interface was referenced by `Config`'s JSON-Schema
  * via the `definition` "pages".
@@ -318,7 +318,7 @@ export interface PayloadMigrationsSelect<T extends boolean = true> {
   createdAt?: T;
 }
 /**
- * Private draft of the live header, mega menu, footer, and homepage hero. Saving does not change the public website. Preview is /preview/chrome/.
+ * Private draft of the live header, mega menu, footer, and homepage hero. Saving updates local and preview Astro. It does not publish the public website. Preview is /preview/chrome/.
  *
  * This interface was referenced by `Config`'s JSON-Schema
  * via the `definition` "site-chrome".

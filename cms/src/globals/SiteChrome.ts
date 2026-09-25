@@ -1,4 +1,13 @@
-import type { GlobalConfig } from 'payload'
+import type { GlobalAfterChangeHook, GlobalConfig } from 'payload'
+import { exportChromeDocument } from '../../../shared/cms-export/write'
+
+const exportChromeAfterChange: GlobalAfterChangeHook = ({ doc, req }) => {
+  const written = exportChromeDocument(doc)
+  if (!written) {
+    req.payload.logger.error('Site chrome save was not exported. Astro keeps the last JSON file.')
+  }
+  return doc
+}
 
 const linkFields = [
   { name: 'label', type: 'text' as const, required: true },
@@ -10,7 +19,7 @@ export const SiteChrome: GlobalConfig = {
   label: 'Site chrome',
   admin: {
     description:
-      'Private draft of the live header, mega menu, footer, and homepage hero. Saving does not change the public website. Preview is /preview/chrome/.',
+      'Private draft of the live header, mega menu, footer, and homepage hero. Saving updates local and preview Astro. It does not publish the public website. Preview is /preview/chrome/.',
   },
   access: {
     read: ({ req }) => Boolean(req.user),
@@ -28,6 +37,7 @@ export const SiteChrome: GlobalConfig = {
         return data
       },
     ],
+    afterChange: [exportChromeAfterChange],
   },
   fields: [
     {
