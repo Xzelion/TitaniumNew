@@ -13,26 +13,28 @@
   },
   "rows": [
     {
-      "id": "row-9",
+      "id": "row-7",
       "preset": "full",
       "spaceAbove": false,
       "columns": [
         {
-          "id": "column-10",
+          "id": "column-8",
           "items": [
             {
-              "id": "text-6",
+              "id": "text-4",
               "kind": "text",
               "blocks": [
                 {
                   "type": "heading",
+                  "text": "Welcome to Titanium Industries",
                   "level": 2,
-                  "text": "Welcome to Titanium Industries"
+                  "tone": "navy",
+                  "align": "center"
                 }
               ]
             },
             {
-              "id": "picture-7",
+              "id": "picture-5",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2024/05/50plusyears_ti-e1715177897643-300x285.png",
               "alt": "titanium industries metal supplier",
@@ -40,38 +42,45 @@
               "wrap": "none"
             },
             {
-              "id": "text-8",
+              "id": "text-6",
               "kind": "text",
               "blocks": [
                 {
                   "type": "paragraph",
-                  "text": "Decades of Metal Supply Solutions Experience | 1972 – 2025"
+                  "text": "Decades of Metal Supply Solutions Experience | 1972 – 2025",
+                  "tone": "gray",
+                  "align": "center"
                 },
                 {
                   "type": "heading",
+                  "text": "Global Metal Supply & Distribution Company",
                   "level": 3,
-                  "text": "Global Metal Supply & Distribution Company"
+                  "tone": "navy",
+                  "align": "center"
                 },
                 {
                   "type": "paragraph",
-                  "text": "T.I. is the global leader in specialty metals & titanium supply for the Aerospace, Defense, Industrial, Medical and Oil & Gas markets. Holding the world’s most complete inventory of Titanium Round & Rectangle Bar, Titanium Plate, Titanium Sheet, Titanium Pipe & Fittings and other specialty metals across a global service center network, T.I. delivers supply solutions at all levels of sophistication and complexity. With a globally experienced and technically driven team, T.I. has been providing dependable, quality driven service to our customers since 1972."
+                  "text": "T.I. is the global leader in specialty metals & titanium supply for the Aerospace, Defense, Industrial, Medical and Oil & Gas markets. Holding the world’s most complete inventory of Titanium Round & Rectangle Bar, Titanium Plate, Titanium Sheet, Titanium Pipe & Fittings and other specialty metals across a global service center network, T.I. delivers supply solutions at all levels of sophistication and complexity. With a globally experienced and technically driven team, T.I. has been providing dependable, quality driven service to our customers since 1972.",
+                  "tone": "ink",
+                  "align": "center"
                 }
               ]
             }
           ]
         }
-      ]
+      ],
+      "visual": "welcome"
     },
     {
-      "id": "row-11",
+      "id": "row-9",
       "preset": "thirds",
       "spaceAbove": true,
       "columns": [
         {
-          "id": "column-12",
+          "id": "column-10",
           "items": [
             {
-              "id": "button-15",
+              "id": "button-13",
               "kind": "button",
               "label": "Create Quote",
               "href": "https://qqa.titanium.com/quick-quote",
@@ -80,10 +89,10 @@
           ]
         },
         {
-          "id": "column-13",
+          "id": "column-11",
           "items": [
             {
-              "id": "button-16",
+              "id": "button-14",
               "kind": "button",
               "label": "Learn More",
               "href": "https://titanium.com/titanium-about-us/",
@@ -92,10 +101,10 @@
           ]
         },
         {
-          "id": "column-14",
+          "id": "column-12",
           "items": [
             {
-              "id": "button-17",
+              "id": "button-15",
               "kind": "button",
               "label": "Submit RFQ",
               "href": "https://titanium.com/rfq/",
@@ -106,19 +115,44 @@
       ]
     },
     {
-      "id": "row-18",
+      "id": "row-16",
       "preset": "custom",
       "spaceAbove": false,
       "columns": [
         {
-          "id": "column-19",
+          "id": "column-17",
           "items": [
             {
-              "id": "picture-23",
+              "id": "picture-21",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2016/09/Round_Bar_Hi-260x185.jpg",
               "alt": "round bar",
               "href": "https://titanium.com/metalproducts/round-bar/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-22",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Round Bar",
+                  "level": 3
+                }
+              ]
+            }
+          ],
+          "width": "flush-quarter"
+        },
+        {
+          "id": "column-18",
+          "items": [
+            {
+              "id": "picture-23",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Hollow_Bar_Low-260x185.jpg",
+              "alt": "Hollow Bar",
+              "href": "https://qqa.titanium.com/product?category=Titanium&type=mill-product",
               "wrap": "none"
             },
             {
@@ -127,8 +161,33 @@
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "Round Bar"
+                  "text": "Hollow Bar",
+                  "level": 3
+                }
+              ]
+            }
+          ],
+          "width": "flush-quarter"
+        },
+        {
+          "id": "column-19",
+          "items": [
+            {
+              "id": "picture-25",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Hex_Bar_Low-260x185.jpg",
+              "alt": "Stainless Steel Hex Bar",
+              "href": "https://qqa.titanium.com/product/mill-product-stainless-steel-hex-bar",
+              "wrap": "none"
+            },
+            {
+              "id": "text-26",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Hex Bar",
+                  "level": 3
                 }
               ]
             }
@@ -139,36 +198,11 @@
           "id": "column-20",
           "items": [
             {
-              "id": "picture-25",
-              "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2016/09/Hollow_Bar_Low-260x185.jpg",
-              "alt": "Hollow Bar",
-              "href": "https://qqa.titanium.com/product?category=Titanium&type=mill-product",
-              "wrap": "none"
-            },
-            {
-              "id": "text-26",
-              "kind": "text",
-              "blocks": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "text": "Hollow Bar"
-                }
-              ]
-            }
-          ],
-          "width": "flush-quarter"
-        },
-        {
-          "id": "column-21",
-          "items": [
-            {
               "id": "picture-27",
               "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2016/09/Hex_Bar_Low-260x185.jpg",
-              "alt": "Stainless Steel Hex Bar",
-              "href": "https://qqa.titanium.com/product/mill-product-stainless-steel-hex-bar",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Rec_Bar_Low-260x185.jpg",
+              "alt": "Rectangle Bar",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-rectangular-bar",
               "wrap": "none"
             },
             {
@@ -177,8 +211,41 @@
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "Hex Bar"
+                  "text": "REC Bar",
+                  "level": 3
+                }
+              ]
+            }
+          ],
+          "width": "flush-quarter"
+        }
+      ],
+      "visual": "product-cards"
+    },
+    {
+      "id": "row-29",
+      "preset": "custom",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-30",
+          "items": [
+            {
+              "id": "picture-34",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Plate_Low-260x185.jpg",
+              "alt": "Titanium Plate",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-plate",
+              "wrap": "none"
+            },
+            {
+              "id": "text-35",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Plate",
+                  "level": 3
                 }
               ]
             }
@@ -186,46 +253,14 @@
           "width": "flush-quarter"
         },
         {
-          "id": "column-22",
-          "items": [
-            {
-              "id": "picture-29",
-              "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2016/09/Rec_Bar_Low-260x185.jpg",
-              "alt": "Rectangle Bar",
-              "href": "https://qqa.titanium.com/product/mill-product-titanium-rectangular-bar",
-              "wrap": "none"
-            },
-            {
-              "id": "text-30",
-              "kind": "text",
-              "blocks": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "text": "REC Bar"
-                }
-              ]
-            }
-          ],
-          "width": "flush-quarter"
-        }
-      ]
-    },
-    {
-      "id": "row-31",
-      "preset": "custom",
-      "spaceAbove": false,
-      "columns": [
-        {
-          "id": "column-32",
+          "id": "column-31",
           "items": [
             {
               "id": "picture-36",
               "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2016/09/Plate_Low-260x185.jpg",
-              "alt": "Titanium Plate",
-              "href": "https://qqa.titanium.com/product/mill-product-titanium-plate",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Sheet_Metal_Low-260x185.jpg",
+              "alt": "Titanium Sheet",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-sheet",
               "wrap": "none"
             },
             {
@@ -234,8 +269,33 @@
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "Plate"
+                  "text": "Sheet",
+                  "level": 3
+                }
+              ]
+            }
+          ],
+          "width": "flush-quarter"
+        },
+        {
+          "id": "column-32",
+          "items": [
+            {
+              "id": "picture-38",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Block_Low-260x185.jpg",
+              "alt": "Titanium Block",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-block",
+              "wrap": "none"
+            },
+            {
+              "id": "text-39",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Block",
+                  "level": 3
                 }
               ]
             }
@@ -246,36 +306,11 @@
           "id": "column-33",
           "items": [
             {
-              "id": "picture-38",
-              "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2016/09/Sheet_Metal_Low-260x185.jpg",
-              "alt": "Titanium Sheet",
-              "href": "https://qqa.titanium.com/product/mill-product-titanium-sheet",
-              "wrap": "none"
-            },
-            {
-              "id": "text-39",
-              "kind": "text",
-              "blocks": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "text": "Sheet"
-                }
-              ]
-            }
-          ],
-          "width": "flush-quarter"
-        },
-        {
-          "id": "column-34",
-          "items": [
-            {
               "id": "picture-40",
               "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2016/09/Block_Low-260x185.jpg",
-              "alt": "Titanium Block",
-              "href": "https://qqa.titanium.com/product/mill-product-titanium-block",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Wire_1-260x185.jpg",
+              "alt": "Titanium Wire",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-wire",
               "wrap": "none"
             },
             {
@@ -284,8 +319,41 @@
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "Block"
+                  "text": "Wire",
+                  "level": 3
+                }
+              ]
+            }
+          ],
+          "width": "flush-quarter"
+        }
+      ],
+      "visual": "product-cards"
+    },
+    {
+      "id": "row-42",
+      "preset": "custom",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-43",
+          "items": [
+            {
+              "id": "picture-47",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Pipe_Low-1-260x185.jpg",
+              "alt": "welded pipe",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-welded-pipe",
+              "wrap": "none"
+            },
+            {
+              "id": "text-48",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Welded Pipe",
+                  "level": 3
                 }
               ]
             }
@@ -293,46 +361,14 @@
           "width": "flush-quarter"
         },
         {
-          "id": "column-35",
-          "items": [
-            {
-              "id": "picture-42",
-              "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2016/09/Wire_1-260x185.jpg",
-              "alt": "Titanium Wire",
-              "href": "https://qqa.titanium.com/product/mill-product-titanium-wire",
-              "wrap": "none"
-            },
-            {
-              "id": "text-43",
-              "kind": "text",
-              "blocks": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "text": "Wire"
-                }
-              ]
-            }
-          ],
-          "width": "flush-quarter"
-        }
-      ]
-    },
-    {
-      "id": "row-44",
-      "preset": "custom",
-      "spaceAbove": false,
-      "columns": [
-        {
-          "id": "column-45",
+          "id": "column-44",
           "items": [
             {
               "id": "picture-49",
               "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2016/09/Pipe_Low-1-260x185.jpg",
-              "alt": "welded pipe",
-              "href": "https://qqa.titanium.com/product/mill-product-titanium-welded-pipe",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Tube_Low-260x185.jpg",
+              "alt": "welded tube",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-welded-tube",
               "wrap": "none"
             },
             {
@@ -341,8 +377,33 @@
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "Welded Pipe"
+                  "text": "Welded Tube",
+                  "level": 3
+                }
+              ]
+            }
+          ],
+          "width": "flush-quarter"
+        },
+        {
+          "id": "column-45",
+          "items": [
+            {
+              "id": "picture-51",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Tube_Low-1-260x185.jpg",
+              "alt": "Titanium Seamless Tube | Welded & Seamless Tube",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-seamless-tube",
+              "wrap": "none"
+            },
+            {
+              "id": "text-52",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Seamless Tube",
+                  "level": 3
                 }
               ]
             }
@@ -353,36 +414,11 @@
           "id": "column-46",
           "items": [
             {
-              "id": "picture-51",
-              "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2016/09/Tube_Low-260x185.jpg",
-              "alt": "welded tube",
-              "href": "https://qqa.titanium.com/product/mill-product-titanium-welded-tube",
-              "wrap": "none"
-            },
-            {
-              "id": "text-52",
-              "kind": "text",
-              "blocks": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "text": "Welded Tube"
-                }
-              ]
-            }
-          ],
-          "width": "flush-quarter"
-        },
-        {
-          "id": "column-47",
-          "items": [
-            {
               "id": "picture-53",
               "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2016/09/Tube_Low-1-260x185.jpg",
-              "alt": "Titanium Seamless Tube | Welded & Seamless Tube",
-              "href": "https://qqa.titanium.com/product/mill-product-titanium-seamless-tube",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Pipe_Low-260x185.jpg",
+              "alt": "Titanium Welded Pipe | Titanium Seamless Pipe",
+              "href": "https://qqa.titanium.com/product/mill-product-titanium-seamless-pipe",
               "wrap": "none"
             },
             {
@@ -391,8 +427,41 @@
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "Seamless Tube"
+                  "text": "Seamless Pipe",
+                  "level": 3
+                }
+              ]
+            }
+          ],
+          "width": "flush-quarter"
+        }
+      ],
+      "visual": "product-cards"
+    },
+    {
+      "id": "row-55",
+      "preset": "custom",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-56",
+          "items": [
+            {
+              "id": "picture-60",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Stub_Low_1-260x185.jpg",
+              "alt": "Titanium Stub Ends",
+              "href": "https://qqa.titanium.com/product/pipe-fitting-titanium-stub-ends",
+              "wrap": "none"
+            },
+            {
+              "id": "text-61",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Stub Ends",
+                  "level": 3
                 }
               ]
             }
@@ -400,46 +469,14 @@
           "width": "flush-quarter"
         },
         {
-          "id": "column-48",
-          "items": [
-            {
-              "id": "picture-55",
-              "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2016/09/Pipe_Low-260x185.jpg",
-              "alt": "Titanium Welded Pipe | Titanium Seamless Pipe",
-              "href": "https://qqa.titanium.com/product/mill-product-titanium-seamless-pipe",
-              "wrap": "none"
-            },
-            {
-              "id": "text-56",
-              "kind": "text",
-              "blocks": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "text": "Seamless Pipe"
-                }
-              ]
-            }
-          ],
-          "width": "flush-quarter"
-        }
-      ]
-    },
-    {
-      "id": "row-57",
-      "preset": "custom",
-      "spaceAbove": false,
-      "columns": [
-        {
-          "id": "column-58",
+          "id": "column-57",
           "items": [
             {
               "id": "picture-62",
               "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2016/09/Stub_Low_1-260x185.jpg",
-              "alt": "Titanium Stub Ends",
-              "href": "https://qqa.titanium.com/product/pipe-fitting-titanium-stub-ends",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Flanges_2_Hi-260x185.jpg",
+              "alt": "Titanium Flanges",
+              "href": "https://qqa.titanium.com/product/pipe-fitting-titanium-flange",
               "wrap": "none"
             },
             {
@@ -448,8 +485,33 @@
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "Stub Ends"
+                  "text": "Flanges",
+                  "level": 3
+                }
+              ]
+            }
+          ],
+          "width": "flush-quarter"
+        },
+        {
+          "id": "column-58",
+          "items": [
+            {
+              "id": "picture-64",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/90ºElbow_2_Hi-260x185.jpg",
+              "alt": "Titanium Elbows 45° and 90° Elbows",
+              "href": "https://qqa.titanium.com/product?type=pipe-fitting",
+              "wrap": "none"
+            },
+            {
+              "id": "text-65",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Elbows",
+                  "level": 3
                 }
               ]
             }
@@ -460,36 +522,11 @@
           "id": "column-59",
           "items": [
             {
-              "id": "picture-64",
-              "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2016/09/Flanges_2_Hi-260x185.jpg",
-              "alt": "Titanium Flanges",
-              "href": "https://qqa.titanium.com/product/pipe-fitting-titanium-flange",
-              "wrap": "none"
-            },
-            {
-              "id": "text-65",
-              "kind": "text",
-              "blocks": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "text": "Flanges"
-                }
-              ]
-            }
-          ],
-          "width": "flush-quarter"
-        },
-        {
-          "id": "column-60",
-          "items": [
-            {
               "id": "picture-66",
               "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2016/09/90ºElbow_2_Hi-260x185.jpg",
-              "alt": "Titanium Elbows 45° and 90° Elbows",
-              "href": "https://qqa.titanium.com/product?type=pipe-fitting",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Tee_1_Low-260x185.jpg",
+              "alt": "Titanium Tees",
+              "href": "https://qqa.titanium.com/product/titanium-tee",
               "wrap": "none"
             },
             {
@@ -498,8 +535,41 @@
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "Elbows"
+                  "text": "Tees",
+                  "level": 3
+                }
+              ]
+            }
+          ],
+          "width": "flush-quarter"
+        }
+      ],
+      "visual": "product-cards"
+    },
+    {
+      "id": "row-68",
+      "preset": "custom",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-69",
+          "items": [
+            {
+              "id": "picture-73",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Eccentric_Conducer_2_Low-260x185.jpg",
+              "alt": "Titanium Concentric Reducer",
+              "href": "https://titanium.com/shop/products/pipe-and-fittings-titanium-concentric-reducer",
+              "wrap": "none"
+            },
+            {
+              "id": "text-74",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Concentric Reducers",
+                  "level": 3
                 }
               ]
             }
@@ -507,46 +577,14 @@
           "width": "flush-quarter"
         },
         {
-          "id": "column-61",
-          "items": [
-            {
-              "id": "picture-68",
-              "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2016/09/Tee_1_Low-260x185.jpg",
-              "alt": "Titanium Tees",
-              "href": "https://qqa.titanium.com/product/titanium-tee",
-              "wrap": "none"
-            },
-            {
-              "id": "text-69",
-              "kind": "text",
-              "blocks": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "text": "Tees"
-                }
-              ]
-            }
-          ],
-          "width": "flush-quarter"
-        }
-      ]
-    },
-    {
-      "id": "row-70",
-      "preset": "custom",
-      "spaceAbove": false,
-      "columns": [
-        {
-          "id": "column-71",
+          "id": "column-70",
           "items": [
             {
               "id": "picture-75",
               "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2016/09/Eccentric_Conducer_2_Low-260x185.jpg",
-              "alt": "Titanium Concentric Reducer",
-              "href": "https://titanium.com/shop/products/pipe-and-fittings-titanium-concentric-reducer",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Concentric_Conducer_1_Low-260x185.jpg",
+              "alt": "Titanium Eccentric Reducer",
+              "href": "https://titanium.com/shop/products/pipe-and-fittings-titanium-eccentric-reducer",
               "wrap": "none"
             },
             {
@@ -555,8 +593,33 @@
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "Concentric Reducers"
+                  "text": "Eccentric Reducers",
+                  "level": 3
+                }
+              ]
+            }
+          ],
+          "width": "flush-quarter"
+        },
+        {
+          "id": "column-71",
+          "items": [
+            {
+              "id": "picture-77",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Billet_Low-1-260x185.jpg",
+              "alt": "Titanium Billet",
+              "href": "https://titanium.com/metalproducts/billet/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-78",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Billet",
+                  "level": 3
                 }
               ]
             }
@@ -567,36 +630,11 @@
           "id": "column-72",
           "items": [
             {
-              "id": "picture-77",
-              "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2016/09/Concentric_Conducer_1_Low-260x185.jpg",
-              "alt": "Titanium Eccentric Reducer",
-              "href": "https://titanium.com/shop/products/pipe-and-fittings-titanium-eccentric-reducer",
-              "wrap": "none"
-            },
-            {
-              "id": "text-78",
-              "kind": "text",
-              "blocks": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "text": "Eccentric Reducers"
-                }
-              ]
-            }
-          ],
-          "width": "flush-quarter"
-        },
-        {
-          "id": "column-73",
-          "items": [
-            {
               "id": "picture-79",
               "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2016/09/Billet_Low-1-260x185.jpg",
-              "alt": "Titanium Billet",
-              "href": "https://titanium.com/metalproducts/billet/",
+              "src": "https://titanium.com/wp-content/uploads/2016/09/Coil_Hi-260x185.jpg",
+              "alt": "Titanium Coil",
+              "href": "https://titanium.com/metalproducts/coil/",
               "wrap": "none"
             },
             {
@@ -605,51 +643,27 @@
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "Billet"
-                }
-              ]
-            }
-          ],
-          "width": "flush-quarter"
-        },
-        {
-          "id": "column-74",
-          "items": [
-            {
-              "id": "picture-81",
-              "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2016/09/Coil_Hi-260x185.jpg",
-              "alt": "Titanium Coil",
-              "href": "https://titanium.com/metalproducts/coil/",
-              "wrap": "none"
-            },
-            {
-              "id": "text-82",
-              "kind": "text",
-              "blocks": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "text": "Coil"
+                  "text": "Coil",
+                  "level": 3
                 }
               ]
             }
           ],
           "width": "flush-quarter"
         }
-      ]
+      ],
+      "visual": "product-cards"
     },
     {
-      "id": "row-83",
+      "id": "row-81",
       "preset": "thirds",
       "spaceAbove": false,
       "columns": [
         {
-          "id": "column-84",
+          "id": "column-82",
           "items": [
             {
-              "id": "button-87",
+              "id": "button-85",
               "kind": "button",
               "label": "Shop",
               "href": "https://qqa.titanium.com/product?type=mill-product",
@@ -658,10 +672,10 @@
           ]
         },
         {
-          "id": "column-85",
+          "id": "column-83",
           "items": [
             {
-              "id": "button-88",
+              "id": "button-86",
               "kind": "button",
               "label": "Create Quote",
               "href": "https://qqa.titanium.com/quick-quote",
@@ -670,10 +684,10 @@
           ]
         },
         {
-          "id": "column-86",
+          "id": "column-84",
           "items": [
             {
-              "id": "button-89",
+              "id": "button-87",
               "kind": "button",
               "label": "Submit RFQ",
               "href": "https://titanium.com/rfq/",
@@ -684,26 +698,26 @@
       ]
     },
     {
-      "id": "row-93",
+      "id": "row-91",
       "preset": "full",
       "spaceAbove": false,
       "columns": [
         {
-          "id": "column-94",
+          "id": "column-92",
           "items": [
             {
-              "id": "text-90",
+              "id": "text-88",
               "kind": "text",
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 4,
-                  "text": "Processing"
+                  "text": "Processing",
+                  "level": 4
                 }
               ]
             },
             {
-              "id": "text-91",
+              "id": "text-89",
               "kind": "text",
               "blocks": [
                 {
@@ -713,7 +727,7 @@
               ]
             },
             {
-              "id": "text-92",
+              "id": "text-90",
               "kind": "text",
               "blocks": [
                 {
@@ -724,22 +738,48 @@
             }
           ]
         }
-      ]
+      ],
+      "visual": "processing"
     },
     {
-      "id": "row-95",
+      "id": "row-93",
       "preset": "custom",
       "spaceAbove": false,
       "columns": [
         {
-          "id": "column-96",
+          "id": "column-94",
           "items": [
             {
-              "id": "picture-100",
+              "id": "picture-98",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2019/10/water-jet-300-3.jpg",
               "alt": "Water Jet Cutting",
               "href": "https://titanium.com/processing/water-jet-cutting/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-99",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Water Jet Cutting",
+                  "level": 4
+                }
+              ]
+            }
+          ],
+          "width": "flush-quarter"
+        },
+        {
+          "id": "column-95",
+          "items": [
+            {
+              "id": "picture-100",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/10/saw-cutting.png",
+              "alt": "Saw Cutting",
+              "href": "https://titanium.com/processing/saw-cutting/",
               "wrap": "none"
             },
             {
@@ -748,8 +788,33 @@
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "Water Jet Cutting"
+                  "text": "Saw Cutting",
+                  "level": 4
+                }
+              ]
+            }
+          ],
+          "width": "flush-quarter"
+        },
+        {
+          "id": "column-96",
+          "items": [
+            {
+              "id": "picture-102",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/10/chamfering.png",
+              "alt": "Chamfering",
+              "href": "https://titanium.com/processing/chamfering/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-103",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Chamfering",
+                  "level": 4
                 }
               ]
             }
@@ -760,36 +825,11 @@
           "id": "column-97",
           "items": [
             {
-              "id": "picture-102",
-              "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2019/10/saw-cutting.png",
-              "alt": "Saw Cutting",
-              "href": "https://titanium.com/processing/saw-cutting/",
-              "wrap": "none"
-            },
-            {
-              "id": "text-103",
-              "kind": "text",
-              "blocks": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "text": "Saw Cutting"
-                }
-              ]
-            }
-          ],
-          "width": "flush-quarter"
-        },
-        {
-          "id": "column-98",
-          "items": [
-            {
               "id": "picture-104",
               "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2019/10/chamfering.png",
-              "alt": "Chamfering",
-              "href": "https://titanium.com/processing/chamfering/",
+              "src": "https://titanium.com/wp-content/uploads/2019/10/torch-cutting.png",
+              "alt": "Torch Cutting",
+              "href": "https://titanium.com/processing/torch-cutting/",
               "wrap": "none"
             },
             {
@@ -798,8 +838,41 @@
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "Chamfering"
+                  "text": "Torch Cutting",
+                  "level": 4
+                }
+              ]
+            }
+          ],
+          "width": "flush-quarter"
+        }
+      ],
+      "visual": "processing"
+    },
+    {
+      "id": "row-106",
+      "preset": "custom",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-107",
+          "items": [
+            {
+              "id": "picture-111",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/10/grinding-300.jpg",
+              "alt": "Precision Grinding",
+              "href": "https://titanium.com/processing/grinding/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-112",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Precision Grinding",
+                  "level": 4
                 }
               ]
             }
@@ -807,46 +880,14 @@
           "width": "flush-quarter"
         },
         {
-          "id": "column-99",
-          "items": [
-            {
-              "id": "picture-106",
-              "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2019/10/torch-cutting.png",
-              "alt": "Torch Cutting",
-              "href": "https://titanium.com/processing/torch-cutting/",
-              "wrap": "none"
-            },
-            {
-              "id": "text-107",
-              "kind": "text",
-              "blocks": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "text": "Torch Cutting"
-                }
-              ]
-            }
-          ],
-          "width": "flush-quarter"
-        }
-      ]
-    },
-    {
-      "id": "row-108",
-      "preset": "custom",
-      "spaceAbove": false,
-      "columns": [
-        {
-          "id": "column-109",
+          "id": "column-108",
           "items": [
             {
               "id": "picture-113",
               "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2019/10/grinding-300.jpg",
-              "alt": "Precision Grinding",
-              "href": "https://titanium.com/processing/grinding/",
+              "src": "https://titanium.com/wp-content/uploads/2019/10/trepanning-300.jpg",
+              "alt": "Trepanning",
+              "href": "https://titanium.com/processing/trepanning/",
               "wrap": "none"
             },
             {
@@ -855,8 +896,33 @@
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "Precision Grinding"
+                  "text": "Trepanning",
+                  "level": 4
+                }
+              ]
+            }
+          ],
+          "width": "flush-quarter"
+        },
+        {
+          "id": "column-109",
+          "items": [
+            {
+              "id": "picture-115",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/10/coil-slitting.png",
+              "alt": "Coil Slitting",
+              "href": "https://titanium.com/processing/coil-slitting/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-116",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Coil Slitting",
+                  "level": 4
                 }
               ]
             }
@@ -867,36 +933,11 @@
           "id": "column-110",
           "items": [
             {
-              "id": "picture-115",
-              "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2019/10/trepanning-300.jpg",
-              "alt": "Trepanning",
-              "href": "https://titanium.com/processing/trepanning/",
-              "wrap": "none"
-            },
-            {
-              "id": "text-116",
-              "kind": "text",
-              "blocks": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "text": "Trepanning"
-                }
-              ]
-            }
-          ],
-          "width": "flush-quarter"
-        },
-        {
-          "id": "column-111",
-          "items": [
-            {
               "id": "picture-117",
               "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2019/10/coil-slitting.png",
-              "alt": "Coil Slitting",
-              "href": "https://titanium.com/processing/coil-slitting/",
+              "src": "https://titanium.com/wp-content/uploads/2019/10/shearing.png",
+              "alt": "Shearing",
+              "href": "https://titanium.com/processing/shearing/",
               "wrap": "none"
             },
             {
@@ -905,62 +946,38 @@
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "Coil Slitting"
-                }
-              ]
-            }
-          ],
-          "width": "flush-quarter"
-        },
-        {
-          "id": "column-112",
-          "items": [
-            {
-              "id": "picture-119",
-              "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2019/10/shearing.png",
-              "alt": "Shearing",
-              "href": "https://titanium.com/processing/shearing/",
-              "wrap": "none"
-            },
-            {
-              "id": "text-120",
-              "kind": "text",
-              "blocks": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "text": "Shearing"
+                  "text": "Shearing",
+                  "level": 4
                 }
               ]
             }
           ],
           "width": "flush-quarter"
         }
-      ]
+      ],
+      "visual": "processing"
     },
     {
-      "id": "row-123",
+      "id": "row-121",
       "preset": "full",
       "spaceAbove": false,
       "columns": [
         {
-          "id": "column-124",
+          "id": "column-122",
           "items": [
             {
-              "id": "text-121",
+              "id": "text-119",
               "kind": "text",
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 4,
-                  "text": "Our Markets"
+                  "text": "Our Markets",
+                  "level": 5
                 }
               ]
             },
             {
-              "id": "text-122",
+              "id": "text-120",
               "kind": "text",
               "blocks": [
                 {
@@ -971,22 +988,48 @@
             }
           ]
         }
-      ]
+      ],
+      "visual": "markets"
     },
     {
-      "id": "row-125",
+      "id": "row-123",
       "preset": "custom",
       "spaceAbove": false,
       "columns": [
         {
-          "id": "column-126",
+          "id": "column-124",
           "items": [
             {
-              "id": "picture-130",
+              "id": "picture-128",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2019/10/aerospace-v1.png",
               "alt": "Aerospace Market Image",
               "href": "https://titanium.com/markets/aerospace/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-129",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Aerospace",
+                  "level": 4
+                }
+              ]
+            }
+          ],
+          "width": "flush-quarter"
+        },
+        {
+          "id": "column-125",
+          "items": [
+            {
+              "id": "picture-130",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/10/industrial.jpg",
+              "alt": "Industrial Market Image",
+              "href": "https://titanium.com/markets/industrial/",
               "wrap": "none"
             },
             {
@@ -995,8 +1038,33 @@
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "Aerospace"
+                  "text": "Industrial",
+                  "level": 4
+                }
+              ]
+            }
+          ],
+          "width": "flush-quarter"
+        },
+        {
+          "id": "column-126",
+          "items": [
+            {
+              "id": "picture-132",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/10/medical.jpg",
+              "alt": "Medical Market Image",
+              "href": "https://titanium.com/markets/medical/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-133",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Medical",
+                  "level": 4
                 }
               ]
             }
@@ -1007,36 +1075,11 @@
           "id": "column-127",
           "items": [
             {
-              "id": "picture-132",
-              "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2019/10/industrial.jpg",
-              "alt": "Industrial Market Image",
-              "href": "https://titanium.com/markets/industrial/",
-              "wrap": "none"
-            },
-            {
-              "id": "text-133",
-              "kind": "text",
-              "blocks": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "text": "Industrial"
-                }
-              ]
-            }
-          ],
-          "width": "flush-quarter"
-        },
-        {
-          "id": "column-128",
-          "items": [
-            {
               "id": "picture-134",
               "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2019/10/medical.jpg",
-              "alt": "Medical Market Image",
-              "href": "https://titanium.com/markets/medical/",
+              "src": "https://titanium.com/wp-content/uploads/2019/10/oil-gas.jpg",
+              "alt": "Oil & Gas Market Image",
+              "href": "https://titanium.com/oil-gas/",
               "wrap": "none"
             },
             {
@@ -1045,8 +1088,41 @@
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "Medical"
+                  "text": "Oil & Gas",
+                  "level": 4
+                }
+              ]
+            }
+          ],
+          "width": "flush-quarter"
+        }
+      ],
+      "visual": "markets"
+    },
+    {
+      "id": "row-136",
+      "preset": "custom",
+      "spaceAbove": false,
+      "columns": [
+        {
+          "id": "column-137",
+          "items": [
+            {
+              "id": "picture-141",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/11/military-1.jpg",
+              "alt": "Defense Market Image",
+              "href": "https://titanium.com/markets/defense/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-142",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Defense",
+                  "level": 4
                 }
               ]
             }
@@ -1054,46 +1130,14 @@
           "width": "flush-quarter"
         },
         {
-          "id": "column-129",
-          "items": [
-            {
-              "id": "picture-136",
-              "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2019/10/oil-gas.jpg",
-              "alt": "Oil & Gas Market Image",
-              "href": "https://titanium.com/oil-gas/",
-              "wrap": "none"
-            },
-            {
-              "id": "text-137",
-              "kind": "text",
-              "blocks": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "text": "Oil & Gas"
-                }
-              ]
-            }
-          ],
-          "width": "flush-quarter"
-        }
-      ]
-    },
-    {
-      "id": "row-138",
-      "preset": "custom",
-      "spaceAbove": false,
-      "columns": [
-        {
-          "id": "column-139",
+          "id": "column-138",
           "items": [
             {
               "id": "picture-143",
               "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2019/11/military-1.jpg",
-              "alt": "Defense Market Image",
-              "href": "https://titanium.com/markets/defense/",
+              "src": "https://titanium.com/wp-content/uploads/2019/10/pierce-spafford-v1.png",
+              "alt": "Pierce Spafford Fastener Alloys Market Image",
+              "href": "https://titanium.com/markets/fasteners/",
               "wrap": "none"
             },
             {
@@ -1102,8 +1146,40 @@
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "Defense"
+                  "text": "Engineered Fastener Alloys",
+                  "level": 4
+                }
+              ]
+            },
+            {
+              "id": "button-145",
+              "kind": "button",
+              "label": "Pierce Spafford Fastener Alloys",
+              "href": "https://titanium.com/markets/fasteners/",
+              "variant": "primary"
+            }
+          ],
+          "width": "flush-quarter"
+        },
+        {
+          "id": "column-139",
+          "items": [
+            {
+              "id": "picture-146",
+              "kind": "picture",
+              "src": "https://titanium.com/wp-content/uploads/2019/10/interconnect-v1.png",
+              "alt": "Interconnect Market Image",
+              "href": "https://titanium.com/interconnect-alloys/",
+              "wrap": "none"
+            },
+            {
+              "id": "text-147",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Interconnect",
+                  "level": 4
                 }
               ]
             }
@@ -1114,43 +1190,11 @@
           "id": "column-140",
           "items": [
             {
-              "id": "picture-145",
-              "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2019/10/pierce-spafford-v1.png",
-              "alt": "Pierce Spafford Fastener Alloys Market Image",
-              "href": "https://titanium.com/markets/fasteners/",
-              "wrap": "none"
-            },
-            {
-              "id": "text-146",
-              "kind": "text",
-              "blocks": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "text": "Engineered Fastener Alloys"
-                }
-              ]
-            },
-            {
-              "id": "button-147",
-              "kind": "button",
-              "label": "Pierce Spafford Fastener Alloys",
-              "href": "https://titanium.com/markets/fasteners/",
-              "variant": "primary"
-            }
-          ],
-          "width": "flush-quarter"
-        },
-        {
-          "id": "column-141",
-          "items": [
-            {
               "id": "picture-148",
               "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2019/10/interconnect-v1.png",
-              "alt": "Interconnect Market Image",
-              "href": "https://titanium.com/interconnect-alloys/",
+              "src": "https://titanium.com/wp-content/uploads/2019/10/consumer-v1.png",
+              "alt": "Consumer Markets Image",
+              "href": "https://titanium.com/shop/products/mill-products-titanium-rectangular-bar",
               "wrap": "none"
             },
             {
@@ -1159,61 +1203,39 @@
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "Interconnect"
-                }
-              ]
-            }
-          ],
-          "width": "flush-quarter"
-        },
-        {
-          "id": "column-142",
-          "items": [
-            {
-              "id": "picture-150",
-              "kind": "picture",
-              "src": "https://titanium.com/wp-content/uploads/2019/10/consumer-v1.png",
-              "alt": "Consumer Markets Image",
-              "href": "https://titanium.com/shop/products/mill-products-titanium-rectangular-bar",
-              "wrap": "none"
-            },
-            {
-              "id": "text-151",
-              "kind": "text",
-              "blocks": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "text": "Consumer Markets"
+                  "text": "Consumer Markets",
+                  "level": 4
                 }
               ]
             }
           ],
           "width": "flush-quarter"
         }
-      ]
+      ],
+      "visual": "markets"
     },
     {
-      "id": "row-153",
+      "id": "row-151",
       "preset": "full",
       "spaceAbove": false,
       "columns": [
         {
-          "id": "column-154",
+          "id": "column-152",
           "items": [
             {
-              "id": "text-152",
+              "id": "text-150",
               "kind": "text",
               "blocks": [
                 {
                   "type": "heading",
+                  "text": "Global Metal Supply & Distribution Company",
                   "level": 3,
-                  "text": "Global Metal Supply & Distribution Company"
+                  "align": "center"
                 },
                 {
                   "type": "paragraph",
-                  "text": "As your foremost Global Metal Supplier, Titanium Industries stands as your most trusted partner in the industry. With over 50 years of experience, we specialize in providing specialty metals and solutions for the Aerospace, Defense, Industrial, Medical, and Oil & Gas markets. Holding the world’s most complete inventory of Titanium Round & Rectangle Bar, Plate, Sheet, Pipe & Fittings, and other specialty metals across a global service center network, T.I. delivers supply solutions at all levels of sophistication and complexity. With a globally experienced and technically driven team, T.I. has been providing dependable, quality-driven service to our customers since 1972. Trust Titanium Industries as your go-to Global Metal Supplier for all your metal supply needs."
+                  "text": "As your foremost Global Metal Supplier, Titanium Industries stands as your most trusted partner in the industry. With over 50 years of experience, we specialize in providing specialty metals and solutions for the Aerospace, Defense, Industrial, Medical, and Oil & Gas markets. Holding the world’s most complete inventory of Titanium Round & Rectangle Bar, Plate, Sheet, Pipe & Fittings, and other specialty metals across a global service center network, T.I. delivers supply solutions at all levels of sophistication and complexity. With a globally experienced and technically driven team, T.I. has been providing dependable, quality-driven service to our customers since 1972. Trust Titanium Industries as your go-to Global Metal Supplier for all your metal supply needs.",
+                  "align": "center"
                 }
               ]
             }
@@ -1222,41 +1244,204 @@
       ]
     },
     {
-      "id": "row-156",
+      "id": "row-193",
       "preset": "full",
       "spaceAbove": false,
       "columns": [
         {
-          "id": "column-157",
+          "id": "column-194",
           "items": [
             {
-              "id": "picture-155",
+              "id": "picture-153",
               "kind": "picture",
               "src": "https://titanium.com/wp-content/uploads/2024/11/TI-Slides-1030x579.png",
               "alt": "Global Metal Supplier | Metal Supply near me | Titanium Industries",
               "href": "",
-              "wrap": "none"
+              "wrap": "none",
+              "hotspots": [
+                {
+                  "id": "pin-155",
+                  "top": 34.9,
+                  "left": 27.1,
+                  "tone": "cyan",
+                  "place": "above",
+                  "textId": "text-154"
+                },
+                {
+                  "id": "pin-157",
+                  "top": 41.7,
+                  "left": 25,
+                  "tone": "cyan",
+                  "place": "above",
+                  "textId": "text-156"
+                },
+                {
+                  "id": "pin-159",
+                  "top": 39.8,
+                  "left": 19.7,
+                  "tone": "cyan",
+                  "place": "above",
+                  "textId": "text-158"
+                },
+                {
+                  "id": "pin-160",
+                  "top": 41.7,
+                  "left": 21.1,
+                  "tone": "cyan",
+                  "place": "above",
+                  "textId": "text-158"
+                },
+                {
+                  "id": "pin-162",
+                  "top": 38.6,
+                  "left": 13.7,
+                  "tone": "cyan",
+                  "place": "above",
+                  "textId": "text-161"
+                },
+                {
+                  "id": "pin-164",
+                  "top": 29.8,
+                  "left": 12.3,
+                  "tone": "navy",
+                  "place": "above",
+                  "textId": "text-163"
+                },
+                {
+                  "id": "pin-166",
+                  "top": 31.2,
+                  "left": 27.5,
+                  "tone": "cyan",
+                  "place": "above",
+                  "textId": "text-165"
+                },
+                {
+                  "id": "pin-168",
+                  "top": 28.1,
+                  "left": 48.3,
+                  "tone": "cyan",
+                  "place": "above",
+                  "textId": "text-167"
+                },
+                {
+                  "id": "pin-170",
+                  "top": 29.3,
+                  "left": 51.7,
+                  "tone": "cyan",
+                  "place": "above",
+                  "textId": "text-169"
+                },
+                {
+                  "id": "pin-172",
+                  "top": 31.8,
+                  "left": 50.7,
+                  "tone": "cyan",
+                  "place": "above",
+                  "textId": "text-171"
+                },
+                {
+                  "id": "pin-174",
+                  "top": 41.8,
+                  "left": 83.1,
+                  "tone": "cyan",
+                  "place": "above",
+                  "textId": "text-173"
+                },
+                {
+                  "id": "pin-176",
+                  "top": 47.4,
+                  "left": 83.4,
+                  "tone": "cyan",
+                  "place": "below",
+                  "textId": "text-175"
+                },
+                {
+                  "id": "pin-178",
+                  "top": 56.6,
+                  "left": 77.6,
+                  "tone": "cyan",
+                  "place": "below",
+                  "textId": "text-177"
+                },
+                {
+                  "id": "pin-180",
+                  "top": 46.3,
+                  "left": 19.1,
+                  "tone": "navy",
+                  "place": "above",
+                  "textId": "text-179"
+                },
+                {
+                  "id": "pin-182",
+                  "top": 50.2,
+                  "left": 70.9,
+                  "tone": "navy",
+                  "place": "above",
+                  "textId": "text-181"
+                },
+                {
+                  "id": "pin-184",
+                  "top": 34.3,
+                  "left": 22.6,
+                  "tone": "navy",
+                  "place": "above",
+                  "textId": "text-183"
+                },
+                {
+                  "id": "pin-186",
+                  "top": 34.3,
+                  "left": 24.3,
+                  "tone": "cyan",
+                  "place": "below",
+                  "textId": "text-185"
+                },
+                {
+                  "id": "pin-188",
+                  "top": 75.5,
+                  "left": 34.9,
+                  "tone": "navy",
+                  "place": "above",
+                  "textId": "text-187"
+                },
+                {
+                  "id": "pin-190",
+                  "top": 32.4,
+                  "left": 52.5,
+                  "tone": "navy",
+                  "place": "above",
+                  "textId": "text-189"
+                },
+                {
+                  "id": "pin-192",
+                  "top": 33.4,
+                  "left": 28.2,
+                  "tone": "navy",
+                  "place": "below",
+                  "textId": "text-191"
+                }
+              ]
             }
           ]
         }
-      ]
+      ],
+      "visual": "location-map"
     },
     {
-      "id": "row-177",
+      "id": "row-195",
       "preset": "full",
       "spaceAbove": false,
       "columns": [
         {
-          "id": "column-178",
+          "id": "column-196",
           "items": [
             {
-              "id": "text-158",
+              "id": "text-154",
               "kind": "text",
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "[Rockaway, NJ – Sales and Service Center](https://titanium.com/locations/titanium-industries-new_jersey/)"
+                  "text": "[Rockaway, NJ – Sales and Service Center](https://titanium.com/locations/titanium-industries-new_jersey/)",
+                  "level": 3
                 },
                 {
                   "type": "paragraph",
@@ -1265,13 +1450,13 @@
               ]
             },
             {
-              "id": "text-159",
+              "id": "text-156",
               "kind": "text",
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "[Jacksonville, FL – Sales and Service Center](https://titanium.com/locations/titanium-industries-florida-usa/)"
+                  "text": "[Jacksonville, FL – Sales and Service Center](https://titanium.com/locations/titanium-industries-florida-usa/)",
+                  "level": 3
                 },
                 {
                   "type": "paragraph",
@@ -1280,13 +1465,13 @@
               ]
             },
             {
-              "id": "text-160",
+              "id": "text-158",
               "kind": "text",
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "[Hillsboro, TX – Sales and Service Center](https://titanium.com/locations/titanium-industries-texas/)"
+                  "text": "[Hillsboro, TX – Sales and Service Center](https://titanium.com/locations/titanium-industries-texas/)",
+                  "level": 3
                 },
                 {
                   "type": "paragraph",
@@ -1300,27 +1485,12 @@
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "[Garden Grove, CA – Sales and Service Center](https://titanium.com/locations/titanium-industries-california/)"
+                  "text": "[Garden Grove, CA – Sales and Service Center](https://titanium.com/locations/titanium-industries-california/)",
+                  "level": 3
                 },
                 {
                   "type": "paragraph",
                   "text": "7373 Hunt Avenue Garden Grove, CA 92841 United States Call: (714) 895-7756 Email: sales-losangeles@titanium.com"
-                }
-              ]
-            },
-            {
-              "id": "text-162",
-              "kind": "text",
-              "blocks": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "text": "Woodinville, WA – Sales Office"
-                },
-                {
-                  "type": "paragraph",
-                  "text": "16928 Woodinville Redmond Road NE Suite B-201 Woodinville, WA 98072 United States Call: (206) 271-6555 Email: sales-seattle@titanium.com"
                 }
               ]
             },
@@ -1330,27 +1500,12 @@
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "[St Laurent, Quebec – Sales and](https://titanium.com/locations/titanium-industries-canada/)"
+                  "text": "Woodinville, WA – Sales Office",
+                  "level": 3
                 },
                 {
                   "type": "paragraph",
-                  "text": "Service Center 127 Montee-de-Liesse St. Laurent, Quebec H4T 1T9 Canada Call: (514) 334-6727 Fax: (514) 334-4280 Email: sales-montreal@titanium.com"
-                }
-              ]
-            },
-            {
-              "id": "text-164",
-              "kind": "text",
-              "blocks": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "text": "[Birmingham, UK – Sales and](https://titanium.com/locations/titanium-industries-uk/)"
-                },
-                {
-                  "type": "paragraph",
-                  "text": "Service Center Unit 38 Elmdon Trading Estate Bickenhill Lane, Marston Green Birmingham B37 7HE United Kingdom Call: (+44) (0) 121 782 9708 Email: sales-birmingham@titanium.com"
+                  "text": "16928 Woodinville Redmond Road NE Suite B-201 Woodinville, WA 98072 United States Call: (206) 271-6555 Email: sales-seattle@titanium.com"
                 }
               ]
             },
@@ -1360,27 +1515,12 @@
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "[Meerbusch, Deutschland – Sales and Service Center](https://titanium.com/locations/titanium-industries-germany/)"
+                  "text": "[St Laurent, Quebec – Sales and](https://titanium.com/locations/titanium-industries-canada/)",
+                  "level": 3
                 },
                 {
                   "type": "paragraph",
-                  "text": "In der Loh 4140668 Meerbusch Deutschland Festnetz: +49 2132 5100 040 Mobil 1: +49 173 4509365 Email: sales-germany@titanium.com"
-                }
-              ]
-            },
-            {
-              "id": "text-166",
-              "kind": "text",
-              "blocks": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "text": "[Flévy, France – Sales and Service Center](https://titanium.com/locations/titanium-industries-flevyfrance/)"
-                },
-                {
-                  "type": "paragraph",
-                  "text": "Rue André Maginot , Zone Fontaine des Saints Bâtiment CAPSTONE 57365 Flévy France Phone : +33 6 82 56 83 57 Email: sales-france@titanium.com"
+                  "text": "Service Center 127 Montee-de-Liesse St. Laurent, Quebec H4T 1T9 Canada Call: (514) 334-6727 Fax: (514) 334-4280 Email: sales-montreal@titanium.com"
                 }
               ]
             },
@@ -1390,27 +1530,12 @@
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "[Shanghai, China – Sales and](https://titanium.com/locations/titanium-industries-china/)"
+                  "text": "[Birmingham, UK – Sales and](https://titanium.com/locations/titanium-industries-uk/)",
+                  "level": 3
                 },
                 {
                   "type": "paragraph",
-                  "text": "Service Center No. 120 Huasheng Road Shanghai Waigaoqiao FTZ Shanghai 200131 PRC China Call: (+86) 21 5866-5266 Fax: (+86) 21 5866-5655 Email: sales-shanghai@titanium.com"
-                }
-              ]
-            },
-            {
-              "id": "text-168",
-              "kind": "text",
-              "blocks": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "text": "[Taipei, Taiwan – Sales and](https://titanium.com/locations/titanium-industries-asia-inc-taipei-taiwan/)"
-                },
-                {
-                  "type": "paragraph",
-                  "text": "Service Center No 31, Wuquan 3rd Rd. New Taipei Industrial Park New Taipei City 24891 Taiwan Call: (+886) 2 2298 9668 Fax: (+886) 2 2298 8779 Email: sales-taipei@titanium.com"
+                  "text": "Service Center Unit 38 Elmdon Trading Estate Bickenhill Lane, Marston Green Birmingham B37 7HE United Kingdom Call: (+44) (0) 121 782 9708 Email: sales-birmingham@titanium.com"
                 }
               ]
             },
@@ -1420,27 +1545,12 @@
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "[Penang, Malaysia – Sales and](https://titanium.com/locations/titanium-industries-southeast-asia-sdn-bhd-penang-malaysia/)"
+                  "text": "[Meerbusch, Deutschland – Sales and Service Center](https://titanium.com/locations/titanium-industries-germany/)",
+                  "level": 3
                 },
                 {
                   "type": "paragraph",
-                  "text": "Service Center 9, Lorong IKS Simpang Ampat L Taman IKS Simpang Ampat, 14100 Simpang Ampat Penang, Malaysia Call: (+604)-518-0632 Email: Sales-Penang@titanium.com"
-                }
-              ]
-            },
-            {
-              "id": "text-170",
-              "kind": "text",
-              "blocks": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "text": "León, Guanajuato, México – Sales and"
-                },
-                {
-                  "type": "paragraph",
-                  "text": "Service Center Call: (472) 721 3369 Email: aarredondo@titanium.com"
+                  "text": "In der Loh 4140668 Meerbusch Deutschland Festnetz: +49 2132 5100 040 Mobil 1: +49 173 4509365 Email: sales-germany@titanium.com"
                 }
               ]
             },
@@ -1450,27 +1560,12 @@
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "Bengaluru, India – Sales office"
+                  "text": "[Flévy, France – Sales and Service Center](https://titanium.com/locations/titanium-industries-flevyfrance/)",
+                  "level": 3
                 },
                 {
                   "type": "paragraph",
-                  "text": "Call: (+44) (0) 870 750 7557 Fax: (+44) (0) 121 782 9705 Email: sales-bengaluru@titanium.com"
-                }
-              ]
-            },
-            {
-              "id": "text-172",
-              "kind": "text",
-              "blocks": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "text": "Naperville, IL – Sales Office"
-                },
-                {
-                  "type": "paragraph",
-                  "text": "1250 E Diehl Road Suite 301 Naperville, IL 60563 United States Call: (630) 499-9140 Email: sales-chicago@titanium.com"
+                  "text": "Rue André Maginot , Zone Fontaine des Saints Bâtiment CAPSTONE 57365 Flévy France Phone : +33 6 82 56 83 57 Email: sales-france@titanium.com"
                 }
               ]
             },
@@ -1480,27 +1575,12 @@
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "Plymouth, MI – Sales and Service Center"
+                  "text": "[Shanghai, China – Sales and](https://titanium.com/locations/titanium-industries-china/)",
+                  "level": 3
                 },
                 {
                   "type": "paragraph",
-                  "text": "14555 Jib Street Plymouth Township, MI 48170 United States Call: (734) 335-2808 Email: sales-michigan@titanium.com"
-                }
-              ]
-            },
-            {
-              "id": "text-174",
-              "kind": "text",
-              "blocks": [
-                {
-                  "type": "heading",
-                  "level": 3,
-                  "text": "Sao Paulo, Brazil – Sales Office"
-                },
-                {
-                  "type": "paragraph",
-                  "text": "Moema, Sao Paulo 04524-020,Brazil Call:(+55) 11 94600-3980 Email: sales-saopaulo@titanium.comm"
+                  "text": "Service Center No. 120 Huasheng Road Shanghai Waigaoqiao FTZ Shanghai 200131 PRC China Call: (+86) 21 5866-5266 Fax: (+86) 21 5866-5655 Email: sales-shanghai@titanium.com"
                 }
               ]
             },
@@ -1510,8 +1590,113 @@
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "Verona, Italy – Sales Office"
+                  "text": "[Taipei, Taiwan – Sales and](https://titanium.com/locations/titanium-industries-asia-inc-taipei-taiwan/)",
+                  "level": 3
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Service Center No 31, Wuquan 3rd Rd. New Taipei Industrial Park New Taipei City 24891 Taiwan Call: (+886) 2 2298 9668 Fax: (+886) 2 2298 8779 Email: sales-taipei@titanium.com"
+                }
+              ]
+            },
+            {
+              "id": "text-177",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "[Penang, Malaysia – Sales and](https://titanium.com/locations/titanium-industries-southeast-asia-sdn-bhd-penang-malaysia/)",
+                  "level": 3
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Service Center 9, Lorong IKS Simpang Ampat L Taman IKS Simpang Ampat, 14100 Simpang Ampat Penang, Malaysia Call: (+604)-518-0632 Email: Sales-Penang@titanium.com"
+                }
+              ]
+            },
+            {
+              "id": "text-179",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "León, Guanajuato, México – Sales and",
+                  "level": 3
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Service Center Call: (472) 721 3369 Email: aarredondo@titanium.com"
+                }
+              ]
+            },
+            {
+              "id": "text-181",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Bengaluru, India – Sales office",
+                  "level": 3
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Call: (+44) (0) 870 750 7557 Fax: (+44) (0) 121 782 9705 Email: sales-bengaluru@titanium.com"
+                }
+              ]
+            },
+            {
+              "id": "text-183",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Naperville, IL – Sales Office",
+                  "level": 3
+                },
+                {
+                  "type": "paragraph",
+                  "text": "1250 E Diehl Road Suite 301 Naperville, IL 60563 United States Call: (630) 499-9140 Email: sales-chicago@titanium.com"
+                }
+              ]
+            },
+            {
+              "id": "text-185",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Plymouth, MI – Sales and Service Center",
+                  "level": 3
+                },
+                {
+                  "type": "paragraph",
+                  "text": "14555 Jib Street Plymouth Township, MI 48170 United States Call: (734) 335-2808 Email: sales-michigan@titanium.com"
+                }
+              ]
+            },
+            {
+              "id": "text-187",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Sao Paulo, Brazil – Sales Office",
+                  "level": 3
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Moema, Sao Paulo 04524-020,Brazil Call:(+55) 11 94600-3980 Email: sales-saopaulo@titanium.comm"
+                }
+              ]
+            },
+            {
+              "id": "text-189",
+              "kind": "text",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "text": "Verona, Italy – Sales Office",
+                  "level": 3
                 },
                 {
                   "type": "paragraph",
@@ -1520,13 +1705,13 @@
               ]
             },
             {
-              "id": "text-176",
+              "id": "text-191",
               "kind": "text",
               "blocks": [
                 {
                   "type": "heading",
-                  "level": 3,
-                  "text": "Tolland, CT – Sales Office"
+                  "text": "Tolland, CT – Sales Office",
+                  "level": 3
                 },
                 {
                   "type": "paragraph",
@@ -1536,23 +1721,24 @@
             }
           ]
         }
-      ]
+      ],
+      "visual": "location-list"
     },
     {
-      "id": "row-179",
+      "id": "row-197",
       "preset": "custom",
       "spaceAbove": false,
       "columns": [
         {
-          "id": "column-180",
+          "id": "column-198",
           "items": [],
           "width": "flush-third"
         },
         {
-          "id": "column-181",
+          "id": "column-199",
           "items": [
             {
-              "id": "button-183",
+              "id": "button-201",
               "kind": "button",
               "label": "View All Locations",
               "href": "https://titanium.com/titanium-industries-global-metal-supplier-locations/",
@@ -1562,7 +1748,7 @@
           "width": "flush-third"
         },
         {
-          "id": "column-182",
+          "id": "column-200",
           "items": [],
           "width": "flush-third"
         }
@@ -1578,7 +1764,7 @@
     "families": [
       "homepage-below-slider"
     ],
-    "convertedAt": "2026-09-25T00:00:26.127Z",
+    "convertedAt": "2026-09-25T00:10:48.401Z",
     "grid": "full | thirds | custom(flush-quarter+flush-quarter+flush-quarter+flush-quarter) | custom(flush-quarter+flush-quarter+flush-quarter+flush-quarter) | custom(flush-quarter+flush-quarter+flush-quarter+flush-quarter) | custom(flush-quarter+flush-quarter+flush-quarter+flush-quarter) | custom(flush-quarter+flush-quarter+flush-quarter+flush-quarter) | thirds | full | custom(flush-quarter+flush-quarter+flush-quarter+flush-quarter) | custom(flush-quarter+flush-quarter+flush-quarter+flush-quarter) | full | custom(flush-quarter+flush-quarter+flush-quarter+flush-quarter) | custom(flush-quarter+flush-quarter+flush-quarter+flush-quarter) | full | full | full | custom(flush-third+flush-third+flush-third)",
     "remainingSourceOnly": [
       {
@@ -1588,21 +1774,11 @@
       },
       {
         "id": "note-2",
-        "label": "Card motion",
-        "reason": "The product grid slide-in and the processing and market hover motion are not fields. Four-across cards use a no-gap quarter (24.9%). Live processing and market cards are custom HTML near 24% and stack to full width on a phone."
+        "label": "Scroll trigger",
+        "reason": "The product cards slide in when the page loads. The live page waits until that row scrolls into view."
       },
       {
         "id": "note-3",
-        "label": "Welcome colors",
-        "reason": "Navy and gray colors on the welcome lines are not fields. The words are kept."
-      },
-      {
-        "id": "note-4",
-        "label": "Location map pins",
-        "reason": "Pin positions, pulse animation, and hover tooltips are not fields. Each pin’s name, address, phone, and email are copied under the map. The live map has two pins for Hillsboro, TX; the draft keeps one. Some pins link to a phone number or email instead of a location page."
-      },
-      {
-        "id": "note-5",
         "label": "Shop and quote apps",
         "reason": "Create Quote, Shop, and several product cards link to qqa.titanium.com. Those apps are not rebuilt."
       }

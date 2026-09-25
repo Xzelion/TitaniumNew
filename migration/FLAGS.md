@@ -133,7 +133,9 @@ Astro pages that use the shared layout read `migration/chrome/site-chrome.json` 
 
 The private page draft `migration/drafts/home.json` (path `/`) is the live homepage under the rotator. Marketing edits it in the column workspace (`/editor/home/`) and checks it at `/preview/home/`. On `astro dev`, the public homepage route renders those rows under the Site chrome hero. A production build of `/` keeps the static below-slider markup, the same gate as unpublished chrome. If the draft file is missing or invalid, the homepage keeps that static markup.
 
-The draft rows are: welcome copy and the 50-year mark, Create Quote / Learn More / Submit RFQ, twenty product cards (five rows of no-gap quarters), Shop / Create Quote / Submit RFQ, Processing plus eight process cards, Our Markets plus eight market cards, the global-supplier paragraph, the location map picture, nineteen location write-ups, and View All Locations.
+The draft rows are: welcome copy and the 50-year mark, Create Quote / Learn More / Submit RFQ, twenty product cards (five rows of no-gap quarters), Shop / Create Quote / Submit RFQ, Processing plus eight process cards, Our Markets (level-5 heading) plus eight market cards, the global-supplier paragraph, the location map with twenty pins (two of them Hillsboro, TX, sharing one write-up), the location list for small screens, and View All Locations.
+
+On the local and preview homepage the renderer uses the live welcome colors (navy `#000080`, gray `#808080`, black body), a load-time slide-in on the product cards, the live processing and market hover treatments, processing and market cards at 24% that stack on a phone, and map pins with pulse and hover tooltips. The location list is hidden on a wide screen and shown when the pins are hidden on a phone.
 
 Payload admin saves stay in the database. Astro reads the JSON file. Seed copies the file into the Pages collection.
 
@@ -147,8 +149,7 @@ The footer keeps the product lists, the four link groups (WordPress labels them 
 
 ## Families still open
 
-- Homepage card motion, welcome text colors, and the location-map pins. The words, pictures, and links are in the homepage draft. Pin positions, pulse animation, and hover tooltips are not. The map has two Hillsboro pins; the draft keeps one. Live processing and market cards are about 24% wide and stack on a phone; the draft uses no-gap quarters (24.9%).
-- Our Markets is an h5 on the live page. The draft stores it as a level-4 heading.
+- Product-card slide-in plays when the page loads. The live page waits until that row scrolls into view.
 - LayerSlider motion and delays. The wired hero is a simple 7 second rotator, not LayerSlider.
 - Words painted into slide background images. Editing a headline does not repaint those files.
 - Payload admin edits to Site chrome stay in the database until `migration/chrome/site-chrome.json` is updated. Seed overwrites the global from that file.

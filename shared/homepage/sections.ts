@@ -3,7 +3,19 @@ import { hashSource } from '../page-model/hash-gate'
 import { rowGridLabel } from '../page-model/presets'
 import type { IdFactory } from '../page-model/workspace'
 import { createIdFactory, createRow } from '../page-model/workspace'
-import type { ColumnItem, ColumnWidthId, PageDocument, PictureItem, Row, SourceOnlyRegion, TextBlock } from '../page-model/types'
+import type {
+  ColumnItem,
+  ColumnWidthId,
+  MapPin,
+  PageDocument,
+  PictureItem,
+  Row,
+  RowVisual,
+  SourceOnlyRegion,
+  TextAlign,
+  TextBlock,
+  TextTone,
+} from '../page-model/types'
 
 const SITE = 'https://titanium.com'
 
@@ -27,20 +39,8 @@ export function parseHomepageSections(html: string, now: string): PageDocument {
   note(
     notes,
     ids,
-    'Card motion',
-    'The product grid slide-in and the processing and market hover motion are not fields. Four-across cards use a no-gap quarter (24.9%). Live processing and market cards are custom HTML near 24% and stack to full width on a phone.',
-  )
-  note(
-    notes,
-    ids,
-    'Welcome colors',
-    'Navy and gray colors on the welcome lines are not fields. The words are kept.',
-  )
-  note(
-    notes,
-    ids,
-    'Location map pins',
-    'Pin positions, pulse animation, and hover tooltips are not fields. Each pin’s name, address, phone, and email are copied under the map. The live map has two pins for Hillsboro, TX; the draft keeps one. Some pins link to a phone number or email instead of a location page.',
+    'Scroll trigger',
+    'The product cards slide in when the page loads. The live page waits until that row scrolls into view.',
   )
   note(
     notes,
@@ -72,7 +72,7 @@ export function parseHomepageSections(html: string, now: string): PageDocument {
       continue
     }
     if (node.querySelector('.grid-sort-container')) {
-      rows.push(...cardRows(productCards(node), ids))
+      rows.push(...cardRows(productCards(node), ids, 'product-cards', 3))
       index += 1
       continue
     }
@@ -91,8 +91,13 @@ export function parseHomepageSections(html: string, now: string): PageDocument {
       index += 1
       continue
     }
-    const items = collectItems(node, ids)
-    if (items.length > 0) rows.push(fullRow(ids, items, false))
+    const welcome = Boolean(node.querySelector('.welcome'))
+    const items = collectItems(node, ids, welcome ? 'center' : undefined)
+    if (items.length > 0) {
+      const row = fullRow(ids, items, false)
+      if (welcome) row.visual = 'welcome'
+      rows.push(row)
+    }
     index += 1
   }
 
@@ -145,12 +150,17 @@ function buttonRow(columns: HTMLElement[], ids: IdFactory): Row | null {
 
 function namedCardSection(section: HTMLElement, ids: IdFactory): Row[] {
   const rows: Row[] = []
+  const visual: RowVisual = tokens(section).includes('home-markets') ? 'markets' : 'processing'
   const intro = section.childNodes.filter(isElement).filter((node) => {
     const cls = node.getAttribute('class') ?? ''
     return !cls.includes('home-processing-items') && !cls.includes('home-markets-items')
   })
   const introItems = intro.flatMap((node) => collectItems(node, ids))
-  if (introItems.length > 0) rows.push(fullRow(ids, introItems, false))
+  if (introItems.length > 0) {
+    const row = fullRow(ids, introItems, false)
+    row.visual = visual
+    rows.push(row)
+  }
   const cards = section.querySelectorAll('.home-processing-items > div, .home-markets-items > div')
   rows.push(
     ...cardRows(
@@ -162,6 +172,8 @@ function namedCardSection(section: HTMLElement, ids: IdFactory): Row[] {
         alt: clean(card.querySelector('img')?.getAttribute('alt') ?? ''),
       })),
       ids,
+      visual,
+      4,
     ),
   )
   return rows
@@ -173,37 +185,58 @@ function locationSection(column: HTMLElement, ids: IdFactory): Row[] {
   if (copy.length > 0) rows.push(fullRow(ids, copy, false))
   const image = column.querySelector('.av-hotspot-image-container img')
   const picture = image ? pictureFrom(ids, image, '') : null
-  if (picture) rows.push(fullRow(ids, [picture], false))
-  const seen = new Set<string>()
+  const seen = new Map<string, string>()
   const locations: ColumnItem[] = []
+  const pins: MapPin[] = []
   for (const spot of column.querySelectorAll('.av-image-hotspot')) {
     const location = locationFrom(spot)
-    if (!location) continue
+    const position = pinPosition(spot)
+    if (!location || !position) continue
     const key = `${location.title}\n${location.body}`
-    if (seen.has(key)) continue
-    seen.add(key)
-    const heading = location.href.startsWith('http')
-      ? `[${location.title}](${location.href})`
-      : location.title
-    locations.push({
-      id: ids.next('text'),
-      kind: 'text',
-      blocks: [
-        { type: 'heading', level: 3, text: heading },
-        { type: 'paragraph', text: location.body },
-      ],
+    let textId = seen.get(key)
+    if (!textId) {
+      textId = ids.next('text')
+      seen.set(key, textId)
+      const heading = location.href.startsWith('http') ? `[${location.title}](${location.href})` : location.title
+      locations.push({
+        id: textId,
+        kind: 'text',
+        blocks: [
+          { type: 'heading', level: 3, text: heading },
+          { type: 'paragraph', text: location.body },
+        ],
+      })
+    }
+    pins.push({
+      id: ids.next('pin'),
+      top: position.top,
+      left: position.left,
+      tone: pinTone(spot),
+      place: spot.getAttribute('data-avia-tooltip-position') === 'bottom' ? 'below' : 'above',
+      textId,
     })
   }
-  if (locations.length > 0) rows.push(fullRow(ids, locations, false))
+  if (picture) {
+    if (pins.length > 0) picture.hotspots = pins
+    const map = fullRow(ids, [picture], false)
+    map.visual = 'location-map'
+    rows.push(map)
+  }
+  if (locations.length > 0) {
+    const list = fullRow(ids, locations, false)
+    list.visual = 'location-list'
+    rows.push(list)
+  }
   return rows
 }
 
-function cardRows(cards: Card[], ids: IdFactory): Row[] {
+function cardRows(cards: Card[], ids: IdFactory, visual: RowVisual = 'product-cards', headingLevel: 3 | 4 = 3): Row[] {
   const usable = cards.filter((card) => card.title && card.src)
   const rows: Row[] = []
   for (let start = 0; start < usable.length; start += 4) {
     const slice = usable.slice(start, start + 4)
     const row = widthRow(ids, 'flush-quarter', slice.length, false)
+    row.visual = visual
     slice.forEach((card, index) => {
       const column = row.columns[index]
       if (!column) return
@@ -212,7 +245,7 @@ function cardRows(cards: Card[], ids: IdFactory): Row[] {
         {
           id: ids.next('text'),
           kind: 'text',
-          blocks: [{ type: 'heading', level: 3, text: card.title }],
+          blocks: [{ type: 'heading', level: headingLevel, text: card.title }],
         },
       ]
       if (card.linkLabel && card.linkLabel !== card.title && card.href) {
@@ -241,7 +274,7 @@ function productCards(column: HTMLElement): Card[] {
   }))
 }
 
-function collectItems(node: HTMLElement, ids: IdFactory): ColumnItem[] {
+function collectItems(node: HTMLElement, ids: IdFactory, align?: TextAlign): ColumnItem[] {
   const items: ColumnItem[] = []
   let blocks: TextBlock[] = []
   const flush = () => {
@@ -272,8 +305,8 @@ function collectItems(node: HTMLElement, ids: IdFactory): ColumnItem[] {
       const text = inlineText(current)
       if (!text) return
       const raw = Number(tag.slice(1))
-      const level = (raw > 4 ? 4 : raw) as 1 | 2 | 3 | 4
-      blocks.push({ type: 'heading', level, text })
+      const level = raw as 1 | 2 | 3 | 4 | 5
+      blocks.push(styledBlock({ type: 'heading', level, text }, current, align))
       return
     }
     if (tag === 'p' || tag === 'li') {
@@ -285,7 +318,7 @@ function collectItems(node: HTMLElement, ids: IdFactory): ColumnItem[] {
         if (picture) items.push(picture)
         return
       }
-      if (text) blocks.push({ type: 'paragraph', text })
+      if (text) blocks.push(styledBlock({ type: 'paragraph', text }, current, align))
       return
     }
     for (const child of current.childNodes) {
@@ -342,6 +375,40 @@ interface Card {
   href: string
   src: string
   alt: string
+}
+
+function styledBlock(block: TextBlock, node: HTMLElement, align?: TextAlign): TextBlock {
+  const tone = toneFrom(node)
+  const centered = align ?? (/text-align:\s*center/i.test(node.getAttribute('style') ?? '') ? 'center' : undefined)
+  return {
+    ...block,
+    ...(tone ? { tone } : {}),
+    ...(centered ? { align: centered } : {}),
+  }
+}
+
+function toneFrom(node: HTMLElement): TextTone | undefined {
+  const own = node.getAttribute('style') ?? ''
+  const nested = node.querySelector('span')?.getAttribute('style') ?? ''
+  const match = /color:\s*(#[0-9a-fA-F]{3,8})/.exec(`${own} ${nested}`)
+  const color = match?.[1]?.toLowerCase()
+  if (color === '#000080') return 'navy'
+  if (color === '#808080' || color === '#999' || color === '#999999') return 'gray'
+  if (color === '#000' || color === '#000000') return 'ink'
+  return undefined
+}
+
+function pinPosition(spot: HTMLElement): { top: number; left: number } | null {
+  const style = spot.getAttribute('style') ?? ''
+  const top = /top:\s*([\d.]+)%/.exec(style)
+  const left = /left:\s*([\d.]+)%/.exec(style)
+  if (!top?.[1] || !left?.[1]) return null
+  return { top: Number(top[1]), left: Number(left[1]) }
+}
+
+function pinTone(spot: HTMLElement): MapPin['tone'] {
+  const inner = spot.querySelector('.av-image-hotspot_inner')?.getAttribute('style') ?? ''
+  return /#080f91/i.test(inner) ? 'navy' : 'cyan'
 }
 
 function locationFrom(spot: HTMLElement): { title: string; body: string; href: string } | null {

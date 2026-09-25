@@ -68,17 +68,46 @@ export const BUTTON_VARIANTS = ['primary', 'secondary'] as const
 
 export type ButtonVariant = (typeof BUTTON_VARIANTS)[number]
 
+/** Named colors from the live welcome copy. Not a free-form CSS field. */
+export const TEXT_TONES = ['navy', 'gray', 'ink'] as const
+
+export type TextTone = (typeof TEXT_TONES)[number]
+
+export const TEXT_ALIGNS = ['center'] as const
+
+export type TextAlign = (typeof TEXT_ALIGNS)[number]
+
 export interface TextBlock {
   type: 'heading' | 'paragraph'
   /** Heading level. Paragraphs omit this. */
-  level?: 1 | 2 | 3 | 4
+  level?: 1 | 2 | 3 | 4 | 5
   text: string
+  tone?: TextTone
+  align?: TextAlign
 }
 
 export interface TextItem {
   id: string
   kind: 'text'
   blocks: TextBlock[]
+}
+
+export const PIN_TONES = ['cyan', 'navy'] as const
+
+export type PinTone = (typeof PIN_TONES)[number]
+
+export const PIN_PLACES = ['above', 'below'] as const
+
+export type PinPlace = (typeof PIN_PLACES)[number]
+
+/** A pin on the location map. The tooltip is the text item `textId`. */
+export interface MapPin {
+  id: string
+  top: number
+  left: number
+  tone: PinTone
+  place: PinPlace
+  textId: string
 }
 
 export interface PictureItem {
@@ -93,6 +122,7 @@ export interface PictureItem {
    * Larger pictures stay fluid. This is not a free-form CSS field.
    */
   displayPx?: number
+  hotspots?: MapPin[]
 }
 
 export interface ButtonItem {
@@ -112,12 +142,18 @@ export interface Column {
   width?: ColumnWidthId
 }
 
+/** Named homepage treatments. The renderer owns the CSS. */
+export const ROW_VISUALS = ['welcome', 'product-cards', 'processing', 'markets', 'location-map', 'location-list'] as const
+
+export type RowVisual = (typeof ROW_VISUALS)[number]
+
 export interface Row {
   id: string
   preset: RowPreset
   /** Live Enfold class `column-top-margin` (50px). Not a free-form measurement. */
   spaceAbove: boolean
   columns: Column[]
+  visual?: RowVisual
 }
 
 export interface SeoFields {

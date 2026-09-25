@@ -205,7 +205,7 @@ export function updateItem(
   if (index < 0) return page
   const current = column.items[index]
   if ('markdown' in patch && current.kind === 'text') {
-    column.items[index] = { ...current, blocks: markdownToBlocks(patch.markdown) }
+    column.items[index] = { ...current, blocks: markdownToBlocks(patch.markdown, current.blocks) }
     return next
   }
   if (current.kind === 'picture' && 'kind' in patch === false) {

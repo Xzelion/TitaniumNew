@@ -40,7 +40,7 @@ describe('homepage sections under the slider', () => {
     expect(html).toContain('Water Jet Cutting')
     expect(html).not.toContain('CREATE QUOTE!')
     expect(page.provenance.remainingSourceOnly.map((note) => note.label)).toEqual(
-      expect.arrayContaining(['Homepage slider', 'Shop and quote apps', 'Location map pins']),
+      expect.arrayContaining(['Homepage slider', 'Shop and quote apps', 'Scroll trigger']),
     )
   })
 
@@ -57,6 +57,17 @@ describe('homepage sections under the slider', () => {
     expect(html).toContain('Rockaway, NJ')
     expect(html).toContain('View All Locations')
     expect(html).not.toContain('CREATE QUOTE!')
+    expect(html).toContain('ti-tone-navy')
+    expect(html).toContain('ti-tone-gray')
+    expect(html).toContain('ti-tone-ink')
+    expect(html).toContain('<h5')
+    expect(html).toContain('data-visual="processing"')
+    expect(html).toContain('data-visual="markets"')
+    expect(html).toContain('data-visual="product-cards"')
+    expect(html).toContain('width: 24%')
+    expect(html).toContain('ti-pulsate')
+    expect(html.match(/class="ti-pin /g)?.length).toBe(20)
+    expect(html.match(/Hillsboro, TX/g)?.length).toBeGreaterThanOrEqual(2)
 
     expect(homepageSectionsHtml({ dev: true, pathname: '/' })).toContain('Welcome to Titanium Industries')
     expect(homepageSectionsHtml({ dev: false, pathname: '/' })).toBeNull()

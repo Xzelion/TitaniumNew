@@ -2,13 +2,19 @@ import {
   BUTTON_VARIANTS,
   COLUMN_WIDTH_IDS,
   PICTURE_WRAPS,
+  PIN_PLACES,
+  PIN_TONES,
   READINESS_VALUES,
   ROW_PRESETS,
+  ROW_VISUALS,
+  TEXT_ALIGNS,
+  TEXT_TONES,
   type ButtonItem,
   type ButtonVariant,
   type Column,
   type ColumnWidthId,
   type ColumnItem,
+  type MapPin,
   type PageDocument,
   type PictureItem,
   type PictureWrap,
@@ -56,12 +62,17 @@ function parseTextBlock(value: unknown): TextBlock {
   if (!isRecord(value)) throw new PageSchemaError('Text block is invalid')
   const type = oneOf(value.type, ['heading', 'paragraph'] as const, 'Text block type')
   const text = expectString(value.text, 'Text')
-  if (type === 'paragraph') return { type, text }
-  const level = value.level
-  if (level !== 1 && level !== 2 && level !== 3 && level !== 4) {
-    throw new PageSchemaError('Heading size is invalid')
+  const block: TextBlock = { type, text }
+  if (type === 'heading') {
+    const level = value.level
+    if (level !== 1 && level !== 2 && level !== 3 && level !== 4 && level !== 5) {
+      throw new PageSchemaError('Heading size is invalid')
+    }
+    block.level = level
   }
-  return { type, level, text }
+  if (value.tone !== undefined) block.tone = oneOf(value.tone, TEXT_TONES, 'Text color')
+  if (value.align !== undefined) block.align = oneOf(value.align, TEXT_ALIGNS, 'Text alignment')
+  return block
 }
 
 function parseItem(value: unknown): ColumnItem {
@@ -89,6 +100,7 @@ function parseItem(value: unknown): ColumnItem {
       }
       item.displayPx = size
     }
+    if (value.hotspots !== undefined) item.hotspots = parseHotspots(value.hotspots)
     if ('body' in value || 'blocks' in value) {
       throw new PageSchemaError('A picture cannot contain body text')
     }
@@ -133,12 +145,36 @@ function parseRow(value: unknown): Row {
   } else if (columns.length !== PRESETS[preset].columns.length) {
     throw new PageSchemaError(`${PRESETS[preset].label} needs ${PRESETS[preset].columns.length} columns`)
   }
-  return {
+  const row: Row = {
     id: expectString(value.id, 'Row id'),
     preset,
     spaceAbove: expectBoolean(value.spaceAbove, 'Space above row'),
     columns,
   }
+  if (value.visual !== undefined) row.visual = oneOf(value.visual, ROW_VISUALS, 'Row treatment')
+  return row
+}
+
+function parseHotspots(value: unknown): MapPin[] {
+  if (!Array.isArray(value)) throw new PageSchemaError('Map pins must be a list')
+  return value.map((pin, index) => {
+    if (!isRecord(pin)) throw new PageSchemaError(`Map pin ${index + 1} is invalid`)
+    return {
+      id: expectString(pin.id, `Map pin ${index + 1} id`),
+      top: expectPercent(pin.top, `Map pin ${index + 1} top`),
+      left: expectPercent(pin.left, `Map pin ${index + 1} left`),
+      tone: oneOf(pin.tone, PIN_TONES, `Map pin ${index + 1} color`),
+      place: oneOf(pin.place, PIN_PLACES, `Map pin ${index + 1} tooltip place`),
+      textId: expectString(pin.textId, `Map pin ${index + 1} text`),
+    }
+  })
+}
+
+function expectPercent(value: unknown, label: string): number {
+  if (typeof value !== 'number' || !Number.isFinite(value) || value < 0 || value > 100) {
+    throw new PageSchemaError(`${label} must be a percentage`)
+  }
+  return value
 }
 
 function parseSeo(value: unknown): SeoFields {
