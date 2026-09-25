@@ -1,4 +1,4 @@
-import { mkdtempSync, writeFileSync } from 'node:fs'
+import { mkdtempSync, readFileSync, writeFileSync } from 'node:fs'
 import { tmpdir } from 'node:os'
 import path from 'node:path'
 import { describe, expect, it } from 'vitest'
@@ -52,6 +52,21 @@ describe('site chrome layout', () => {
     expect(renderChromeHeader(local!)).toContain('MILL PRODUCTS')
     expect(siteChromeForPage({ dev: false, pathname: '/' })).toBeNull()
     expect(siteChromeForPage({ dev: false, pathname: '/preview/chrome' })?.heroSlides).toHaveLength(6)
+  })
+
+  it('keeps mega panels closed until hover or open', () => {
+    const css = readFileSync(path.join(process.cwd(), 'src/styles/global.css'), 'utf8')
+    const panel = css.match(/\.chrome-mega-panel \{[^}]+\}/)?.[0] ?? ''
+    expect(panel).toContain('display: none')
+    expect(panel).not.toContain('display: grid')
+    const openPanel = css.match(/\.chrome-mega\[open\] > \.chrome-mega-panel[\s\S]*?\{[^}]+\}/)?.[0] ?? ''
+    expect(openPanel).toContain('.chrome-mega:hover > .chrome-mega-panel')
+    expect(openPanel).toContain('.chrome-mega:focus-within > .chrome-mega-panel')
+    expect(openPanel).toContain('display: grid')
+    expect(css).toMatch(/\.chrome-mega\[open\],\s*\.chrome-mega:hover,\s*\.chrome-mega:focus-within \{[^}]*z-index:\s*70/)
+    expect(css).toMatch(/\.chrome-nav \{[^}]*justify-content:\s*center[^}]*background:\s*#0a0a0a[^}]*min-height:\s*2\.75rem/)
+    expect(css).toMatch(/\.chrome-nav-link,\s*\.chrome-mega summary \{[^}]*text-transform:\s*uppercase/)
+    expect(css).toContain('.site-chrome-header select')
   })
 
   it('falls back when the chrome file is not a valid document', () => {

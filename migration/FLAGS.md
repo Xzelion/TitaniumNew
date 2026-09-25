@@ -149,7 +149,7 @@ If Payload is down, Astro keeps the last JSON. If that file is missing or invali
 
 The homepage hero is six LayerSlider slides. Each slide has a headline, subcopy, background image URL, and buttons (Create Quote, Shop Clearance, Learn More). Slide order is the rotator order. LayerSlider motion is not a field. Some words are also painted into the background picture, so editing the headline does not repaint that file.
 
-The menu matches the live mega menu: Create Quote, Contact Us, Mill Products, Pipe and Fittings, Alloys, Markets, Resources, and Processing. Mill Products and Pipe and Fittings link into `qqa.titanium.com`. Those shop pages are not rebuilt. Markets includes the Firearms label and URL. The Firearms page was not fetched.
+The menu matches the live mega menu labels: Create Quote, Contact Us, Mill Products, Pipe and Fittings, Alloys, Markets, Resources, and Processing. Panels stay closed until hover, keyboard focus, or open. The primary links sit centered in a near-black bar (`#0a0a0a`). That is still short of the full Enfold mega menu: no menu icons, no live column rules, and the dropdown is a simple white grid. A language picker is not part of this chrome. Mill Products and Pipe and Fittings link into `qqa.titanium.com`. Those shop pages are not rebuilt. Markets includes the Firearms label and URL. The Firearms page was not fetched.
 
 The footer keeps the product lists, the four link groups (WordPress labels them “Col 1 (Hidden Text)” and so on), six approval logos, and Twitter, LinkedIn, Facebook, Instagram, and Youtube. The header email is `sales@titanium.com`. The header phone is 1-88-TITANIUM.
 
@@ -158,6 +158,7 @@ The footer keeps the product lists, the four link groups (WordPress labels them 
 - Product-card slide-in plays when the page loads. The live page waits until that row scrolls into view.
 - LayerSlider motion and delays. The wired hero is a simple 7 second rotator, not LayerSlider.
 - Words painted into slide background images. Editing a headline does not repaint those files.
+- The main nav is a centered near-black bar and mega panels stay closed until hover or open. It is still not the full Enfold mega menu (icons, column rules, and the live dropdown layout).
 - Other Payload page saves (everything except the homepage) stay in the database. Only Site chrome and the homepage rewrite the JSON Astro reads.
 - A production build of public pages still uses the static header, footer, homepage hero, and the static below-slider markup while `publishedToSite` is off.
 - Color sections and headline rotators on interior pages (text is kept; background, overlay, and rotation are not editor blocks).
